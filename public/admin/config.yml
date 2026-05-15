@@ -15,29 +15,53 @@ collections:
   - name: "settings"
     label: "Site Settings"
     files:
-      - label: "Homepage Copy"
-        name: "site"
-        file: "src/data/site.json"
+      - label: "Identity and SEO"
+        name: "identity"
+        file: "src/data/site/identity.json"
         format: "json"
         fields:
           - { label: "Site Title", name: "title", widget: "string" }
           - { label: "Subtitle", name: "subtitle", widget: "string" }
           - { label: "Meta Description", name: "description", widget: "text" }
           - { label: "Skip Link Text", name: "skipLinkText", widget: "string" }
-          - { label: "Nav Events Text", name: "navEventsText", widget: "string" }
-          - { label: "Nav Resources Text", name: "navResourcesText", widget: "string" }
-          - { label: "Nav Officers Text", name: "navOfficersText", widget: "string" }
-          - { label: "Nav About Text", name: "navAboutText", widget: "string" }
-          - { label: "Nav Contact Text", name: "navContactText", widget: "string" }
+
+      - label: "Navigation"
+        name: "navigation"
+        file: "src/data/site/navigation.json"
+        format: "json"
+        fields:
+          - { label: "Events Link Text", name: "eventsText", widget: "string" }
+          - { label: "Resources Link Text", name: "resourcesText", widget: "string" }
+          - { label: "Officers Link Text", name: "officersText", widget: "string" }
+          - { label: "About Link Text", name: "aboutText", widget: "string" }
+          - { label: "Contact Link Text", name: "contactText", widget: "string" }
+
+      - label: "Hero"
+        name: "hero"
+        file: "src/data/site/hero.json"
+        format: "json"
+        fields:
           - { label: "Hero Eyebrow", name: "eyebrow", widget: "string" }
-          - { label: "Hero Title", name: "heroTitle", widget: "string" }
-          - { label: "Hero Text", name: "heroText", widget: "text" }
+          - { label: "Hero Title", name: "title", widget: "string" }
+          - { label: "Hero Text", name: "text", widget: "text" }
           - { label: "Primary Button Text", name: "primaryActionText", widget: "string" }
           - { label: "Primary Button URL", name: "primaryActionUrl", widget: "string" }
           - { label: "Secondary Button Text", name: "secondaryActionText", widget: "string" }
           - { label: "Secondary Button URL", name: "secondaryActionUrl", widget: "string" }
-          - { label: "Student Desk Label", name: "studentDeskLabel", widget: "string" }
-          - { label: "Student Desk Term", name: "studentDeskTerm", widget: "string" }
+
+      - label: "Student Desk"
+        name: "student_desk"
+        file: "src/data/site/student-desk.json"
+        format: "json"
+        fields:
+          - { label: "Label", name: "label", widget: "string" }
+          - { label: "Term", name: "term", widget: "string" }
+
+      - label: "Section Copy"
+        name: "sections"
+        file: "src/data/site/sections.json"
+        format: "json"
+        fields:
           - { label: "Events Kicker", name: "eventsKicker", widget: "string" }
           - { label: "Events Title", name: "eventsTitle", widget: "string" }
           - { label: "Events Text", name: "eventsText", widget: "text" }
@@ -53,14 +77,26 @@ collections:
             name: "aboutParagraphs"
             widget: "list"
             field: { label: "Paragraph", name: "paragraph", widget: "text" }
-          - { label: "Contact Kicker", name: "contactKicker", widget: "string" }
-          - { label: "Contact Title", name: "contactTitle", widget: "string" }
-          - { label: "Contact Text", name: "contactText", widget: "text" }
-          - { label: "Contact Email", name: "contactEmail", widget: "string" }
-          - { label: "Contact Email Button Text", name: "contactEmailButtonText", widget: "string" }
+
+      - label: "Contact"
+        name: "contact"
+        file: "src/data/site/contact.json"
+        format: "json"
+        fields:
+          - { label: "Kicker", name: "kicker", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Email Button Text", name: "emailButtonText", widget: "string" }
           - { label: "Social URL", name: "socialUrl", widget: "string" }
-          - { label: "Contact Social Button Text", name: "contactSocialButtonText", widget: "string" }
-          - { label: "Footer Text", name: "footerText", widget: "string" }
+          - { label: "Social Button Text", name: "socialButtonText", widget: "string" }
+
+      - label: "Footer"
+        name: "footer"
+        file: "src/data/site/footer.json"
+        format: "json"
+        fields:
+          - { label: "Footer Text", name: "text", widget: "string" }
 
       - label: "Student Desk Quick Links"
         name: "quick_links"

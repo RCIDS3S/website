@@ -5,7 +5,8 @@ Astro + Decap CMS site for the Society of the Third Sophistic, the student organ
 ## Files
 
 - `src/pages/index.astro` renders the homepage.
-- `src/data/*.json` contains editable content for Decap CMS.
+- `src/data/site/*.json` contains editable site-wide copy, split into manageable CMS screens.
+- `src/data/*.json` contains editable lists for quick links, events, resources, and officers.
 - `src/styles/global.css` contains the visual design.
 - `public/admin/config.yml` defines the browser-based editor.
 - `public/assets/images/third-sophistic.png` is the current site logo.

@@ -1,6 +1,12 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import site from "../data/site.json";
+import identity from "../data/site/identity.json";
+import navigation from "../data/site/navigation.json";
+import hero from "../data/site/hero.json";
+import studentDesk from "../data/site/student-desk.json";
+import sections from "../data/site/sections.json";
+import contact from "../data/site/contact.json";
+import footer from "../data/site/footer.json";
 import quickLinks from "../data/quick-links.json";
 import events from "../data/events.json";
 import resources from "../data/resources.json";
@@ -10,14 +16,14 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
 ---
 
 <BaseLayout>
-  <a class="skip-link" href="#main">{site.skipLinkText}</a>
+  <a class="skip-link" href="#main">{identity.skipLinkText}</a>
 
   <header class="site-header">
-    <a class="brand" href="#home" aria-label={`${site.title} home`}>
+    <a class="brand" href="#home" aria-label={`${identity.title} home`}>
       <img src="/assets/images/third-sophistic.png" alt="" width="48" height="48" />
       <span>
-        <strong>{site.title}</strong>
-        <small>{site.subtitle}</small>
+        <strong>{identity.title}</strong>
+        <small>{identity.subtitle}</small>
       </span>
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
@@ -26,30 +32,30 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
       <span></span>
     </button>
     <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
-      <a href="#events">{site.navEventsText}</a>
-      <a href="#resources">{site.navResourcesText}</a>
-      <a href="#officers">{site.navOfficersText}</a>
-      <a href="#about">{site.navAboutText}</a>
-      <a href="#contact">{site.navContactText}</a>
+      <a href="#events">{navigation.eventsText}</a>
+      <a href="#resources">{navigation.resourcesText}</a>
+      <a href="#officers">{navigation.officersText}</a>
+      <a href="#about">{navigation.aboutText}</a>
+      <a href="#contact">{navigation.contactText}</a>
     </nav>
   </header>
 
   <main id="main">
     <section class="hero" id="home" aria-labelledby="hero-title">
       <div class="hero-copy">
-        <p class="eyebrow">{site.eyebrow}</p>
-        <h1 id="hero-title">{site.heroTitle}</h1>
-        <p class="dek">{site.heroText}</p>
+        <p class="eyebrow">{hero.eyebrow}</p>
+        <h1 id="hero-title">{hero.title}</h1>
+        <p class="dek">{hero.text}</p>
         <div class="hero-actions">
-          <a class="button primary" href={site.primaryActionUrl}>{site.primaryActionText}</a>
-          <a class="button" href={site.secondaryActionUrl}>{site.secondaryActionText}</a>
+          <a class="button primary" href={hero.primaryActionUrl}>{hero.primaryActionText}</a>
+          <a class="button" href={hero.secondaryActionUrl}>{hero.secondaryActionText}</a>
         </div>
       </div>
 
       <aside class="status-board" aria-label="Student quick links">
         <div class="board-heading">
-          <span>{site.studentDeskLabel}</span>
-          <strong>{site.studentDeskTerm}</strong>
+          <span>{studentDesk.label}</span>
+          <strong>{studentDesk.term}</strong>
         </div>
         {
           quickLinks.items.map((link) => (
@@ -63,10 +69,10 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section next-up" id="events" aria-labelledby="events-title">
-      <div class="section-kicker">{site.eventsKicker}</div>
+      <div class="section-kicker">{sections.eventsKicker}</div>
       <div class="section-heading">
-        <h2 id="events-title">{site.eventsTitle}</h2>
-        <p>{site.eventsText}</p>
+        <h2 id="events-title">{sections.eventsTitle}</h2>
+        <p>{sections.eventsText}</p>
       </div>
 
       <div class="event-strip" aria-label="Featured events">
@@ -84,10 +90,10 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section resource-section" id="resources" aria-labelledby="resources-title">
-      <div class="section-kicker">{site.resourcesKicker}</div>
+      <div class="section-kicker">{sections.resourcesKicker}</div>
       <div class="section-heading">
-        <h2 id="resources-title">{site.resourcesTitle}</h2>
-        <p>{site.resourcesText}</p>
+        <h2 id="resources-title">{sections.resourcesTitle}</h2>
+        <p>{sections.resourcesText}</p>
       </div>
 
       <div class="resource-grid">
@@ -111,10 +117,10 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section officers-section" id="officers" aria-labelledby="officers-title">
-      <div class="section-kicker">{site.officersKicker}</div>
+      <div class="section-kicker">{sections.officersKicker}</div>
       <div class="section-heading">
-        <h2 id="officers-title">{site.officersTitle}</h2>
-        <p>{site.officersText}</p>
+        <h2 id="officers-title">{sections.officersTitle}</h2>
+        <p>{sections.officersText}</p>
       </div>
 
       <div class="officer-layout">
@@ -131,30 +137,30 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section about-section" id="about" aria-labelledby="about-title">
-      <div class="section-kicker">{site.aboutKicker}</div>
+      <div class="section-kicker">{sections.aboutKicker}</div>
       <div class="about-copy">
-        <h2 id="about-title">{site.aboutTitle}</h2>
-        {site.aboutParagraphs.map((paragraph) => <p>{paragraph}</p>)}
+        <h2 id="about-title">{sections.aboutTitle}</h2>
+        {sections.aboutParagraphs.map((paragraph) => <p>{paragraph}</p>)}
       </div>
     </section>
 
     <section class="section contact-section" id="contact" aria-labelledby="contact-title">
-      <div class="section-kicker">{site.contactKicker}</div>
+      <div class="section-kicker">{contact.kicker}</div>
       <div class="contact-panel">
         <div>
-          <h2 id="contact-title">{site.contactTitle}</h2>
-          <p>{site.contactText}</p>
+          <h2 id="contact-title">{contact.title}</h2>
+          <p>{contact.text}</p>
         </div>
         <div class="contact-actions">
-          <a class="button primary" href={`mailto:${site.contactEmail}`}>{site.contactEmailButtonText}</a>
-          <a class="button" href={site.socialUrl} {...externalLinkAttrs}>{site.contactSocialButtonText}</a>
+          <a class="button primary" href={`mailto:${contact.email}`}>{contact.emailButtonText}</a>
+          <a class="button" href={contact.socialUrl} {...externalLinkAttrs}>{contact.socialButtonText}</a>
         </div>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <span>{site.title}</span>
-    <span>{site.footerText}</span>
+    <span>{identity.title}</span>
+    <span>{footer.text}</span>
   </footer>
 </BaseLayout>

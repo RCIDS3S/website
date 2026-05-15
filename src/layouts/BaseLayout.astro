@@ -1,13 +1,13 @@
 ---
 import "../styles/global.css";
-import site from "../data/site.json";
+import identity from "../data/site/identity.json";
 
 interface Props {
   title?: string;
   description?: string;
 }
 
-const { title = site.title, description = site.description } = Astro.props;
+const { title = identity.title, description = identity.description } = Astro.props;
 ---
 
 <!doctype html>
