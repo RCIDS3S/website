@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "label": "RCID Program",
+      "title": "Official Clemson page",
+      "url": "https://www.clemson.edu/cah/academics/interdisciplinary-studies/programs/rcid/"
+    },
+    {
+      "label": "Handbook",
+      "title": "Policies and milestones",
+      "url": "https://www.clemson.edu/cah/academics/interdisciplinary-studies/programs/rcid/files/rcid-handbook.pdf"
+    },
+    {
+      "label": "Research Guide",
+      "title": "Clemson Libraries",
+      "url": "https://clemson.libguides.com/rcid"
+    }
+  ]
+}

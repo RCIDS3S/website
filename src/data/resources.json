@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "label": "Program",
+      "title": "RCID at Clemson",
+      "description": "Degree overview, faculty, admissions, and official program information.",
+      "url": "https://www.clemson.edu/cah/academics/interdisciplinary-studies/programs/rcid/",
+      "style": "normal"
+    },
+    {
+      "label": "Milestones",
+      "title": "RCID Handbook",
+      "description": "Program policies, expectations, exams, committees, and degree progress guidance.",
+      "url": "https://www.clemson.edu/cah/academics/interdisciplinary-studies/programs/rcid/files/rcid-handbook.pdf",
+      "style": "normal"
+    },
+    {
+      "label": "Research",
+      "title": "RCID Library Guide",
+      "description": "Databases, research support, teaching resources, and Clemson library services.",
+      "url": "https://clemson.libguides.com/rcid",
+      "style": "normal"
+    },
+    {
+      "label": "Archive",
+      "title": "RCID Dissertations",
+      "description": "Browse recent and past dissertations from the program.",
+      "url": "https://open.clemson.edu/dissertations_rhet_comm_info/",
+      "style": "normal"
+    },
+    {
+      "label": "Legacy",
+      "title": "Current S3S Archive",
+      "description": "Older posts, calls, awards, and announcements from the existing WordPress site.",
+      "url": "https://thirdsophistic.org/",
+      "style": "normal"
+    },
+    {
+      "label": "Shared",
+      "title": "S3S Drive",
+      "description": "Add the current shared drive link here once officer access is confirmed.",
+      "url": "#contact",
+      "style": "muted"
+    }
+  ]
+}

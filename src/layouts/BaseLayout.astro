@@ -1,0 +1,35 @@
+---
+import "../styles/global.css";
+import site from "../data/site.json";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = site.title, description = site.description } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user && window.location.hash.includes("invite_token")) {
+            window.netlifyIdentity.open("signup");
+          }
+        });
+      }
+    </script>
+    <script src="/scripts/navigation.js"></script>
+  </body>
+</html>

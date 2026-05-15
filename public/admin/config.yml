@@ -1,0 +1,116 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+
+media_folder: "public/assets/images"
+public_folder: "/assets/images"
+
+site_url: "https://thirdsophistic.org"
+display_url: "https://thirdsophistic.org"
+logo_url: "/assets/images/s3s-logo-temporary.jpg"
+
+collections:
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - label: "Homepage Copy"
+        name: "site"
+        file: "src/data/site.json"
+        format: "json"
+        fields:
+          - { label: "Site Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+          - { label: "Hero Eyebrow", name: "eyebrow", widget: "string" }
+          - { label: "Hero Title", name: "heroTitle", widget: "string" }
+          - { label: "Hero Text", name: "heroText", widget: "text" }
+          - { label: "Primary Button Text", name: "primaryActionText", widget: "string" }
+          - { label: "Primary Button URL", name: "primaryActionUrl", widget: "string" }
+          - { label: "Secondary Button Text", name: "secondaryActionText", widget: "string" }
+          - { label: "Secondary Button URL", name: "secondaryActionUrl", widget: "string" }
+          - { label: "Student Desk Term", name: "studentDeskTerm", widget: "string" }
+          - { label: "About Title", name: "aboutTitle", widget: "string" }
+          - label: "About Paragraphs"
+            name: "aboutParagraphs"
+            widget: "list"
+            field: { label: "Paragraph", name: "paragraph", widget: "text" }
+          - { label: "Contact Title", name: "contactTitle", widget: "string" }
+          - { label: "Contact Text", name: "contactText", widget: "text" }
+          - { label: "Contact Email", name: "contactEmail", widget: "string" }
+          - { label: "Social URL", name: "socialUrl", widget: "string" }
+
+      - label: "Student Desk Quick Links"
+        name: "quick_links"
+        file: "src/data/quick-links.json"
+        format: "json"
+        fields:
+          - label: "Quick Links"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+
+  - name: "events"
+    label: "Events"
+    files:
+      - label: "Homepage Events"
+        name: "events"
+        file: "src/data/events.json"
+        format: "json"
+        fields:
+          - label: "Events"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.date}} - {{fields.title}}"
+            fields:
+              - { label: "Display Date", name: "date", widget: "string" }
+              - { label: "Machine Date", name: "datetime", widget: "string", hint: "Use YYYY-MM or YYYY-MM-DD." }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Status", name: "status", widget: "string", default: "Details TBA" }
+
+  - name: "resources"
+    label: "Resources"
+    files:
+      - label: "Homepage Resources"
+        name: "resources"
+        file: "src/data/resources.json"
+        format: "json"
+        fields:
+          - label: "Resources"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.label}} - {{fields.title}}"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "URL", name: "url", widget: "string" }
+              - label: "Style"
+                name: "style"
+                widget: "select"
+                default: "normal"
+                options:
+                  - { label: "Normal", value: "normal" }
+                  - { label: "Muted / Placeholder", value: "muted" }
+
+  - name: "officers"
+    label: "Officers"
+    files:
+      - label: "Current Officers"
+        name: "officers"
+        file: "src/data/officers.json"
+        format: "json"
+        fields:
+          - label: "Officers"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.role}} - {{fields.name}}"
+            fields:
+              - { label: "Role", name: "role", widget: "string" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "role": "President",
+      "name": "Name TBA",
+      "description": "General coordination, program liaison work, and meeting leadership."
+    },
+    {
+      "role": "Vice President",
+      "name": "Name TBA",
+      "description": "Events, committee support, and continuity across projects."
+    },
+    {
+      "role": "Secretary",
+      "name": "Name TBA",
+      "description": "Meeting notes, records, forms, and internal communication."
+    },
+    {
+      "role": "Treasurer",
+      "name": "Name TBA",
+      "description": "Budget tracking, funding requests, and financial documentation."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Society of the Third Sophistic",
+  "subtitle": "RCID Student Organization",
+  "description": "Society of the Third Sophistic, the student organization for Clemson University's RCID doctoral program.",
+  "eyebrow": "Clemson University / RCID",
+  "heroTitle": "A practical home base for RCID students.",
+  "heroText": "S3S gathers the everyday things doctoral students need: events, resources, program links, peer support, and the people who can point you in the right direction.",
+  "primaryActionText": "Find resources",
+  "primaryActionUrl": "#resources",
+  "secondaryActionText": "See what is next",
+  "secondaryActionUrl": "#events",
+  "studentDeskTerm": "Spring 2026",
+  "aboutTitle": "S3S is the student organization of Clemson's RCID doctoral program.",
+  "aboutParagraphs": [
+    "The Society of the Third Sophistic supports students in Rhetorics, Communication, and Information Design through community events, resource sharing, professional development, peer mentoring, and program-facing advocacy.",
+    "The site is intentionally practical: a public doorway for the organization, but mostly a useful place for current students to return to during the semester."
+  ],
+  "contactTitle": "Send updates, links, and event details.",
+  "contactText": "Use this area for the official S3S email, officer contact process, or a form link once the organization chooses the best handoff workflow. For now, the RCID program office is the stable contact route.",
+  "contactEmail": "IDSRCIDAdmin@clemson.edu",
+  "socialUrl": "https://linktr.ee/RSAClemson"
+}

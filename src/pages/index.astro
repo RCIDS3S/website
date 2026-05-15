@@ -1,0 +1,160 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import site from "../data/site.json";
+import quickLinks from "../data/quick-links.json";
+import events from "../data/events.json";
+import resources from "../data/resources.json";
+import officers from "../data/officers.json";
+
+const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
+---
+
+<BaseLayout>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label={`${site.title} home`}>
+      <img src="/assets/images/s3s-logo-temporary.jpg" alt="" width="56" height="40" />
+      <span>
+        <strong>{site.title}</strong>
+        <small>{site.subtitle}</small>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
+      <a href="#events">Events</a>
+      <a href="#resources">Resources</a>
+      <a href="#officers">Officers</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="home" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">{site.eyebrow}</p>
+        <h1 id="hero-title">{site.heroTitle}</h1>
+        <p class="dek">{site.heroText}</p>
+        <div class="hero-actions">
+          <a class="button primary" href={site.primaryActionUrl}>{site.primaryActionText}</a>
+          <a class="button" href={site.secondaryActionUrl}>{site.secondaryActionText}</a>
+        </div>
+      </div>
+
+      <aside class="status-board" aria-label="Student quick links">
+        <div class="board-heading">
+          <span>Student Desk</span>
+          <strong>{site.studentDeskTerm}</strong>
+        </div>
+        {
+          quickLinks.items.map((link) => (
+            <a href={link.url} {...externalLinkAttrs}>
+              <span>{link.label}</span>
+              <strong>{link.title}</strong>
+            </a>
+          ))
+        }
+      </aside>
+    </section>
+
+    <section class="section next-up" id="events" aria-labelledby="events-title">
+      <div class="section-kicker">Events</div>
+      <div class="section-heading">
+        <h2 id="events-title">What is coming up.</h2>
+        <p>Use this space for colloquia, workshops, officer meetings, social events, CFP deadlines, and dissertation defenses.</p>
+      </div>
+
+      <div class="event-strip" aria-label="Featured events">
+        {
+          events.items.map((event) => (
+            <article class="event-card">
+              <time datetime={event.datetime}>{event.date}</time>
+              <h3>{event.title}</h3>
+              <p>{event.description}</p>
+              <span>{event.status}</span>
+            </article>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="section resource-section" id="resources" aria-labelledby="resources-title">
+      <div class="section-kicker">Resources</div>
+      <div class="section-heading">
+        <h2 id="resources-title">Fast paths for recurring student needs.</h2>
+        <p>These links are designed to keep the homepage useful even before S3S has a large archive of posts.</p>
+      </div>
+
+      <div class="resource-grid">
+        {
+          resources.items.map((resource) => {
+            const isExternal = resource.url.startsWith("http");
+            return (
+              <a
+                class:list={["resource-link", resource.style === "muted" && "muted-link"]}
+                href={resource.url}
+                {...(isExternal ? externalLinkAttrs : {})}
+              >
+                <span>{resource.label}</span>
+                <strong>{resource.title}</strong>
+                <p>{resource.description}</p>
+              </a>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <section class="section officers-section" id="officers" aria-labelledby="officers-title">
+      <div class="section-kicker">Officers</div>
+      <div class="section-heading">
+        <h2 id="officers-title">Who to ask first.</h2>
+        <p>Officer names and responsibilities can be updated each election cycle without changing the layout.</p>
+      </div>
+
+      <div class="officer-layout">
+        {
+          officers.items.map((officer) => (
+            <article class="officer-card">
+              <span>{officer.role}</span>
+              <h3>{officer.name}</h3>
+              <p>{officer.description}</p>
+            </article>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="section about-section" id="about" aria-labelledby="about-title">
+      <div class="section-kicker">About</div>
+      <div class="about-copy">
+        <h2 id="about-title">{site.aboutTitle}</h2>
+        {site.aboutParagraphs.map((paragraph) => <p>{paragraph}</p>)}
+      </div>
+    </section>
+
+    <section class="section contact-section" id="contact" aria-labelledby="contact-title">
+      <div class="section-kicker">Contact</div>
+      <div class="contact-panel">
+        <div>
+          <h2 id="contact-title">{site.contactTitle}</h2>
+          <p>{site.contactText}</p>
+        </div>
+        <div class="contact-actions">
+          <a class="button primary" href={`mailto:${site.contactEmail}`}>Email RCID Office</a>
+          <a class="button" href={site.socialUrl} {...externalLinkAttrs}>Social links</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>{site.title}</span>
+    <span>Student organization for Clemson University's RCID doctoral program</span>
+  </footer>
+</BaseLayout>

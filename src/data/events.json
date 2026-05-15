@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "date": "August 2026",
+      "datetime": "2026-08",
+      "title": "Welcome Back Gathering",
+      "description": "Kick off the semester, meet new students, and reconnect with the RCID community.",
+      "status": "Details TBA"
+    },
+    {
+      "date": "September 2026",
+      "datetime": "2026-09",
+      "title": "Professionalization Workshop",
+      "description": "A working session for conference abstracts, CVs, teaching materials, and publication plans.",
+      "status": "Details TBA"
+    },
+    {
+      "date": "October 2026",
+      "datetime": "2026-10",
+      "title": "RCID Colloquium",
+      "description": "Program-sponsored conversation, lecture, or research presentation.",
+      "status": "Details TBA"
+    }
+  ]
+}
