@@ -87,11 +87,11 @@ img {
 }
 
 .brand img {
-  width: 56px;
-  height: 40px;
-  object-fit: contain;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
   border-radius: 4px;
-  background: var(--white);
+  background: transparent;
 }
 
 .brand span {
@@ -519,8 +519,8 @@ h3 {
   }
 
   .brand img {
-    width: 46px;
-    height: 34px;
+    width: 42px;
+    height: 42px;
   }
 
   .brand small {
