@@ -9,7 +9,7 @@ public_folder: "/assets/images"
 
 site_url: "https://thirdsophistic.org"
 display_url: "https://thirdsophistic.org"
-logo_url: "/assets/images/s3s-logo-temporary.jpg"
+logo_url: "/assets/images/third-sophistic.png"
 
 collections:
   - name: "settings"
