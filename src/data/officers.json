@@ -1,36 +1,43 @@
 {
   "items": [
     {
+      "showRole": true,
       "role": "President",
       "name": "Janis Palma and Kieran Helbling",
       "description": "Leads the organization, oversees operations and governance, and represents S3S within RCID, RSA, and the broader academic community. "
     },
     {
+      "showRole": true,
       "role": "Vice President",
       "name": "Janis Palma",
       "description": "Supports the President while coordinating social events, member engagement, and community-building initiatives."
     },
     {
+      "showRole": true,
       "role": "Vice President for Online Student Affairs",
       "name": "Kieran Helbling",
       "description": "Advocates for online students by fostering communication, representation, and access across virtual and in-person spaces."
     },
     {
+      "showRole": true,
       "role": "Secretary-Treasurer",
       "name": "Rose Ebrahimi",
       "description": "Maintains organizational records, meeting documentation, and financial tracking to ensure transparency and continuity."
     },
     {
+      "showRole": true,
       "role": "Communications Director",
       "name": "Frederick Sunkpa",
       "description": "Oversees the website, social media, and public communications to promote S3S events, initiatives, and identity."
     },
     {
+      "showRole": true,
       "name": "Amy Maciel",
       "role": "RCID Advisory Council Representatives",
       "description": "Serves as a student voice in RCID program planning and development by collaborating with faculty on curriculum, resources, and student experience initiatives.  "
     },
     {
+      "showRole": true,
       "role": "First-Year Student Liaison",
       "name": "Durga Bhusal",
       "description": "Welcomes incoming students by building connections, sharing resources, and supporting their transition into the RCID community."

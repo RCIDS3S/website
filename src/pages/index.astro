@@ -121,7 +121,7 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
         {
           officers.items.map((officer) => (
             <article class="officer-card">
-              <span>{officer.role}</span>
+              {officer.showRole !== false && <span>{officer.role}</span>}
               <h3>{officer.name}</h3>
               <p>{officer.description}</p>
             </article>

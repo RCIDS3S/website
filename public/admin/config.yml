@@ -132,6 +132,7 @@ collections:
             widget: "list"
             summary: "{{fields.role}} - {{fields.name}}"
             fields:
+              - { label: "Show Role", name: "showRole", widget: "boolean", default: true }
               - { label: "Role", name: "role", widget: "string" }
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Description", name: "description", widget: "text" }
