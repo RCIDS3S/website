@@ -1,17 +1,17 @@
 {
-  "eventsKicker": "Events",
-  "eventsTitle": "What is coming up.",
-  "eventsText": "Use this space for colloquia, workshops, officer meetings, social events, CFP deadlines, and dissertation defenses.",
-  "resourcesKicker": "Resources",
-  "resourcesTitle": "Fast paths for recurring student needs.",
-  "resourcesText": "These links are designed to keep the homepage useful even before S3S has a large archive of posts.",
-  "officersKicker": "Officers",
-  "officersTitle": "Who to ask first.",
-  "officersText": "Officer names and responsibilities can be updated each election cycle without changing the layout.",
   "aboutKicker": "About",
-  "aboutTitle": "S3S is the student organization of Clemson's RCID doctoral program.",
+  "eventsText": "Upcoming colloquia, workshops, officer meetings, and social events.",
+  "officersText": "Meet your current S3S executive board. ",
+  "aboutTitle": "S3S is the doctoral student society for Clemson University’s PhD program in Rhetorics, Communication, and Information Design.",
+  "eventsKicker": "Events",
+  "officersKicker": "Officers",
   "aboutParagraphs": [
-    "The Society of the Third Sophistic supports students in Rhetorics, Communication, and Information Design through community events, resource sharing, professional development, peer mentoring, and program-facing advocacy.",
-    "The site is intentionally practical: a public doorway for the organization, but mostly a useful place for current students to return to during the semester."
-  ]
+    "The Society of the Third Sophistic supports RCID students through professional development, scholarly exchange, peer mentorship, resource sharing, and program advocacy. We organize social gatherings, research events, conference initiatives, and collaborative opportunities that strengthen intellectual and professional community across both residential and online cohorts.",
+    "This site functions both as a public-facing introduction to the organization and as a practical resource hub for current students throughout the academic year."
+  ],
+  "resourcesText": "You're one stop shop for useful links.",
+  "resourcesTitle": "Fast paths for recurring student needs.",
+  "resourcesKicker": "Resources",
+  "officersTitle": "Who to ask first.",
+  "eventsTitle": "What is coming up."
 }
