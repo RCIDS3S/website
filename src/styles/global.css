@@ -5,11 +5,11 @@
   --ink: #17191d;
   --muted: #64686f;
   --line: #d8cec0;
-  --navy: #0b1c45;
+  --navy: #522d80;
   --gold: #d9a318;
   --clay: #a7472b;
-  --teal: #087d7b;
-  --plum: #5d3b73;
+  --teal: #522d80;
+  --plum: #522d80;
   --white: #ffffff;
   --shadow: 0 24px 70px rgba(31, 23, 12, 0.12);
   --max: 1180px;
@@ -31,7 +31,7 @@ body {
   line-height: 1.55;
   background:
     linear-gradient(115deg, rgba(217, 163, 24, 0.12), transparent 26%),
-    linear-gradient(260deg, rgba(8, 125, 123, 0.11), transparent 30%),
+    linear-gradient(260deg, rgba(82, 45, 128, 0.11), transparent 30%),
     var(--paper);
 }
 
@@ -131,7 +131,7 @@ img {
 
 .site-nav a:hover,
 .site-nav a:focus-visible {
-  background: rgba(11, 28, 69, 0.08);
+  background: rgba(82, 45, 128, 0.08);
   color: var(--navy);
 }
 
@@ -231,7 +231,7 @@ h3 {
   justify-content: center;
   min-height: 44px;
   padding: 11px 16px;
-  border: 1px solid rgba(11, 28, 69, 0.18);
+  border: 1px solid rgba(82, 45, 128, 0.18);
   border-radius: 6px;
   background: rgba(255, 250, 241, 0.72);
   color: var(--navy);
@@ -248,7 +248,7 @@ h3 {
 .status-board {
   display: grid;
   overflow: hidden;
-  border: 1px solid rgba(11, 28, 69, 0.16);
+  border: 1px solid rgba(82, 45, 128, 0.16);
   border-radius: 8px;
   background: rgba(255, 250, 241, 0.76);
   box-shadow: var(--shadow);
@@ -361,7 +361,7 @@ h3 {
   max-width: none;
   padding-inline: max(18px, calc((100vw - var(--max)) / 2));
   background:
-    linear-gradient(90deg, rgba(11, 28, 69, 0.06), transparent 42%),
+    linear-gradient(90deg, rgba(82, 45, 128, 0.06), transparent 42%),
     rgba(255, 250, 241, 0.58);
 }
 
@@ -389,7 +389,7 @@ h3 {
 }
 
 .resource-link:hover {
-  border-color: rgba(8, 125, 123, 0.45);
+  border-color: rgba(82, 45, 128, 0.45);
   transform: translateY(-2px);
   transition: transform 160ms ease, border-color 160ms ease;
 }
