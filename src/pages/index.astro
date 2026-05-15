@@ -4,13 +4,13 @@ import identity from "../data/site/identity.json";
 import navigation from "../data/site/navigation.json";
 import hero from "../data/site/hero.json";
 import studentDesk from "../data/site/student-desk.json";
-import sections from "../data/site/sections.json";
 import contact from "../data/site/contact.json";
 import footer from "../data/site/footer.json";
 import quickLinks from "../data/quick-links.json";
 import events from "../data/events.json";
 import resources from "../data/resources.json";
 import officers from "../data/officers.json";
+import about from "../data/about.json";
 
 const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
 ---
@@ -69,10 +69,10 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section next-up" id="events" aria-labelledby="events-title">
-      <div class="section-kicker">{sections.eventsKicker}</div>
+      <div class="section-kicker">{events.kicker}</div>
       <div class="section-heading">
-        <h2 id="events-title">{sections.eventsTitle}</h2>
-        <p>{sections.eventsText}</p>
+        <h2 id="events-title">{events.title}</h2>
+        <p>{events.text}</p>
       </div>
 
       <div class="event-strip" aria-label="Featured events">
@@ -90,10 +90,10 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section resource-section" id="resources" aria-labelledby="resources-title">
-      <div class="section-kicker">{sections.resourcesKicker}</div>
+      <div class="section-kicker">{resources.kicker}</div>
       <div class="section-heading">
-        <h2 id="resources-title">{sections.resourcesTitle}</h2>
-        <p>{sections.resourcesText}</p>
+        <h2 id="resources-title">{resources.title}</h2>
+        <p>{resources.text}</p>
       </div>
 
       <div class="resource-grid">
@@ -117,10 +117,10 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section officers-section" id="officers" aria-labelledby="officers-title">
-      <div class="section-kicker">{sections.officersKicker}</div>
+      <div class="section-kicker">{officers.kicker}</div>
       <div class="section-heading">
-        <h2 id="officers-title">{sections.officersTitle}</h2>
-        <p>{sections.officersText}</p>
+        <h2 id="officers-title">{officers.title}</h2>
+        <p>{officers.text}</p>
       </div>
 
       <div class="officer-layout">
@@ -137,10 +137,10 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
     </section>
 
     <section class="section about-section" id="about" aria-labelledby="about-title">
-      <div class="section-kicker">{sections.aboutKicker}</div>
+      <div class="section-kicker">{about.kicker}</div>
       <div class="about-copy">
-        <h2 id="about-title">{sections.aboutTitle}</h2>
-        {sections.aboutParagraphs.map((paragraph) => <p>{paragraph}</p>)}
+        <h2 id="about-title">{about.title}</h2>
+        {about.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
       </div>
     </section>
 

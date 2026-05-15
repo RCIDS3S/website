@@ -1,4 +1,7 @@
 {
+  "kicker": "Officers",
+  "title": "Who to ask first.",
+  "text": "Meet your current S3S executive board. ",
   "items": [
     {
       "showRole": true,

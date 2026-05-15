@@ -57,27 +57,6 @@ collections:
           - { label: "Label", name: "label", widget: "string" }
           - { label: "Term", name: "term", widget: "string" }
 
-      - label: "Section Copy"
-        name: "sections"
-        file: "src/data/site/sections.json"
-        format: "json"
-        fields:
-          - { label: "Events Kicker", name: "eventsKicker", widget: "string" }
-          - { label: "Events Title", name: "eventsTitle", widget: "string" }
-          - { label: "Events Text", name: "eventsText", widget: "text" }
-          - { label: "Resources Kicker", name: "resourcesKicker", widget: "string" }
-          - { label: "Resources Title", name: "resourcesTitle", widget: "string" }
-          - { label: "Resources Text", name: "resourcesText", widget: "text" }
-          - { label: "Officers Kicker", name: "officersKicker", widget: "string" }
-          - { label: "Officers Title", name: "officersTitle", widget: "string" }
-          - { label: "Officers Text", name: "officersText", widget: "text" }
-          - { label: "About Kicker", name: "aboutKicker", widget: "string" }
-          - { label: "About Title", name: "aboutTitle", widget: "string" }
-          - label: "About Paragraphs"
-            name: "aboutParagraphs"
-            widget: "list"
-            field: { label: "Paragraph", name: "paragraph", widget: "text" }
-
       - label: "Contact"
         name: "contact"
         file: "src/data/site/contact.json"
@@ -109,16 +88,34 @@ collections:
             fields:
               - { label: "Label", name: "label", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
-              - { label: "URL", name: "url", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+
+  - name: "about"
+    label: "About"
+    files:
+      - label: "About Section"
+        name: "about"
+        file: "src/data/about.json"
+        format: "json"
+        fields:
+          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Section Title", name: "title", widget: "string" }
+          - label: "Paragraphs"
+            name: "paragraphs"
+            widget: "list"
+            field: { label: "Paragraph", name: "paragraph", widget: "text" }
 
   - name: "events"
     label: "Events"
     files:
-      - label: "Homepage Events"
+      - label: "Events Section"
         name: "events"
         file: "src/data/events.json"
         format: "json"
         fields:
+          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Section Title", name: "title", widget: "string" }
+          - { label: "Section Text", name: "text", widget: "text" }
           - label: "Events"
             name: "items"
             widget: "list"
@@ -133,11 +130,14 @@ collections:
   - name: "resources"
     label: "Resources"
     files:
-      - label: "Homepage Resources"
+      - label: "Resources Section"
         name: "resources"
         file: "src/data/resources.json"
         format: "json"
         fields:
+          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Section Title", name: "title", widget: "string" }
+          - { label: "Section Text", name: "text", widget: "text" }
           - label: "Resources"
             name: "items"
             widget: "list"
@@ -158,11 +158,14 @@ collections:
   - name: "officers"
     label: "Officers"
     files:
-      - label: "Current Officers"
+      - label: "Officers Section"
         name: "officers"
         file: "src/data/officers.json"
         format: "json"
         fields:
+          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Section Title", name: "title", widget: "string" }
+          - { label: "Section Text", name: "text", widget: "text" }
           - label: "Officers"
             name: "items"
             widget: "list"

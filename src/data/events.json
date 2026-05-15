@@ -1,4 +1,7 @@
 {
+  "kicker": "Events",
+  "title": "What is coming up.",
+  "text": "Upcoming colloquia, workshops, officer meetings, and social events.",
   "items": [
     {
       "date": "TBA!",
