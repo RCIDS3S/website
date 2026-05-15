@@ -23,6 +23,12 @@ collections:
           - { label: "Site Title", name: "title", widget: "string" }
           - { label: "Subtitle", name: "subtitle", widget: "string" }
           - { label: "Meta Description", name: "description", widget: "text" }
+          - { label: "Skip Link Text", name: "skipLinkText", widget: "string" }
+          - { label: "Nav Events Text", name: "navEventsText", widget: "string" }
+          - { label: "Nav Resources Text", name: "navResourcesText", widget: "string" }
+          - { label: "Nav Officers Text", name: "navOfficersText", widget: "string" }
+          - { label: "Nav About Text", name: "navAboutText", widget: "string" }
+          - { label: "Nav Contact Text", name: "navContactText", widget: "string" }
           - { label: "Hero Eyebrow", name: "eyebrow", widget: "string" }
           - { label: "Hero Title", name: "heroTitle", widget: "string" }
           - { label: "Hero Text", name: "heroText", widget: "text" }
@@ -30,16 +36,31 @@ collections:
           - { label: "Primary Button URL", name: "primaryActionUrl", widget: "string" }
           - { label: "Secondary Button Text", name: "secondaryActionText", widget: "string" }
           - { label: "Secondary Button URL", name: "secondaryActionUrl", widget: "string" }
+          - { label: "Student Desk Label", name: "studentDeskLabel", widget: "string" }
           - { label: "Student Desk Term", name: "studentDeskTerm", widget: "string" }
+          - { label: "Events Kicker", name: "eventsKicker", widget: "string" }
+          - { label: "Events Title", name: "eventsTitle", widget: "string" }
+          - { label: "Events Text", name: "eventsText", widget: "text" }
+          - { label: "Resources Kicker", name: "resourcesKicker", widget: "string" }
+          - { label: "Resources Title", name: "resourcesTitle", widget: "string" }
+          - { label: "Resources Text", name: "resourcesText", widget: "text" }
+          - { label: "Officers Kicker", name: "officersKicker", widget: "string" }
+          - { label: "Officers Title", name: "officersTitle", widget: "string" }
+          - { label: "Officers Text", name: "officersText", widget: "text" }
+          - { label: "About Kicker", name: "aboutKicker", widget: "string" }
           - { label: "About Title", name: "aboutTitle", widget: "string" }
           - label: "About Paragraphs"
             name: "aboutParagraphs"
             widget: "list"
             field: { label: "Paragraph", name: "paragraph", widget: "text" }
+          - { label: "Contact Kicker", name: "contactKicker", widget: "string" }
           - { label: "Contact Title", name: "contactTitle", widget: "string" }
           - { label: "Contact Text", name: "contactText", widget: "text" }
           - { label: "Contact Email", name: "contactEmail", widget: "string" }
+          - { label: "Contact Email Button Text", name: "contactEmailButtonText", widget: "string" }
           - { label: "Social URL", name: "socialUrl", widget: "string" }
+          - { label: "Contact Social Button Text", name: "contactSocialButtonText", widget: "string" }
+          - { label: "Footer Text", name: "footerText", widget: "string" }
 
       - label: "Student Desk Quick Links"
         name: "quick_links"
