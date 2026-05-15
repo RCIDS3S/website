@@ -2,23 +2,38 @@
   "items": [
     {
       "role": "President",
-      "name": "Name TBA",
-      "description": "General coordination, program liaison work, and meeting leadership."
+      "name": "Janis Palma and Kieran Helbling",
+      "description": "Leads the organization, oversees operations and governance, and represents S3S within RCID, RSA, and the broader academic community. "
     },
     {
       "role": "Vice President",
-      "name": "Name TBA",
-      "description": "Events, committee support, and continuity across projects."
+      "name": "Janis Palma",
+      "description": "Supports the President while coordinating social events, member engagement, and community-building initiatives."
     },
     {
-      "role": "Secretary",
-      "name": "Name TBA",
-      "description": "Meeting notes, records, forms, and internal communication."
+      "role": "Vice President for Online Student Affairs",
+      "name": "Kieran Helbling",
+      "description": "Advocates for online students by fostering communication, representation, and access across virtual and in-person spaces."
     },
     {
-      "role": "Treasurer",
-      "name": "Name TBA",
-      "description": "Budget tracking, funding requests, and financial documentation."
+      "role": "Secretary-Treasurer",
+      "name": "Rose Ebrahimi",
+      "description": "Maintains organizational records, meeting documentation, and financial tracking to ensure transparency and continuity."
+    },
+    {
+      "role": "Communications Director",
+      "name": "Frederick Sunkpa",
+      "description": "Oversees the website, social media, and public communications to promote S3S events, initiatives, and identity."
+    },
+    {
+      "name": "Amy Maciel",
+      "role": "RCID Advisory Council Representatives",
+      "description": "Serves as a student voice in RCID program planning and development by collaborating with faculty on curriculum, resources, and student experience initiatives.  "
+    },
+    {
+      "role": "First-Year Student Liaison",
+      "name": "Durga Bhusal",
+      "description": "Welcomes incoming students by building connections, sharing resources, and supporting their transition into the RCID community."
     }
   ]
 }
