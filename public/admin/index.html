@@ -3,25 +3,79 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>S3S Site Admin</title>
+    <title>S3S Site Admin Temporarily Disabled</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --paper: #f6f1e8;
+        --ink: #17191d;
+        --muted: #64686f;
+        --purple: #522d80;
+        --orange: #f66733;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        min-width: 320px;
+        min-height: 100vh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        padding: 24px;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.55;
+      }
+
+      main {
+        width: min(100%, 760px);
+        padding: clamp(26px, 5vw, 48px);
+        border: 1px solid rgba(82, 45, 128, 0.16);
+        border-radius: 8px;
+        background: rgba(255, 250, 241, 0.84);
+        box-shadow: 0 24px 70px rgba(31, 23, 12, 0.12);
+      }
+
+      img {
+        width: 64px;
+        height: 64px;
+        object-fit: cover;
+        border-radius: 6px;
+      }
+
+      h1 {
+        margin: 18px 0 12px;
+        color: var(--purple);
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(2.1rem, 5vw, 3.7rem);
+        line-height: 1;
+      }
+
+      p {
+        margin: 0 0 14px;
+        color: var(--muted);
+        font-size: 1.05rem;
+      }
+
+      a {
+        color: var(--purple);
+        font-weight: 800;
+        text-decoration-color: var(--orange);
+        text-underline-offset: 0.2em;
+      }
+    </style>
   </head>
   <body>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", (user) => {
-          const hash = window.location.hash;
-
-          if (!user && (hash.includes("invite_token") || hash.includes("confirmation_token"))) {
-            window.netlifyIdentity.open("signup");
-          }
-
-          if (!user && hash.includes("recovery_token")) {
-            window.netlifyIdentity.open("login");
-          }
-        });
-      }
-    </script>
-    <script src="https://unpkg.com/decap-cms@^3.6.0/dist/decap-cms.js"></script>
+    <main>
+      <img src="/assets/images/third-sophistic.png" alt="" />
+      <h1>Admin is temporarily disabled.</h1>
+      <p>The site is being moved away from Netlify, so the old Netlify Identity login no longer works reliably.</p>
+      <p>Content is still safe in GitHub. For now, edit the site content in the repository or ask Kieran/Codex to make updates.</p>
+      <p><a href="/">Return to site</a></p>
+    </main>
   </body>
 </html>

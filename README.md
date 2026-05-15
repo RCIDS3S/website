@@ -1,6 +1,6 @@
 # Society of the Third Sophistic site
 
-Astro + Decap CMS site for the Society of the Third Sophistic, the student organization for Clemson University's RCID doctoral program.
+Astro static site for the Society of the Third Sophistic, the student organization for Clemson University's RCID doctoral program.
 
 ## Files
 
@@ -8,28 +8,27 @@ Astro + Decap CMS site for the Society of the Third Sophistic, the student organ
 - `src/data/site/*.json` contains editable site-wide copy, split into manageable CMS screens.
 - `src/data/*.json` contains editable lists for quick links, events, resources, and officers.
 - `src/styles/global.css` contains the visual design.
-- `public/admin/config.yml` defines the browser-based editor.
+- `public/admin/config.yml` preserves the previous Decap CMS configuration for future CMS work.
 - `public/assets/images/third-sophistic.png` is the current site logo.
 - `legacy-static-prototype/` keeps the first plain HTML prototype for reference only.
 
 ## Updating
 
-During development, edit the JSON files in `src/data/`. After Netlify + Decap are configured, future editors can use `/admin/` to change events, officers, links, contact details, and resource descriptions. The contact section currently points to the RCID program office and should be changed if S3S has a dedicated address or form.
+During development, edit the JSON files in `src/data/`. The previous Netlify-backed Decap CMS admin is temporarily disabled because Netlify's credit model paused the site during active setup.
 
 ## Hosting
 
-This is set up for Netlify. The site builds to static files, and Decap CMS commits content changes back to the Git repository through Netlify Identity and Git Gateway.
+This site is now intended for Cloudflare Pages. It builds to static files and does not require server-side runtime.
 
-Netlify setup checklist:
+Cloudflare Pages setup:
 
-1. Connect the Git repository to Netlify.
-2. Use `npm run build` as the build command and `dist` as the publish directory.
-3. Enable Netlify Identity.
-4. Enable Git Gateway under Identity services.
-5. Invite future officers as Identity users.
-6. Visit `/admin/` to edit site content after deployment.
+1. Connect the GitHub repository `RCIDS3S/website` to Cloudflare Pages.
+2. Framework preset: Astro.
+3. Build command: `npm run build`.
+4. Build output directory: `dist`.
+5. Root directory: leave blank.
 
-Recommended GitHub repository name: `third-sophistic-site`.
+The CMS/editor workflow needs a replacement for Netlify Identity/Git Gateway. Until then, content edits happen through GitHub or local commits.
 
 ## Local commands
 
@@ -39,4 +38,4 @@ npm run dev
 npm run build
 ```
 
-This environment currently has Node but not `npm` on the shell path, so dependencies may need to be installed on a machine with npm or through the Netlify build.
+This environment currently has Node but not `npm` on the shell path, so dependencies may need to be installed on a machine with npm or through the Cloudflare Pages build.
