@@ -7,6 +7,25 @@
   </head>
   <body>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          const hash = window.location.hash;
+
+          if (!user && (hash.includes("invite_token") || hash.includes("confirmation_token"))) {
+            window.netlifyIdentity.open("signup");
+          }
+
+          if (!user && hash.includes("recovery_token")) {
+            window.netlifyIdentity.open("login");
+          }
+        });
+
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    </script>
     <script src="https://unpkg.com/decap-cms@^3.6.0/dist/decap-cms.js"></script>
   </body>
 </html>
