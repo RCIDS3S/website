@@ -162,9 +162,9 @@ img {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
   gap: clamp(28px, 5vw, 76px);
-  align-items: end;
-  min-height: calc(100svh - 73px);
-  padding: clamp(52px, 9vw, 96px) 0 48px;
+  align-items: center;
+  min-height: auto;
+  padding: clamp(42px, 6vw, 72px) 0 clamp(46px, 7vw, 82px);
 }
 
 .eyebrow,
