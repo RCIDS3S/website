@@ -1,0 +1,114 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import identity from "../data/site/identity.json";
+import archive from "../data/archive/posts.json";
+
+const posts = archive.items;
+const categories = Array.from(new Set(posts.flatMap((post) => post.categories))).sort((a, b) => a.localeCompare(b));
+const years = Array.from(new Set(posts.map((post) => post.year))).sort((a, b) => Number(b) - Number(a));
+---
+
+<BaseLayout title={`Legacy Archive | ${identity.title}`} description="Legacy posts and announcements from the Society of the Third Sophistic WordPress archive.">
+  <a class="skip-link" href="#archive-main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="brand" href="/" aria-label={`${identity.title} home`}>
+      <img src="/assets/images/third-sophistic.png" alt="" width="48" height="48" />
+      <span>
+        <strong>{identity.title}</strong>
+        <small>{identity.subtitle}</small>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Archive navigation">
+      <a href="/">Home</a>
+      <a href="/#resources">Resources</a>
+      <a href="/#officers">Officers</a>
+      <a href="/archive/">Archive</a>
+    </nav>
+  </header>
+
+  <main id="archive-main">
+    <section class="archive-hero">
+      <p class="eyebrow">Legacy Archive</p>
+      <h1>S3S history, announcements, and student milestones.</h1>
+      <p class="dek">This archive preserves published posts from the former WordPress site. It is separate from the homepage so dated calls, job listings, and historical announcements remain findable without crowding current student resources.</p>
+    </section>
+
+    <section class="archive-tools" aria-label="Archive filters">
+      <label>
+        Search
+        <input id="archive-search" type="search" placeholder="Search titles, excerpts, categories..." />
+      </label>
+      <label>
+        Category
+        <select id="archive-category">
+          <option value="">All categories</option>
+          {categories.map((category) => <option value={category}>{category}</option>)}
+        </select>
+      </label>
+      <label>
+        Year
+        <select id="archive-year">
+          <option value="">All years</option>
+          {years.map((year) => <option value={year}>{year}</option>)}
+        </select>
+      </label>
+    </section>
+
+    <section class="archive-results" aria-live="polite">
+      <p class="archive-count"><span id="archive-count">{posts.length}</span> archived posts</p>
+      <div class="archive-list" id="archive-list">
+        {
+          posts.map((post) => (
+            <article
+              class="archive-card"
+              data-title={post.title.toLowerCase()}
+              data-excerpt={post.excerpt.toLowerCase()}
+              data-categories={post.categories.join(" ").toLowerCase()}
+              data-category-list={post.categories.join("|")}
+              data-year={post.year}
+            >
+              <div class="archive-card__meta">
+                <time datetime={post.date}>{post.date}</time>
+                <span>{post.categories.join(" / ")}</span>
+              </div>
+              <h2><a href={post.url} target="_blank" rel="noreferrer">{post.title}</a></h2>
+              {post.excerpt && <p>{post.excerpt}</p>}
+            </article>
+          ))
+        }
+      </div>
+    </section>
+  </main>
+
+  <script is:inline>
+    const search = document.querySelector("#archive-search");
+    const category = document.querySelector("#archive-category");
+    const year = document.querySelector("#archive-year");
+    const cards = Array.from(document.querySelectorAll(".archive-card"));
+    const count = document.querySelector("#archive-count");
+
+    const filterArchive = () => {
+      const query = search.value.trim().toLowerCase();
+      const selectedCategory = category.value;
+      const selectedYear = year.value;
+      let visible = 0;
+
+      cards.forEach((card) => {
+        const haystack = `${card.dataset.title} ${card.dataset.excerpt} ${card.dataset.categories}`;
+        const categoryList = card.dataset.categoryList.split("|");
+        const matchesQuery = !query || haystack.includes(query);
+        const matchesCategory = !selectedCategory || categoryList.includes(selectedCategory);
+        const matchesYear = !selectedYear || card.dataset.year === selectedYear;
+        const show = matchesQuery && matchesCategory && matchesYear;
+
+        card.hidden = !show;
+        if (show) visible += 1;
+      });
+
+      count.textContent = String(visible);
+    };
+
+    [search, category, year].forEach((control) => control.addEventListener("input", filterArchive));
+  </script>
+</BaseLayout>

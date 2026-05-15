@@ -35,6 +35,7 @@ collections:
           - { label: "Officers Link Text", name: "officersText", widget: "string" }
           - { label: "About Link Text", name: "aboutText", widget: "string" }
           - { label: "Contact Link Text", name: "contactText", widget: "string" }
+          - { label: "Archive Link Text", name: "archiveText", widget: "string" }
 
       - label: "Hero"
         name: "hero"
