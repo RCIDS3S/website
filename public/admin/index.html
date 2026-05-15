@@ -20,10 +20,6 @@
             window.netlifyIdentity.open("login");
           }
         });
-
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
       }
     </script>
     <script src="https://unpkg.com/decap-cms@^3.6.0/dist/decap-cms.js"></script>
