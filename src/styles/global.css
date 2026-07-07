@@ -1182,6 +1182,19 @@ h3 {
   white-space: pre-line;
 }
 
+.opportunity-dialog__excerpt a {
+  color: var(--navy);
+  font-weight: 750;
+  text-decoration-color: rgba(82, 45, 128, 0.34);
+  text-underline-offset: 3px;
+}
+
+.opportunity-dialog__excerpt a:hover,
+.opportunity-dialog__excerpt a:focus-visible {
+  color: var(--clay);
+  text-decoration-color: currentColor;
+}
+
 .opportunity-dialog__fields {
   display: flex;
   flex-wrap: wrap;

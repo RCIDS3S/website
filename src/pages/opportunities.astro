@@ -523,6 +523,23 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     let visibleLimit = pageSize;
     let showSavedOnly = false;
     let savedItems = new Set();
+
+    const escapeDialogHtml = (value) => String(value || "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+
+    const linkedDialogText = (value) => {
+      const escaped = escapeDialogHtml(value);
+      return escaped.replace(/\b((?:https?:\/\/|www\.)[^\s<]+|[a-z0-9.-]+\.(?:com|org|net|edu|gov|io|co|uk|ca|au|de|fr|it|es|nl|se|no|dk|fi|ch|jp|ai|app|art|film|media|press|info|events|festival|museum)(?:\/[^\s<]*)?)/gi, (match) => {
+        const trailing = match.match(/[),.;:!?]+$/)?.[0] || "";
+        const clean = trailing ? match.slice(0, -trailing.length) : match;
+        const href = clean.startsWith("http://") || clean.startsWith("https://") ? clean : `https://${clean}`;
+        return `<a href="${href}" target="_blank" rel="noreferrer">${clean}</a>${trailing}`;
+      });
+    };
     let seenItems = new Set();
     let hasSeenSnapshot = false;
 
@@ -738,7 +755,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         dialogDeadline.textContent = button.dataset.detailDeadline || "";
         dialogDays.textContent = button.dataset.detailDays || "";
         dialogLocation.textContent = button.dataset.detailLocation || "";
-        dialogExcerpt.textContent = button.dataset.detailExcerpt || "";
+        dialogExcerpt.innerHTML = linkedDialogText(button.dataset.detailExcerpt || "");
         dialogLink.href = button.dataset.detailUrl || "#";
 
         const eventDate = button.dataset.detailEvent || "";
