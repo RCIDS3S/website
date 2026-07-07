@@ -142,7 +142,7 @@
       "confidence": "medium",
       "publish": "candidate",
       "pageLimit": 1,
-      "cadence": "Weekly",
+      "cadence": "Daily",
       "notes": "Broad humanities CFP source with useful deadline cues, but parsing is less stable, so items are treated as candidates unless clean."
     },
     {
