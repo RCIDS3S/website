@@ -127,6 +127,33 @@ const formatDaysLeft = (days: unknown) => {
   return `${days} days`;
 };
 
+const formatDeadlineLabel = (value: unknown, type: unknown) => {
+  const label = String(value || "").trim().toLowerCase();
+  const kind = String(type || "").trim().toLowerCase();
+  if (!label) return "Deadline";
+  if (label.includes("final")) return "Final deadline";
+  if (label.includes("early")) return "Early deadline";
+  if (label.includes("next")) return "Next deadline";
+  if (label.includes("application")) return "Application due";
+  if (label.includes("proposal")) return "Proposal due";
+  if (label.includes("abstract")) return "Proposal due";
+  if (label.includes("submission") || kind.includes("journal") || kind.includes("film festival")) return "Submission due";
+  if (label.includes("deadline")) return "Deadline";
+  return `${label.charAt(0).toUpperCase()}${label.slice(1)} due`;
+};
+
+const copyDetails = (item: typeof items[number]) => [
+  item.title,
+  `${item.source} / ${item.type}`,
+  item.deadline ? `${formatDeadlineLabel(item.deadlineType, item.type)}: ${item.deadline}` : "Deadline: Rolling / see source",
+  item.eventDate ? `Event: ${item.eventDate}` : "",
+  item.location ? `Location: ${item.location}` : "",
+  "",
+  item.excerpt,
+  "",
+  item.sourceUrl
+].filter(Boolean).join("\n");
+
 const forwardHref = (item: typeof items[number]) => {
   const details = [
     item.title,
@@ -226,6 +253,15 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           {typeOptions.map((type) => <option value={type}>{type}</option>)}
         </select>
       </label>
+      <label>
+        Sort
+        <select id="opportunity-sort">
+          <option value="deadline">Due soonest</option>
+          <option value="new">New first</option>
+          <option value="fit">Strongest fit</option>
+          <option value="title">Title A-Z</option>
+        </select>
+      </label>
       <div class="opportunity-save-filter" aria-label="Saved opportunities">
         <button id="opportunity-saved-filter" type="button" aria-pressed="false">
           Saved
@@ -248,7 +284,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                 <div>
                   <h2>
                     {group.id === "due-soon" ? (
-                      <span>{group.title}</span>
+                      <span data-group-title>{group.title}</span>
                     ) : (
                       <button
                         type="button"
@@ -256,16 +292,17 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                         data-filter-type={group.filterType}
                         data-filter-field={group.filterField}
                         data-filter-query={group.filterQuery}
+                        data-group-title
                       >
                         {group.title}
                       </button>
                     )}
                   </h2>
-                  <p>{group.text}</p>
+                  <p data-group-text>{group.text}</p>
                 </div>
                 <div class="opportunity-group__side">
                   <p class="opportunity-saved-note" data-saved-note hidden>
-                    Saved items are kept only in this browser on this device.
+                    Saved items stay only in this browser on this device.
                   </p>
                   <span data-group-count>{group.items.length}</span>
                 </div>
@@ -279,6 +316,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                       data-fields={item.fields.join("|")}
                       data-type={item.type}
                       data-id={item.sourceUrl}
+                      data-title={item.title.toLowerCase()}
+                      data-days={typeof item.days === "number" ? item.days : 9999}
+                      data-score={item.score || 0}
                     >
                       <div class="opportunity-date-strip">
                         {item.eventDate && (
@@ -288,7 +328,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                           </time>
                         )}
                         <time class="opportunity-date-box" datetime={item.deadline || undefined}>
-                          <span>Deadline</span>
+                          <span>{formatDeadlineLabel(item.deadlineType, item.type)}</span>
                           <strong>{item.deadline ? formatShortDate(item.deadline) : "Rolling"}</strong>
                         </time>
                         <span class:list={["opportunity-date-box", "opportunity-date-box--countdown", `is-${item.urgency}`]}>
@@ -302,11 +342,17 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                           <button class="opportunity-save" type="button" data-save-opportunity aria-pressed="false">
                             Save
                           </button>
+                          <button class="opportunity-copy" type="button" data-copy-opportunity data-copy-text={copyDetails(item)}>
+                            Copy
+                          </button>
                         </div>
                       </div>
                       <div class="opportunity-card__body">
                         <div>
-                          <p class="opportunity-source">{item.source} / {item.type}</p>
+                          <div class="opportunity-card__kicker">
+                            <p class="opportunity-source">{item.source} / {item.type}</p>
+                            <span class="opportunity-new" data-new-badge hidden>New</span>
+                          </div>
                           <h3 title={item.title}><a href={item.sourceUrl} target="_blank" rel="noreferrer">{displayTitle(item.title)}</a></h3>
                           <p>{item.excerpt}</p>
                           <div class="opportunity-meta">
@@ -386,11 +432,13 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const search = document.querySelector("#opportunity-search");
     const field = document.querySelector("#opportunity-field");
     const type = document.querySelector("#opportunity-type");
+    const sort = document.querySelector("#opportunity-sort");
     const cards = Array.from(document.querySelectorAll(".opportunity-card"));
     const groups = Array.from(document.querySelectorAll("[data-opportunity-group]"));
     const fieldButtons = Array.from(document.querySelectorAll("[data-field-filter]"));
     const groupButtons = Array.from(document.querySelectorAll("[data-group-filter]"));
     const saveButtons = Array.from(document.querySelectorAll("[data-save-opportunity]"));
+    const copyButtons = Array.from(document.querySelectorAll("[data-copy-opportunity]"));
     const savedFilter = document.querySelector("#opportunity-saved-filter");
     const savedCount = document.querySelector("#opportunity-saved-count");
     const savedNotes = Array.from(document.querySelectorAll("[data-saved-note]"));
@@ -399,9 +447,12 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const count = document.querySelector("#opportunity-count");
     const pageSize = 10;
     const savedStorageKey = "thirdSophisticSavedOpportunities";
+    const seenStorageKey = "thirdSophisticSeenOpportunities";
     let visibleLimit = pageSize;
     let showSavedOnly = false;
     let savedItems = new Set();
+    let seenItems = new Set();
+    let hasSeenSnapshot = false;
 
     const loadSavedItems = () => {
       try {
@@ -414,6 +465,56 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
     const storeSavedItems = () => {
       window.localStorage.setItem(savedStorageKey, JSON.stringify(Array.from(savedItems)));
+    };
+
+    const loadSeenItems = () => {
+      try {
+        const parsed = JSON.parse(window.localStorage.getItem(seenStorageKey) || "[]");
+        hasSeenSnapshot = Array.isArray(parsed) && parsed.length > 0;
+        seenItems = new Set(Array.isArray(parsed) ? parsed.filter(Boolean) : []);
+      } catch {
+        hasSeenSnapshot = false;
+        seenItems = new Set();
+      }
+    };
+
+    const storeSeenItems = () => {
+      const ids = cards.map((card) => card.dataset.id).filter(Boolean);
+      window.localStorage.setItem(seenStorageKey, JSON.stringify(ids));
+    };
+
+    const updateNewUi = () => {
+      cards.forEach((card) => {
+        const isNew = hasSeenSnapshot && !seenItems.has(card.dataset.id);
+        card.dataset.new = isNew ? "true" : "false";
+        const badge = card.querySelector("[data-new-badge]");
+        if (badge) badge.hidden = !isNew;
+      });
+    };
+
+    const sortGroupCards = () => {
+      const selectedSort = sort.value;
+      groups.forEach((group) => {
+        const container = group.querySelector(".opportunity-group__items");
+        const groupCards = Array.from(group.querySelectorAll(".opportunity-card"));
+        groupCards
+          .sort((a, b) => {
+            if (selectedSort === "new") {
+              const aNew = a.dataset.new === "true" ? 0 : 1;
+              const bNew = b.dataset.new === "true" ? 0 : 1;
+              if (aNew !== bNew) return aNew - bNew;
+            }
+            if (selectedSort === "fit") {
+              const scoreDiff = Number(b.dataset.score || 0) - Number(a.dataset.score || 0);
+              if (scoreDiff !== 0) return scoreDiff;
+            }
+            if (selectedSort === "title") {
+              return String(a.dataset.title || "").localeCompare(String(b.dataset.title || ""));
+            }
+            return Number(a.dataset.days || 9999) - Number(b.dataset.days || 9999);
+          })
+          .forEach((card) => container.appendChild(card));
+      });
     };
 
     const updateSavedUi = () => {
@@ -440,6 +541,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       const selectedType = type.value;
       let matched = 0;
       let visible = 0;
+      let firstVisibleGroup = null;
+
+      sortGroupCards();
 
       cards.forEach((card) => {
         const matchesQuery = !query || card.dataset.search.includes(query);
@@ -458,6 +562,27 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const groupCards = Array.from(group.querySelectorAll(".opportunity-card"));
         const visibleGroupCards = groupCards.filter((card) => !card.hidden);
         group.hidden = visibleGroupCards.length === 0;
+        group.classList.remove("is-saved-primary", "is-saved-secondary");
+        if (showSavedOnly && visibleGroupCards.length > 0) {
+          if (!firstVisibleGroup) {
+            firstVisibleGroup = group;
+            group.classList.add("is-saved-primary");
+          } else {
+            group.classList.add("is-saved-secondary");
+          }
+        }
+
+        const groupTitle = group.querySelector("[data-group-title]");
+        const groupText = group.querySelector("[data-group-text]");
+        if (groupTitle) {
+          groupTitle.textContent = group.classList.contains("is-saved-primary") ? "Saved Opportunities" : groupTitle.dataset.originalTitle || groupTitle.textContent;
+        }
+        if (groupText) {
+          groupText.textContent = group.classList.contains("is-saved-primary")
+            ? "Your private browser-local shortlist, sorted by the current controls."
+            : groupText.dataset.originalText || groupText.textContent;
+        }
+
         const groupCount = group.querySelector("[data-group-count]");
         if (groupCount) {
           const matchedGroupCards = groupCards.filter((card) => {
@@ -467,14 +592,14 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
             const matchesSaved = !showSavedOnly || savedItems.has(card.dataset.id);
             return matchesQuery && matchesField && matchesType && matchesSaved;
           });
-          groupCount.textContent = String(matchedGroupCards.length);
+          groupCount.textContent = String(group.classList.contains("is-saved-primary") ? matched : matchedGroupCards.length);
         }
       });
 
       count.textContent = String(matched);
       empty.hidden = matched > 0;
-      empty.textContent = showSavedOnly && savedItems.size === 0
-        ? "Saved opportunities will appear here. Use Save on any card to keep a browser-local shortlist."
+      empty.textContent = showSavedOnly
+        ? "No saved opportunities match these filters. Use Save on any card to build a private browser-local shortlist."
         : "No matching opportunities right now. Try widening the search or changing the filters.";
       more.hidden = matched <= visibleLimit;
       more.textContent = `Show ${Math.min(pageSize, Math.max(matched - visibleLimit, 0))} more`;
@@ -485,7 +610,14 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       filterOpportunities();
     };
 
-    [search, field, type].forEach((control) => control.addEventListener("input", resetLimit));
+    groups.forEach((group) => {
+      const groupTitle = group.querySelector("[data-group-title]");
+      const groupText = group.querySelector("[data-group-text]");
+      if (groupTitle) groupTitle.dataset.originalTitle = groupTitle.textContent;
+      if (groupText) groupText.dataset.originalText = groupText.textContent;
+    });
+
+    [search, field, type, sort].forEach((control) => control.addEventListener("input", resetLimit));
 
     savedFilter.addEventListener("click", () => {
       showSavedOnly = !showSavedOnly;
@@ -507,6 +639,22 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         storeSavedItems();
         updateSavedUi();
         filterOpportunities();
+      });
+    });
+
+    copyButtons.forEach((button) => {
+      button.addEventListener("click", async () => {
+        const original = button.textContent;
+        const text = button.dataset.copyText || "";
+        try {
+          await navigator.clipboard.writeText(text);
+          button.textContent = "Copied";
+        } catch {
+          button.textContent = "Copy unavailable";
+        }
+        window.setTimeout(() => {
+          button.textContent = original;
+        }, 1800);
       });
     });
 
@@ -535,7 +683,10 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     });
 
     loadSavedItems();
+    loadSeenItems();
+    updateNewUi();
     updateSavedUi();
     filterOpportunities();
+    storeSeenItems();
   </script>
 </BaseLayout>
