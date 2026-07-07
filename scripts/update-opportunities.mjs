@@ -153,6 +153,49 @@ function parseDate(value) {
   return date.toISOString().slice(0, 10);
 }
 
+function parseMonthDayWithReference(value, referenceDate) {
+  const clean = stripHtml(value).replace(/\./g, "");
+  const match = clean.match(/\b([A-Za-z]{3,9})\s+(\d{1,2})\b/);
+  if (!match || !referenceDate) return "";
+
+  const reference = new Date(`${referenceDate}T00:00:00-04:00`);
+  if (Number.isNaN(reference.getTime())) return "";
+
+  let date = new Date(`${match[1]} ${match[2]}, ${reference.getFullYear()}`);
+  if (Number.isNaN(date.getTime())) return "";
+  if (date < reference) {
+    date = new Date(`${match[1]} ${match[2]}, ${reference.getFullYear() + 1}`);
+  }
+
+  return date.toISOString().slice(0, 10);
+}
+
+function inferEventDate(text) {
+  const raw = stripHtml(text);
+  const europeanRange = raw.match(/\b(\d{1,2})\.?\s*[-–]\s*\d{1,2}\.(\d{1,2})\.(20\d{2})\b/);
+  if (europeanRange) {
+    return parseDate(`${europeanRange[3]}-${europeanRange[2]}-${europeanRange[1]}`);
+  }
+
+  const clean = raw.replace(/\./g, "");
+  const rangeFirstDate = clean.match(/\b(\d{1,2})\s*[-–]\s*\d{1,2}\s+([A-Za-z]{3,9})\s*,?\s+(20\d{2})\b/);
+  if (rangeFirstDate) {
+    return parseDate(`${rangeFirstDate[2]} ${rangeFirstDate[1]}, ${rangeFirstDate[3]}`);
+  }
+
+  const monthRange = clean.match(/\b([A-Za-z]{3,9})\s+(\d{1,2})\s*[-–]\s*\d{1,2}\s*,?\s+(20\d{2})\b/);
+  if (monthRange) {
+    return parseDate(`${monthRange[1]} ${monthRange[2]}, ${monthRange[3]}`);
+  }
+
+  const monthDayYear = clean.match(/\b([A-Za-z]{3,9})\s+(\d{1,2})\s*,?\s+(20\d{2})\b/);
+  if (monthDayYear) {
+    return parseDate(`${monthDayYear[1]} ${monthDayYear[2]}, ${monthDayYear[3]}`);
+  }
+
+  return "";
+}
+
 function daysUntil(deadline, now = new Date()) {
   if (!deadline) return 9999;
   const date = new Date(`${deadline}T23:59:59-04:00`);
@@ -427,6 +470,8 @@ function parseUpennCategory(html, source, url) {
     const sourceUrl = new URL(linkMatch[1], url).href;
     const deadline = parseDate(deadlineMatch[1]);
     const excerpt = stripHtml(bodyMatch?.[1] || rawText).slice(0, 360);
+    const inferredEventDate = inferEventDate(`${title} ${excerpt}`, deadline);
+    const eventDate = inferredEventDate && inferredEventDate !== deadline ? inferredEventDate : "";
     const contact = stripHtml(contactMatch?.[1] || "");
     const fields = inferFields(`${title} ${contact} ${excerpt} ${source.name}`);
     const type = inferType(`${title} ${contact} ${excerpt}`, source.type);
@@ -440,7 +485,7 @@ function parseUpennCategory(html, source, url) {
       type,
       deadlineType: "Submission",
       deadline,
-      eventDate: "",
+      eventDate,
       location: contact || source.name.replace("UPenn CFP: ", ""),
       status: daysUntil(deadline) < 0 ? "closed" : "open",
       priority: score >= 48 ? "high" : score >= 34 ? "medium" : "low",
@@ -497,6 +542,7 @@ function parseCFPListHome(html, source) {
 
   for (const entry of entries) {
     const daysMatch = entry.match(/<div class="date-tile tile-days">[\s\S]*?<span class="n">(-?\d+)<\/span>/i);
+    const eventDateMatch = entry.match(/<div class="date-tile tile-event">[\s\S]*?<span class="m">([\s\S]*?)<\/span>[\s\S]*?<span class="d">([\s\S]*?)<\/span>/i);
     const linkMatch = entry.match(/<h4 class="listing-title">[\s\S]*?<a href="([^"]+)">([\s\S]*?)<\/a>/i);
     const deadlineTypeMatch = entry.match(/<div class="date-tile tile-deadline">[\s\S]*?<span class="w">([\s\S]*?)<\/span>/i);
     const orgMatch = entry.match(/<p class="listing-org">([\s\S]*?)<\/p>/i);
@@ -516,6 +562,8 @@ function parseCFPListHome(html, source) {
     const score = relevanceScore(`${title} ${excerpt} ${location} ${fields.join(" ")}`, source);
     const deadlineDate = new Date();
     deadlineDate.setDate(deadlineDate.getDate() + days);
+    const deadline = deadlineDate.toISOString().slice(0, 10);
+    const eventDate = eventDateMatch ? parseMonthDayWithReference(`${eventDateMatch[1]} ${eventDateMatch[2]}`, deadline) : "";
 
     structuredItems.push({
       title,
@@ -524,8 +572,8 @@ function parseCFPListHome(html, source) {
       sourceUrl: new URL(linkMatch[1], "https://www.cfplist.com").href,
       type,
       deadlineType: stripHtml(deadlineTypeMatch?.[1] || "Abstract"),
-      deadline: deadlineDate.toISOString().slice(0, 10),
-      eventDate: "",
+      deadline,
+      eventDate,
       location,
       status: days < 0 ? "closed" : "open",
       priority: score >= 48 ? "high" : "medium",
@@ -553,6 +601,9 @@ function parseCFPListHome(html, source) {
     const fields = inferFields(blob);
     const type = inferType(blob, source.type);
     const score = relevanceScore(`${title} ${blob} ${fields.join(" ")}`, source);
+    const deadlineDate = new Date();
+    deadlineDate.setDate(deadlineDate.getDate() + Number(match[3]));
+    const deadline = deadlineDate.toISOString().slice(0, 10);
 
     items.push({
       title,
@@ -561,8 +612,8 @@ function parseCFPListHome(html, source) {
       sourceUrl: source.url,
       type,
       deadlineType: "Abstract",
-      deadline: "",
-      eventDate: "",
+      deadline,
+      eventDate: parseMonthDayWithReference(match[1], deadline),
       location: "CFPList",
       status: Number(match[3]) < 0 ? "closed" : "open",
       priority: score >= 48 ? "high" : "medium",
@@ -921,7 +972,10 @@ const publicItems = dedupeItems([...freshPublished, ...previousCarryover])
     return days || (b.score || 0) - (a.score || 0);
   })
   .slice(0, maxPublicItems)
-  .map(({ publish, publishMode, sourceName, ...item }) => item);
+  .map(({ publish, publishMode, sourceName, ...item }) => ({
+    ...item,
+    eventDate: item.source === "UPenn CFP" && item.eventDate === item.deadline ? "" : item.eventDate
+  }));
 
 const generatedData = {
   updated,
