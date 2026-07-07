@@ -102,6 +102,11 @@ const highSignalFestivalTerms = [
   "new media"
 ];
 
+const curatedEventDates = new Map([
+  ["https://filmfreeway.com/AustinFilmFestival", "2026-10-29"],
+  ["https://filmfreeway.com/Sundance", "2027-01-21"]
+]);
+
 function decodeEntities(value) {
   return String(value || "")
     .replace(/&nbsp;/g, " ")
@@ -974,7 +979,7 @@ const publicItems = dedupeItems([...freshPublished, ...previousCarryover])
   .slice(0, maxPublicItems)
   .map(({ publish, publishMode, sourceName, ...item }) => ({
     ...item,
-    eventDate: item.source === "UPenn CFP" && item.eventDate === item.deadline ? "" : item.eventDate
+    eventDate: curatedEventDates.get(item.sourceUrl) || (item.source === "UPenn CFP" && item.eventDate === item.deadline ? "" : item.eventDate)
   }));
 
 const generatedData = {
