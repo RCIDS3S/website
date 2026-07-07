@@ -1483,41 +1483,74 @@ h3 {
 }
 
 .watch-source-block {
-  margin-top: 24px;
+  margin-top: 30px;
+  padding-top: 22px;
+  border-top: 1px solid rgba(82, 45, 128, 0.16);
 }
 
-.watch-source-block h3 {
-  margin-bottom: 12px;
+.watch-source-heading {
+  display: grid;
+  gap: 4px;
+  max-width: 760px;
+  margin-bottom: 14px;
+}
+
+.watch-source-heading h3 {
+  margin: 0;
   color: var(--navy);
+  font-size: 1.35rem;
+}
+
+.watch-source-heading p {
+  margin: 0;
+  color: #50545c;
 }
 
 .watch-source-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
 }
 
 .watch-source-list a {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
+  display: grid;
+  gap: 5px;
+  min-width: 0;
   border: 1px solid rgba(82, 45, 128, 0.16);
-  border-radius: 999px;
-  padding: 8px 11px;
+  border-left: 4px solid rgba(246, 100, 55, 0.72);
+  border-radius: 8px;
+  padding: 12px 13px;
   background: rgba(255, 250, 241, 0.68);
   color: inherit;
   text-decoration: none;
 }
 
+.watch-source-list a:hover,
+.watch-source-list a:focus-visible {
+  border-color: rgba(82, 45, 128, 0.32);
+  border-left-color: var(--orange);
+  background: rgba(255, 255, 255, 0.44);
+}
+
+.watch-source-list a small {
+  color: var(--orange);
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .watch-source-list a strong {
   color: var(--navy);
-  font-size: 0.92rem;
+  font-size: 1rem;
+  line-height: 1.15;
 }
 
 .watch-source-list a span {
   color: var(--muted);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-weight: 750;
+  line-height: 1.25;
 }
 
 .site-footer {
@@ -1595,7 +1628,8 @@ h3 {
   .opportunity-stats,
   .opportunity-tools,
   .opportunity-purpose-list,
-  .source-grid {
+  .source-grid,
+  .watch-source-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -1661,7 +1695,8 @@ h3 {
   .opportunity-stats,
   .opportunity-tools,
   .opportunity-purpose-list,
-  .source-grid {
+  .source-grid,
+  .watch-source-list {
     grid-template-columns: 1fr;
   }
 

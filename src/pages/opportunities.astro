@@ -597,11 +597,15 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
       {watchSources.length > 0 && (
         <div class="watch-source-block">
-          <h3>Watchlist</h3>
+          <div class="watch-source-heading">
+            <h3>Watchlist</h3>
+            <p>High-value sources we track for future automation or manual review.</p>
+          </div>
           <div class="watch-source-list">
             {
               watchSources.map((source) => (
                 <a href={source.url} target="_blank" rel="noreferrer">
+                  <small>Watch source</small>
                   <strong>{source.name}</strong>
                   <span>{source.type}</span>
                 </a>
