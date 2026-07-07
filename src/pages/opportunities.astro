@@ -34,7 +34,7 @@ const items = opportunities.items
       days,
       urgency,
       deadlineLabel: label,
-      searchText: `${item.title} ${item.type} ${item.source} ${item.fields.join(" ")} ${item.excerpt} ${item.relevance}`.toLowerCase()
+      searchText: `${item.title} ${item.type} ${item.source} ${item.fields.join(" ")} ${item.excerpt} ${item.fullDescription || ""} ${item.relevance}`.toLowerCase()
     };
   })
   .sort((a, b) => {
@@ -117,6 +117,8 @@ const displayPreview = (excerpt: unknown) => {
   return /(?:[.!?]|\.\.\.)["')\]]?$/.test(shortened) ? shortened : `${shortened}...`;
 };
 
+const detailText = (item: typeof items[number]) => String(item.fullDescription || item.excerpt || "").trim();
+
 const formatShortDate = (value: unknown) => {
   if (!value) return "";
   const match = String(value).match(/^(\d{4})-(\d{2})-(\d{2})$/);
@@ -156,7 +158,7 @@ const copyDetails = (item: typeof items[number]) => [
   item.eventDate ? `Event: ${item.eventDate}` : "",
   item.location ? `Location: ${item.location}` : "",
   "",
-  item.excerpt,
+  detailText(item),
   "",
   item.sourceUrl
 ].filter(Boolean).join("\n");
@@ -171,7 +173,7 @@ const forwardHref = (item: typeof items[number]) => {
     item.location ? `Location: ${item.location}` : "",
     item.eventDate ? `Event: ${item.eventDate}` : "",
     "",
-    item.excerpt,
+    detailText(item),
     "",
     item.sourceUrl
   ].filter(Boolean);
@@ -360,7 +362,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                             data-detail-days={formatDaysLeft(item.days)}
                             data-detail-event={item.eventDate || ""}
                             data-detail-location={item.location || "Online / source listed"}
-                            data-detail-excerpt={item.excerpt}
+                            data-detail-excerpt={detailText(item)}
                             data-detail-url={item.sourceUrl}
                             data-detail-fields={item.fields.join("|")}
                           >

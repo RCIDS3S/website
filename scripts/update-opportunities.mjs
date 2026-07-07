@@ -119,6 +119,15 @@ function decodeEntities(value) {
     .replace(/&middot;/g, "·")
     .replace(/&mdash;/g, "-")
     .replace(/&ndash;/g, "-")
+    .replace(/&rsquo;/g, "'")
+    .replace(/&lsquo;/g, "'")
+    .replace(/&rdquo;/g, "\"")
+    .replace(/&ldquo;/g, "\"")
+    .replace(/&eacute;/g, "é")
+    .replace(/&uuml;/g, "ü")
+    .replace(/&auml;/g, "ä")
+    .replace(/&ouml;/g, "ö")
+    .replace(/&ccedil;/g, "ç")
     .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
 }
 
@@ -129,6 +138,12 @@ function stripHtml(value) {
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function excerptText(value, maxLength = 360) {
+  const clean = stripHtml(value);
+  if (clean.length <= maxLength) return clean;
+  return `${clean.slice(0, maxLength - 3).trimEnd()}...`;
 }
 
 function escapeHtml(value) {
@@ -282,7 +297,7 @@ function shouldPublish(item) {
   if (!item.deadline && item.deadlineType === "Program") return false;
   if (item.publishMode === "auto" && item.score >= 28) return true;
 
-  const haystack = `${item.title} ${item.excerpt} ${item.fields.join(" ")}`.toLowerCase();
+  const haystack = `${item.title} ${item.excerpt} ${item.fullDescription || ""} ${item.fields.join(" ")}`.toLowerCase();
   if (item.source === "FilmFreeway" && highSignalFestivalTerms.some((term) => haystack.includes(term))) {
     return item.score >= 22;
   }
@@ -372,7 +387,9 @@ function preferItem(left, right) {
   const rightTitle = canonicalTitle(right.title).length;
   if (leftTitle !== rightTitle) return leftTitle >= rightTitle ? left : right;
 
-  return String(left.excerpt || "").length >= String(right.excerpt || "").length ? left : right;
+  const leftText = String(left.fullDescription || left.excerpt || "");
+  const rightText = String(right.fullDescription || right.excerpt || "");
+  return leftText.length >= rightText.length ? left : right;
 }
 
 function mergeItems(left, right) {
@@ -385,6 +402,7 @@ function mergeItems(left, right) {
     score: Math.max(left.score || 0, right.score || 0),
     fields: Array.from(new Set([...(left.fields || []), ...(right.fields || [])])),
     excerpt: preferred.excerpt || other.excerpt,
+    fullDescription: preferred.fullDescription || other.fullDescription || preferred.excerpt || other.excerpt,
     location: preferred.location || other.location,
     eventDate: preferred.eventDate || other.eventDate,
     sourceUrl: preferred.sourceUrl || other.sourceUrl
@@ -474,13 +492,14 @@ function parseUpennCategory(html, source, url) {
     const title = cleanTitle(linkMatch[2]);
     const sourceUrl = new URL(linkMatch[1], url).href;
     const deadline = parseDate(deadlineMatch[1]);
-    const excerpt = stripHtml(bodyMatch?.[1] || rawText).slice(0, 360);
-    const inferredEventDate = inferEventDate(`${title} ${excerpt}`, deadline);
+    const fullDescription = stripHtml(bodyMatch?.[1] || rawText);
+    const excerpt = excerptText(fullDescription);
+    const inferredEventDate = inferEventDate(`${title} ${fullDescription}`, deadline);
     const eventDate = inferredEventDate && inferredEventDate !== deadline ? inferredEventDate : "";
     const contact = stripHtml(contactMatch?.[1] || "");
-    const fields = inferFields(`${title} ${contact} ${excerpt} ${source.name}`);
-    const type = inferType(`${title} ${contact} ${excerpt}`, source.type);
-    const score = relevanceScore(`${title} ${contact} ${excerpt} ${fields.join(" ")}`, source);
+    const fields = inferFields(`${title} ${contact} ${fullDescription} ${source.name}`);
+    const type = inferType(`${title} ${contact} ${fullDescription}`, source.type);
+    const score = relevanceScore(`${title} ${contact} ${fullDescription} ${fields.join(" ")}`, source);
 
     return {
       title,
@@ -499,6 +518,7 @@ function parseUpennCategory(html, source, url) {
       score,
       fields,
       excerpt,
+      fullDescription,
       relevance: rcidFit(fields, score)
     };
   }).filter(Boolean);
@@ -513,7 +533,8 @@ function parseFilmFreewaySearch(html, source) {
   while ((match = pattern.exec(text)) && matches.length < 30) {
     const title = cleanTitle(match[1]);
     const deadline = match[5] === "Today" ? new Date().toISOString().slice(0, 10) : parseDate(match[5]);
-    const excerpt = `${match[4]} listed as ${match[5]} in FilmFreeway festival search.`;
+    const fullDescription = `${match[4]} listed as ${match[5]} in FilmFreeway festival search.`;
+    const excerpt = excerptText(fullDescription);
     const fields = inferFields(`${title} film documentary experimental media screenplay`);
     const score = relevanceScore(`${title} ${excerpt} ${fields.join(" ")}`, source);
 
@@ -534,6 +555,7 @@ function parseFilmFreewaySearch(html, source) {
       score,
       fields,
       excerpt,
+      fullDescription,
       relevance: rcidFit(fields, score)
     });
   }
@@ -558,13 +580,14 @@ function parseCFPListHome(html, source) {
     const title = cleanTitle(linkMatch[2]);
     if (!title || /^cfp:?$/i.test(title)) continue;
 
-    const excerpt = stripHtml(descMatch[1]).slice(0, 420);
+    const fullDescription = stripHtml(descMatch[1]);
+    const excerpt = excerptText(fullDescription);
     const location = orgMatch ? stripHtml(orgMatch[1]) : "CFPList";
-    if (!isRelevant(`${title} ${excerpt} ${source.name}`)) continue;
+    if (!isRelevant(`${title} ${fullDescription} ${source.name}`)) continue;
 
-    const fields = inferFields(`${title} ${excerpt} ${source.name}`);
-    const type = inferType(`${title} ${excerpt} ${source.type}`, source.type);
-    const score = relevanceScore(`${title} ${excerpt} ${location} ${fields.join(" ")}`, source);
+    const fields = inferFields(`${title} ${fullDescription} ${source.name}`);
+    const type = inferType(`${title} ${fullDescription} ${source.type}`, source.type);
+    const score = relevanceScore(`${title} ${fullDescription} ${location} ${fields.join(" ")}`, source);
     const deadlineDate = new Date();
     deadlineDate.setDate(deadlineDate.getDate() + days);
     const deadline = deadlineDate.toISOString().slice(0, 10);
@@ -587,6 +610,7 @@ function parseCFPListHome(html, source) {
       score,
       fields,
       excerpt,
+      fullDescription,
       relevance: rcidFit(fields, score)
     });
   }
@@ -602,10 +626,11 @@ function parseCFPListHome(html, source) {
     const blob = match[4].trim();
     if (!isRelevant(blob)) continue;
 
+    const fullDescription = blob;
     const title = cleanTitle(blob.split(" Read more ")[0]);
-    const fields = inferFields(blob);
+    const fields = inferFields(fullDescription);
     const type = inferType(blob, source.type);
-    const score = relevanceScore(`${title} ${blob} ${fields.join(" ")}`, source);
+    const score = relevanceScore(`${title} ${fullDescription} ${fields.join(" ")}`, source);
     const deadlineDate = new Date();
     deadlineDate.setDate(deadlineDate.getDate() + Number(match[3]));
     const deadline = deadlineDate.toISOString().slice(0, 10);
@@ -626,12 +651,46 @@ function parseCFPListHome(html, source) {
       publishMode: source.publish,
       score,
       fields,
-      excerpt: blob.slice(0, 360),
+      excerpt: excerptText(fullDescription),
+      fullDescription,
       relevance: rcidFit(fields, score)
     });
   }
 
   return items;
+}
+
+function parseCFPListDetail(html) {
+  const bodyMatch = html.match(/<hr\s*\/?>\s*<p>([\s\S]*?)(?=\s*<p>\s*<i class="fas fa-external-link-alt"|\s*<p>\s*<i class="far fa-envelope"|<\/div>\s*<\/div><!--\/\.col-xs-6)/i);
+  const fullDescription = stripHtml(bodyMatch?.[1] || "");
+  if (!fullDescription || /Server Error in/i.test(fullDescription)) return "";
+  return fullDescription;
+}
+
+async function hydrateCFPListItems(items) {
+  const hydrated = [];
+
+  for (const item of items) {
+    if (item.source !== "CFPList" || !/\/CFP\/\d+$/i.test(item.sourceUrl || "")) {
+      hydrated.push(item);
+      continue;
+    }
+
+    try {
+      const html = await fetchText(item.sourceUrl);
+      const fullDescription = parseCFPListDetail(html);
+      hydrated.push(fullDescription ? {
+        ...item,
+        fullDescription,
+        excerpt: excerptText(fullDescription)
+      } : item);
+    } catch (error) {
+      console.warn(`Could not hydrate ${item.sourceUrl}: ${error.message}`);
+      hydrated.push(item);
+    }
+  }
+
+  return hydrated;
 }
 
 function buildParsedItem({
@@ -647,8 +706,9 @@ function buildParsedItem({
   excerpt,
   sourceConfig
 }) {
-  const fields = inferFields(`${title} ${excerpt} ${sourceName} ${type}`);
-  const score = relevanceScore(`${title} ${excerpt} ${fields.join(" ")}`, sourceConfig);
+  const fullDescription = stripHtml(excerpt);
+  const fields = inferFields(`${title} ${fullDescription} ${sourceName} ${type}`);
+  const score = relevanceScore(`${title} ${fullDescription} ${fields.join(" ")}`, sourceConfig);
 
   return {
     title: cleanTitle(title),
@@ -666,7 +726,8 @@ function buildParsedItem({
     publishMode: sourceConfig.publish,
     score,
     fields,
-    excerpt: stripHtml(excerpt).slice(0, 360),
+    excerpt: excerptText(fullDescription),
+    fullDescription,
     relevance: rcidFit(fields, score)
   };
 }
@@ -809,7 +870,7 @@ async function gatherSource(source) {
 
       if (source.parser === "upennCategory") gathered.push(...parseUpennCategory(html, source, url));
       if (source.parser === "filmfreewaySearch") gathered.push(...parseFilmFreewaySearch(html, source));
-      if (source.parser === "cfplistHome") gathered.push(...parseCFPListHome(html, source));
+      if (source.parser === "cfplistHome") gathered.push(...await hydrateCFPListItems(parseCFPListHome(html, source)));
       if (source.parser === "nehGrants") gathered.push(...parseNehGrants(html, source, url));
       if (source.parser === "ccccConvention") gathered.push(...parseCcccConvention(html, source, url));
       if (source.parser === "clirPrograms") gathered.push(...parseClirPrograms(html, source, url));
@@ -979,6 +1040,7 @@ const publicItems = dedupeItems([...freshPublished, ...previousCarryover])
   .slice(0, maxPublicItems)
   .map(({ publish, publishMode, sourceName, ...item }) => ({
     ...item,
+    fullDescription: item.fullDescription || item.excerpt,
     eventDate: curatedEventDates.get(item.sourceUrl) || (item.source === "UPenn CFP" && item.eventDate === item.deadline ? "" : item.eventDate)
   }));
 
