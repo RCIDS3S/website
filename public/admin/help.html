@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>S3S Admin and Editing Help</title>
+    <style>
+      body {
+        max-width: 920px;
+        margin: 0 auto;
+        padding: 40px 24px 72px;
+        color: #17191d;
+        background: #f6f1e8;
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.6;
+      }
+
+      h1,
+      h2 {
+        color: #522d80;
+        font-family: Georgia, "Times New Roman", serif;
+        line-height: 1.05;
+      }
+
+      h1 {
+        margin: 0 0 16px;
+        font-size: clamp(2.4rem, 8vw, 5rem);
+      }
+
+      h2 {
+        margin-top: 34px;
+        font-size: clamp(1.6rem, 4vw, 2.5rem);
+      }
+
+      a {
+        color: #522d80;
+        font-weight: 800;
+        text-decoration-color: #f66733;
+        text-underline-offset: 0.2em;
+      }
+
+      code {
+        padding: 0.1em 0.3em;
+        border-radius: 4px;
+        background: rgba(82, 45, 128, 0.12);
+      }
+
+      pre {
+        overflow-x: auto;
+        padding: 16px;
+        border-radius: 8px;
+        background: #17191d;
+        color: #fffaf1;
+      }
+
+      .lede {
+        max-width: 70ch;
+        color: #4f555c;
+        font-size: 1.12rem;
+      }
+
+      .callout {
+        padding: 18px;
+        border-left: 5px solid #f66733;
+        border-radius: 8px;
+        background: rgba(255, 250, 241, 0.86);
+      }
+    </style>
+  </head>
+  <body>
+    <p><a href="/admin/">Back to admin</a> · <a href="/">Back to site</a></p>
+    <h1>Admin and editing help</h1>
+    <p class="lede">The S3S site can be edited through Decap CMS or manually in GitHub/local files. GitHub controls who can publish changes.</p>
+
+    <section class="callout">
+      <h2>Current login fix</h2>
+      <p>If admin login returns an error, Cloudflare Pages probably needs GitHub OAuth variables.</p>
+      <p>Add these environment variables to the Cloudflare Pages project and redeploy:</p>
+      <ul>
+        <li><code>GITHUB_CLIENT_ID</code></li>
+        <li><code>GITHUB_CLIENT_SECRET</code></li>
+      </ul>
+      <p>The GitHub OAuth app callback URL should be:</p>
+      <pre><code>https://website-bgu.pages.dev/api/callback</code></pre>
+    </section>
+
+    <h2>Permissions</h2>
+    <p>Editors need GitHub accounts with access to <code>RCIDS3S/website</code>. A practical handoff model:</p>
+    <ul>
+      <li><strong>site-admins</strong>: repository Admin or Maintain access.</li>
+      <li><strong>site-editors</strong>: repository Write access.</li>
+      <li><strong>site-viewers</strong>: repository Read access.</li>
+    </ul>
+    <p>The CMS is configured with an editorial workflow, so content can move through draft, review, and publish states inside Decap.</p>
+
+    <h2>Manual editing map</h2>
+    <p>Manual edits can be made in GitHub or locally by changing these files:</p>
+    <ul>
+      <li>Homepage hero: <code>src/data/site/hero.json</code></li>
+      <li>Site title, subtitle, SEO: <code>src/data/site/identity.json</code></li>
+      <li>Navigation labels: <code>src/data/site/navigation.json</code></li>
+      <li>Student desk: <code>src/data/site/student-desk.json</code> and <code>src/data/quick-links.json</code></li>
+      <li>Events: <code>src/data/events.json</code></li>
+      <li>Resources: <code>src/data/resources.json</code></li>
+      <li>Officers: <code>src/data/officers.json</code></li>
+      <li>About: <code>src/data/about.json</code></li>
+      <li>Contact: <code>src/data/site/contact.json</code></li>
+      <li>Footer: <code>src/data/site/footer.json</code></li>
+      <li>Opportunities page copy: <code>src/data/opportunities.json</code></li>
+      <li>Opportunity sources: <code>src/data/opportunity-sources.json</code></li>
+      <li>Images: <code>public/assets/images/</code></li>
+    </ul>
+
+    <h2>Manual GitHub workflow</h2>
+    <ol>
+      <li>Open <a href="https://github.com/RCIDS3S/website">the GitHub repository</a>.</li>
+      <li>Open the file you need to edit.</li>
+      <li>Use the pencil icon to edit.</li>
+      <li>Keep JSON punctuation intact: quotation marks, commas, brackets, and braces matter.</li>
+      <li>Commit directly to <code>main</code> for small copy edits, or use a branch and pull request for larger changes.</li>
+    </ol>
+  </body>
+</html>

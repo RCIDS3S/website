@@ -6,6 +6,7 @@ backend:
   auth_endpoint: api/auth
 
 local_backend: true
+publish_mode: editorial_workflow
 
 media_folder: "public/assets/images"
 public_folder: "/assets/images"
@@ -179,3 +180,53 @@ collections:
               - { label: "Role", name: "role", widget: "string" }
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Description", name: "description", widget: "text" }
+
+  - name: "opportunities"
+    label: "Opportunities"
+    files:
+      - label: "Opportunities Page Copy"
+        name: "opportunities_page"
+        file: "src/data/opportunities.json"
+        format: "json"
+        fields:
+          - { label: "Last Updated", name: "updated", widget: "string", hint: "Use YYYY-MM-DD." }
+          - label: "Page Summary"
+            name: "summary"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "text", widget: "text" }
+          - label: "Published Items"
+            name: "items"
+            widget: "hidden"
+            required: false
+
+      - label: "Opportunity Sources"
+        name: "opportunity_sources"
+        file: "src/data/opportunity-sources.json"
+        format: "json"
+        fields:
+          - { label: "Last Updated", name: "updated", widget: "string", hint: "Use YYYY-MM-DD." }
+          - label: "Sources"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "ID", name: "id", widget: "string" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+              - { label: "Request URL", name: "requestUrl", widget: "string", required: false }
+              - { label: "Type", name: "type", widget: "string" }
+              - { label: "Parser", name: "parser", widget: "string" }
+              - label: "Confidence"
+                name: "confidence"
+                widget: "select"
+                options: ["high", "medium", "low", "manual"]
+              - label: "Publish Mode"
+                name: "publish"
+                widget: "select"
+                options: ["auto", "candidate", "watch", "manual"]
+              - { label: "Page Limit", name: "pageLimit", widget: "number", value_type: "int", min: 1, required: false }
+              - { label: "Cadence", name: "cadence", widget: "string", required: false }
+              - { label: "Notes", name: "notes", widget: "text", required: false }
