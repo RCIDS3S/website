@@ -112,8 +112,10 @@ const displayTitle = (title: unknown) => {
 
 const formatShortDate = (value: unknown) => {
   if (!value) return "";
-  const date = new Date(`${value}T00:00:00-04:00`);
-  if (Number.isNaN(date.getTime())) return String(value);
+  const match = String(value).match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!match) return String(value);
+  const [, year, month, day] = match;
+  const date = new Date(Number(year), Number(month) - 1, Number(day));
   return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
 };
 
@@ -224,6 +226,12 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           {typeOptions.map((type) => <option value={type}>{type}</option>)}
         </select>
       </label>
+      <div class="opportunity-save-filter" aria-label="Saved opportunities">
+        <button id="opportunity-saved-filter" type="button" aria-pressed="false">
+          Saved
+          <span id="opportunity-saved-count">0</span>
+        </button>
+      </div>
     </section>
 
     <section class="opportunity-results" aria-live="polite">
@@ -265,6 +273,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                       data-search={item.searchText}
                       data-fields={item.fields.join("|")}
                       data-type={item.type}
+                      data-id={item.sourceUrl}
                     >
                       <div class="opportunity-date-strip">
                         {item.eventDate && (
@@ -281,9 +290,14 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                           <span>Days left</span>
                           <strong>{formatDaysLeft(item.days)}</strong>
                         </span>
-                        <a class="opportunity-forward" href={forwardHref(item)} aria-label={`Forward opportunity: ${item.title}`}>
-                          Forward
-                        </a>
+                        <div class="opportunity-card__actions">
+                          <a class="opportunity-forward" href={forwardHref(item)} aria-label={`Forward opportunity: ${item.title}`}>
+                            Forward
+                          </a>
+                          <button class="opportunity-save" type="button" data-save-opportunity aria-pressed="false">
+                            Save
+                          </button>
+                        </div>
                       </div>
                       <div class="opportunity-card__body">
                         <div>
@@ -309,6 +323,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           ))
         }
       </div>
+      <p class="opportunity-empty" id="opportunity-empty" hidden>No matching opportunities right now.</p>
       <div class="opportunity-more">
         <button id="opportunity-more" type="button">Show 10 more</button>
       </div>
@@ -326,6 +341,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           <h3>How the feed works</h3>
           <p>
             The radar refreshes from a curated source list, then filters for readable deadlines, source confidence, deduplication, and likely RCID relevance. Some sites limit automated access, change their markup, or publish broad listings where only a few items fit the feed, so not every call from every monitored source appears here.
+          </p>
+          <p>
+            Saved opportunities stay only in this browser on this device. They do not require an account, sync across devices, or send personal data to the site.
           </p>
         </div>
         <a href={suggestSourceHref}>Suggest a source</a>
@@ -370,10 +388,45 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const groups = Array.from(document.querySelectorAll("[data-opportunity-group]"));
     const fieldButtons = Array.from(document.querySelectorAll("[data-field-filter]"));
     const groupButtons = Array.from(document.querySelectorAll("[data-group-filter]"));
+    const saveButtons = Array.from(document.querySelectorAll("[data-save-opportunity]"));
+    const savedFilter = document.querySelector("#opportunity-saved-filter");
+    const savedCount = document.querySelector("#opportunity-saved-count");
+    const empty = document.querySelector("#opportunity-empty");
     const more = document.querySelector("#opportunity-more");
     const count = document.querySelector("#opportunity-count");
     const pageSize = 10;
+    const savedStorageKey = "thirdSophisticSavedOpportunities";
     let visibleLimit = pageSize;
+    let showSavedOnly = false;
+    let savedItems = new Set();
+
+    const loadSavedItems = () => {
+      try {
+        const parsed = JSON.parse(window.localStorage.getItem(savedStorageKey) || "[]");
+        savedItems = new Set(Array.isArray(parsed) ? parsed.filter(Boolean) : []);
+      } catch {
+        savedItems = new Set();
+      }
+    };
+
+    const storeSavedItems = () => {
+      window.localStorage.setItem(savedStorageKey, JSON.stringify(Array.from(savedItems)));
+    };
+
+    const updateSavedUi = () => {
+      cards.forEach((card) => {
+        const isSaved = savedItems.has(card.dataset.id);
+        card.dataset.saved = isSaved ? "true" : "false";
+        const button = card.querySelector("[data-save-opportunity]");
+        if (!button) return;
+        button.setAttribute("aria-pressed", String(isSaved));
+        button.textContent = isSaved ? "Saved" : "Save";
+      });
+
+      savedCount.textContent = String(savedItems.size);
+      savedFilter.setAttribute("aria-pressed", String(showSavedOnly));
+      savedFilter.classList.toggle("is-active", showSavedOnly);
+    };
 
     const filterOpportunities = () => {
       const query = search.value.trim().toLowerCase();
@@ -386,7 +439,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const matchesQuery = !query || card.dataset.search.includes(query);
         const matchesField = !selectedField || card.dataset.fields.split("|").includes(selectedField);
         const matchesType = !selectedType || card.dataset.type === selectedType;
-        const matches = matchesQuery && matchesField && matchesType;
+        const matchesSaved = !showSavedOnly || savedItems.has(card.dataset.id);
+        const matches = matchesQuery && matchesField && matchesType && matchesSaved;
         const show = matches && matched < visibleLimit;
 
         card.hidden = !show;
@@ -400,6 +454,10 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       });
 
       count.textContent = String(matched);
+      empty.hidden = matched > 0;
+      empty.textContent = showSavedOnly && savedItems.size === 0
+        ? "Saved opportunities will appear here. Use Save on any card to keep a browser-local shortlist."
+        : "No matching opportunities right now. Try widening the search or changing the filters.";
       more.hidden = matched <= visibleLimit;
       more.textContent = `Show ${Math.min(pageSize, Math.max(matched - visibleLimit, 0))} more`;
     };
@@ -410,6 +468,29 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     };
 
     [search, field, type].forEach((control) => control.addEventListener("input", resetLimit));
+
+    savedFilter.addEventListener("click", () => {
+      showSavedOnly = !showSavedOnly;
+      visibleLimit = pageSize;
+      updateSavedUi();
+      filterOpportunities();
+    });
+
+    saveButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const card = button.closest(".opportunity-card");
+        const id = card?.dataset.id;
+        if (!id) return;
+        if (savedItems.has(id)) {
+          savedItems.delete(id);
+        } else {
+          savedItems.add(id);
+        }
+        storeSavedItems();
+        updateSavedUi();
+        filterOpportunities();
+      });
+    });
 
     fieldButtons.forEach((button) => {
       button.addEventListener("click", () => {
@@ -435,6 +516,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       filterOpportunities();
     });
 
+    loadSavedItems();
+    updateSavedUi();
     filterOpportunities();
   </script>
 </BaseLayout>
