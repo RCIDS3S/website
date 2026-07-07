@@ -5,68 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>S3S Site Admin</title>
     <style>
-      body {
-        margin: 0;
-        color: #17191d;
-        background: #f6f1e8;
-        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      }
-
-      .admin-loading {
-        min-height: 100vh;
-        display: grid;
-        place-items: center;
-        padding: 24px;
-      }
-
-      .admin-loading__panel {
-        width: min(100%, 680px);
-        padding: clamp(28px, 5vw, 48px);
-        border: 1px solid rgba(82, 45, 128, 0.16);
-        border-radius: 8px;
-        background: rgba(255, 250, 241, 0.88);
-        box-shadow: 0 24px 70px rgba(31, 23, 12, 0.12);
-      }
-
-      .admin-loading img {
-        width: 56px;
-        height: 56px;
-        object-fit: cover;
+      .admin-help-link {
+        position: fixed;
+        right: 16px;
+        bottom: 16px;
+        z-index: 1;
+        padding: 10px 12px;
         border-radius: 6px;
-      }
-
-      .admin-loading h1 {
-        margin: 18px 0 10px;
-        color: #522d80;
-        font-family: Georgia, "Times New Roman", serif;
-        font-size: clamp(2rem, 6vw, 4rem);
-        line-height: 1;
-      }
-
-      .admin-loading p {
-        margin: 0 0 14px;
-        color: #555b63;
-        font-size: 1.05rem;
-        line-height: 1.55;
-      }
-
-      .admin-loading a {
+        background: #fffaf1;
+        box-shadow: 0 8px 24px rgba(31, 23, 12, 0.14);
         color: #522d80;
         font-weight: 800;
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         text-decoration-color: #f66733;
         text-underline-offset: 0.2em;
+      }
+
+      noscript {
+        display: block;
+        max-width: 680px;
+        margin: 48px auto;
+        padding: 24px;
+        color: #17191d;
+        background: #fffaf1;
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       }
     </style>
   </head>
   <body>
-    <div class="admin-loading">
-      <div class="admin-loading__panel">
-        <img src="/assets/images/third-sophistic.png" alt="" />
-        <h1>S3S Admin</h1>
-        <p>Loading the content editor. If GitHub login does not open or returns an error, the OAuth setup needs attention.</p>
-        <p><a href="/admin/help.html">Open admin and editing help</a></p>
-      </div>
-    </div>
-    <script src="https://unpkg.com/decap-cms@^3.6.0/dist/decap-cms.js"></script>
+    <noscript>JavaScript is required to use the S3S content editor.</noscript>
+    <a class="admin-help-link" href="/admin/help.html">Admin help</a>
+    <script src="https://unpkg.com/decap-cms@3.14.1/dist/decap-cms.js"></script>
   </body>
 </html>
