@@ -49,6 +49,43 @@ const urgentCount = items.filter((item) => item.urgency === "urgent").length;
 const soonCount = items.filter((item) => item.urgency === "soon").length;
 const activeSources = sources.items.filter((source) => source.parser !== "officialWatch");
 const watchSources = sources.items.filter((source) => source.parser === "officialWatch");
+const purposeOptions = [
+  {
+    label: "Publish",
+    text: "Journals, edited collections, and special issues.",
+    filterType: "",
+    filterField: "Publication",
+    filterQuery: ""
+  },
+  {
+    label: "Present",
+    text: "Conference CFPs, panels, workshops, and symposia.",
+    filterType: "Conference CFP",
+    filterField: "",
+    filterQuery: ""
+  },
+  {
+    label: "Fund",
+    text: "Grants, fellowships, and project support.",
+    filterType: "",
+    filterField: "Funding",
+    filterQuery: ""
+  },
+  {
+    label: "Make / Screen",
+    text: "Film, media, art, and creative-practice calls.",
+    filterType: "",
+    filterField: "Film / Media",
+    filterQuery: ""
+  },
+  {
+    label: "Learn / Connect",
+    text: "Talks, institutes, professional events, and field signals.",
+    filterType: "",
+    filterField: "",
+    filterQuery: "workshop"
+  }
+];
 const groups = [
   {
     id: "due-soon",
@@ -105,11 +142,6 @@ const groups = [
   })
   .filter((group) => group.items.length);
 
-const displayTitle = (title: unknown) => {
-  const value = String(title || "").trim();
-  return value.length > 112 ? `${value.slice(0, 109).trim()}...` : value;
-};
-
 const displayPreview = (excerpt: unknown) => {
   const value = String(excerpt || "").trim().replace(/\s+/g, " ");
   if (!value) return "";
@@ -118,6 +150,58 @@ const displayPreview = (excerpt: unknown) => {
 };
 
 const detailText = (item: typeof items[number]) => String(item.fullDescription || item.excerpt || "").trim();
+
+const signalTags = (item: typeof items[number]) => {
+  const text = `${item.title} ${item.type} ${item.fields.join(" ")} ${item.excerpt} ${item.fullDescription || ""}`.toLowerCase();
+  const tags = new Set<string>();
+  const add = (label: string, pattern: RegExp) => {
+    if (pattern.test(text)) tags.add(label);
+  };
+
+  add("Rhetoric", /rhetoric|rhetorical|composition|writing studies/);
+  add("Tech Comm", /technical communication|technical writing|professional communication|documentation|content strategy/);
+  add("AI", /\bai\b|artificial intelligence|machine learning|llm|generative/);
+  add("Media Studies", /media studies|media theory|television|cinema|film/);
+  add("Creative Practice", /film festival|screenplay|screenwriting|video art|exhibition|artist|creative practice/);
+  add("Digital Humanities", /digital humanities|humanities computing|digital culture|computational/);
+  add("Graduate-Friendly", /graduate|postgraduate|student|emerging scholar/);
+  add("Funding", /grant|fellowship|funding|award|stipend/);
+  if (/journal|edited collection|publication|chapter/i.test(String(item.type || "")) || /special issue|edited collection|call for chapters/i.test(text)) tags.add("Publication");
+  add("Conference", /conference|cfp|symposium|workshop|panel|seminar/);
+
+  item.fields.slice(0, 3).forEach((field) => tags.add(field));
+  return Array.from(tags).slice(0, 6);
+};
+
+const signalQuery = (tag: string) => ({
+  "Tech Comm": "technical communication",
+  "Media Studies": "media",
+  "Creative Practice": "creative",
+  "Digital Humanities": "digital humanities",
+  "Graduate-Friendly": "graduate",
+  "Film / Media": "film",
+  "Digital Humanities / Design": "digital",
+  "Art / Media Practice": "art media"
+}[tag] || tag);
+
+const matchReasons = (item: typeof items[number]) => {
+  const tags = signalTags(item).slice(0, 4);
+  if (tags.length) return `Matched because: ${tags.join(", ")}.`;
+  return "Matched because it comes from a monitored opportunity source.";
+};
+
+const detailChecklist = (item: typeof items[number]) => {
+  const text = detailText(item);
+  const lines = [];
+  const lengthMatch = text.match(/(?:\d{2,4}[- ]?word|\d{1,2}[- ]?page|abstracts? of [^.]{0,80}|proposals? should [^.]{0,100})/i);
+  const formatMatch = text.match(/(?:single papers?|panels?|roundtables?|workshops?|alternative formats?|screenplays?|films?|videos?)[^.]{0,120}/i);
+  const contactMatch = text.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i);
+
+  if (lengthMatch) lines.push(`Submission shape: ${lengthMatch[0].trim()}`);
+  if (formatMatch) lines.push(`Formats mentioned: ${formatMatch[0].trim()}`);
+  if (contactMatch) lines.push(`Contact: ${contactMatch[0].trim()}`);
+  return lines.slice(0, 4);
+};
 
 const formatShortDate = (value: unknown) => {
   if (!value) return "";
@@ -240,6 +324,31 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           <span>Discovery sources</span>
           <strong>{sources.items.length}</strong>
         </div>
+        <div>
+          <span>New here</span>
+          <strong id="opportunity-new-count">0</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="opportunity-purposes" aria-label="Browse opportunities by purpose">
+      <div>
+        <p class="eyebrow">Browse by Purpose</p>
+        <h2>Start with what you are trying to do.</h2>
+      </div>
+      <div class="opportunity-purpose-list">
+        {purposeOptions.map((purpose) => (
+          <button
+            type="button"
+            data-purpose-filter
+            data-filter-type={purpose.filterType}
+            data-filter-field={purpose.filterField}
+            data-filter-query={purpose.filterQuery}
+          >
+            <strong>{purpose.label}</strong>
+            <span>{purpose.text}</span>
+          </button>
+        ))}
       </div>
     </section>
 
@@ -271,6 +380,12 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           <option value="title">Title A-Z</option>
         </select>
       </label>
+      <div class="opportunity-new-filter" aria-label="New opportunities">
+        <button id="opportunity-new-filter" type="button" aria-pressed="false">
+          New
+          <span id="opportunity-new-filter-count">0</span>
+        </button>
+      </div>
       <div class="opportunity-save-filter" aria-label="Saved opportunities">
         <button id="opportunity-saved-filter" type="button" aria-pressed="false">
           Saved
@@ -310,9 +425,13 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                   <p data-group-text>{group.text}</p>
                 </div>
                 <div class="opportunity-group__side">
-                  <p class="opportunity-saved-note" data-saved-note hidden>
-                    Saved items stay only in this browser on this device.
-                  </p>
+                  <div class="opportunity-saved-note" data-saved-note hidden>
+                    <p>Saved items stay only in this browser on this device.</p>
+                    <div>
+                      <button type="button" data-copy-saved>Copy saved list</button>
+                      <a href="#" data-email-saved>Email saved list</a>
+                    </div>
+                  </div>
                   <span data-group-count>{group.items.length}</span>
                 </div>
               </div>
@@ -328,6 +447,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                       data-title={item.title.toLowerCase()}
                       data-days={typeof item.days === "number" ? item.days : 9999}
                       data-score={item.score || 0}
+                      data-copy-text={copyDetails(item)}
                     >
                       <div class="opportunity-date-strip">
                         {item.eventDate && (
@@ -365,6 +485,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                             data-detail-excerpt={detailText(item)}
                             data-detail-url={item.sourceUrl}
                             data-detail-fields={item.fields.join("|")}
+                            data-detail-reason={matchReasons(item)}
+                            data-detail-checklist={detailChecklist(item).join("|")}
                           >
                             Details
                           </button>
@@ -379,7 +501,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                             <p class="opportunity-source">{item.source} / {item.type}</p>
                             <span class="opportunity-new" data-new-badge hidden>New</span>
                           </div>
-                          <h3 title={item.title}><a href={item.sourceUrl} target="_blank" rel="noreferrer">{displayTitle(item.title)}</a></h3>
+                          <h3><a href={item.sourceUrl} target="_blank" rel="noreferrer">{item.title}</a></h3>
                           <p>{displayPreview(item.excerpt)}</p>
                           <div class="opportunity-meta">
                             <span>{item.location || "Online / source listed"}</span>
@@ -388,8 +510,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                         </div>
                       </div>
                       <div class="opportunity-tags" aria-label="Fields">
-                        {item.fields.slice(0, 4).map((field) => (
-                          <button type="button" data-field-filter={field}>{field}</button>
+                        {signalTags(item).map((field) => (
+                          <button type="button" data-field-filter={field} data-field-query={signalQuery(field)}>{field}</button>
                         ))}
                       </div>
                     </article>
@@ -428,6 +550,11 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
             <span>Location</span>
             <strong id="opportunity-dialog-location"></strong>
           </div>
+        </div>
+        <p class="opportunity-dialog__reason" id="opportunity-dialog-reason"></p>
+        <div class="opportunity-dialog__checklist" id="opportunity-dialog-checklist" hidden>
+          <h3>Quick Scan</h3>
+          <ul></ul>
         </div>
         <p class="opportunity-dialog__excerpt" id="opportunity-dialog-excerpt"></p>
         <div class="opportunity-dialog__fields" id="opportunity-dialog-fields" aria-label="Fields"></div>
@@ -495,6 +622,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const groups = Array.from(document.querySelectorAll("[data-opportunity-group]"));
     const fieldButtons = Array.from(document.querySelectorAll("[data-field-filter]"));
     const groupButtons = Array.from(document.querySelectorAll("[data-group-filter]"));
+    const purposeButtons = Array.from(document.querySelectorAll("[data-purpose-filter]"));
     const saveButtons = Array.from(document.querySelectorAll("[data-save-opportunity]"));
     const copyButtons = Array.from(document.querySelectorAll("[data-copy-opportunity]"));
     const detailButtons = Array.from(document.querySelectorAll("[data-detail-opportunity]"));
@@ -509,11 +637,19 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const dialogEvent = document.querySelector("#opportunity-dialog-event");
     const dialogLocation = document.querySelector("#opportunity-dialog-location");
     const dialogExcerpt = document.querySelector("#opportunity-dialog-excerpt");
+    const dialogReason = document.querySelector("#opportunity-dialog-reason");
+    const dialogChecklist = document.querySelector("#opportunity-dialog-checklist");
+    const dialogChecklistList = dialogChecklist?.querySelector("ul");
     const dialogFields = document.querySelector("#opportunity-dialog-fields");
     const dialogLink = document.querySelector("#opportunity-dialog-link");
+    const newFilter = document.querySelector("#opportunity-new-filter");
+    const newCount = document.querySelector("#opportunity-new-count");
+    const newFilterCount = document.querySelector("#opportunity-new-filter-count");
     const savedFilter = document.querySelector("#opportunity-saved-filter");
     const savedCount = document.querySelector("#opportunity-saved-count");
     const savedNotes = Array.from(document.querySelectorAll("[data-saved-note]"));
+    const copySavedButtons = Array.from(document.querySelectorAll("[data-copy-saved]"));
+    const emailSavedLinks = Array.from(document.querySelectorAll("[data-email-saved]"));
     const empty = document.querySelector("#opportunity-empty");
     const more = document.querySelector("#opportunity-more");
     const count = document.querySelector("#opportunity-count");
@@ -522,6 +658,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const seenStorageKey = "thirdSophisticSeenOpportunities";
     let visibleLimit = pageSize;
     let showSavedOnly = false;
+    let showNewOnly = false;
     let savedItems = new Set();
 
     const escapeDialogHtml = (value) => String(value || "")
@@ -573,12 +710,21 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     };
 
     const updateNewUi = () => {
+      let newTotal = 0;
       cards.forEach((card) => {
         const isNew = hasSeenSnapshot && !seenItems.has(card.dataset.id);
+        if (isNew) newTotal += 1;
         card.dataset.new = isNew ? "true" : "false";
         const badge = card.querySelector("[data-new-badge]");
         if (badge) badge.hidden = !isNew;
       });
+      if (newCount) newCount.textContent = String(newTotal);
+      if (newFilterCount) newFilterCount.textContent = String(newTotal);
+      if (newFilter) {
+        newFilter.setAttribute("aria-pressed", String(showNewOnly));
+        newFilter.classList.toggle("is-active", showNewOnly);
+        newFilter.disabled = newTotal === 0 && !showNewOnly;
+      }
     };
 
     const sortGroupCards = () => {
@@ -624,8 +770,29 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       });
     };
 
+    const savedListText = () => cards
+      .filter((card) => savedItems.has(card.dataset.id))
+      .map((card) => card.dataset.copyText || card.querySelector("h3")?.textContent?.trim() || "")
+      .filter(Boolean)
+      .join("\n\n---\n\n");
+
+    const updateSavedActions = () => {
+      const text = savedListText();
+      const hasSaved = Boolean(text);
+      copySavedButtons.forEach((button) => {
+        button.disabled = !hasSaved;
+      });
+      emailSavedLinks.forEach((link) => {
+        link.toggleAttribute("aria-disabled", !hasSaved);
+        link.href = hasSaved
+          ? `mailto:?subject=${encodeURIComponent("Saved RCID opportunities")}&body=${encodeURIComponent(text)}`
+          : "#";
+      });
+    };
+
     const filterOpportunities = () => {
       const query = search.value.trim().toLowerCase();
+      const queryTerms = query.split(/\s+/).filter(Boolean);
       const selectedField = field.value;
       const selectedType = type.value;
       let matched = 0;
@@ -635,11 +802,12 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       sortGroupCards();
 
       cards.forEach((card) => {
-        const matchesQuery = !query || card.dataset.search.includes(query);
+        const matchesQuery = !queryTerms.length || queryTerms.every((term) => card.dataset.search.includes(term));
         const matchesField = !selectedField || card.dataset.fields.split("|").includes(selectedField);
         const matchesType = !selectedType || card.dataset.type === selectedType;
         const matchesSaved = !showSavedOnly || savedItems.has(card.dataset.id);
-        const matches = matchesQuery && matchesField && matchesType && matchesSaved;
+        const matchesNew = !showNewOnly || card.dataset.new === "true";
+        const matches = matchesQuery && matchesField && matchesType && matchesSaved && matchesNew;
         const show = matches && matched < visibleLimit;
 
         card.hidden = !show;
@@ -675,11 +843,12 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const groupCount = group.querySelector("[data-group-count]");
         if (groupCount) {
           const matchedGroupCards = groupCards.filter((card) => {
-            const matchesQuery = !query || card.dataset.search.includes(query);
+            const matchesQuery = !queryTerms.length || queryTerms.every((term) => card.dataset.search.includes(term));
             const matchesField = !selectedField || card.dataset.fields.split("|").includes(selectedField);
             const matchesType = !selectedType || card.dataset.type === selectedType;
             const matchesSaved = !showSavedOnly || savedItems.has(card.dataset.id);
-            return matchesQuery && matchesField && matchesType && matchesSaved;
+            const matchesNew = !showNewOnly || card.dataset.new === "true";
+            return matchesQuery && matchesField && matchesType && matchesSaved && matchesNew;
           });
           groupCount.textContent = String(group.classList.contains("is-saved-primary") ? matched : matchedGroupCards.length);
         }
@@ -689,6 +858,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       empty.hidden = matched > 0;
       empty.textContent = showSavedOnly
         ? "No saved opportunities match these filters. Use Save on any card to build a private browser-local shortlist."
+        : showNewOnly
+          ? "No new opportunities match these filters. New items appear after the feed changes on a later visit."
         : "No matching opportunities right now. Try widening the search or changing the filters.";
       more.hidden = matched <= visibleLimit;
       more.textContent = `Show ${Math.min(pageSize, Math.max(matched - visibleLimit, 0))} more`;
@@ -715,6 +886,13 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       filterOpportunities();
     });
 
+    newFilter.addEventListener("click", () => {
+      showNewOnly = !showNewOnly;
+      visibleLimit = pageSize;
+      updateNewUi();
+      filterOpportunities();
+    });
+
     saveButtons.forEach((button) => {
       button.addEventListener("click", () => {
         const card = button.closest(".opportunity-card");
@@ -727,7 +905,23 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         }
         storeSavedItems();
         updateSavedUi();
+        updateSavedActions();
         filterOpportunities();
+      });
+    });
+
+    copySavedButtons.forEach((button) => {
+      button.addEventListener("click", async () => {
+        const original = button.textContent;
+        try {
+          await navigator.clipboard.writeText(savedListText());
+          button.textContent = "Copied";
+        } catch {
+          button.textContent = "Copy unavailable";
+        }
+        window.setTimeout(() => {
+          button.textContent = original;
+        }, 1800);
       });
     });
 
@@ -755,8 +949,18 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         dialogDeadline.textContent = button.dataset.detailDeadline || "";
         dialogDays.textContent = button.dataset.detailDays || "";
         dialogLocation.textContent = button.dataset.detailLocation || "";
+        dialogReason.textContent = button.dataset.detailReason || "";
         dialogExcerpt.innerHTML = linkedDialogText(button.dataset.detailExcerpt || "");
         dialogLink.href = button.dataset.detailUrl || "#";
+
+        dialogChecklistList.textContent = "";
+        const checklistItems = (button.dataset.detailChecklist || "").split("|").filter(Boolean);
+        dialogChecklist.hidden = checklistItems.length === 0;
+        checklistItems.forEach((item) => {
+          const listItem = document.createElement("li");
+          listItem.textContent = item;
+          dialogChecklistList.appendChild(listItem);
+        });
 
         const eventDate = button.dataset.detailEvent || "";
         dialogEventWrap.hidden = !eventDate;
@@ -792,20 +996,33 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
     fieldButtons.forEach((button) => {
       button.addEventListener("click", () => {
-        field.value = button.dataset.fieldFilter;
+        const value = button.dataset.fieldFilter;
+        const hasFieldOption = Array.from(field.options).some((option) => option.value === value);
+        if (hasFieldOption) {
+          field.value = value;
+          search.value = "";
+        } else {
+          search.value = button.dataset.fieldQuery || value || "";
+          field.value = "";
+        }
         visibleLimit = pageSize;
         filterOpportunities();
         document.querySelector(".opportunity-tools").scrollIntoView({ behavior: "smooth", block: "start" });
       });
     });
 
-    groupButtons.forEach((button) => {
+    [...groupButtons, ...purposeButtons].forEach((button) => {
       button.addEventListener("click", () => {
         search.value = button.dataset.filterQuery || "";
         field.value = button.dataset.filterField || "";
         type.value = button.dataset.filterType || "";
+        showSavedOnly = false;
+        showNewOnly = false;
         visibleLimit = pageSize;
+        updateSavedUi();
+        updateNewUi();
         filterOpportunities();
+        document.querySelector(".opportunity-tools").scrollIntoView({ behavior: "smooth", block: "start" });
       });
     });
 
@@ -818,6 +1035,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     loadSeenItems();
     updateNewUi();
     updateSavedUi();
+    updateSavedActions();
     filterOpportunities();
     storeSeenItems();
   </script>
