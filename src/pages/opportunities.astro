@@ -1,0 +1,367 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import identity from "../data/site/identity.json";
+import opportunities from "../data/opportunities.json";
+import sources from "../data/opportunity-sources.json";
+
+const now = new Date();
+const items = opportunities.items
+  .map((item) => {
+    const deadline = item.deadline ? new Date(`${item.deadline}T23:59:59-04:00`) : null;
+    const days = deadline ? Math.ceil((deadline.getTime() - now.getTime()) / 86400000) : null;
+    let urgency = "rolling";
+    let label = item.deadlineType || "Rolling";
+
+    if (typeof days === "number") {
+      if (days < 0) {
+        urgency = "closed";
+        label = "Closed";
+      } else if (days <= 7) {
+        urgency = "urgent";
+        label = `${days} days`;
+      } else if (days <= 30) {
+        urgency = "soon";
+        label = `${days} days`;
+      } else {
+        urgency = "open";
+        label = `${days} days`;
+      }
+    }
+
+    return {
+      ...item,
+      days,
+      urgency,
+      deadlineLabel: label,
+      searchText: `${item.title} ${item.type} ${item.source} ${item.fields.join(" ")} ${item.excerpt} ${item.relevance}`.toLowerCase()
+    };
+  })
+  .sort((a, b) => {
+    const aDays = typeof a.days === "number" ? a.days : 9999;
+    const bDays = typeof b.days === "number" ? b.days : 9999;
+    return aDays - bDays;
+  });
+
+const fieldOptions = Array.from(new Set(items.flatMap((item) => item.fields))).sort((a, b) => a.localeCompare(b));
+const typeOptions = Array.from(new Set(items.map((item) => item.type))).sort((a, b) => a.localeCompare(b));
+const urgentCount = items.filter((item) => item.urgency === "urgent").length;
+const soonCount = items.filter((item) => item.urgency === "soon").length;
+const activeSources = sources.items.filter((source) => source.parser !== "officialWatch");
+const watchSources = sources.items.filter((source) => source.parser === "officialWatch");
+const groups = [
+  {
+    id: "due-soon",
+    title: "Due Soon",
+    text: "Deadlines in the next two weeks.",
+    filterType: "",
+    filterField: "",
+    filterQuery: "",
+    items: items.filter((item) => typeof item.days === "number" && item.days <= 14)
+  },
+  {
+    id: "media-art",
+    title: "Media, Film & Art",
+    text: "Film, media studies, video art, exhibition, and creative-practice calls.",
+    filterType: "",
+    filterField: "Film / Media",
+    filterQuery: "",
+    items: items.filter((item) => typeof item.days !== "number" || item.days > 14).filter((item) => /film|media|art|festival|exhibition/i.test(`${item.type} ${item.fields.join(" ")}`))
+  },
+  {
+    id: "publications",
+    title: "Journals & Collections",
+    text: "Publication calls, special issues, and edited collections.",
+    filterType: "",
+    filterField: "Publication",
+    filterQuery: "",
+    items: items.filter((item) => typeof item.days !== "number" || item.days > 14).filter((item) => /journal|collection|publication|chapter/i.test(item.type))
+  },
+  {
+    id: "conferences",
+    title: "Conferences & CFPs",
+    text: "Panels, seminars, symposia, workshops, and conference calls.",
+    filterType: "Conference CFP",
+    filterField: "",
+    filterQuery: "",
+    items: items.filter((item) => typeof item.days !== "number" || item.days > 14).filter((item) => /conference|cfp|seminar|symposium|workshop|panel/i.test(item.type) && !/journal|collection|publication|chapter/i.test(item.type))
+  },
+  {
+    id: "funding",
+    title: "Funding & Fellowships",
+    text: "Grants, fellowships, and support opportunities.",
+    filterType: "",
+    filterField: "Funding",
+    filterQuery: "",
+    items: items.filter((item) => typeof item.days !== "number" || item.days > 14).filter((item) => /grant|fellowship|funding/i.test(`${item.type} ${item.fields.join(" ")}`))
+  }
+]
+  .map((group, index, allGroups) => {
+    const previous = new Set(allGroups.slice(0, index).flatMap((entry) => entry.items.map((item) => item.sourceUrl)));
+    return {
+      ...group,
+      items: group.items.filter((item) => !previous.has(item.sourceUrl))
+    };
+  })
+  .filter((group) => group.items.length);
+
+const displayTitle = (title: unknown) => {
+  const value = String(title || "").trim();
+  return value.length > 112 ? `${value.slice(0, 109).trim()}...` : value;
+};
+---
+
+<BaseLayout title={`Opportunity Radar | ${identity.title}`} description="Curated RCID opportunity radar for CFPs, conferences, publication calls, media opportunities, and field signals.">
+  <a class="skip-link" href="#opportunity-main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="brand" href="/" aria-label={`${identity.title} home`}>
+      <img src="/assets/images/third-sophistic.png" alt="" width="48" height="48" />
+      <span>
+        <strong>{identity.title}</strong>
+        <small>{identity.subtitle}</small>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Opportunity navigation">
+      <a href="/">Home</a>
+      <a href="/#resources">Resources</a>
+      <a href="/opportunities/">Opportunities</a>
+      <a href="/archive/">Archive</a>
+    </nav>
+  </header>
+
+  <main id="opportunity-main">
+    <section class="opportunity-hero" aria-labelledby="opportunity-title">
+      <p class="eyebrow">{opportunities.summary.kicker}</p>
+      <h1 id="opportunity-title">{opportunities.summary.title}</h1>
+      <p class="dek">{opportunities.summary.text}</p>
+
+      <div class="opportunity-stats" aria-label="Opportunity radar status">
+        <div>
+          <span>Open calls</span>
+          <strong>{items.length}</strong>
+        </div>
+        <div>
+          <span>This week</span>
+          <strong>{urgentCount}</strong>
+        </div>
+        <div>
+          <span>Coming up</span>
+          <strong>{soonCount}</strong>
+        </div>
+        <div>
+          <span>Discovery sources</span>
+          <strong>{sources.items.length}</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="opportunity-tools" aria-label="Opportunity filters">
+      <label>
+        Search
+        <input id="opportunity-search" type="search" placeholder="AI, rhetoric, film, technical communication..." />
+      </label>
+      <label>
+        Field
+        <select id="opportunity-field">
+          <option value="">All fields</option>
+          {fieldOptions.map((field) => <option value={field}>{field}</option>)}
+        </select>
+      </label>
+      <label>
+        Type
+        <select id="opportunity-type">
+          <option value="">All types</option>
+          {typeOptions.map((type) => <option value={type}>{type}</option>)}
+        </select>
+      </label>
+    </section>
+
+    <section class="opportunity-results" aria-live="polite">
+      <div class="opportunity-results__bar">
+        <p><span id="opportunity-count">{items.length}</span> curated items</p>
+        <span>Updated {opportunities.updated}</span>
+      </div>
+
+      <div class="opportunity-list" id="opportunity-list">
+        {
+          groups.map((group) => (
+            <section class="opportunity-group" data-opportunity-group>
+              <div class="opportunity-group__heading">
+                <div>
+                  <h2>
+                    <button
+                      type="button"
+                      data-group-filter
+                      data-filter-type={group.filterType}
+                      data-filter-field={group.filterField}
+                      data-filter-query={group.filterQuery}
+                    >
+                      {group.title}
+                    </button>
+                  </h2>
+                  <p>{group.text}</p>
+                </div>
+                <span>{group.items.length}</span>
+              </div>
+              <div class="opportunity-group__items">
+                {
+                  group.items.map((item) => (
+                    <article
+                      class:list={["opportunity-card", `is-${item.urgency}`]}
+                      data-search={item.searchText}
+                      data-fields={item.fields.join("|")}
+                      data-type={item.type}
+                    >
+                      <div class="opportunity-card__topline">
+                        <span class:list={["deadline-chip", `deadline-chip--${item.urgency}`]}>{item.deadlineLabel}</span>
+                        <span>{item.deadlineType}</span>
+                        {item.deadline && <time datetime={item.deadline}>{item.deadline}</time>}
+                      </div>
+                      <div class="opportunity-card__body">
+                        <div>
+                          <p class="opportunity-source">{item.source} / {item.type}</p>
+                          <h3 title={item.title}><a href={item.sourceUrl} target="_blank" rel="noreferrer">{displayTitle(item.title)}</a></h3>
+                          <p>{item.excerpt}</p>
+                          <div class="opportunity-meta">
+                            <span>{item.location || "Online / source listed"}</span>
+                            {item.eventDate && <time datetime={item.eventDate}>Event: {item.eventDate}</time>}
+                          </div>
+                        </div>
+                      </div>
+                      <div class="opportunity-tags" aria-label="Fields">
+                        {item.fields.slice(0, 4).map((field) => (
+                          <button type="button" data-field-filter={field}>{field}</button>
+                        ))}
+                      </div>
+                    </article>
+                  ))
+                }
+              </div>
+            </section>
+          ))
+        }
+      </div>
+      <div class="opportunity-more">
+        <button id="opportunity-more" type="button">Show 10 more</button>
+      </div>
+    </section>
+
+    <section class="section source-section" aria-labelledby="source-title">
+      <div class="section-kicker">Curation Notes</div>
+      <div class="section-heading">
+        <h2 id="source-title">How this list is gathered.</h2>
+        <p>These sources help surface possibilities for the RCID community. They are starting points for review, not automatic endorsements.</p>
+      </div>
+
+      <div class="source-grid">
+        {
+          activeSources.map((source) => (
+            <a class="source-card" href={source.url} target="_blank" rel="noreferrer">
+              <span>{source.type}</span>
+              <strong>{source.name}</strong>
+              <p>{source.notes}</p>
+              <small>{source.cadence} check</small>
+            </a>
+          ))
+        }
+      </div>
+
+      {watchSources.length > 0 && (
+        <div class="watch-source-block">
+          <h3>Watchlist</h3>
+          <div class="watch-source-list">
+            {
+              watchSources.map((source) => (
+                <a href={source.url} target="_blank" rel="noreferrer">
+                  <strong>{source.name}</strong>
+                  <span>{source.type}</span>
+                </a>
+              ))
+            }
+          </div>
+        </div>
+      )}
+    </section>
+  </main>
+
+  <script is:inline>
+    const search = document.querySelector("#opportunity-search");
+    const field = document.querySelector("#opportunity-field");
+    const type = document.querySelector("#opportunity-type");
+    const cards = Array.from(document.querySelectorAll(".opportunity-card"));
+    const groups = Array.from(document.querySelectorAll("[data-opportunity-group]"));
+    const fieldButtons = Array.from(document.querySelectorAll("[data-field-filter]"));
+    const groupButtons = Array.from(document.querySelectorAll("[data-group-filter]"));
+    const more = document.querySelector("#opportunity-more");
+    const count = document.querySelector("#opportunity-count");
+    const pageSize = 10;
+    let visibleLimit = pageSize;
+
+    const filterOpportunities = () => {
+      const query = search.value.trim().toLowerCase();
+      const selectedField = field.value;
+      const selectedType = type.value;
+      let matched = 0;
+      let visible = 0;
+
+      cards.forEach((card) => {
+        const matchesQuery = !query || card.dataset.search.includes(query);
+        const matchesField = !selectedField || card.dataset.fields.split("|").includes(selectedField);
+        const matchesType = !selectedType || card.dataset.type === selectedType;
+        const matches = matchesQuery && matchesField && matchesType;
+        const show = matches && matched < visibleLimit;
+
+        card.hidden = !show;
+        if (matches) matched += 1;
+        if (show) visible += 1;
+      });
+
+      groups.forEach((group) => {
+        const groupCards = Array.from(group.querySelectorAll(".opportunity-card"));
+        group.hidden = groupCards.every((card) => card.hidden);
+      });
+
+      count.textContent = String(matched);
+      more.hidden = matched <= visibleLimit;
+      more.textContent = `Show ${Math.min(pageSize, Math.max(matched - visibleLimit, 0))} more`;
+    };
+
+    const resetLimit = () => {
+      visibleLimit = pageSize;
+      filterOpportunities();
+    };
+
+    [search, field, type].forEach((control) => control.addEventListener("input", resetLimit));
+
+    fieldButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        field.value = button.dataset.fieldFilter;
+        visibleLimit = pageSize;
+        filterOpportunities();
+        document.querySelector(".opportunity-tools").scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    });
+
+    groupButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        search.value = button.dataset.filterQuery || "";
+        field.value = button.dataset.filterField || "";
+        type.value = button.dataset.filterType || "";
+        visibleLimit = pageSize;
+        filterOpportunities();
+      });
+    });
+
+    more.addEventListener("click", () => {
+      visibleLimit += pageSize;
+      filterOpportunities();
+    });
+
+    filterOpportunities();
+  </script>
+</BaseLayout>
