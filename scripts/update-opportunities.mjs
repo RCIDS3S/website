@@ -7,7 +7,7 @@ const generatedFile = path.join(dataDir, "opportunities.generated.json");
 const sourcesFile = path.join(dataDir, "opportunity-sources.json");
 const reviewDir = path.join(process.cwd(), ".opportunity-candidates");
 const reviewFile = path.join(reviewDir, "index.html");
-const maxPublicItems = 180;
+const maxPublicItems = 260;
 
 const relevanceTerms = [
   "rhetoric",
@@ -388,8 +388,9 @@ function rcidFit(fields, score) {
 }
 
 function pageUrl(source, pageIndex) {
-  if (pageIndex === 0) return source.url;
-  const url = new URL(source.url);
+  const target = source.requestUrl || source.url;
+  if (pageIndex === 0) return target;
+  const url = new URL(target);
   url.searchParams.set("page", String(pageIndex));
   return url.href;
 }
@@ -491,6 +492,54 @@ function parseFilmFreewaySearch(html, source) {
 }
 
 function parseCFPListHome(html, source) {
+  const entries = html.match(/<div class="listing-entry call-row"[\s\S]*?(?=<div class="listing-entry call-row"|<\/div><!-- \/.cfp-listings -->)/g) || [];
+  const structuredItems = [];
+
+  for (const entry of entries) {
+    const daysMatch = entry.match(/<div class="date-tile tile-days">[\s\S]*?<span class="n">(-?\d+)<\/span>/i);
+    const linkMatch = entry.match(/<h4 class="listing-title">[\s\S]*?<a href="([^"]+)">([\s\S]*?)<\/a>/i);
+    const deadlineTypeMatch = entry.match(/<div class="date-tile tile-deadline">[\s\S]*?<span class="w">([\s\S]*?)<\/span>/i);
+    const orgMatch = entry.match(/<p class="listing-org">([\s\S]*?)<\/p>/i);
+    const descMatch = entry.match(/<p class="listing-desc">([\s\S]*?)<\/p>\s*<a class="listing-readmore"/i);
+    if (!daysMatch || !linkMatch || !descMatch) continue;
+
+    const days = Number(daysMatch[1]);
+    const title = cleanTitle(linkMatch[2]);
+    if (!title || /^cfp:?$/i.test(title)) continue;
+
+    const excerpt = stripHtml(descMatch[1]).slice(0, 420);
+    const location = orgMatch ? stripHtml(orgMatch[1]) : "CFPList";
+    if (!isRelevant(`${title} ${excerpt} ${source.name}`)) continue;
+
+    const fields = inferFields(`${title} ${excerpt} ${source.name}`);
+    const type = inferType(`${title} ${excerpt} ${source.type}`, source.type);
+    const score = relevanceScore(`${title} ${excerpt} ${location} ${fields.join(" ")}`, source);
+    const deadlineDate = new Date();
+    deadlineDate.setDate(deadlineDate.getDate() + days);
+
+    structuredItems.push({
+      title,
+      source: "CFPList",
+      sourceName: source.name,
+      sourceUrl: new URL(linkMatch[1], "https://www.cfplist.com").href,
+      type,
+      deadlineType: stripHtml(deadlineTypeMatch?.[1] || "Abstract"),
+      deadline: deadlineDate.toISOString().slice(0, 10),
+      eventDate: "",
+      location,
+      status: days < 0 ? "closed" : "open",
+      priority: score >= 48 ? "high" : "medium",
+      confidence: source.confidence,
+      publishMode: source.publish,
+      score,
+      fields,
+      excerpt,
+      relevance: rcidFit(fields, score)
+    });
+  }
+
+  if (structuredItems.length) return structuredItems;
+
   const text = stripHtml(html);
   const pattern = /EVENT ([A-Za-z]{3} \d{2}) ABSTRACT ([A-Za-z]{3} \d{2}) DAYS (-?\d+) LEFT (.*?)(?= EVENT [A-Za-z]{3} \d{2} ABSTRACT| Page \d|$)/g;
   const items = [];
