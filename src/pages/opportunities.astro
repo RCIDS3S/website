@@ -263,7 +263,12 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                   </h2>
                   <p>{group.text}</p>
                 </div>
-                <span>{group.items.length}</span>
+                <div class="opportunity-group__side">
+                  <p class="opportunity-saved-note" data-saved-note hidden>
+                    Saved items are kept only in this browser on this device.
+                  </p>
+                  <span data-group-count>{group.items.length}</span>
+                </div>
               </div>
               <div class="opportunity-group__items">
                 {
@@ -342,9 +347,6 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           <p>
             The radar refreshes from a curated source list, then filters for readable deadlines, source confidence, deduplication, and likely RCID relevance. Some sites limit automated access, change their markup, or publish broad listings where only a few items fit the feed, so not every call from every monitored source appears here.
           </p>
-          <p>
-            Saved opportunities stay only in this browser on this device. They do not require an account, sync across devices, or send personal data to the site.
-          </p>
         </div>
         <a href={suggestSourceHref}>Suggest a source</a>
       </div>
@@ -391,6 +393,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const saveButtons = Array.from(document.querySelectorAll("[data-save-opportunity]"));
     const savedFilter = document.querySelector("#opportunity-saved-filter");
     const savedCount = document.querySelector("#opportunity-saved-count");
+    const savedNotes = Array.from(document.querySelectorAll("[data-saved-note]"));
     const empty = document.querySelector("#opportunity-empty");
     const more = document.querySelector("#opportunity-more");
     const count = document.querySelector("#opportunity-count");
@@ -426,6 +429,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       savedCount.textContent = String(savedItems.size);
       savedFilter.setAttribute("aria-pressed", String(showSavedOnly));
       savedFilter.classList.toggle("is-active", showSavedOnly);
+      savedNotes.forEach((note) => {
+        note.hidden = !showSavedOnly;
+      });
     };
 
     const filterOpportunities = () => {
@@ -450,7 +456,19 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
       groups.forEach((group) => {
         const groupCards = Array.from(group.querySelectorAll(".opportunity-card"));
-        group.hidden = groupCards.every((card) => card.hidden);
+        const visibleGroupCards = groupCards.filter((card) => !card.hidden);
+        group.hidden = visibleGroupCards.length === 0;
+        const groupCount = group.querySelector("[data-group-count]");
+        if (groupCount) {
+          const matchedGroupCards = groupCards.filter((card) => {
+            const matchesQuery = !query || card.dataset.search.includes(query);
+            const matchesField = !selectedField || card.dataset.fields.split("|").includes(selectedField);
+            const matchesType = !selectedType || card.dataset.type === selectedType;
+            const matchesSaved = !showSavedOnly || savedItems.has(card.dataset.id);
+            return matchesQuery && matchesField && matchesType && matchesSaved;
+          });
+          groupCount.textContent = String(matchedGroupCards.length);
+        }
       });
 
       count.textContent = String(matched);

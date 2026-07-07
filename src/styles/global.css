@@ -771,7 +771,33 @@ h3 {
   color: var(--muted);
 }
 
-.opportunity-group__heading > span {
+.opportunity-group__side {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+  max-width: 520px;
+}
+
+.opportunity-saved-note {
+  max-width: 360px;
+  margin: 0;
+  border: 1px solid rgba(82, 45, 128, 0.18);
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: rgba(255, 250, 241, 0.78);
+  color: #50545c;
+  font-size: 0.84rem;
+  font-weight: 750;
+  line-height: 1.35;
+  text-align: right;
+}
+
+.opportunity-saved-note[hidden] {
+  display: none;
+}
+
+.opportunity-group__side > span {
   display: inline-grid;
   min-width: 42px;
   min-height: 34px;
@@ -1194,6 +1220,15 @@ h3 {
   .opportunity-group__heading {
     display: grid;
     align-items: start;
+  }
+
+  .opportunity-group__side {
+    justify-content: flex-start;
+    max-width: none;
+  }
+
+  .opportunity-saved-note {
+    text-align: left;
   }
 
   .hero {
