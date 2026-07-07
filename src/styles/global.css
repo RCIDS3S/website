@@ -902,6 +902,7 @@ h3 {
 
 .opportunity-forward,
 .opportunity-save,
+.opportunity-detail,
 .opportunity-copy {
   border: 1px solid rgba(82, 45, 128, 0.18);
   border-radius: 999px;
@@ -920,6 +921,8 @@ h3 {
 .opportunity-save:hover,
 .opportunity-save:focus-visible,
 .opportunity-save[aria-pressed="true"],
+.opportunity-detail:hover,
+.opportunity-detail:focus-visible,
 .opportunity-copy:hover,
 .opportunity-copy:focus-visible {
   border-color: rgba(82, 45, 128, 0.42);
@@ -927,6 +930,7 @@ h3 {
 }
 
 .opportunity-save,
+.opportunity-detail,
 .opportunity-copy {
   cursor: pointer;
 }
@@ -1081,6 +1085,149 @@ h3 {
 
 .opportunity-more button[hidden] {
   display: none;
+}
+
+.opportunity-dialog {
+  width: min(720px, calc(100vw - 28px));
+  max-height: min(760px, calc(100vh - 32px));
+  border: 1px solid rgba(82, 45, 128, 0.2);
+  border-radius: 8px;
+  padding: 0;
+  background: var(--paper-soft);
+  color: var(--ink);
+  box-shadow: 0 24px 80px rgba(23, 25, 29, 0.28);
+}
+
+.opportunity-dialog::backdrop {
+  background: rgba(23, 25, 29, 0.38);
+}
+
+.opportunity-dialog__panel {
+  display: grid;
+  gap: 16px;
+  padding: clamp(20px, 4vw, 30px);
+}
+
+.opportunity-dialog__close {
+  justify-self: end;
+  border: 1px solid rgba(82, 45, 128, 0.18);
+  border-radius: 999px;
+  padding: 7px 11px;
+  background: rgba(255, 255, 255, 0.42);
+  color: var(--navy);
+  font-size: 0.74rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.opportunity-dialog__source {
+  margin: 0;
+  color: var(--clay);
+  font-size: 0.86rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.opportunity-dialog h2 {
+  margin: 0;
+  color: var(--navy);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: clamp(1.34rem, 3vw, 2rem);
+  line-height: 1.12;
+}
+
+.opportunity-dialog__facts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.opportunity-dialog__facts div {
+  display: grid;
+  gap: 5px;
+  border: 1px solid rgba(82, 45, 128, 0.16);
+  border-radius: 8px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.42);
+}
+
+.opportunity-dialog__facts div[hidden] {
+  display: none;
+}
+
+.opportunity-dialog__facts span {
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.opportunity-dialog__facts strong {
+  color: var(--navy);
+  font-size: 0.94rem;
+  line-height: 1.2;
+}
+
+.opportunity-dialog__excerpt {
+  margin: 0;
+  color: #50545c;
+  font-size: 1rem;
+}
+
+.opportunity-dialog__fields {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.opportunity-dialog__fields span {
+  border: 1px solid rgba(82, 45, 128, 0.18);
+  border-radius: 999px;
+  padding: 5px 8px;
+  background: rgba(255, 255, 255, 0.42);
+  color: #50545c;
+  font-size: 0.76rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.opportunity-dialog__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.opportunity-dialog__actions a,
+.opportunity-dialog__actions button {
+  border: 1px solid rgba(82, 45, 128, 0.22);
+  border-radius: 999px;
+  padding: 9px 13px;
+  background: rgba(255, 255, 255, 0.42);
+  color: var(--navy);
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.opportunity-dialog__actions a:hover,
+.opportunity-dialog__actions a:focus-visible,
+.opportunity-dialog__actions button:hover,
+.opportunity-dialog__actions button:focus-visible,
+.opportunity-dialog__close:hover,
+.opportunity-dialog__close:focus-visible {
+  border-color: rgba(82, 45, 128, 0.42);
+  background: rgba(82, 45, 128, 0.08);
 }
 
 .source-section {
@@ -1313,6 +1460,10 @@ h3 {
     grid-column: 1 / -1;
     justify-self: start;
     justify-content: flex-start;
+  }
+
+  .opportunity-dialog__facts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .opportunity-date-strip {
