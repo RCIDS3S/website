@@ -110,6 +110,21 @@ const displayTitle = (title: unknown) => {
   return value.length > 112 ? `${value.slice(0, 109).trim()}...` : value;
 };
 
+const formatShortDate = (value: unknown) => {
+  if (!value) return "";
+  const date = new Date(`${value}T00:00:00-04:00`);
+  if (Number.isNaN(date.getTime())) return String(value);
+  return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+};
+
+const formatDaysLeft = (days: unknown) => {
+  if (typeof days !== "number") return "Rolling";
+  if (days < 0) return "Closed";
+  if (days === 0) return "Today";
+  if (days === 1) return "1 day";
+  return `${days} days`;
+};
+
 const forwardHref = (item: typeof items[number]) => {
   const details = [
     item.title,
@@ -251,10 +266,21 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                       data-fields={item.fields.join("|")}
                       data-type={item.type}
                     >
-                      <div class="opportunity-card__topline">
-                        <span class:list={["deadline-chip", `deadline-chip--${item.urgency}`]}>{item.deadlineLabel}</span>
-                        <span>{item.deadlineType}</span>
-                        {item.deadline && <time datetime={item.deadline}>{item.deadline}</time>}
+                      <div class="opportunity-date-strip">
+                        {item.eventDate && (
+                          <time class="opportunity-date-box" datetime={item.eventDate}>
+                            <span>Event</span>
+                            <strong>{formatShortDate(item.eventDate)}</strong>
+                          </time>
+                        )}
+                        <time class="opportunity-date-box" datetime={item.deadline || undefined}>
+                          <span>Deadline</span>
+                          <strong>{item.deadline ? formatShortDate(item.deadline) : "Rolling"}</strong>
+                        </time>
+                        <span class:list={["opportunity-date-box", "opportunity-date-box--countdown", `is-${item.urgency}`]}>
+                          <span>Days left</span>
+                          <strong>{formatDaysLeft(item.days)}</strong>
+                        </span>
                         <a class="opportunity-forward" href={forwardHref(item)} aria-label={`Forward opportunity: ${item.title}`}>
                           Forward
                         </a>

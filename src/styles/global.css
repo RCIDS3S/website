@@ -767,18 +767,63 @@ h3 {
   border-left-color: var(--navy);
 }
 
-.opportunity-card__topline {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px 12px;
+.opportunity-date-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(96px, max-content)) 1fr;
+  gap: 8px;
+  align-items: stretch;
+}
+
+.opportunity-date-box {
+  display: grid;
+  min-height: 56px;
+  align-content: center;
+  gap: 4px;
+  border: 1px solid rgba(82, 45, 128, 0.16);
+  border-radius: 8px;
+  padding: 8px 10px;
+  background: rgba(255, 255, 255, 0.36);
+  color: inherit;
+  text-decoration: none;
+}
+
+.opportunity-date-box span {
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.opportunity-date-box strong {
+  color: var(--navy);
+  font-size: 1.02rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.opportunity-date-box--countdown.is-urgent {
+  border-color: rgba(246, 103, 51, 0.34);
+  background: rgba(246, 103, 51, 0.12);
+}
+
+.opportunity-date-box--countdown.is-urgent strong {
+  color: #8a300e;
+}
+
+.opportunity-date-box--countdown.is-soon {
+  border-color: rgba(82, 45, 128, 0.26);
+  background: rgba(82, 45, 128, 0.08);
 }
 
 .opportunity-forward {
-  margin-left: auto;
+  grid-column: -2 / -1;
+  justify-self: end;
+  align-self: center;
   border: 1px solid rgba(82, 45, 128, 0.18);
   border-radius: 999px;
-  padding: 5px 10px;
+  padding: 7px 11px;
   background: rgba(255, 255, 255, 0.42);
   color: var(--navy);
   font-size: 0.78rem;
@@ -792,31 +837,6 @@ h3 {
 .opportunity-forward:focus-visible {
   border-color: rgba(82, 45, 128, 0.42);
   background: rgba(82, 45, 128, 0.08);
-}
-
-.deadline-chip {
-  display: inline-flex;
-  min-height: 28px;
-  align-items: center;
-  border-radius: 999px;
-  padding: 4px 10px;
-  background: rgba(82, 45, 128, 0.08);
-  color: var(--navy);
-}
-
-.deadline-chip--urgent {
-  background: rgba(246, 103, 51, 0.18);
-  color: #8a300e;
-}
-
-.deadline-chip--soon {
-  background: rgba(82, 45, 128, 0.14);
-  color: var(--navy);
-}
-
-.deadline-chip--closed {
-  background: rgba(23, 25, 29, 0.08);
-  color: var(--muted);
 }
 
 .opportunity-card__body {
@@ -1143,7 +1163,12 @@ h3 {
   }
 
   .opportunity-forward {
-    margin-left: 0;
+    grid-column: 1 / -1;
+    justify-self: start;
+  }
+
+  .opportunity-date-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .hero,
