@@ -108,6 +108,24 @@ const displayTitle = (title: unknown) => {
   const value = String(title || "").trim();
   return value.length > 112 ? `${value.slice(0, 109).trim()}...` : value;
 };
+
+const forwardHref = (item: typeof items[number]) => {
+  const details = [
+    item.title,
+    "",
+    `Source: ${item.source}`,
+    `Type: ${item.type}`,
+    item.deadline ? `Deadline: ${item.deadline}` : "Deadline: Rolling / see source",
+    item.location ? `Location: ${item.location}` : "",
+    item.eventDate ? `Event: ${item.eventDate}` : "",
+    "",
+    item.excerpt,
+    "",
+    item.sourceUrl
+  ].filter(Boolean);
+
+  return `mailto:?subject=${encodeURIComponent(`Opportunity: ${item.title}`)}&body=${encodeURIComponent(details.join("\n"))}`;
+};
 ---
 
 <BaseLayout title={`Opportunity Radar | ${identity.title}`} description="Curated RCID opportunity radar for CFPs, conferences, publication calls, media opportunities, and field signals.">
@@ -225,6 +243,9 @@ const displayTitle = (title: unknown) => {
                         <span class:list={["deadline-chip", `deadline-chip--${item.urgency}`]}>{item.deadlineLabel}</span>
                         <span>{item.deadlineType}</span>
                         {item.deadline && <time datetime={item.deadline}>{item.deadline}</time>}
+                        <a class="opportunity-forward" href={forwardHref(item)} aria-label={`Forward opportunity: ${item.title}`}>
+                          Forward
+                        </a>
                       </div>
                       <div class="opportunity-card__body">
                         <div>

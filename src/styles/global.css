@@ -774,6 +774,26 @@ h3 {
   gap: 8px 12px;
 }
 
+.opportunity-forward {
+  margin-left: auto;
+  border: 1px solid rgba(82, 45, 128, 0.18);
+  border-radius: 999px;
+  padding: 5px 10px;
+  background: rgba(255, 255, 255, 0.42);
+  color: var(--navy);
+  font-size: 0.78rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.opportunity-forward:hover,
+.opportunity-forward:focus-visible {
+  border-color: rgba(82, 45, 128, 0.42);
+  background: rgba(82, 45, 128, 0.08);
+}
+
 .deadline-chip {
   display: inline-flex;
   min-height: 28px;
@@ -1067,6 +1087,10 @@ h3 {
 
   .brand small {
     display: none;
+  }
+
+  .opportunity-forward {
+    margin-left: 0;
   }
 
   .hero,
