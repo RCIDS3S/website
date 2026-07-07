@@ -702,13 +702,17 @@ h3 {
   line-height: 1.08;
 }
 
-.opportunity-group__heading h2 button {
+.opportunity-group__heading h2 button,
+.opportunity-group__heading h2 span {
   border: 0;
   padding: 0;
   background: transparent;
   color: var(--navy);
   font: inherit;
   text-align: left;
+}
+
+.opportunity-group__heading h2 button {
   cursor: pointer;
 }
 

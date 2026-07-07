@@ -194,15 +194,19 @@ const displayTitle = (title: unknown) => {
               <div class="opportunity-group__heading">
                 <div>
                   <h2>
-                    <button
-                      type="button"
-                      data-group-filter
-                      data-filter-type={group.filterType}
-                      data-filter-field={group.filterField}
-                      data-filter-query={group.filterQuery}
-                    >
-                      {group.title}
-                    </button>
+                    {group.id === "due-soon" ? (
+                      <span>{group.title}</span>
+                    ) : (
+                      <button
+                        type="button"
+                        data-group-filter
+                        data-filter-type={group.filterType}
+                        data-filter-field={group.filterField}
+                        data-filter-query={group.filterQuery}
+                      >
+                        {group.title}
+                      </button>
+                    )}
                   </h2>
                   <p>{group.text}</p>
                 </div>
