@@ -2008,6 +2008,25 @@
       "relevance": "Automatically surfaced as a possible RCID fit across Funding."
     },
     {
+      "title": "Collaborative Research",
+      "source": "NEH",
+      "sourceUrl": "https://www.neh.gov/grants/research/collaborative-research-grants",
+      "type": "Grant / Fellowship",
+      "deadlineType": "Application",
+      "deadline": "2026-09-16",
+      "eventDate": "",
+      "location": "Division of Research",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "score": 28,
+      "fields": [
+        "Funding"
+      ],
+      "excerpt": "Collaborative Research is an NEH funding opportunity from Division of Research. NEH lists this under upcoming application deadlines.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Funding."
+    },
+    {
       "title": "Indian Cultural Heritage: Perspectives",
       "source": "UPenn CFP",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/indian-cultural-heritage-perspectives",

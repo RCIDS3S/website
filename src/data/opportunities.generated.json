@@ -2360,6 +2360,28 @@
       "publish": true
     },
     {
+      "title": "Collaborative Research",
+      "source": "NEH",
+      "sourceName": "National Endowment for the Humanities Grants",
+      "sourceUrl": "https://www.neh.gov/grants/research/collaborative-research-grants",
+      "type": "Grant / Fellowship",
+      "deadlineType": "Application",
+      "deadline": "2026-09-16",
+      "eventDate": "",
+      "location": "Division of Research",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Funding"
+      ],
+      "excerpt": "Collaborative Research is an NEH funding opportunity from Division of Research. NEH lists this under upcoming application deadlines.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Funding.",
+      "publish": true
+    },
+    {
       "title": "Indian Cultural Heritage: Perspectives",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Cultural Studies",
@@ -3639,29 +3661,6 @@
       ],
       "excerpt": "In the wake of ecocriticism and environmental humanities, the blue humanities have emerged as a field of study that emphasizes the centrality of aquatic environments in understanding interactions between humans and nonhumans. This interdisciplinary field, which initially grew out of Anglophone literary criticism, proposes to shift our terra-centric perspecti",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "Collections Stewardship",
-      "source": "NEH",
-      "sourceName": "National Endowment for the Humanities Grants",
-      "sourceUrl": "https://www.neh.gov/program/collections-stewardship",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Application",
-      "deadline": "2026-12-15",
-      "eventDate": "",
-      "location": "Division of Collections & Infrastructure",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Publication",
-        "Funding"
-      ],
-      "excerpt": "Collections Stewardship is an NEH funding opportunity from Division of Collections & Infrastructure. NEH lists this under upcoming application deadlines.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication, Funding.",
       "publish": true
     },
     {
