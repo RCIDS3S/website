@@ -288,6 +288,18 @@
       "notes": "Large festival source. Publish only when items match named high-signal festivals or experimental/media-art keywords cleanly."
     },
     {
+      "id": "nca-commnotes",
+      "name": "NCA COMMNotes",
+      "url": "https://www.natcom.org/COMMNotes",
+      "type": "Email-distributed communication opportunities",
+      "parser": "officialWatch",
+      "confidence": "high",
+      "publish": "candidate",
+      "pageLimit": 1,
+      "cadence": "Weekdays",
+      "notes": "National Communication Association weekday newsletter for conferences, calls, announcements, participation requests, special issues, and field news in communication. Pending dedicated-inbox automation."
+    },
+    {
       "id": "ann-arbor-film-festival",
       "name": "Ann Arbor Film Festival",
       "url": "https://www.aafilmfest.org",
