@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import identity from "../data/site/identity.json";
+import contact from "../data/site/contact.json";
 import opportunities from "../data/opportunities.json";
 import sources from "../data/opportunity-sources.json";
 
@@ -126,6 +127,17 @@ const forwardHref = (item: typeof items[number]) => {
 
   return `mailto:?subject=${encodeURIComponent(`Opportunity: ${item.title}`)}&body=${encodeURIComponent(details.join("\n"))}`;
 };
+
+const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent("Opportunity feed source suggestion")}&body=${encodeURIComponent([
+  "Suggested source:",
+  "",
+  "Link:",
+  "",
+  "What kinds of calls or opportunities does it usually post?",
+  "",
+  "Why might it be useful for RCID students?",
+  ""
+].join("\n"))}`;
 ---
 
 <BaseLayout title={`Opportunity Radar | ${identity.title}`} description="Curated RCID opportunity radar for CFPs, conferences, publication calls, media opportunities, and field signals.">
@@ -281,6 +293,16 @@ const forwardHref = (item: typeof items[number]) => {
       <div class="section-heading">
         <h2 id="source-title">How this list is gathered.</h2>
         <p>These sources help surface possibilities for the RCID community. They are starting points for review, not automatic endorsements.</p>
+      </div>
+
+      <div class="feed-note">
+        <div>
+          <h3>How the feed works</h3>
+          <p>
+            The radar refreshes from a curated source list, then filters for readable deadlines, source confidence, deduplication, and likely RCID relevance. Some sites limit automated access, change their markup, or publish broad listings where only a few items fit the feed, so not every call from every monitored source appears here.
+          </p>
+        </div>
+        <a href={suggestSourceHref}>Suggest a source</a>
       </div>
 
       <div class="source-grid">
