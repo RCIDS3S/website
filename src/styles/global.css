@@ -846,88 +846,67 @@ h3 {
   overflow: hidden;
   border: 1px solid rgba(82, 45, 128, 0.16);
   border-radius: 8px;
-  background:
-    linear-gradient(rgba(82, 45, 128, 0.07) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(82, 45, 128, 0.07) 1px, transparent 1px),
-    rgba(255, 250, 241, 0.8);
-  background-size: 100% 25%, 12.5% 100%, auto;
+  background: #eef0ed;
 }
 
-.opportunity-map__base {
-  position: absolute;
-  inset: 7% 5%;
-  width: 90%;
-  height: 86%;
-  fill: rgba(82, 45, 128, 0.08);
-  stroke: rgba(82, 45, 128, 0.16);
-  stroke-width: 2;
-}
-
-.opportunity-map__grid {
+.opportunity-map__real {
   position: absolute;
   inset: 0;
-  pointer-events: none;
 }
 
-.opportunity-map__grid::before,
-.opportunity-map__grid::after {
+.opportunity-map__loading {
   position: absolute;
-  color: rgba(82, 45, 128, 0.3);
-  font-size: 0.72rem;
-  font-weight: 850;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  inset: 16px;
+  display: grid;
+  place-content: center;
+  gap: 6px;
+  border: 1px solid rgba(82, 45, 128, 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(82, 45, 128, 0.08), transparent 52%),
+    rgba(255, 250, 241, 0.92);
+  color: #50545c;
+  text-align: center;
+  z-index: 2;
 }
 
-.opportunity-map__grid::before {
-  content: "Americas";
-  left: 11%;
-  top: 12%;
+.opportunity-map__loading[hidden] {
+  display: none;
 }
 
-.opportunity-map__grid::after {
-  content: "Europe / Africa / Asia";
-  right: 9%;
-  top: 12%;
+.opportunity-map__loading strong {
+  color: var(--navy);
+  font-size: 1rem;
 }
 
-.opportunity-map__pin {
-  position: absolute;
-  left: var(--x);
-  top: var(--y);
+.opportunity-map__loading span {
+  font-size: 0.86rem;
+}
+
+.opportunity-map__marker {
   display: inline-grid;
-  min-width: 28px;
-  height: 28px;
+  min-width: 34px;
+  height: 34px;
   place-items: center;
   border: 2px solid rgba(255, 250, 241, 0.96);
   border-radius: 999px;
   background: var(--orange);
-  box-shadow: 0 0 0 3px rgba(246, 103, 51, 0.22), 0 10px 20px rgba(23, 25, 29, 0.18);
-  color: var(--ink);
+  box-shadow: 0 0 0 4px rgba(246, 103, 51, 0.2), 0 12px 24px rgba(23, 25, 29, 0.22);
   cursor: pointer;
-  transform: translate(-50%, -50%);
 }
 
-.opportunity-map__pin strong {
+.opportunity-map__marker strong {
   color: var(--paper-soft);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   line-height: 1;
 }
 
-.opportunity-map__pin:hover,
-.opportunity-map__pin:focus-visible,
-.opportunity-map__pin.is-active {
-  background: var(--navy);
-  box-shadow: 0 0 0 5px rgba(82, 45, 128, 0.22), 0 12px 24px rgba(23, 25, 29, 0.2);
-  z-index: 2;
-}
-
-.opportunity-map__pin span {
+.opportunity-map__marker span {
   position: absolute;
   left: 50%;
   bottom: calc(100% + 8px);
   width: max-content;
-  max-width: 180px;
+  max-width: 190px;
   border: 1px solid rgba(82, 45, 128, 0.16);
   border-radius: 6px;
   padding: 5px 7px;
@@ -942,11 +921,46 @@ h3 {
   transition: opacity 140ms ease, transform 140ms ease;
 }
 
-.opportunity-map__pin:hover span,
-.opportunity-map__pin:focus-visible span,
-.opportunity-map__pin.is-active span {
+.opportunity-map__marker:hover,
+.opportunity-map__marker:focus-visible {
+  background: var(--navy);
+  box-shadow: 0 0 0 6px rgba(82, 45, 128, 0.22), 0 14px 26px rgba(23, 25, 29, 0.24);
+}
+
+.opportunity-map__marker:hover span,
+.opportunity-map__marker:focus-visible span {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
+}
+
+.opportunity-map .maplibregl-popup-content {
+  display: grid;
+  gap: 5px;
+  max-width: 260px;
+  border: 1px solid rgba(82, 45, 128, 0.16);
+  border-radius: 8px;
+  padding: 12px;
+  background: rgba(255, 250, 241, 0.98);
+  color: #50545c;
+  box-shadow: 0 12px 30px rgba(23, 25, 29, 0.18);
+}
+
+.opportunity-map .maplibregl-popup-content strong {
+  color: var(--navy);
+}
+
+.opportunity-map .maplibregl-popup-content span {
+  color: var(--clay);
+  font-size: 0.76rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.opportunity-map .maplibregl-popup-content small {
+  color: #50545c;
+  font-size: 0.82rem;
+  line-height: 1.35;
 }
 
 .opportunity-map__list {
@@ -1967,7 +1981,7 @@ h3 {
     min-height: 300px;
   }
 
-  .opportunity-map__pin span {
+  .opportunity-map__marker span {
     display: none;
   }
 

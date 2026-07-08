@@ -267,6 +267,8 @@ const locationPatterns = [
 ];
 
 const projectMapPoint = (lat: number, lng: number) => ({
+  lat,
+  lng,
   x: Math.max(4, Math.min(96, ((lng + 180) / 360) * 100)),
   y: Math.max(6, Math.min(94, ((90 - lat) / 180) * 100))
 });
@@ -275,7 +277,7 @@ const mapPointForItem = (item: typeof items[number]) => {
   const location = String(item.location || "").trim();
   if (!location || /^(cfplist|n\/a)$/i.test(location)) return null;
   if (/virtual|online|remote/i.test(location)) {
-    return { label: "Online / virtual", virtual: true, x: 0, y: 0 };
+    return { label: "Online / virtual", virtual: true, lat: 0, lng: 0, x: 0, y: 0 };
   }
 
   const match = locationPatterns.find((entry) => entry.pattern.test(location));
@@ -296,6 +298,8 @@ const physicalMapOpportunities = mappedOpportunities.filter((entry) => !entry.po
 const virtualMapCount = mappedOpportunities.length - physicalMapOpportunities.length;
 const physicalMapPlaceMap = new Map<string, {
   label: string;
+  lat: number;
+  lng: number;
   x: number;
   y: number;
   items: typeof physicalMapOpportunities;
@@ -308,6 +312,8 @@ physicalMapOpportunities.forEach((entry) => {
   } else {
     physicalMapPlaceMap.set(entry.point.label, {
       label: entry.point.label,
+      lat: entry.point.lat,
+      lng: entry.point.lng,
       x: entry.point.x,
       y: entry.point.y,
       items: [entry]
@@ -318,6 +324,15 @@ physicalMapOpportunities.forEach((entry) => {
 const physicalMapPlaces = Array.from(physicalMapPlaceMap.values())
   .sort((a, b) => b.items.length - a.items.length || a.label.localeCompare(b.label))
   .map((place, index) => ({ ...place, id: `map-place-${index}` }));
+
+const physicalMapPlacesJson = JSON.stringify(physicalMapPlaces.map((place) => ({
+  id: place.id,
+  label: place.label,
+  lat: place.lat,
+  lng: place.lng,
+  count: place.items.length,
+  titles: place.items.slice(0, 3).map((entry) => entry.item.title)
+})));
 
 const copyDetails = (item: typeof items[number]) => [
   item.title,
@@ -503,29 +518,15 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
         <div class="opportunity-map__layout">
           <div class="opportunity-map__canvas" aria-label="Map of opportunity event locations">
-            <svg class="opportunity-map__base" viewBox="0 0 1000 520" aria-hidden="true" focusable="false">
-              <path d="M109 166 167 122 249 134 298 187 248 231 185 224 134 260 88 226Z" />
-              <path d="M230 271 305 286 331 361 296 457 230 401 206 329Z" />
-              <path d="M453 150 520 112 615 137 661 207 598 246 503 232 432 196Z" />
-              <path d="M574 273 657 267 720 318 699 423 629 414 587 347Z" />
-              <path d="M707 151 827 132 918 191 872 262 761 248 687 202Z" />
-              <path d="M790 329 858 350 887 407 843 449 782 421Z" />
-            </svg>
-            <div class="opportunity-map__grid" aria-hidden="true"></div>
-            {
-              physicalMapPlaces.map((place) => (
-                <button
-                  type="button"
-                  class="opportunity-map__pin"
-                  style={`--x: ${place.x}%; --y: ${place.y}%;`}
-                  data-map-pin={place.id}
-                  aria-label={`${place.label}: ${place.items.length} mapped ${place.items.length === 1 ? "opportunity" : "opportunities"}`}
-                >
-                  <strong>{place.items.length}</strong>
-                  <span>{place.label}</span>
-                </button>
-              ))
-            }
+            <div
+              class="opportunity-map__real"
+              id="opportunity-map-canvas"
+              data-map-places={physicalMapPlacesJson}
+            ></div>
+            <div class="opportunity-map__loading" data-map-loading>
+              <strong>Loading interactive map</strong>
+              <span>Map data from OpenStreetMap via OpenFreeMap.</span>
+            </div>
           </div>
 
           <div class="opportunity-map__list" aria-label="Mapped opportunities">
@@ -814,7 +815,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const savedCount = document.querySelector("#opportunity-saved-count");
     const mapToggle = document.querySelector("#opportunity-map-toggle");
     const mapView = document.querySelector("#opportunity-map-view");
-    const mapPins = Array.from(document.querySelectorAll("[data-map-pin]"));
+    const mapCanvas = document.querySelector("#opportunity-map-canvas");
+    const mapLoading = document.querySelector("[data-map-loading]");
     const mapCards = Array.from(document.querySelectorAll("[data-map-card]"));
     const savedNotes = Array.from(document.querySelectorAll("[data-saved-note]"));
     const copySavedButtons = Array.from(document.querySelectorAll("[data-copy-saved]"));
@@ -959,6 +961,104 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       });
     };
 
+    const loadExternalAsset = (kind, url) => new Promise((resolve, reject) => {
+      const selector = kind === "script" ? `script[src="${url}"]` : `link[href="${url}"]`;
+      const existing = document.querySelector(selector);
+      if (existing) {
+        resolve(existing);
+        return;
+      }
+
+      const element = kind === "script" ? document.createElement("script") : document.createElement("link");
+      if (kind === "script") {
+        element.src = url;
+        element.async = true;
+      } else {
+        element.rel = "stylesheet";
+        element.href = url;
+      }
+      element.addEventListener("load", () => resolve(element), { once: true });
+      element.addEventListener("error", () => reject(new Error(`Could not load ${url}`)), { once: true });
+      document.head.appendChild(element);
+    });
+
+    const selectMapPlace = (id) => {
+      const card = mapCards.find((entry) => entry.dataset.mapCard === id);
+      mapCards.forEach((entry) => entry.classList.toggle("is-active", entry === card));
+      card?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    };
+
+    const initializeRadarMap = async () => {
+      if (!mapCanvas || mapCanvas.dataset.mapReady === "true" || mapCanvas.dataset.mapReady === "loading") return;
+      mapCanvas.dataset.mapReady = "loading";
+
+      try {
+        await loadExternalAsset("style", "https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css");
+        await loadExternalAsset("script", "https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js");
+
+        const places = JSON.parse(mapCanvas.dataset.mapPlaces || "[]");
+        const map = new maplibregl.Map({
+          container: mapCanvas,
+          style: "https://tiles.openfreemap.org/styles/positron",
+          center: [-18, 24],
+          zoom: 1.35,
+          attributionControl: true
+        });
+
+        map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
+        map.scrollZoom.disable();
+
+        const bounds = new maplibregl.LngLatBounds();
+        places.forEach((place) => {
+          bounds.extend([place.lng, place.lat]);
+          const markerElement = document.createElement("button");
+          markerElement.type = "button";
+          markerElement.className = "opportunity-map__marker";
+          const markerCount = document.createElement("strong");
+          markerCount.textContent = String(place.count);
+          const markerLabel = document.createElement("span");
+          markerLabel.textContent = place.label;
+          markerElement.append(markerCount, markerLabel);
+          markerElement.setAttribute("aria-label", `${place.label}: ${place.count} mapped ${place.count === 1 ? "opportunity" : "opportunities"}`);
+          markerElement.addEventListener("click", () => {
+            selectMapPlace(place.id);
+          });
+
+          const popupContent = document.createElement("div");
+          const popupTitle = document.createElement("strong");
+          popupTitle.textContent = place.label;
+          const popupCount = document.createElement("span");
+          popupCount.textContent = `${place.count} mapped ${place.count === 1 ? "call" : "calls"}`;
+          const popupTitles = document.createElement("small");
+          popupTitles.textContent = place.titles.map((title) => String(title)).join("\n");
+          popupContent.append(popupTitle, popupCount, popupTitles);
+
+          new maplibregl.Marker({ element: markerElement, anchor: "center" })
+            .setLngLat([place.lng, place.lat])
+            .setPopup(new maplibregl.Popup({ offset: 18 }).setDOMContent(popupContent))
+            .addTo(map);
+        });
+
+        if (places.length > 1) {
+          map.fitBounds(bounds, { padding: 58, maxZoom: 4.2, duration: 900 });
+        }
+
+        map.on("load", () => {
+          mapCanvas.dataset.mapReady = "true";
+          if (mapLoading) mapLoading.hidden = true;
+        });
+
+        window.radarMap = map;
+      } catch {
+        mapCanvas.dataset.mapReady = "error";
+        if (mapLoading) {
+          mapLoading.hidden = false;
+          mapLoading.querySelector("strong").textContent = "Map unavailable";
+          mapLoading.querySelector("span").textContent = "The location list is still available.";
+        }
+      }
+    };
+
     const filterOpportunities = () => {
       const query = search.value.trim().toLowerCase();
       const queryTerms = query.split(/\s+/).filter(Boolean);
@@ -1070,19 +1170,10 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         mapToggle.classList.toggle("is-active", isOpening);
         if (isOpening) {
           mapView.scrollIntoView({ behavior: "smooth", block: "start" });
+          initializeRadarMap();
         }
       });
     }
-
-    mapPins.forEach((pin) => {
-      pin.addEventListener("click", () => {
-        const id = pin.dataset.mapPin;
-        const card = mapCards.find((entry) => entry.dataset.mapCard === id);
-        mapPins.forEach((entry) => entry.classList.toggle("is-active", entry === pin));
-        mapCards.forEach((entry) => entry.classList.toggle("is-active", entry === card));
-        card?.scrollIntoView({ behavior: "smooth", block: "nearest" });
-      });
-    });
 
     saveButtons.forEach((button) => {
       button.addEventListener("click", () => {
