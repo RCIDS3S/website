@@ -1666,8 +1666,8 @@ h3 {
 
 .source-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
 }
 
 .feed-note {
@@ -1716,9 +1716,11 @@ h3 {
 
 .source-card {
   display: grid;
-  gap: 8px;
-  min-height: 100%;
-  padding: 20px;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 5px 10px;
+  align-items: center;
+  min-height: 82px;
+  padding: 13px;
   border: 1px solid rgba(23, 25, 29, 0.12);
   border-radius: 8px;
   background: rgba(255, 250, 241, 0.68);
@@ -1727,20 +1729,28 @@ h3 {
 }
 
 .source-card strong {
+  grid-column: 1 / -1;
   color: var(--navy);
-  font-size: 1.28rem;
-  line-height: 1.12;
+  font-size: 1rem;
+  line-height: 1.15;
 }
 
-.source-card p {
-  color: #50545c;
+.source-card span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.source-card small {
+  justify-self: end;
+  white-space: nowrap;
 }
 
 .source-card:hover,
 .source-card:focus-visible {
   border-color: rgba(82, 45, 128, 0.45);
-  transform: translateY(-2px);
-  transition: transform 160ms ease, border-color 160ms ease;
+  background: rgba(255, 255, 255, 0.42);
+  transition: background 160ms ease, border-color 160ms ease;
 }
 
 .watch-source-block {
