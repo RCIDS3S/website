@@ -550,7 +550,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                         </a>
                       ))
                     }
-                    {place.items.length > 5 && <p>{place.items.length - 5} more mapped {place.items.length - 5 === 1 ? "call" : "calls"} at this location.</p>}
+                    {place.items.length > 5 && <p>{place.items.length - 5} more {place.items.length - 5 === 1 ? "call" : "calls"} mapped to this location.</p>}
                   </div>
                 </article>
               ))
