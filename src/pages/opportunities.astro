@@ -236,7 +236,7 @@ const formatDeadlineLabel = (value: unknown, type: unknown) => {
 };
 
 const locationPatterns = [
-  { pattern: /newport,\s*(ri|rhode island)|nemla/i, label: "Newport, RI", lat: 41.49, lng: -71.31 },
+  { pattern: /newport,\s*(ri|rhode island)|newport rhode island|salve regina/i, label: "Newport, RI", lat: 41.49, lng: -71.31 },
   { pattern: /seattle|pamla/i, label: "Seattle, WA", lat: 47.61, lng: -122.33 },
   { pattern: /dallas|university of texas at dallas/i, label: "Dallas, TX", lat: 32.78, lng: -96.8 },
   { pattern: /las vegas/i, label: "Las Vegas, NV", lat: 36.17, lng: -115.14 },
@@ -266,6 +266,26 @@ const locationPatterns = [
   { pattern: /washington,\s*dc|washington dc/i, label: "Washington, DC", lat: 38.91, lng: -77.04 }
 ];
 
+const isPhysicalEventCandidate = (item: typeof items[number]) => {
+  const text = [
+    item.type,
+    item.title,
+    item.location,
+    item.excerpt,
+    item.fullDescription
+  ].filter(Boolean).join(" ");
+
+  if (/journal|edited collection|book chapter|collection of essays|special issue|publication/i.test(String(item.type || ""))) {
+    return false;
+  }
+
+  if (/virtual only|online only|remote only|virtual session|delivered via zoom regardless/i.test(text)) {
+    return false;
+  }
+
+  return /conference|convention|festival|symposium|workshop|summit|colloquium|seminar|roundtable|panel|session|exhibition|biennial/i.test(text);
+};
+
 const projectMapPoint = (lat: number, lng: number) => ({
   lat,
   lng,
@@ -274,10 +294,11 @@ const projectMapPoint = (lat: number, lng: number) => ({
 });
 
 const mapPointForItem = (item: typeof items[number]) => {
+  if (!isPhysicalEventCandidate(item)) return null;
   const location = String(item.location || "").trim();
   if (!location || /^(cfplist|n\/a)$/i.test(location)) return null;
   if (/virtual|online|remote/i.test(location)) {
-    return { label: "Online / virtual", virtual: true, lat: 0, lng: 0, x: 0, y: 0 };
+    return null;
   }
 
   const match = locationPatterns.find((entry) => entry.pattern.test(location));
