@@ -1050,13 +1050,28 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           });
 
           const popupContent = document.createElement("div");
+          popupContent.className = "opportunity-map__popup";
+          const popupHeader = document.createElement("div");
+          popupHeader.className = "opportunity-map__popup-header";
           const popupTitle = document.createElement("strong");
           popupTitle.textContent = place.label;
           const popupCount = document.createElement("span");
-          popupCount.textContent = `${place.count} mapped ${place.count === 1 ? "call" : "calls"}`;
-          const popupTitles = document.createElement("small");
-          popupTitles.textContent = place.titles.map((title) => String(title)).join("\n");
-          popupContent.append(popupTitle, popupCount, popupTitles);
+          popupCount.textContent = `${place.count} ${place.count === 1 ? "call" : "calls"}`;
+          popupHeader.append(popupTitle, popupCount);
+          const popupList = document.createElement("ul");
+          popupList.setAttribute("aria-label", `Sample calls in ${place.label}`);
+          place.titles.slice(0, 3).forEach((title) => {
+            const popupItem = document.createElement("li");
+            popupItem.textContent = String(title);
+            popupList.appendChild(popupItem);
+          });
+          if (place.count > place.titles.length) {
+            const popupMore = document.createElement("p");
+            popupMore.textContent = `${place.count - place.titles.length} more in the list`;
+            popupContent.append(popupHeader, popupList, popupMore);
+          } else {
+            popupContent.append(popupHeader, popupList);
+          }
 
           new maplibregl.Marker({ element: markerElement, anchor: "center" })
             .setLngLat([place.lng, place.lat])
