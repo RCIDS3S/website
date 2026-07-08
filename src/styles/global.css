@@ -2137,12 +2137,25 @@ h3 {
   .resource-grid,
   .officer-layout,
   .archive-tools,
-  .opportunity-stats,
   .opportunity-tools,
   .opportunity-purpose-list,
   .source-grid,
   .watch-source-list {
     grid-template-columns: 1fr;
+  }
+
+  .opportunity-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .opportunity-stats div {
+    min-height: 86px;
+    padding: 14px;
+  }
+
+  .opportunity-stats strong {
+    font-size: 1.65rem;
   }
 
   .opportunity-purpose-list button {

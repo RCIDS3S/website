@@ -1065,6 +1065,12 @@ const publicItems = dedupeItems([...freshPublished, ...previousCarryover])
     eventDate: eventDateForItem(item)
   }));
 
+const defaultPublicSummary = {
+  kicker: "Curated Opportunities",
+  title: "Opportunity Radar",
+  text: "An automatically refreshed radar for RCID students tracking CFPs, conferences, publication calls, media opportunities, and useful field signals. It favors trusted source categories, clear deadlines, and strong RCID fit."
+};
+
 const generatedData = {
   updated,
   summary: {
@@ -1078,11 +1084,7 @@ const generatedData = {
 
 const publicData = {
   updated,
-  summary: {
-    kicker: "Curated Opportunities Feed",
-    title: "Opportunity Radar",
-    text: "An automatically refreshed opportunities board for RCID students tracking CFPs, conferences, publication calls, media opportunities, and useful field signals. The radar favors trusted source categories, clear deadlines, and strong RCID fit."
-  },
+  summary: { ...defaultPublicSummary, ...(previous.summary || {}) },
   items: publicItems
 };
 
