@@ -13,7 +13,7 @@ public_folder: "/assets/images"
 
 site_url: "https://website-bgu.pages.dev"
 display_url: "https://website-bgu.pages.dev"
-logo_url: "/assets/images/third-sophistic.png"
+logo_url: "/assets/images/s3s-logo-temporary.jpg"
 
 collections:
   - name: "settings"
