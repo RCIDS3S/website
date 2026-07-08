@@ -235,6 +235,90 @@ const formatDeadlineLabel = (value: unknown, type: unknown) => {
   return `${label.charAt(0).toUpperCase()}${label.slice(1)} due`;
 };
 
+const locationPatterns = [
+  { pattern: /newport,\s*(ri|rhode island)|nemla/i, label: "Newport, RI", lat: 41.49, lng: -71.31 },
+  { pattern: /seattle|pamla/i, label: "Seattle, WA", lat: 47.61, lng: -122.33 },
+  { pattern: /dallas|university of texas at dallas/i, label: "Dallas, TX", lat: 32.78, lng: -96.8 },
+  { pattern: /las vegas/i, label: "Las Vegas, NV", lat: 36.17, lng: -115.14 },
+  { pattern: /philadelphia|renaissance society of america/i, label: "Philadelphia, PA", lat: 39.95, lng: -75.17 },
+  { pattern: /rochester/i, label: "Rochester, NY", lat: 43.16, lng: -77.61 },
+  { pattern: /austin/i, label: "Austin, TX", lat: 30.27, lng: -97.74 },
+  { pattern: /park city|sundance/i, label: "Park City, UT", lat: 40.65, lng: -111.5 },
+  { pattern: /los angeles|csula|california state university los angeles/i, label: "Los Angeles, CA", lat: 34.05, lng: -118.24 },
+  { pattern: /guelph/i, label: "Guelph, Canada", lat: 43.54, lng: -80.25 },
+  { pattern: /providence|brown university/i, label: "Providence, RI", lat: 41.82, lng: -71.41 },
+  { pattern: /cambridge/i, label: "Cambridge, UK", lat: 52.2, lng: 0.12 },
+  { pattern: /lancaster university|lancaster,\s*uk/i, label: "Lancaster, UK", lat: 54.01, lng: -2.79 },
+  { pattern: /liverpool/i, label: "Liverpool, UK", lat: 53.41, lng: -2.99 },
+  { pattern: /munich|lmu munich/i, label: "Munich, Germany", lat: 48.14, lng: 11.58 },
+  { pattern: /vienna/i, label: "Vienna, Austria", lat: 48.21, lng: 16.37 },
+  { pattern: /lisbon/i, label: "Lisbon, Portugal", lat: 38.72, lng: -9.14 },
+  { pattern: /rotterdam/i, label: "Rotterdam, Netherlands", lat: 51.92, lng: 4.48 },
+  { pattern: /adelaide/i, label: "Adelaide, Australia", lat: -34.93, lng: 138.6 },
+  { pattern: /hong kong/i, label: "Hong Kong", lat: 22.32, lng: 114.17 },
+  { pattern: /south korea|chungbuk/i, label: "South Korea", lat: 36.63, lng: 127.49 },
+  { pattern: /kolkata|adamas university|st\.?\s*xavier/i, label: "Kolkata, India", lat: 22.57, lng: 88.36 },
+  { pattern: /bhopal|jagran lakecity/i, label: "Bhopal, India", lat: 23.26, lng: 77.41 },
+  { pattern: /faisalabad/i, label: "Faisalabad, Pakistan", lat: 31.45, lng: 73.14 },
+  { pattern: /brunei/i, label: "Brunei", lat: 4.54, lng: 114.73 },
+  { pattern: /south africa|zululand|kwazulu/i, label: "KwaZulu-Natal, South Africa", lat: -28.53, lng: 30.9 },
+  { pattern: /arizona state|tempe/i, label: "Tempe, AZ", lat: 33.43, lng: -111.94 },
+  { pattern: /washington,\s*dc|washington dc/i, label: "Washington, DC", lat: 38.91, lng: -77.04 }
+];
+
+const projectMapPoint = (lat: number, lng: number) => ({
+  x: Math.max(4, Math.min(96, ((lng + 180) / 360) * 100)),
+  y: Math.max(6, Math.min(94, ((90 - lat) / 180) * 100))
+});
+
+const mapPointForItem = (item: typeof items[number]) => {
+  const location = String(item.location || "").trim();
+  if (!location || /^(cfplist|n\/a)$/i.test(location)) return null;
+  if (/virtual|online|remote/i.test(location)) {
+    return { label: "Online / virtual", virtual: true, x: 0, y: 0 };
+  }
+
+  const match = locationPatterns.find((entry) => entry.pattern.test(location));
+  if (!match) return null;
+  return { ...projectMapPoint(match.lat, match.lng), label: match.label, virtual: false };
+};
+
+const mappedOpportunities = items
+  .map((item, index) => {
+    const point = mapPointForItem(item);
+    if (!point) return null;
+    return { item, point, id: `map-item-${index}` };
+  })
+  .filter((entry) => entry !== null)
+  .slice(0, 80);
+
+const physicalMapOpportunities = mappedOpportunities.filter((entry) => !entry.point.virtual);
+const virtualMapCount = mappedOpportunities.length - physicalMapOpportunities.length;
+const physicalMapPlaceMap = new Map<string, {
+  label: string;
+  x: number;
+  y: number;
+  items: typeof physicalMapOpportunities;
+}>();
+
+physicalMapOpportunities.forEach((entry) => {
+  const existing = physicalMapPlaceMap.get(entry.point.label);
+  if (existing) {
+    existing.items.push(entry);
+  } else {
+    physicalMapPlaceMap.set(entry.point.label, {
+      label: entry.point.label,
+      x: entry.point.x,
+      y: entry.point.y,
+      items: [entry]
+    });
+  }
+});
+
+const physicalMapPlaces = Array.from(physicalMapPlaceMap.values())
+  .sort((a, b) => b.items.length - a.items.length || a.label.localeCompare(b.label))
+  .map((place, index) => ({ ...place, id: `map-place-${index}` }));
+
 const copyDetails = (item: typeof items[number]) => [
   item.title,
   `${item.source} / ${item.type}`,
@@ -392,7 +476,85 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           <span id="opportunity-saved-count">0</span>
         </button>
       </div>
+      {mappedOpportunities.length > 0 && (
+        <div class="opportunity-map-filter" aria-label="Mapped opportunities">
+          <button id="opportunity-map-toggle" type="button" aria-expanded="false" aria-controls="opportunity-map-view">
+            Map
+            <span>{physicalMapPlaces.length}</span>
+          </button>
+        </div>
+      )}
     </section>
+
+    {mappedOpportunities.length > 0 && (
+      <section class="opportunity-map" id="opportunity-map-view" aria-labelledby="opportunity-map-title" hidden>
+        <div class="opportunity-map__heading">
+          <div>
+            <p class="eyebrow">Event Map</p>
+            <h2 id="opportunity-map-title">Where the in-person calls are gathering.</h2>
+            <p>Mapped from recognizable event locations in the feed. Contact-name locations stay off the map until a venue can be inferred cleanly.</p>
+          </div>
+          <div class="opportunity-map__summary">
+            <span>{physicalMapPlaces.length} locations</span>
+            <span>{physicalMapOpportunities.length} mapped calls</span>
+            {virtualMapCount > 0 && <span>{virtualMapCount} online / virtual</span>}
+          </div>
+        </div>
+
+        <div class="opportunity-map__layout">
+          <div class="opportunity-map__canvas" aria-label="Map of opportunity event locations">
+            <svg class="opportunity-map__base" viewBox="0 0 1000 520" aria-hidden="true" focusable="false">
+              <path d="M109 166 167 122 249 134 298 187 248 231 185 224 134 260 88 226Z" />
+              <path d="M230 271 305 286 331 361 296 457 230 401 206 329Z" />
+              <path d="M453 150 520 112 615 137 661 207 598 246 503 232 432 196Z" />
+              <path d="M574 273 657 267 720 318 699 423 629 414 587 347Z" />
+              <path d="M707 151 827 132 918 191 872 262 761 248 687 202Z" />
+              <path d="M790 329 858 350 887 407 843 449 782 421Z" />
+            </svg>
+            <div class="opportunity-map__grid" aria-hidden="true"></div>
+            {
+              physicalMapPlaces.map((place) => (
+                <button
+                  type="button"
+                  class="opportunity-map__pin"
+                  style={`--x: ${place.x}%; --y: ${place.y}%;`}
+                  data-map-pin={place.id}
+                  aria-label={`${place.label}: ${place.items.length} mapped ${place.items.length === 1 ? "opportunity" : "opportunities"}`}
+                >
+                  <strong>{place.items.length}</strong>
+                  <span>{place.label}</span>
+                </button>
+              ))
+            }
+          </div>
+
+          <div class="opportunity-map__list" aria-label="Mapped opportunities">
+            {
+              physicalMapPlaces.map((place) => (
+                <article class="opportunity-map__item" data-map-card={place.id}>
+                  <span>{place.items.length} mapped {place.items.length === 1 ? "call" : "calls"}</span>
+                  <h3>{place.label}</h3>
+                  <div class="opportunity-map__calls">
+                    {
+                      place.items.slice(0, 5).map((entry) => (
+                        <a href={entry.item.sourceUrl} target="_blank" rel="noreferrer">
+                          <strong>{entry.item.title}</strong>
+                          <small>
+                            {entry.item.eventDate ? `Event ${formatShortDate(entry.item.eventDate)}` : "Event date listed in source"}
+                            {entry.item.deadline ? ` / ${formatDeadlineLabel(entry.item.deadlineType, entry.item.type)} ${formatShortDate(entry.item.deadline)}` : " / Rolling deadline"}
+                          </small>
+                        </a>
+                      ))
+                    }
+                    {place.items.length > 5 && <p>{place.items.length - 5} more mapped {place.items.length - 5 === 1 ? "call" : "calls"} at this location.</p>}
+                  </div>
+                </article>
+              ))
+            }
+          </div>
+        </div>
+      </section>
+    )}
 
     <section class="opportunity-results" aria-live="polite">
       <div class="opportunity-results__bar">
@@ -651,6 +813,10 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const newFilterCount = document.querySelector("#opportunity-new-filter-count");
     const savedFilter = document.querySelector("#opportunity-saved-filter");
     const savedCount = document.querySelector("#opportunity-saved-count");
+    const mapToggle = document.querySelector("#opportunity-map-toggle");
+    const mapView = document.querySelector("#opportunity-map-view");
+    const mapPins = Array.from(document.querySelectorAll("[data-map-pin]"));
+    const mapCards = Array.from(document.querySelectorAll("[data-map-card]"));
     const savedNotes = Array.from(document.querySelectorAll("[data-saved-note]"));
     const copySavedButtons = Array.from(document.querySelectorAll("[data-copy-saved]"));
     const emailSavedLinks = Array.from(document.querySelectorAll("[data-email-saved]"));
@@ -895,6 +1061,28 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       visibleLimit = pageSize;
       updateNewUi();
       filterOpportunities();
+    });
+
+    if (mapToggle && mapView) {
+      mapToggle.addEventListener("click", () => {
+        const isOpening = mapView.hidden;
+        mapView.hidden = !isOpening;
+        mapToggle.setAttribute("aria-expanded", String(isOpening));
+        mapToggle.classList.toggle("is-active", isOpening);
+        if (isOpening) {
+          mapView.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      });
+    }
+
+    mapPins.forEach((pin) => {
+      pin.addEventListener("click", () => {
+        const id = pin.dataset.mapPin;
+        const card = mapCards.find((entry) => entry.dataset.mapCard === id);
+        mapPins.forEach((entry) => entry.classList.toggle("is-active", entry === pin));
+        mapCards.forEach((entry) => entry.classList.toggle("is-active", entry === card));
+        card?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      });
     });
 
     saveButtons.forEach((button) => {
