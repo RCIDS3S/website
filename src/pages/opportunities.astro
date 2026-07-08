@@ -361,7 +361,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 ].join("\n"))}`;
 ---
 
-<BaseLayout title={`Opportunity Radar | ${identity.title}`} description="Curated RCID opportunity radar for CFPs, conferences, publication calls, media opportunities, and field signals.">
+<BaseLayout title={`RCID Radar | ${identity.title}`} description="Curated RCID Radar opportunities feed for CFPs, conferences, publication calls, media opportunities, and field signals.">
   <a class="skip-link" href="#opportunity-main">Skip to content</a>
 
   <header class="site-header">
@@ -377,10 +377,10 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       <span></span>
       <span></span>
     </button>
-    <nav class="site-nav" id="site-nav" aria-label="Opportunity navigation">
+    <nav class="site-nav" id="site-nav" aria-label="RCID Radar navigation">
       <a href="/">Home</a>
       <a href="/#resources">Resources</a>
-      <a href="/opportunities/">Opportunities</a>
+      <a href="/opportunities/">RCID Radar</a>
       <a href="/archive/">Archive</a>
     </nav>
   </header>
@@ -391,7 +391,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       <h1 id="opportunity-title">{opportunities.summary.title}</h1>
       <p class="dek">{opportunities.summary.text}</p>
 
-      <div class="opportunity-stats" aria-label="Opportunity radar status">
+      <div class="opportunity-stats" aria-label="RCID Radar status">
         <div>
           <span>Open calls</span>
           <strong>{items.length}</strong>
@@ -1002,7 +1002,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const groupTitle = group.querySelector("[data-group-title]");
         const groupText = group.querySelector("[data-group-text]");
         if (groupTitle) {
-          groupTitle.textContent = group.classList.contains("is-saved-primary") ? "Saved Opportunities" : groupTitle.dataset.originalTitle || groupTitle.textContent;
+          groupTitle.textContent = group.classList.contains("is-saved-primary") ? "Saved Radar Items" : groupTitle.dataset.originalTitle || groupTitle.textContent;
         }
         if (groupText) {
           groupText.textContent = group.classList.contains("is-saved-primary")
