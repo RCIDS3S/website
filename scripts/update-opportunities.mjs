@@ -107,6 +107,27 @@ const curatedEventDates = new Map([
   ["https://filmfreeway.com/Sundance", "2027-01-21"]
 ]);
 
+function conventionEventDateFallback(item) {
+  const text = [
+    item.title,
+    item.location,
+    item.excerpt,
+    item.fullDescription,
+    item.sourceUrl
+  ].filter(Boolean).join(" ");
+
+  if (/\bnemla\b|northeast modern language association|north east modern language association/i.test(text)) {
+    return "2027-03-06";
+  }
+
+  return "";
+}
+
+function eventDateForItem(item) {
+  const parsed = item.source === "UPenn CFP" && item.eventDate === item.deadline ? "" : item.eventDate;
+  return curatedEventDates.get(item.sourceUrl) || parsed || conventionEventDateFallback(item);
+}
+
 function decodeEntities(value) {
   return String(value || "")
     .replace(/&nbsp;/g, " ")
@@ -1041,7 +1062,7 @@ const publicItems = dedupeItems([...freshPublished, ...previousCarryover])
   .map(({ publish, publishMode, sourceName, ...item }) => ({
     ...item,
     fullDescription: item.fullDescription || item.excerpt,
-    eventDate: curatedEventDates.get(item.sourceUrl) || (item.source === "UPenn CFP" && item.eventDate === item.deadline ? "" : item.eventDate)
+    eventDate: eventDateForItem(item)
   }));
 
 const generatedData = {
@@ -1059,7 +1080,7 @@ const publicData = {
   updated,
   summary: {
     kicker: "Curated Opportunities Feed",
-    title: "RCID Radar",
+    title: "Opportunity Radar",
     text: "An automatically refreshed opportunities board for RCID students tracking CFPs, conferences, publication calls, media opportunities, and useful field signals. The radar favors trusted source categories, clear deadlines, and strong RCID fit."
   },
   items: publicItems
