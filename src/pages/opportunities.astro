@@ -331,7 +331,10 @@ const physicalMapPlacesJson = JSON.stringify(physicalMapPlaces.map((place) => ({
   lat: place.lat,
   lng: place.lng,
   count: place.items.length,
-  titles: place.items.slice(0, 3).map((entry) => entry.item.title)
+  calls: place.items.slice(0, 3).map((entry) => ({
+    title: entry.item.title,
+    url: entry.item.sourceUrl
+  }))
 })));
 
 const copyDetails = (item: typeof items[number]) => [
@@ -1060,14 +1063,19 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           popupHeader.append(popupTitle, popupCount);
           const popupList = document.createElement("ul");
           popupList.setAttribute("aria-label", `Sample calls in ${place.label}`);
-          place.titles.slice(0, 3).forEach((title) => {
+          place.calls.slice(0, 3).forEach((call) => {
             const popupItem = document.createElement("li");
-            popupItem.textContent = String(title);
+            const popupLink = document.createElement("a");
+            popupLink.href = call.url;
+            popupLink.target = "_blank";
+            popupLink.rel = "noreferrer";
+            popupLink.textContent = String(call.title);
+            popupItem.appendChild(popupLink);
             popupList.appendChild(popupItem);
           });
-          if (place.count > place.titles.length) {
+          if (place.count > place.calls.length) {
             const popupMore = document.createElement("p");
-            popupMore.textContent = `${place.count - place.titles.length} more in the list`;
+            popupMore.textContent = `${place.count - place.calls.length} more in the list`;
             popupContent.append(popupHeader, popupList, popupMore);
           } else {
             popupContent.append(popupHeader, popupList);

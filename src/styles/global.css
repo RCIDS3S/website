@@ -1067,10 +1067,23 @@ h3 {
   list-style: none;
 }
 
-.opportunity-map__popup li {
+.opportunity-map__popup li,
+.opportunity-map__popup a {
   color: #50545c;
   font-size: 0.84rem;
   line-height: 1.32;
+}
+
+.opportunity-map__popup a {
+  text-decoration-color: rgba(246, 103, 51, 0.55);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.18em;
+}
+
+.opportunity-map__popup a:hover,
+.opportunity-map__popup a:focus-visible {
+  color: var(--navy);
+  text-decoration-color: var(--orange);
 }
 
 .opportunity-map__popup p {
