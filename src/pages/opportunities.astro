@@ -982,19 +982,43 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       document.head.appendChild(element);
     });
 
+    const loadFirstAvailableScript = async (urls) => {
+      for (const url of urls) {
+        try {
+          return await loadExternalAsset("script", url);
+        } catch {
+          // Try the next CDN.
+        }
+      }
+      throw new Error("Could not load map script");
+    };
+
     const selectMapPlace = (id) => {
       const card = mapCards.find((entry) => entry.dataset.mapCard === id);
       mapCards.forEach((entry) => entry.classList.toggle("is-active", entry === card));
       card?.scrollIntoView({ behavior: "smooth", block: "nearest" });
     };
 
+    const setMapStatus = (title, text) => {
+      if (!mapLoading) return;
+      mapLoading.hidden = false;
+      const titleElement = mapLoading.querySelector("strong");
+      const textElement = mapLoading.querySelector("span");
+      if (titleElement) titleElement.textContent = title;
+      if (textElement) textElement.textContent = text;
+    };
+
     const initializeRadarMap = async () => {
       if (!mapCanvas || mapCanvas.dataset.mapReady === "true" || mapCanvas.dataset.mapReady === "loading") return;
       mapCanvas.dataset.mapReady = "loading";
+      setMapStatus("Loading interactive map", "Map data from OpenStreetMap via OpenFreeMap.");
 
       try {
-        await loadExternalAsset("style", "https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css");
-        await loadExternalAsset("script", "https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js");
+        loadExternalAsset("style", "https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css").catch(() => {});
+        await loadFirstAvailableScript([
+          "https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js",
+          "https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js"
+        ]);
 
         const places = JSON.parse(mapCanvas.dataset.mapPlaces || "[]");
         const map = new maplibregl.Map({
@@ -1007,6 +1031,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
         map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
         map.scrollZoom.disable();
+        requestAnimationFrame(() => map.resize());
 
         const bounds = new maplibregl.LngLatBounds();
         places.forEach((place) => {
@@ -1043,19 +1068,29 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           map.fitBounds(bounds, { padding: 58, maxZoom: 4.2, duration: 900 });
         }
 
-        map.on("load", () => {
+        const mapPaintTimeout = window.setTimeout(() => {
+          if (mapCanvas.dataset.mapReady !== "true") {
+            mapCanvas.dataset.mapReady = "error";
+            setMapStatus("Map temporarily unavailable", "The mapped location list is still available to the right.");
+          }
+        }, 6000);
+
+        map.once("idle", () => {
+          window.clearTimeout(mapPaintTimeout);
           mapCanvas.dataset.mapReady = "true";
           if (mapLoading) mapLoading.hidden = true;
+        });
+
+        map.once("error", () => {
+          window.clearTimeout(mapPaintTimeout);
+          mapCanvas.dataset.mapReady = "error";
+          setMapStatus("Map temporarily unavailable", "The mapped location list is still available to the right.");
         });
 
         window.radarMap = map;
       } catch {
         mapCanvas.dataset.mapReady = "error";
-        if (mapLoading) {
-          mapLoading.hidden = false;
-          mapLoading.querySelector("strong").textContent = "Map unavailable";
-          mapLoading.querySelector("span").textContent = "The location list is still available.";
-        }
+        setMapStatus("Map temporarily unavailable", "The mapped location list is still available to the right.");
       }
     };
 
