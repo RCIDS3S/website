@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "summary": {
     "kicker": "Curated Opportunities",
     "title": "Opportunity Radar",
@@ -7,55 +7,12 @@
   },
   "items": [
     {
-      "title": "Durham University Postgraduate English Journal 48th Issue: Artificial Intelligence, Social Media and the Future of Literature",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/10/durham-university-postgraduate-english-journal-48th-issue-artificial-intelligence",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-10",
-      "eventDate": "",
-      "location": "English Department, Durham University",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "score": 66,
-      "fields": [
-        "AI",
-        "Digital Humanities / Design",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Postgraduate English, Durham University’s online peer-reviewed literary journal, has been publishing postgraduate research biannually since the year 2000 and is one of the longest-running online postgraduate literary journals in the world. In recent years the journal has received reprint requests from academic publishers. The journal aims to provide a spa...",
-      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
-      "fullDescription": "Postgraduate English, Durham University’s online peer-reviewed literary journal, has been publishing postgraduate research biannually since the year 2000 and is one of the longest-running online postgraduate literary journals in the world. In recent years the journal has received reprint requests from academic publishers. The journal aims to provide a space for postgraduate students and early-career researchers (including those currently institutionally unaffiliated) to showcase their work and receive feedback from established academics. While the journal is based in the UK, we seek to cultivate an international range of contributors and judge submissions primarily for strength of argument and fresh insight over a fixed writing style."
-    },
-    {
-      "title": "Two-Day National Conference - Narratives of the Mind: Media, Literature and Culture in the Indian Context",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/13/two-day-national-conference-narratives-of-the-mind-media-literature-and-culture-in",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-10",
-      "eventDate": "",
-      "location": "St. Xavier's University, Kolkata",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "score": 58,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "About the Conference The conference, “Narratives of the Mind: Media, Literature and Culture,” is conceived as an interdisciplinary platform for examining the complex and evolving representations of the human mind across diverse branches: literature, culture, and media . In this context, the “mind” is not regarded solely as a structural or biological entit...",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
-      "fullDescription": "About the Conference The conference, “Narratives of the Mind: Media, Literature and Culture,” is conceived as an interdisciplinary platform for examining the complex and evolving representations of the human mind across diverse branches: literature, culture, and media . In this context, the “mind” is not regarded solely as a structural or biological entity, but as a dynamic site shaped by language, narrative, ideology, technology, and cultural practices. By foregrounding narratives, the conference aims to illuminate how mental experiences are constructed, expressed, mediated, and contested across time and space."
-    },
-    {
       "title": "Special Issue , \"AI Reshaping the Classroom: Transformation of Teaching and Learning Models”",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/47930",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-07-31",
       "location": "· Contemporary Education and Teaching Research",
       "status": "open",
@@ -74,33 +31,12 @@
       "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Pedagogy, Publication, Art / Media Practice."
     },
     {
-      "title": "[HYBRID OPTION AVAILABLE] The 2026 Multi-ConTEXT International Graduate Conference: “Interweaving Voices and Worlds: English Studies in Transformative",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/05/hybrid-option-available-the-2026-multi-context-international-graduate-conference-",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-10",
-      "eventDate": "",
-      "location": "Chungbuk National University, South Korea",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "score": 54,
-      "fields": [
-        "Film / Media",
-        "Interdisciplinary"
-      ],
-      "excerpt": "Call for Papers The 2026 Multi-ConTEXT International Graduate Conference “Interweaving Voices and Worlds: English Studies in Transformative Contexts”",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
-      "fullDescription": "Call for Papers The 2026 Multi-ConTEXT International Graduate Conference “Interweaving Voices and Worlds: English Studies in Transformative Contexts”"
-    },
-    {
       "title": "Global Cinema Symposium: Rethinking Transnational Cinema(s)",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -121,7 +57,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -141,7 +77,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -162,7 +98,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -183,7 +119,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-08-03",
       "location": "Las Vegas NV USA · California State University Chancellor's Office",
       "status": "open",
@@ -199,33 +135,12 @@
       "relevance": "Automatically surfaced as a likely RCID fit across AI, Art / Media Practice."
     },
     {
-      "title": "Sustainable Shakespeare: Human-Nature Interconnectedness in the Works of William Shakespeare",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/28/sustainable-shakespeare-human-nature-interconnectedness-in-the-works-of-william",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-10",
-      "eventDate": "",
-      "location": "Prof (Dr) Seema Raizada, Professor and Head, Govt MLB Girls PG Autonomous College, Bhopal, 9827055738 Prof (Dr) Rolii Agrawal, Professor and Head, Jagran Lakecity University, Bhopal, 9425148782",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "score": 32,
-      "fields": [
-        "Theory",
-        "Interdisciplinary"
-      ],
-      "excerpt": "William Shakespeare's plays are replete with themes that resonate with contemporary ecological anxieties. From the imagery of nature in The Tempest to the exploration of human ambition and environmental limits in Macbeth , Shakespeare's works offer a rich terrain for ecocritical analysis. This volume seeks to uncover how Shakespeare's plays can inform our...",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
-      "fullDescription": "William Shakespeare's plays are replete with themes that resonate with contemporary ecological anxieties. From the imagery of nature in The Tempest to the exploration of human ambition and environmental limits in Macbeth , Shakespeare's works offer a rich terrain for ecocritical analysis. This volume seeks to uncover how Shakespeare's plays can inform our understanding of sustainability and inspire new perspectives on human-nature relationships."
-    },
-    {
       "title": "Call for Papers: Temporalities: The Sixth Annual Critical Femininities Conference",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/47505",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-08-07",
       "location": "Virtual · The Critical Femininities Research Network (York University)",
       "status": "open",
@@ -245,7 +160,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47446",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-09-16",
       "location": "Munich, Germany · LMU Munich",
       "status": "open",
@@ -265,7 +180,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47443",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-07-27",
       "location": "Virtual · ETLTC",
       "status": "open",
@@ -285,7 +200,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-10",
+      "deadline": "2026-07-11",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -674,12 +589,12 @@
       "confidence": "medium",
       "score": 30,
       "fields": [
-        "Film / Media",
+        "Theory",
         "Art / Media Practice",
-        "Theory"
+        "Film / Media"
       ],
       "excerpt": "Extended Deadline: July 15, 2026 123rd Annual Conference, Seattle, Washington, Pacific Ancient and Modern Language Association (PAMLA) Nov 12-15, 2026 Submission process: Please send a 300-word abstract and a short bio (100 words) to amazuet@stanford.edu, preferably by June 15. Submission deadline extension: July 15, 2026. Cultural Patrimony in Wartime: D...",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Art / Media Practice.",
       "fullDescription": "Extended Deadline: July 15, 2026 123rd Annual Conference, Seattle, Washington, Pacific Ancient and Modern Language Association (PAMLA) Nov 12-15, 2026 Submission process: Please send a 300-word abstract and a short bio (100 words) to amazuet@stanford.edu, preferably by June 15. Submission deadline extension: July 15, 2026. Cultural Patrimony in Wartime: Destruction, Protection, and the Question of Ruling Classes https://pamla.ballastacademic.com/Home/CFP This session examines how wars-across historical periods and geopolitical contexts-affect cultural patrimony (monuments, libraries, archives, museums, sacred sites), and what role ruling classes play in either exacerbating or mitigating that damage. It does not assume elite malignity nor elite virtue. Instead, it asks a set of open, empirical questions: Under what conditions do ruling classes protect heritage? Under what conditions do they tolerate, orchestrate, or benefit from its destruction or looting? And what can the historical record teach us about better safeguarding the world's cultural inheritance in future conflicts? Session Description From the Roman destruction of Druidic sacred groves at Mona (60 CE) to the burning of Beijing's Old Summer Palace (1860), from the looting of archaeological sites in contemporary conflict zones to the clandestine burial of manuscripts by librarians under siege-war has always been a mortal threat to cultural patrimony. Yet wars have also, paradoxically, galvanized acts of preservation, from grassroots rescue operations to elite-led restoration projects. This session takes a long view, welcoming research from any period, region, or type of armed conflict (ancient to contemporary, interstate to civil war, colonial to anti-colonial). The organizing question is a practical and legal one: How adequate are existing political, legal, and institutional frameworks-from international law to local governance-for protecting cultural patrimony in wartime, and why do failures persist? Three complementary themes: I. The Vulnerability of Patrimony in War: Intentional destruction as military strategy? Looting as economic warfare? Collateral damage as neglect? How do international legal instruments (Hague Convention 1954, UNESCO protocols, Geneva Conventions) address cultural property? II. Ruling Classes-Between Destruction and Protection: When and why do ruling classes (state actors, military commanders, occupying powers, insurgent leaders) order or permit destruction? When do they invest in protection? What role do private elites (collectors, donors, corporations, diasporas) play in wartime heritage outcomes? Can ruling classes that benefit from war also become forces for post-conflict restoration? III. Preservation as Hope, Governance as Prevention: What do successful acts of wartime preservation look like (e.g., hidden archives, evacuated museum collections, community-led protection networks)? Beyond symbolism: how do budgets, legislation, training, and infrastructure shape a country's ability to protect patrimony before conflict erupts? Is there a measurable relationship between a ruling class's commitment to democracy, peace, and the rule of law and the part it plays in protecting cultural heritage? The session prioritizes awareness and shared learning. It aims to present scholars and, through them, policymakers and the public with comparative knowledge of how cultural patrimony is lost and saved in wartime. A library that reopens after a siege, a monument restored after bombardment, an archive that survives underground-these are not just symbols. They are tangible evidence that preservation is possible, and that ruling classes, whether through enlightened self-interest or genuine conviction, can choose protection over destruction. Interdisciplinary contributions are encouraged: history, cultural history, library and archive studies, architectural history, anthropology, museum studies, geopolitics, political science, colonial/postcolonial studies, Middle Eastern studies, Asian studies, and related fields."
     },
     {
@@ -2126,8 +2041,8 @@
       "score": 38,
       "fields": [
         "Digital Humanities / Design",
-        "Film / Media",
-        "Theory"
+        "Theory",
+        "Film / Media"
       ],
       "excerpt": "\"[...]anomal ne signifie autre chose qu'insolite, inaccoutumé. On doit donc entendre d'une mani&egrave;re générale, par un &ecirc;tre anomal, un &ecirc;tre qui s'éloigne par son organisation de la grande majorité des &ecirc;tres auxquels il doit &ecirc;tre comparé[...]\" (Isidore Geoffroy Saint-Hilaire, Histoire générale et particuli&egrave;re des anomalie...",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
@@ -3167,9 +3082,9 @@
       "confidence": "medium",
       "score": 34,
       "fields": [
-        "Interdisciplinary",
         "Film / Media",
-        "Theory"
+        "Theory",
+        "Interdisciplinary"
       ],
       "excerpt": "This panel invites exploration and interrogation of in(hospitable) spaces (political, affective, spatial) and its relationship to identity and trauma. Since writing is a way of exploring, representing, and healing from trauma, papers exploring how writing functions as a form of hospitality are welcome also. I envision exclusion of certain bodies because o...",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
@@ -3594,6 +3509,27 @@
       "excerpt": "Historical fiction is generally associated with the novel (see Green [2011] and Young [2018]). Yet the historical short story was significant before WWI: “from 1901 to 1914, over 1200 works of historical fiction were issued, of which nearly a quarter were short-story collections” (Cox and Adrian 1994, xiv). We may wonder if and how the genre has been impa...",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
       "fullDescription": "Historical fiction is generally associated with the novel (see Green [2011] and Young [2018]). Yet the historical short story was significant before WWI: “from 1901 to 1914, over 1200 works of historical fiction were issued, of which nearly a quarter were short-story collections” (Cox and Adrian 1994, xiv). We may wonder if and how the genre has been impacted by the renewed interest in the past and history in fiction over the past 30 years."
+    },
+    {
+      "title": "CONF Vladimir Nabokov: Contemporary Reception and Creative Legacy",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49349",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-15",
+      "eventDate": "2027-04-28",
+      "location": "Bordeaux, France · French Vladimir Nabokov Society",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 42,
+      "fields": [
+        "Technical Communication",
+        "Film / Media"
+      ],
+      "excerpt": "International Conference Vladimir Nabokov: Contemporary Reception and Creative Legacy April 28-30, 2027 Bordeaux Montaigne University On the occasion of the 50th anniversary of Vladimir Nabokov's passing, the French Vladimir Nabokov Society, in collaboration with the University of Bordeaux-Montaigne and the International Vladimir Nabokov Society, organize...",
+      "fullDescription": "International Conference Vladimir Nabokov: Contemporary Reception and Creative Legacy April 28-30, 2027 Bordeaux Montaigne University On the occasion of the 50th anniversary of Vladimir Nabokov's passing, the French Vladimir Nabokov Society, in collaboration with the University of Bordeaux-Montaigne and the International Vladimir Nabokov Society, organizes its 10th International Conference, to be held April 28-30, 2027 in Bordeaux, France. Distinguished guest : Orhan PAMUK, Nobel Prize in Literature Keynote speaker : Yuri LEVING, Princeton University The full call for paper and all the practical information can be found via this link : https://www.vladimir-nabokov.org/colloque-bordeaux-2027 Organizing committee: Honorine AGUIRIANO (Bordeaux-Montaigne University), Marie BOUCHET (University of Toulouse), Agn&egrave;s EDEL-ROY (Paris-Est Créteil University), Térence ISART (Bordeaux Montaigne University), Charlotte LAMONTAGNE (Paris Cité University), Julie LESNOFF (EHESS), Monica MANOLESCU (University of Strasbourg/USIAS), Isabelle POULIN (Bordeaux-Montaigne University), Sorenza WILKIN (University of Mons).",
+      "relevance": "Automatically surfaced as a likely RCID fit across Technical Communication, Film / Media."
     },
     {
       "title": "TRUST___DISTRUST — 16th European Academy of Design Conference",
@@ -4431,28 +4367,6 @@
       "fullDescription": "Panel Proposal for the NeMLA Convention, Newport, RI, March 6–9, 2027 Planetary crises—climate change, toxic pollution, biodiversity loss, and energy transition—are profoundly uneven in their distribution. Their material consequences are shaped by infrastructures of class, race, colonial histories, state power, and global capitalism. Increasingly, literary, artistic, and cultural texts across the world foreground these asymmetries, framing ecological crisis not only as environmental catastrophe but as a question of justice: Who breathes polluted air? Who profits from green transformation? Who consumes melting ice? Who bears the social and environmental costs of planetary change?"
     },
     {
-      "title": "Adam J. Banks's \"Dominant Genre Emeritus\": 10 Years Later",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/08/adam-j-bankss-dominant-genre-emeritus-10-years-later",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "College Language Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Rhetoric",
-        "Publication",
-        "Pedagogy"
-      ],
-      "excerpt": "The College Language Association Journal invites submissions for a special issue inspired by Adam J. Banks’s 2016 CLA Journal essay, “Dominant Genre Emeritus: Why It Is Time to Retire the Academic Essay.” In that essay, Banks challenges writing teachers to reconsider the privileged position of the academic essay and to imagine alternative forms of composi...",
-      "fullDescription": "The College Language Association Journal invites submissions for a special issue inspired by Adam J. Banks’s 2016 CLA Journal essay, “Dominant Genre Emeritus: Why It Is Time to Retire the Academic Essay.” In that essay, Banks challenges writing teachers to reconsider the privileged position of the academic essay and to imagine alternative forms of composing, meaning-making, and knowledge production.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Publication."
-    },
-    {
       "title": "Reproductive (Un)silencing: Empowering Communities Through Creative Writing",
       "source": "UPenn CFP",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/25/reproductive-unsilencing-empowering-communities-through-creative-writing",
@@ -4701,6 +4615,28 @@
       "fullDescription": "CFP for NeMLA 2027 Conference Virtual Only Panel Oral Community Knowledge as Antidote for Empire in Anglophone Literature If Empire thrives and even conquers through written text: codification of laws and bureaucracy, cartography of territory, travelogues of the exotic Other, it equally seeks to suppress oral indigenous knowledge of the vanquished. Yet orality can also be the site of resistance and community identity for just such a reason. This panel seeks proposals of works that investigate how orality of form and/or content in Anglophone literature disrupts Empire and empowers community. The irony of pursuing orality in literature, which is historically written, is not lost on us, but also provides an opportunity for creative, resilient exploration. Some possible ways of approaching this topic may include: Accent and dialect Pidgins, creoles, and contact languages Translations and translators Language and identity Oral folk wisdom and stories Glossaries and indices Textual hybridity or multimodality Literacy This is a Call for Papers for the NeMLA 2027 Conference. Submissions will only be accepted through the NeMLA portal, with a deadline of September 30, 2026 . This panel is Virtual Only , regardless of whether the participant is physically present at the conference. Paper proposals can be submitted here: https://cfplist.com/nemla/Home/S/22648. Only submissions submitted through the NeMLA portal will be considered. For questions, please feel free to email Dr. Dorisa Costello at dcostello@jessup.edu."
     },
     {
+      "title": "Adam J. Banks's \"Dominant Genre Emeritus\": 10 Years Later",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/08/adam-j-bankss-dominant-genre-emeritus-10-years-later",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "",
+      "location": "College Language Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 42,
+      "fields": [
+        "Rhetoric",
+        "Publication",
+        "Pedagogy"
+      ],
+      "excerpt": "The College Language Association Journal invites submissions for a special issue inspired by Adam J. Banks’s 2016 CLA Journal essay, “Dominant Genre Emeritus: Why It Is Time to Retire the Academic Essay.” In that essay, Banks challenges writing teachers to reconsider the privileged position of the academic essay and to imagine alternative forms of composi...",
+      "fullDescription": "The College Language Association Journal invites submissions for a special issue inspired by Adam J. Banks’s 2016 CLA Journal essay, “Dominant Genre Emeritus: Why It Is Time to Retire the Academic Essay.” In that essay, Banks challenges writing teachers to reconsider the privileged position of the academic essay and to imagine alternative forms of composing, meaning-making, and knowledge production.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Publication."
+    },
+    {
       "title": "Affect at the Limit: Postcolonial Feeling and Form",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/49114",
@@ -4721,6 +4657,29 @@
       "excerpt": "Affect theory has grown largely within Euro-American frameworks, from Berlant's neoliberal America to Stewart's account of the American ordinary. Sara Ahmed's work on the cultural politics of emotion has been pivotal in reorienting the field toward race, migration, and colonial power, showing how feelings attach differently to racialized and gendered bodi...",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory, Art / Media Practice.",
       "fullDescription": "Affect theory has grown largely within Euro-American frameworks, from Berlant's neoliberal America to Stewart's account of the American ordinary. Sara Ahmed's work on the cultural politics of emotion has been pivotal in reorienting the field toward race, migration, and colonial power, showing how feelings attach differently to racialized and gendered bodies. This panel builds on that reorientation. It asks what happens when affect theory travels more fully into postcolonial and diasporic contexts, where the body in question has been shaped by colonial histories, forced migration, and asymmetrical encounters with Western institutions. How do structures of feeling shift under these conditions, and where do existing frameworks reach their limit? The panel takes postcolonial and diasporic texts as active interlocutors, capable of pressuring, revising, and extending theory rather than simply illustrating it. We invite papers that attend to the specific conditions under which feeling circulates, accumulates, and fails to discharge in migrant and postcolonial experience. How does testimony feel from the position of the postcolonial subject? What does care cost in communities shaped by colonial injury and displacement? Objects, spaces, and bodies carry affective residue across cultures and histories in ways that ask for new forms of attention and recognition. Papers might engage fiction, film, digital media, and visual culture from postcolonial and diasporic traditions, attending to the affective dimensions of migrant and colonial experience. We welcome contributions grounded in affect theory, postcolonial studies, comparative literature, and media studies. Graduate researchers and faculty are encouraged to apply."
+    },
+    {
+      "title": "Reading the Earth: Geology, Memory, and Relational Poetics",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49353",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 38,
+      "fields": [
+        "Digital Humanities / Design",
+        "Art / Media Practice",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Across contemporary literary and cultural studies, increasing attention has been devoted to the ways in which geological matter shapes cultural imagination, environmental memory, and literary form. Rocks, minerals, fossils, sediments, ruins, and other more-than-living material formations are no longer understood merely as settings or symbols, but as archi...",
+      "fullDescription": "Across contemporary literary and cultural studies, increasing attention has been devoted to the ways in which geological matter shapes cultural imagination, environmental memory, and literary form. Rocks, minerals, fossils, sediments, ruins, and other more-than-living material formations are no longer understood merely as settings or symbols, but as archives of deep time, environmental change, historical violence, and planetary entanglement. This panel invites papers exploring how literature engages with the Earth as a site of memory, relation, and meaning-making. We are particularly interested in approaches that examine geological formations, landscapes, material traces, planetary archives, and sedimented histories as participants in literary and cultural processes rather than passive backdrops to human experience. Possible topics include geologies of memory; deep time and literary temporality; environmental trauma and material archives; fossils, ruins, and traces; sacred landscapes and earth-based imaginaries; extraction, waste, and environmental justice; posthumanist and new materialist approaches to literature; relational poetics; and the intersections of geology, ecology, and cultural memory. We welcome contributions addressing literary and cultural texts from any historical period, linguistic tradition, or geographical region, as well as comparative and transnational perspectives. The session will be held in-person but a few remote presentations may be included. Please clearly indicate in your submission whether you wish to participate in person or remotely. All abstract submissions must be submitted through the NeMLA portal https://cfplist.com/nemla/Home/S/22630. Please note that the submission window for individual abstracts officially opens June 15 and closes September 30.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice."
     },
     {
       "title": "Africana Integrativa: Locating the “Black” in Bad Bunny",
@@ -4830,6 +4789,48 @@
       "fullDescription": "When Henry James described the Victorian multi-plot novel as “large loose baggy monsters,” he didn’t have twentieth and twenty-first century horror in mind, but the echoing effects of the Gothic on writers like Charles Dickens, Wilkie Collins, Mary Elizabeth Braddon, Charles Reade, and others. These writers drew on the multiplied plots and perspectives of the Gothic to represent how social worlds were constructed and constrained."
     },
     {
+      "title": "Apocalypse or Utopia: Whose End of the World?",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49351",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, Rhode Island",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 34,
+      "fields": [
+        "Interdisciplinary",
+        "Film / Media"
+      ],
+      "excerpt": "Hybrid: The session will be held in-person but a few remote presentations may be included. Primary Areas of interest: Global Anglophone / Cultural Studies and Media Studies Abstract: Since at least the middle of the 20th century, we have seen few, if any, utopian texts speculating about positive potential worlds. Instead, we have seen a deluge of dystopia...",
+      "fullDescription": "Hybrid: The session will be held in-person but a few remote presentations may be included. Primary Areas of interest: Global Anglophone / Cultural Studies and Media Studies Abstract: Since at least the middle of the 20th century, we have seen few, if any, utopian texts speculating about positive potential worlds. Instead, we have seen a deluge of dystopian, apocalyptic, and post-apocalyptic texts foretelling the end of the world. This begs the question, why have utopian texts become such a scarce literary genre? What is it about our time that makes speculative literature turn away from the utopic and instead toward its more nihilistic counterparts? Our societal fascination with apocalyptic literature has not gone unnoticed. Writing in 1979, H. Bruce Franklin identifies this cultural anxiety in his essay, \"What Are We to Make of J. G. Ballard's Apocalypse,\" where he claims that the post-World War II decolonial liberation movements and the collapse of the European empires were the source of this apocalyptic obsession. On the other hand, the utopian genre is often acknowledged as beginning with Thomas More's Utopia (1516), written within the burgeoning rise of capitalism and the colonial expansion of early 16th century Europe. Hythloday, More's fictional narrator, finds Utopia within the New World, where the undiscovered territories and peoples outside of Europe became the catalysts that made the early utopian imagination possible. That the European utopian genre came at the expense of the existing worlds of indigenous peoples might also prompt us to think about how apocalypse factors into the utopian imagination. Since Franklin's essay, this fixation with the end of the world has only intensified, driven to new heights by the overwhelming evidence of climate change's devastation, global pandemics, and catastrophic geopolitical conflicts. Franklin concludes that Ballard's novels are unable to make a distinction between the end of capitalism and the end of the world itself. This prompts us ask: whose \"world\" is ending and how might it make way for a new one?",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media."
+    },
+    {
+      "title": "Literary and Cultural Communities Between Asia and the Hispanophone World",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49344",
+      "type": "Art Call",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI · NeMLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 34,
+      "fields": [
+        "Art / Media Practice",
+        "Film / Media"
+      ],
+      "excerpt": "From the early European missionaries who ventured into Asia all the way to the contemporary networks of connection that currently link Spain and Latin America countries like China, Japan and Korea, the cultural, literary and artistic links between Asia and the Hispanophone world run deep. Based on religious, linguistic, cultural, literary or artistic poin...",
+      "fullDescription": "From the early European missionaries who ventured into Asia all the way to the contemporary networks of connection that currently link Spain and Latin America countries like China, Japan and Korea, the cultural, literary and artistic links between Asia and the Hispanophone world run deep. Based on religious, linguistic, cultural, literary or artistic points of contact, numerous groups and communities have maintained active and productive lines of connection that have transform their own localities through the implementation of imported ideas, products, concepts from the other side of the world. Considering the long-standing lines of dialogue between these two vast geographic spaces, we invite scholars reflecting on questions such as: How Hispanophone writers and artists have searched in Asian literary practices spaces for renewal and innovation? How communities from Asian countries have assimilated and reinterpreted Latin American cultural products? How do the cultural products and creative practices of the two sides of the Pacific Ocean mirror/distort/reinvent each other? Papers dealing with literature, theatre, cinema, and other cultural productions are welcome. This is board-sponsored panel accepts presentations in English and Spanish are welcome.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice."
+    },
+    {
       "title": "Bodies, Borders, and Belonging: Comparative Perspectives on South Korean and Italian Women Writers",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/49314",
@@ -4850,27 +4851,6 @@
       "excerpt": "This panel explores the intersections between contemporary South Korean and Italian women's writing through the lenses of memory, gender, trauma, migration, and post-national identity. While these literary traditions are often studied separately within distinct geopolitical and linguistic frameworks, the panel proposes a comparative and transnational appr...",
       "fullDescription": "This panel explores the intersections between contemporary South Korean and Italian women's writing through the lenses of memory, gender, trauma, migration, and post-national identity. While these literary traditions are often studied separately within distinct geopolitical and linguistic frameworks, the panel proposes a comparative and transnational approach that foregrounds shared concerns surrounding patriarchal structures, historical violence, intergenerational memory, and the negotiation of belonging. Bringing together scholars working on Italian and Korean women writers, the panel examines how literature becomes a space for articulating marginalized experiences and challenging dominant national narratives. The selected texts engage with themes such as family silences, colonial and postwar legacies, diaspora, racialization, feminist activism, labor, and the body as an archive of memory. Through memoir, autofiction, and experimental narrative forms, these writers construct alternative genealogies and forms of counter-memory that complicate homogeneous understandings of identity and nationhood. The panel seeks to foster an interdisciplinary conversation between Asian Studies, Italian Studies, Comparative Literature, Gender Studies, and Migration Studies. By placing South Korean and Italian women writers in dialogue, the session highlights the productive possibilities of comparative feminist methodologies across different cultural contexts while emphasizing shared strategies of resistance, care, and narrative reconstruction.",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media."
-    },
-    {
-      "title": "Liminal Dialogues: AI, Voice, and Impossible Conversations in Literary Creation",
-      "source": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/49296",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI Convention Site: Salve Regina University · NEMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "score": 34,
-      "fields": [
-        "AI",
-        "Film / Media"
-      ],
-      "excerpt": "This creative session invites scholars, writers, and hybrid practitioner-theorists to explore liminal dialogue as a form of literary creation in which unlikely, displaced, or structurally incompatible voices are brought into conversation. Drawing on the centrality of dialogue in literary and dramatic traditions, this panel reimagines conversational form a...",
-      "fullDescription": "This creative session invites scholars, writers, and hybrid practitioner-theorists to explore liminal dialogue as a form of literary creation in which unlikely, displaced, or structurally incompatible voices are brought into conversation. Drawing on the centrality of dialogue in literary and dramatic traditions, this panel reimagines conversational form as a site of constraint-based experimentation, where meaning emerges through the collision of discourses that would not ordinarily coexist. Rather than focusing on artificial intelligence as a technological subject, this session treats AI-assisted generation as a formal device for producing estranged adjacency between voices, genres, and epistemologies. What happens when characters drawn from radically different narrative worlds, historical moments, or discursive systems are placed in structured conversation? How does meaning shift when dialogue is detached from stable context, shared reality, or conventional narrative logic? We welcome creative-critical submissions that use AI-assisted or procedural methods to generate liminal dialogues between incompatible speakers or speech forms. Contributions might include conversations between fictional, historical, or conceptual figures who would not normally meet; dialogues staged between competing textual systems or genres; or experimental works in which voice, tone, and argumentative logic destabilize one another through forced proximity. Submissions may also explore the failure of communication itself as a productive literary space. The session is especially interested in work that frames dialogue as a site of interpretive tension rather than narrative coherence, and in which meaning emerges through friction, misalignment, and discursive instability. AI or generative systems may be used as compositional tools, but the emphasis should remain on literary form, voice construction, and interpretive effect rather than technology itself. We encourage submissions across poetry, prose, hybrid writing, and performative or experimental formats suitable for conference presentation.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, AI."
     },
     {
       "title": "Resisting from the Edge: Marginal Characters and Collective Empowerment",
@@ -4975,6 +4955,27 @@
       "excerpt": "Language is key to communication, whether visual, auditory, linguistic, spatial, or gestural. In literature, modalities might include devices such as phraseology, tone, sensory elements, symbolism, satire, irony, characterizations, or figurative language. Modalities in literature can be narrative, descriptive, persuasive, expository, causal, effectual, de...",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "fullDescription": "Language is key to communication, whether visual, auditory, linguistic, spatial, or gestural. In literature, modalities might include devices such as phraseology, tone, sensory elements, symbolism, satire, irony, characterizations, or figurative language. Modalities in literature can be narrative, descriptive, persuasive, expository, causal, effectual, definitive, comparative, and argumentative. Through close and careful examination of \"voice,\" \"word,\" or \"non-verbal expressions\" of speaker or writer, someone might discover surprising probabilities, poignant certainties, unexpected opportunities, awakened obligations, absurd necessities, or unusual permissions that shift from \"a state of passivity to being active agents of change.\" This roundtable session will explore, define, determine, and discuss how key modalities in various literatures have the ability to excite, intrigue, and empower communities--large and small, academic and personal, collective and individual-to values of positivity and collectiveness."
+    },
+    {
+      "title": "Liminal Dialogues: AI, Voice, and Impossible Conversations in Literary Creation",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49296",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI Convention Site: Salve Regina University · NEMLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "AI"
+      ],
+      "excerpt": "This creative session invites scholars, writers, and hybrid practitioner-theorists to explore liminal dialogue as a form of literary creation in which unlikely, displaced, or structurally incompatible voices are brought into conversation. Drawing on the centrality of dialogue in literary and dramatic traditions, this panel reimagines conversational form a...",
+      "fullDescription": "This creative session invites scholars, writers, and hybrid practitioner-theorists to explore liminal dialogue as a form of literary creation in which unlikely, displaced, or structurally incompatible voices are brought into conversation. Drawing on the centrality of dialogue in literary and dramatic traditions, this panel reimagines conversational form as a site of constraint-based experimentation, where meaning emerges through the collision of discourses that would not ordinarily coexist. Rather than focusing on artificial intelligence as a technological subject, this session treats AI-assisted generation as a formal device for producing estranged adjacency between voices, genres, and epistemologies. What happens when characters drawn from radically different narrative worlds, historical moments, or discursive systems are placed in structured conversation? How does meaning shift when dialogue is detached from stable context, shared reality, or conventional narrative logic? We welcome creative-critical submissions that use AI-assisted or procedural methods to generate liminal dialogues between incompatible speakers or speech forms. Contributions might include conversations between fictional, historical, or conceptual figures who would not normally meet; dialogues staged between competing textual systems or genres; or experimental works in which voice, tone, and argumentative logic destabilize one another through forced proximity. Submissions may also explore the failure of communication itself as a productive literary space. The session is especially interested in work that frames dialogue as a site of interpretive tension rather than narrative coherence, and in which meaning emerges through friction, misalignment, and discursive instability. AI or generative systems may be used as compositional tools, but the emphasis should remain on literary form, voice construction, and interpretive effect rather than technology itself. We encourage submissions across poetry, prose, hybrid writing, and performative or experimental formats suitable for conference presentation.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, AI."
     },
     {
       "title": "Paris Noir: Changes in the Margin",
@@ -5179,13 +5180,13 @@
       "confidence": "medium",
       "score": 30,
       "fields": [
-        "Theory",
-        "Art / Media Practice",
         "Pedagogy",
+        "Art / Media Practice",
+        "Theory",
         "Film / Media"
       ],
       "excerpt": "Hybrid: The session will be held in-person but a few remote presentations may be included. This panel invites contributions that examine how food and foodways shape and reflect cultural knowledge across time and place, with particular attention to the relationships among foodways, memory, migration, identity, cultural heritage, and community formation. Pr...",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Art / Media Practice.",
       "fullDescription": "Hybrid: The session will be held in-person but a few remote presentations may be included. This panel invites contributions that examine how food and foodways shape and reflect cultural knowledge across time and place, with particular attention to the relationships among foodways, memory, migration, identity, cultural heritage, and community formation. Proposals are welcome from a range of disciplinary and professional perspectives that explore food and cultural identity in literature, cinema, and other forms of media; oral history projects; mapping initiatives; community archives and digital collections; public-facing scholarship; and pedagogical approaches to Food Studies. The panel also invites discussion of emerging technologies and methodologies that offer new ways of researching, representing, and engaging with foodways and cultural heritage, while expanding opportunities for the communication and exchange of cultural knowledge. Whether through literary and cinematic representation, historical research, oral histories, or other forms of cultural production and inquiry, food-centred scholarship offers valuable insights into the ways individuals and communities understand and communicate culture across generations and geographies. In keeping with the conference theme, Empowering Communities, this session considers how foodways can serve as sites of cultural expression, knowledge-sharing, and collective memory, while encouraging reflection on questions of belonging, exchange, continuity, and cultural change."
     },
     {
@@ -5491,13 +5492,13 @@
       "confidence": "medium",
       "score": 34,
       "fields": [
-        "Film / Media",
+        "Theory",
         "Publication",
         "Art / Media Practice",
-        "Theory"
+        "Film / Media"
       ],
       "excerpt": "Postcolonial Interventions (ISSN 2455-6564) Call for Papers Vol. XII, Issue 1 (January 2027) Postcolonial Interventions invites scholarly articles for the January 2027 issue on the theme of Popular Culture and the Rise of the Right. Across the world, right-wing governments are gaining power and momentum and various aspects of popular culture have played a...",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Publication, Art / Media Practice.",
       "fullDescription": "Postcolonial Interventions (ISSN 2455-6564) Call for Papers Vol. XII, Issue 1 (January 2027) Postcolonial Interventions invites scholarly articles for the January 2027 issue on the theme of Popular Culture and the Rise of the Right. Across the world, right-wing governments are gaining power and momentum and various aspects of popular culture have played a key role in endorsing, proliferating and consolidating the basic tenets of these regimes which include such common features as xenophobia, persecution of minorities, religious bigotry, ecological catastrophes, jingoism, discrimination against LGBTQI+ communities, collapse of social security coupled with increased precarity, nexus between state and oligarchs, patriarchal chauvinism and much else. At the same time, the same domain of popular culture continues to generate subversive voices as well which keep on opposing the cardinal ideas of the dominant order. We are hoping to receive articles that take into account these currents and cross-currents to explore the layered and complex relationship between right-wing politics and popular culture across postcolonial societies through an examination of diverse cultural artefacts. Submission Guidelines: Articles must be original and unpublished. Submission will imply that it is not being considered for publication elsewhere. Written in Times New Roman 12, double spaced with 1&Prime; margin on all sides, in doc/docx format. Between 4000-7000 words, inclusive of all citations. With in-text citations and a Works Cited list complying with Chicago Manual of Style (author-date) specifications. A separate cover page should include the author's name, designation, an abstract of 250 words with a maximum of 5 keywords and a short bio-note of 50 words. The main article should not in any way contain the author's name. Otherwise the article will not be considered. Reviews also need to follow the aforementioned guidelines. However, word limit for reviews is 1500 words. Only reviews of books published within the last two years is acceptable. The contributors are responsible for obtaining permission to reproduce any material, including photographs and illustrations for which they do not hold copyright. Please submit a plagiarism check report from Turnitin/Drillbit or any other reliable service provider along with your paper. Similarity percentage should be 10 or lower. Please send all your contributions to postcolonialinterventions@gmail.com within 15 October, 2026."
     },
     {
