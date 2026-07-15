@@ -47,7 +47,7 @@ collections:
         file: "src/data/site/hero.json"
         format: "json"
         fields:
-          - { label: "Hero Eyebrow", name: "eyebrow", widget: "string" }
+          - { label: "Small Label Above Hero Title", name: "eyebrow", widget: "string" }
           - { label: "Hero Title", name: "title", widget: "string" }
           - { label: "Hero Text", name: "text", widget: "text" }
           - { label: "Primary Button Text", name: "primaryActionText", widget: "string" }
@@ -68,7 +68,7 @@ collections:
         file: "src/data/site/contact.json"
         format: "json"
         fields:
-          - { label: "Kicker", name: "kicker", widget: "string" }
+          - { label: "Small Label Above Contact Title", name: "kicker", widget: "string" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Text", name: "text", widget: "text" }
           - { label: "Email", name: "email", widget: "string" }
@@ -91,6 +91,7 @@ collections:
           - label: "Quick Links"
             name: "items"
             widget: "list"
+            collapsed: false
             fields:
               - { label: "Label", name: "label", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
@@ -104,11 +105,12 @@ collections:
         file: "src/data/about.json"
         format: "json"
         fields:
-          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Small Label Above Section Title", name: "kicker", widget: "string" }
           - { label: "Section Title", name: "title", widget: "string" }
           - label: "Paragraphs"
             name: "paragraphs"
             widget: "list"
+            collapsed: false
             field: { label: "Paragraph", name: "paragraph", widget: "text" }
 
   - name: "events"
@@ -119,12 +121,13 @@ collections:
         file: "src/data/events.json"
         format: "json"
         fields:
-          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Small Label Above Section Title", name: "kicker", widget: "string" }
           - { label: "Section Title", name: "title", widget: "string" }
           - { label: "Section Text", name: "text", widget: "text" }
           - label: "Events"
             name: "items"
             widget: "list"
+            collapsed: false
             summary: "{{fields.date}} - {{fields.title}}"
             fields:
               - { label: "Display Date", name: "date", widget: "string" }
@@ -141,12 +144,13 @@ collections:
         file: "src/data/resources.json"
         format: "json"
         fields:
-          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Small Label Above Section Title", name: "kicker", widget: "string" }
           - { label: "Section Title", name: "title", widget: "string" }
           - { label: "Section Text", name: "text", widget: "text" }
           - label: "Resources"
             name: "items"
             widget: "list"
+            collapsed: false
             summary: "{{fields.label}} - {{fields.title}}"
             fields:
               - { label: "Label", name: "label", widget: "string" }
@@ -169,12 +173,13 @@ collections:
         file: "src/data/officers.json"
         format: "json"
         fields:
-          - { label: "Section Kicker", name: "kicker", widget: "string" }
+          - { label: "Small Label Above Section Title", name: "kicker", widget: "string" }
           - { label: "Section Title", name: "title", widget: "string" }
           - { label: "Section Text", name: "text", widget: "text" }
           - label: "Officers"
             name: "items"
             widget: "list"
+            collapsed: false
             summary: "{{fields.role}} - {{fields.name}}"
             fields:
               - { label: "Show Role", name: "showRole", widget: "boolean", default: true }
@@ -194,9 +199,10 @@ collections:
           - label: "Page Summary"
             name: "summary"
             widget: "object"
+            collapsed: false
             hint: "This copy is preserved when the automated opportunity scan refreshes the item list."
             fields:
-              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Small Label Above Page Title", name: "kicker", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Text", name: "text", widget: "text" }
           - label: "Published Items"
@@ -216,6 +222,7 @@ collections:
           - label: "Top Navigation Links"
             name: "navLinks"
             widget: "list"
+            collapsed: false
             summary: "{{fields.label}}"
             fields:
               - { label: "Label", name: "label", widget: "string" }
@@ -223,6 +230,7 @@ collections:
           - label: "Status Cards"
             name: "stats"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
               - { label: "Open Calls Label", name: "openCallsLabel", widget: "string" }
@@ -233,13 +241,15 @@ collections:
           - label: "Browse by Purpose Heading"
             name: "purposeSection"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
-              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Small Label Above Heading", name: "kicker", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
           - label: "Browse by Purpose Cards"
             name: "purposeOptions"
             widget: "list"
+            collapsed: false
             summary: "{{fields.label}}"
             fields:
               - { label: "Card Label", name: "label", widget: "string" }
@@ -250,6 +260,7 @@ collections:
           - label: "Search and Filter Controls"
             name: "filters"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
               - { label: "Search Label", name: "searchLabel", widget: "string" }
@@ -262,6 +273,7 @@ collections:
               - label: "Sort Options"
                 name: "sortOptions"
                 widget: "list"
+                collapsed: false
                 summary: "{{fields.label}}"
                 fields:
                   - { label: "Label", name: "label", widget: "string" }
@@ -272,42 +284,49 @@ collections:
           - label: "Result Group Headings"
             name: "groups"
             widget: "object"
+            collapsed: false
             fields:
               - label: "Due Soon"
                 name: "dueSoon"
                 widget: "object"
+                collapsed: false
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
                   - { label: "Text", name: "text", widget: "text" }
               - label: "Media, Film & Art"
                 name: "mediaArt"
                 widget: "object"
+                collapsed: false
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
                   - { label: "Text", name: "text", widget: "text" }
               - label: "Journals & Collections"
                 name: "publications"
                 widget: "object"
+                collapsed: false
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
                   - { label: "Text", name: "text", widget: "text" }
               - label: "Conferences & CFPs"
                 name: "conferences"
                 widget: "object"
+                collapsed: false
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
                   - { label: "Text", name: "text", widget: "text" }
               - label: "Funding & Fellowships"
                 name: "funding"
                 widget: "object"
+                collapsed: false
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
                   - { label: "Text", name: "text", widget: "text" }
           - label: "Map Text"
             name: "map"
             widget: "object"
+            collapsed: false
             fields:
-              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Small Label Above Map Title", name: "kicker", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Text", name: "text", widget: "text" }
               - { label: "Map Accessibility Label", name: "canvasLabel", widget: "string" }
@@ -331,6 +350,7 @@ collections:
           - label: "Results and Saved Items Text"
             name: "results"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Count Suffix", name: "countSuffix", widget: "string" }
               - { label: "Updated Prefix", name: "updatedPrefix", widget: "string" }
@@ -349,6 +369,7 @@ collections:
           - label: "Card Action Labels"
             name: "actions"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Forward", name: "forwardLabel", widget: "string" }
               - { label: "Save", name: "saveLabel", widget: "string" }
@@ -361,6 +382,7 @@ collections:
           - label: "Card Labels"
             name: "cards"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Event Label", name: "eventLabel", widget: "string" }
               - { label: "Days Left Label", name: "daysLeftLabel", widget: "string" }
@@ -371,6 +393,7 @@ collections:
           - label: "Date Labels"
             name: "dateLabels"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Rolling", name: "rolling", widget: "string" }
               - { label: "Closed", name: "closed", widget: "string" }
@@ -388,6 +411,7 @@ collections:
           - label: "Generated Quick Scan Text"
             name: "generatedInsights"
             widget: "object"
+            collapsed: false
             hint: "These labels appear before automatically extracted source details."
             fields:
               - { label: "Matched Because Prefix", name: "matchedBecausePrefix", widget: "string" }
@@ -398,6 +422,7 @@ collections:
           - label: "Details Dialog Text"
             name: "dialog"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Close Label", name: "closeLabel", widget: "string" }
               - { label: "Details Accessibility Label", name: "detailsLabel", widget: "string" }
@@ -412,8 +437,9 @@ collections:
           - label: "Source Notes Section"
             name: "sourceSection"
             widget: "object"
+            collapsed: false
             fields:
-              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Small Label Above Source Section Title", name: "kicker", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Text", name: "text", widget: "text" }
               - { label: "Feed Title", name: "feedTitle", widget: "string" }
@@ -435,6 +461,7 @@ collections:
           - label: "Sources"
             name: "items"
             widget: "list"
+            collapsed: false
             summary: "{{fields.name}}"
             fields:
               - { label: "ID", name: "id", widget: "string" }
@@ -470,6 +497,7 @@ collections:
           - label: "Top Navigation Links"
             name: "navLinks"
             widget: "list"
+            collapsed: false
             summary: "{{fields.label}}"
             fields:
               - { label: "Label", name: "label", widget: "string" }
@@ -477,13 +505,15 @@ collections:
           - label: "Hero Copy"
             name: "hero"
             widget: "object"
+            collapsed: false
             fields:
-              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Small Label Above Archive Title", name: "kicker", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Text", name: "text", widget: "text" }
           - label: "Filter Labels"
             name: "filters"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
               - { label: "Search Label", name: "searchLabel", widget: "string" }
@@ -495,5 +525,6 @@ collections:
           - label: "Results Text"
             name: "results"
             widget: "object"
+            collapsed: false
             fields:
               - { label: "Count Suffix", name: "countSuffix", widget: "string" }
