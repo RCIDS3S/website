@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <title>Opportunity Radar Maintainer Guide</title>
+    <style>
+      :root { color-scheme: light; --purple: #522d80; --orange: #f66733; --ink: #17191d; --paper: #f6f1e8; --panel: #fffaf1; }
+      * { box-sizing: border-box; }
+      body { max-width: 980px; margin: 0 auto; padding: 40px 24px 72px; color: var(--ink); background: var(--paper); font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.6; }
+      h1, h2 { color: var(--purple); font-family: Georgia, "Times New Roman", serif; line-height: 1.08; }
+      h1 { margin: 0 0 16px; font-size: clamp(2.4rem, 8vw, 5rem); }
+      h2 { margin-top: 34px; font-size: clamp(1.5rem, 4vw, 2.3rem); }
+      a { color: var(--purple); font-weight: 800; text-decoration-color: var(--orange); text-underline-offset: 0.2em; }
+      code { padding: 0.1em 0.3em; border-radius: 4px; background: rgba(82, 45, 128, 0.12); }
+      .lede { max-width: 72ch; color: #4f555c; font-size: 1.12rem; }
+      .callout { padding: 18px; border-left: 5px solid var(--orange); border-radius: 8px; background: var(--panel); }
+      .flow { display: grid; gap: 10px; padding: 0; list-style: none; counter-reset: flow; }
+      .flow li { padding: 14px 16px; border-radius: 8px; background: var(--panel); }
+      .flow li::before { counter-increment: flow; content: counter(flow); display: inline-grid; place-items: center; width: 1.8rem; height: 1.8rem; margin-right: 10px; border-radius: 50%; color: white; background: var(--purple); font-weight: 900; }
+      .links { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); padding: 0; list-style: none; }
+      .links a { display: block; height: 100%; padding: 14px; border: 2px solid var(--purple); border-radius: 8px; background: var(--panel); text-decoration: none; }
+    </style>
+  </head>
+  <body>
+    <p><a href="/admin/help.html">Back to admin help</a> · <a href="/admin/">Back to editor</a></p>
+    <h1>Opportunity Radar maintainer guide</h1>
+    <p class="lede">This is the deliberate handoff surface for the Radar. It explains where the machinery lives without turning production code into ordinary CMS fields.</p>
+
+    <section class="callout"><strong>Routine editors:</strong> use the Opportunity Radar introduction editor and source suggestion queue only. Live source configuration, filters, parsers, automation, and generated items require a reviewed code change.</section>
+
+    <h2>How the feed works</h2>
+    <ol class="flow">
+      <li>Routine editors may suggest source URLs in a safe queue.</li>
+      <li>Maintainers review suggestions and promote only suitable sources into the protected configuration.</li>
+      <li>Configured sources define what the Radar monitors.</li>
+      <li>A scheduled GitHub workflow runs the refresh script every day.</li>
+      <li>The script fetches, parses, scores, filters, and deduplicates candidate opportunities.</li>
+      <li>Automation writes a private audit set and the public feed data.</li>
+      <li>The Astro page groups and renders the public feed using protected UI configuration.</li>
+      <li>Cloudflare Pages publishes the validated result.</li>
+    </ol>
+
+    <h2>Open the machinery</h2>
+    <ul class="links">
+      <li><a href="https://github.com/RCIDS3S/website/blob/main/docs/opportunity-radar-maintainer.md">Full maintainer runbook</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/blob/main/src/data/opportunity-source-suggestions.json">Source suggestion queue</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/blob/main/src/data/opportunity-sources.json">Source configuration</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/blob/main/scripts/update-opportunities.mjs">Refresh and parser code</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/blob/main/.github/workflows/update-opportunities.yml">Scheduled workflow</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/blob/main/src/pages/opportunities.astro">Public page component</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/blob/main/src/data/opportunities-ui.json">Protected interface configuration</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/actions/workflows/update-opportunities.yml">Run or inspect a refresh</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/pulls">Review proposed changes</a></li>
+    </ul>
+
+    <h2>Safe takeover sequence</h2>
+    <ol>
+      <li>Join the <code>radar-maintainers</code> GitHub team.</li>
+      <li>Read the full runbook and trace the six-step flow above through the linked files.</li>
+      <li>Run the site build without changing the feed.</li>
+      <li>Run one manual refresh and inspect the generated diff.</li>
+      <li>Make one small source change on a branch.</li>
+      <li>Open a pull request, pass validation, and obtain code-owner review.</li>
+    </ol>
+
+    <h2>Emergency recovery</h2>
+    <p>Revert the most recent Radar change, run the update workflow manually, confirm the validation workflow passes, and inspect the resulting Cloudflare deployment. If one source is causing the problem, move it to watch mode in a reviewed change before refreshing again.</p>
+  </body>
+</html>

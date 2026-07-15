@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro check && astro build",
+    "build": "node scripts/check-admin-boundaries.mjs && astro check && astro build",
+    "check:admin": "node scripts/check-admin-boundaries.mjs",
     "preview": "astro preview",
     "update:opportunities": "node scripts/update-opportunities.mjs"
   },

@@ -1,0 +1,12 @@
+# Opportunity Radar is maintained deliberately. The named user is the current
+# continuity owner; the team becomes the durable owner as maintainers are added.
+/src/pages/opportunities.astro @KieranATL @RCIDS3S/radar-maintainers
+/src/data/opportunities.json @KieranATL @RCIDS3S/radar-maintainers
+/src/data/opportunities.generated.json @KieranATL @RCIDS3S/radar-maintainers
+/src/data/opportunities-ui.json @KieranATL @RCIDS3S/radar-maintainers
+/src/data/opportunity-sources.json @KieranATL @RCIDS3S/radar-maintainers
+/scripts/update-opportunities.mjs @KieranATL @RCIDS3S/radar-maintainers
+/scripts/check-admin-boundaries.mjs @KieranATL @RCIDS3S/radar-maintainers
+/.github/workflows/update-opportunities.yml @KieranATL @RCIDS3S/radar-maintainers
+/docs/opportunity-radar-maintainer.md @KieranATL @RCIDS3S/radar-maintainers
+/public/admin/radar-maintainer.html @KieranATL @RCIDS3S/radar-maintainers

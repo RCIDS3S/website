@@ -25,21 +25,27 @@ GitHub OAuth app settings:
 
 After adding or changing Cloudflare environment variables, redeploy the Cloudflare Pages project.
 
+If GitHub reports that `RCIDS3S` restricts OAuth applications, authorize `RCID S3S CMS` for the user's personal GitHub account, request access to the organization, and have an organization owner grant that request under the organization's OAuth app policy.
+
 ## User Permissions
 
 Permissions are controlled through GitHub, not Decap itself. Anyone who edits through `/admin/` must have a GitHub account with write access to `RCIDS3S/website`.
+
+The admin includes a read-only People and Permissions screen at `/admin/permissions.html`. It explains the access model and links authorized owners to GitHub's access controls. It does not hold organization-management credentials or grant permissions itself.
 
 Recommended roles:
 
 - Site owners: GitHub repository `Admin` or organization owner. Can manage settings, secrets, Pages, and collaborators.
 - Site maintainers: GitHub repository `Maintain` or `Write`. Can edit content and publish changes.
 - Content editors: GitHub repository `Write`. Can use Decap and commit content changes.
+- Radar maintainers: GitHub repository `Write`, membership in `radar-maintainers`, and code ownership for protected Radar files.
 - View-only users: GitHub repository `Read`. Can see the code but cannot publish edits.
 
 For cleaner handoff, create GitHub teams in the `RCIDS3S` organization:
 
 - `site-admins`
 - `site-editors`
+- `radar-maintainers`
 - `site-viewers`
 
 Grant repository access to the teams instead of managing individual people one by one.
@@ -60,8 +66,8 @@ Most site text lives in JSON files. These can be edited in GitHub's web editor, 
 - Contact section: `src/data/site/contact.json`
 - Footer text: `src/data/site/footer.json`
 - Legacy archive data: `src/data/archive/posts.json`
-- Opportunities page copy: `src/data/opportunities.json`
-- Opportunity sources: `src/data/opportunity-sources.json`
+- Opportunity Radar introduction: `src/data/opportunities-page.json`
+- Opportunity Radar source suggestions: `src/data/opportunity-source-suggestions.json`
 
 Images live in `public/assets/images/`.
 
@@ -71,8 +77,9 @@ Images live in `public/assets/images/`.
 2. Open the file you want to edit.
 3. Click the pencil icon.
 4. Change the JSON carefully, keeping quotation marks, commas, brackets, and braces intact.
-5. Commit directly to `main` for small content edits.
-6. Cloudflare Pages should rebuild automatically.
+5. Create a branch and pull request.
+6. Confirm the validation workflow passes before merging.
+7. Cloudflare Pages should rebuild automatically after the merge.
 
 For risky changes, create a branch and pull request instead of committing directly to `main`.
 
@@ -102,3 +109,11 @@ git push
 - Keep official policy language linked to Clemson or RCID pages rather than copying it unless someone has confirmed it should be duplicated.
 - Use the legacy archive as preserved history, not as the main navigation experience.
 - When officers change, confirm whether role names should be visible. The officers editor supports hiding roles.
+
+## Opportunity Radar Maintenance
+
+Routine CMS editors can change only the Radar introduction and add URLs to the safe source suggestion queue. Suggested URLs do not affect the live feed until a Radar maintainer reviews and promotes them. The public feed, generated candidate set, source configuration, UI behavior, parser code, and scheduled workflow are protected maintainer files.
+
+The read-only admin guide at `/admin/radar-maintainer.html` provides a deliberate takeover path. The complete repository runbook is `docs/opportunity-radar-maintainer.md`.
+
+Radar changes should be made on a branch, validated with `npm run build`, and reviewed by `@RCIDS3S/radar-maintainers`. Do not manually edit `src/data/opportunities.json` or `src/data/opportunities.generated.json`; automation owns both files.

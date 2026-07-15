@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <title>S3S People and Permissions</title>
+    <style>
+      :root { color-scheme: light; --purple: #522d80; --orange: #f66733; --ink: #17191d; --paper: #f6f1e8; --panel: #fffaf1; }
+      * { box-sizing: border-box; }
+      body { max-width: 960px; margin: 0 auto; padding: 40px 24px 72px; color: var(--ink); background: var(--paper); font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.6; }
+      h1, h2 { color: var(--purple); font-family: Georgia, "Times New Roman", serif; line-height: 1.08; }
+      h1 { margin: 0 0 16px; font-size: clamp(2.4rem, 8vw, 5rem); }
+      h2 { margin-top: 34px; font-size: clamp(1.5rem, 4vw, 2.3rem); }
+      a { color: var(--purple); font-weight: 800; text-decoration-color: var(--orange); text-underline-offset: 0.2em; }
+      .lede { max-width: 72ch; color: #4f555c; font-size: 1.12rem; }
+      .callout, .role { padding: 18px; border-radius: 8px; background: var(--panel); }
+      .callout { border-left: 5px solid var(--orange); }
+      .roles { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+      .role h2 { margin: 0 0 8px; font-size: 1.35rem; }
+      .actions { display: flex; flex-wrap: wrap; gap: 12px; padding: 0; list-style: none; }
+      .actions a { display: inline-block; padding: 10px 14px; border: 2px solid var(--purple); border-radius: 6px; background: var(--panel); text-decoration: none; }
+      code { padding: 0.1em 0.3em; border-radius: 4px; background: rgba(82, 45, 128, 0.12); }
+    </style>
+  </head>
+  <body>
+    <p><a href="/admin/help.html">Back to admin help</a> · <a href="/admin/">Back to editor</a></p>
+    <h1>People and permissions</h1>
+    <p class="lede">The S3S admin explains the access model, but GitHub remains the authority that grants and revokes access. This keeps organization credentials out of the CMS.</p>
+
+    <section class="callout">
+      <strong>Access changes happen in GitHub.</strong> Only organization owners or repository administrators should use the management links below. Ordinary editors do not need organization-management permission.
+    </section>
+
+    <h2>Role model</h2>
+    <div class="roles">
+      <section class="role"><h2>Site editors</h2><p>Use Decap CMS for routine copy, events, resources, officers, and other approved content. Recommended GitHub role: Write.</p></section>
+      <section class="role"><h2>Radar maintainers</h2><p>Maintain the Opportunity Radar feed, source parsers, automation, and protected interface behavior. Recommended GitHub role: Write with code ownership.</p></section>
+      <section class="role"><h2>Site admins</h2><p>Manage deployments, repository settings, protections, and technical handoff. Recommended GitHub role: Maintain or Admin.</p></section>
+      <section class="role"><h2>Organization owners</h2><p>Grant membership, approve OAuth applications, and preserve ownership continuity. Keep this group small.</p></section>
+    </div>
+
+    <h2>Manage access</h2>
+    <ul class="actions">
+      <li><a href="https://github.com/RCIDS3S/website/settings/access">Repository access</a></li>
+      <li><a href="https://github.com/orgs/RCIDS3S/teams">Organization teams</a></li>
+      <li><a href="https://github.com/organizations/RCIDS3S/settings/oauth_application_policy">OAuth app policy</a></li>
+      <li><a href="https://github.com/RCIDS3S/website/settings/rules">Repository rules</a></li>
+    </ul>
+
+    <h2>Onboarding</h2>
+    <ol>
+      <li>Add the person to the appropriate GitHub team.</li>
+      <li>Give that team the least repository role needed.</li>
+      <li>Approve <code>RCID S3S CMS</code> for the organization if GitHub reports that OAuth access is restricted.</li>
+      <li>Have the person sign in at <a href="/admin/">the S3S admin</a> and save a draft change.</li>
+      <li>For Radar maintainers, review the <a href="/admin/radar-maintainer.html">Radar maintainer guide</a> together.</li>
+    </ol>
+
+    <h2>Offboarding</h2>
+    <ol>
+      <li>Remove the person from the GitHub team or repository.</li>
+      <li>Review open CMS branches and pull requests owned by that person.</li>
+      <li>Transfer any ongoing Radar maintenance work to another maintainer.</li>
+      <li>Rotate secrets only if the departing person had access to Cloudflare or OAuth application credentials.</li>
+    </ol>
+  </body>
+</html>

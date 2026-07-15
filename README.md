@@ -9,6 +9,8 @@ Astro static site for the Society of the Third Sophistic, the student organizati
 - `src/data/*.json` contains editable lists for quick links, events, resources, and officers.
 - `src/styles/global.css` contains the visual design.
 - `public/admin/config.yml` configures the Decap CMS admin interface.
+- `public/admin/permissions.html` explains the GitHub-backed access model.
+- `public/admin/radar-maintainer.html` provides the read-only Radar handoff surface.
 - `public/assets/images/third-sophistic.png` is the current site logo.
 - `legacy-static-prototype/` keeps the first plain HTML prototype for reference only.
 
@@ -17,6 +19,8 @@ Astro static site for the Society of the Third Sophistic, the student organizati
 Primary content edits should happen through the Decap admin at `/admin/` once GitHub OAuth is configured in Cloudflare Pages. Manual edits can also be made by changing the JSON files in `src/data/`.
 
 See `docs/admin-and-editing.md` for the permissions model, admin login setup, and manual editing map.
+
+Opportunity Radar machinery is intentionally excluded from routine CMS editing. See `docs/opportunity-radar-maintainer.md` for its architecture, maintenance workflow, recovery procedure, and handoff checklist.
 
 ## Hosting
 

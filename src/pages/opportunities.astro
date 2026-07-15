@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import identity from "../data/site/identity.json";
 import contact from "../data/site/contact.json";
 import opportunities from "../data/opportunities.json";
+import opportunityPage from "../data/opportunities-page.json";
 import opportunityUi from "../data/opportunities-ui.json";
 import sources from "../data/opportunity-sources.json";
 
@@ -380,9 +381,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
   <main id="opportunity-main">
     <section class="opportunity-hero" aria-labelledby="opportunity-title">
-      <p class="eyebrow">{opportunities.summary.kicker}</p>
-      <h1 id="opportunity-title">{opportunities.summary.title}</h1>
-      <p class="dek">{opportunities.summary.text}</p>
+      <p class="eyebrow">{opportunityPage.kicker}</p>
+      <h1 id="opportunity-title">{opportunityPage.title}</h1>
+      <p class="dek">{opportunityPage.text}</p>
 
       <div class="opportunity-stats" aria-label={opportunityUi.stats.ariaLabel}>
         <div>
@@ -752,7 +753,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     </section>
   </main>
 
-  <script type="application/json" id="opportunity-ui-config" set:html={opportunityUiJson}></script>
+  <script is:inline type="application/json" id="opportunity-ui-config" set:html={opportunityUiJson}></script>
   <script is:inline>
     const ui = JSON.parse(document.querySelector("#opportunity-ui-config")?.textContent || "{}");
     const search = document.querySelector("#opportunity-search");

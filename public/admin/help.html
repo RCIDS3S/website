@@ -69,13 +69,13 @@
     </style>
   </head>
   <body>
-    <p><a href="/admin/">Back to admin</a> · <a href="/">Back to site</a></p>
+    <p><a href="/admin/">Back to admin</a> · <a href="/admin/permissions.html">People and permissions</a> · <a href="/admin/radar-maintainer.html">Radar maintainer guide</a> · <a href="/">Back to site</a></p>
     <h1>Admin and editing help</h1>
     <p class="lede">The S3S site can be edited through Decap CMS or manually in GitHub/local files. GitHub controls who can publish changes.</p>
 
     <section class="callout">
-      <h2>Current login fix</h2>
-      <p>If admin login returns an error, Cloudflare Pages probably needs GitHub OAuth variables.</p>
+      <h2>Login and authorization</h2>
+      <p>If admin login returns a server error, Cloudflare Pages probably needs GitHub OAuth variables.</p>
       <p>Add these environment variables to the Cloudflare Pages project and redeploy:</p>
       <ul>
         <li><code>GITHUB_CLIENT_ID</code></li>
@@ -83,19 +83,22 @@
       </ul>
       <p>The GitHub OAuth app callback URL should be:</p>
       <pre><code>https://website-bgu.pages.dev/api/callback</code></pre>
+      <p>If GitHub says the <code>RCIDS3S</code> organization restricts OAuth apps, request organization access for <code>RCID S3S CMS</code>, then have an organization owner approve it under the OAuth app policy.</p>
     </section>
 
-    <h2>Permissions</h2>
-    <p>Editors need GitHub accounts with access to <code>RCIDS3S/website</code>. A practical handoff model:</p>
+    <h2>People and permissions</h2>
+    <p>Editors need GitHub accounts with access to <code>RCIDS3S/website</code>. GitHub, not the CMS, grants and revokes that access. See the <a href="/admin/permissions.html">People and permissions screen</a> for onboarding, offboarding, team roles, and direct links to the appropriate GitHub settings.</p>
+    <p>The practical handoff model is:</p>
     <ul>
       <li><strong>site-admins</strong>: repository Admin or Maintain access.</li>
       <li><strong>site-editors</strong>: repository Write access.</li>
+      <li><strong>radar-maintainers</strong>: repository Write access plus code ownership for Opportunity Radar machinery.</li>
       <li><strong>site-viewers</strong>: repository Read access.</li>
     </ul>
     <p>The CMS is configured with an editorial workflow, so content can move through draft, review, and publish states inside Decap.</p>
 
     <h2>Manual editing map</h2>
-    <p>Most editors should start in the Decap admin. The sections are organized to match the site: homepage settings, events, resources, officers, Opportunity Radar, and Legacy Archive. Fields labeled <strong>Advanced</strong> control filters or sorting behavior and should usually be left alone.</p>
+    <p>Most editors should start in the Decap admin. The sections are organized to match the site: homepage settings, events, resources, officers, the Opportunity Radar introduction and source suggestion queue, and the Legacy Archive.</p>
     <p><strong>Small label above title</strong> means the short all-caps style label that appears above a larger heading, such as “Clemson University / RCID” above the homepage headline.</p>
     <p>Manual edits can still be made in GitHub or locally by changing these files:</p>
     <ul>
@@ -109,16 +112,16 @@
       <li>About: <code>src/data/about.json</code></li>
       <li>Contact: <code>src/data/site/contact.json</code></li>
       <li>Footer: <code>src/data/site/footer.json</code></li>
-      <li>Opportunities page copy: <code>src/data/opportunities.json</code></li>
-      <li>Opportunity Radar labels, buttons, filters, map text, and dialog copy: <code>src/data/opportunities-ui.json</code></li>
-      <li>Opportunity sources: <code>src/data/opportunity-sources.json</code></li>
+      <li>Opportunity Radar introduction: <code>src/data/opportunities-page.json</code></li>
+      <li>Opportunity Radar source suggestions: <code>src/data/opportunity-source-suggestions.json</code></li>
       <li>Legacy archive page copy and filter labels: <code>src/data/archive/settings.json</code></li>
       <li>Legacy archive posts: <code>src/data/archive/posts.json</code></li>
       <li>Images: <code>public/assets/images/</code></li>
     </ul>
 
-    <h2>What editors should avoid</h2>
-    <p>The Opportunity Radar item list is partly automation-shaped, so the admin hides the raw published items from routine editing. Editors can safely change the page title, intro, controls, labels, sources, and explanatory text. If an individual opportunity needs to be corrected, ask a site admin to make that change in GitHub or rerun the opportunity update workflow.</p>
+    <h2>Opportunity Radar boundary</h2>
+    <p>Routine editors can change only the Radar's title and introductory copy, plus a safe queue of suggested source URLs. A suggested URL does not enter the live feed automatically. The published feed, generated candidates, source list, parsers, filter behavior, map behavior, labels, and automation are protected maintainer files.</p>
+    <p>Future maintainers should use the <a href="/admin/radar-maintainer.html">read-only Radar maintainer guide</a>. It exposes the architecture, code map, refresh procedure, recovery steps, and takeover sequence without placing production controls in the CMS.</p>
 
     <h2>Manual GitHub workflow</h2>
     <ol>
@@ -126,7 +129,7 @@
       <li>Open the file you need to edit.</li>
       <li>Use the pencil icon to edit.</li>
       <li>Keep JSON punctuation intact: quotation marks, commas, brackets, and braces matter.</li>
-      <li>Commit directly to <code>main</code> for small copy edits, or use a branch and pull request for larger changes.</li>
+      <li>Create a branch and pull request. Opportunity Radar system changes require validation and code-owner review.</li>
     </ol>
   </body>
 </html>
