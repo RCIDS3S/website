@@ -124,6 +124,25 @@ collections:
           - { label: "Small Label Above Section Title", name: "kicker", widget: "string" }
           - { label: "Section Title", name: "title", widget: "string" }
           - { label: "Section Text", name: "text", widget: "text" }
+          - label: "Calendar Integration"
+            name: "calendar"
+            widget: "object"
+            collapsed: false
+            hint: "Use this when S3S is ready to connect a public Google Calendar or Microsoft calendar. Manual event cards below remain the fallback."
+            fields:
+              - { label: "Show Connected Calendar", name: "enabled", widget: "boolean", default: false, hint: "Turn this on only after the public calendar URL or embed URL has been tested." }
+              - label: "Calendar Provider"
+                name: "provider"
+                widget: "select"
+                default: "manual"
+                options:
+                  - { label: "Manual cards only", value: "manual" }
+                  - { label: "Google Calendar", value: "google" }
+                  - { label: "Microsoft / Outlook Calendar", value: "microsoft" }
+              - { label: "Public Calendar URL", name: "publicUrl", widget: "string", required: false, hint: "A public link people can open, such as a Google Calendar public URL or Microsoft published calendar URL." }
+              - { label: "Embed URL", name: "embedUrl", widget: "string", required: false, hint: "Optional iframe/embed URL. Google Calendar and Microsoft calendars both need to be publicly shared before an embed will work for visitors." }
+              - { label: "Calendar Button Text", name: "buttonText", widget: "string", default: "Open the S3S calendar" }
+              - { label: "Editor Note", name: "note", widget: "text", required: false, hint: "Internal reminder for future editors. This note does not appear on the public site." }
           - label: "Events"
             name: "items"
             widget: "list"

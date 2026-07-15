@@ -59,7 +59,7 @@ Most site text lives in JSON files. These can be edited in GitHub's web editor, 
 - Navigation labels: `src/data/site/navigation.json`
 - Student desk label and term: `src/data/site/student-desk.json`
 - Student desk quick links: `src/data/quick-links.json`
-- Events section and event cards: `src/data/events.json`
+- Events section, manual event cards, and future calendar settings: `src/data/events.json`
 - Resources section and resource cards: `src/data/resources.json`
 - Officers section and officer cards: `src/data/officers.json`
 - About section: `src/data/about.json`

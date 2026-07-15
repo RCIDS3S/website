@@ -320,6 +320,31 @@ h3 {
   font-size: 1.04rem;
 }
 
+.calendar-link {
+  display: inline-flex;
+  width: fit-content;
+  margin-top: 14px;
+  color: var(--navy);
+  font-weight: 850;
+  text-decoration-color: var(--gold);
+  text-underline-offset: 0.2em;
+}
+
+.calendar-embed {
+  overflow: hidden;
+  margin-bottom: 18px;
+  border: 1px solid rgba(82, 45, 128, 0.18);
+  border-radius: 8px;
+  background: rgba(255, 250, 241, 0.68);
+}
+
+.calendar-embed iframe {
+  display: block;
+  width: 100%;
+  min-height: 520px;
+  border: 0;
+}
+
 .event-strip,
 .resource-grid,
 .officer-layout {

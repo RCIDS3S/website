@@ -13,6 +13,16 @@ import officers from "../data/officers.json";
 import about from "../data/about.json";
 
 const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
+const calendar = events.calendar ?? {
+  enabled: false,
+  provider: "manual",
+  publicUrl: "",
+  embedUrl: "",
+  buttonText: "Open the S3S calendar",
+  note: "",
+};
+const hasCalendarLink = Boolean(calendar.enabled && calendar.publicUrl);
+const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
 ---
 
 <BaseLayout>
@@ -74,8 +84,30 @@ const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
       <div class="section-kicker">{events.kicker}</div>
       <div class="section-heading">
         <h2 id="events-title">{events.title}</h2>
-        <p>{events.text}</p>
+        <div>
+          <p>{events.text}</p>
+          {
+            hasCalendarLink && (
+              <a class="calendar-link" href={calendar.publicUrl} {...externalLinkAttrs}>
+                {calendar.buttonText}
+              </a>
+            )
+          }
+        </div>
       </div>
+
+      {
+        hasCalendarEmbed && (
+          <div class="calendar-embed" data-provider={calendar.provider}>
+            <iframe
+              src={calendar.embedUrl}
+              title="S3S events calendar"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            />
+          </div>
+        )
+      }
 
       <div class="event-strip" aria-label="Featured events">
         {

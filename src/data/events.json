@@ -2,6 +2,14 @@
   "kicker": "Events",
   "title": "What is coming up.",
   "text": "Upcoming colloquia, workshops, officer meetings, and social events.",
+  "calendar": {
+    "enabled": false,
+    "provider": "manual",
+    "publicUrl": "",
+    "embedUrl": "",
+    "buttonText": "Open the S3S calendar",
+    "note": "Manual event cards remain the fallback until a public Google Calendar or Microsoft calendar is connected."
+  },
   "items": [
     {
       "date": "TBA!",
