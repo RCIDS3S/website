@@ -1,0 +1,41 @@
+{
+  "metaTitle": "Legacy Archive",
+  "metaDescription": "Legacy posts and announcements from the Society of the Third Sophistic WordPress archive.",
+  "skipLinkText": "Skip to content",
+  "navigationLabel": "Archive navigation",
+  "navLinks": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Resources",
+      "url": "/#resources"
+    },
+    {
+      "label": "Officers",
+      "url": "/#officers"
+    },
+    {
+      "label": "Archive",
+      "url": "/archive/"
+    }
+  ],
+  "hero": {
+    "kicker": "Legacy Archive",
+    "title": "S3S history, announcements, and student milestones.",
+    "text": "This archive preserves published posts from the former WordPress site. It is separate from the homepage so dated calls, job listings, and historical announcements remain findable without crowding current student resources."
+  },
+  "filters": {
+    "ariaLabel": "Archive filters",
+    "searchLabel": "Search",
+    "searchPlaceholder": "Search titles, excerpts, categories...",
+    "categoryLabel": "Category",
+    "allCategoriesLabel": "All categories",
+    "yearLabel": "Year",
+    "allYearsLabel": "All years"
+  },
+  "results": {
+    "countSuffix": "archived posts"
+  }
+}

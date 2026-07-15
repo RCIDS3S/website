@@ -1,0 +1,232 @@
+{
+  "metaTitle": "Opportunity Radar",
+  "metaDescription": "Curated Opportunity Radar feed for CFPs, conferences, publication calls, media opportunities, and field signals.",
+  "skipLinkText": "Skip to content",
+  "navigationLabel": "Opportunity Radar navigation",
+  "navLinks": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Resources",
+      "url": "/#resources"
+    },
+    {
+      "label": "Radar",
+      "url": "/opportunities/"
+    },
+    {
+      "label": "Archive",
+      "url": "/archive/"
+    }
+  ],
+  "stats": {
+    "ariaLabel": "Opportunity Radar status",
+    "openCallsLabel": "Open calls",
+    "urgentLabel": "This week",
+    "soonLabel": "Coming up",
+    "sourcesLabel": "Discovery sources",
+    "newLabel": "New here"
+  },
+  "purposeSection": {
+    "ariaLabel": "Browse opportunities by purpose",
+    "kicker": "Browse by Purpose",
+    "title": "Start with what you are trying to do."
+  },
+  "purposeOptions": [
+    {
+      "label": "Publish",
+      "text": "Journals, edited collections, and special issues.",
+      "filterType": "",
+      "filterField": "Publication",
+      "filterQuery": ""
+    },
+    {
+      "label": "Present",
+      "text": "Conference CFPs, panels, workshops, and symposia.",
+      "filterType": "Conference CFP",
+      "filterField": "",
+      "filterQuery": ""
+    },
+    {
+      "label": "Fund",
+      "text": "Grants, fellowships, and project support.",
+      "filterType": "",
+      "filterField": "Funding",
+      "filterQuery": ""
+    },
+    {
+      "label": "Make / Screen",
+      "text": "Film, media, art, and creative-practice calls.",
+      "filterType": "",
+      "filterField": "Film / Media",
+      "filterQuery": ""
+    },
+    {
+      "label": "Learn / Connect",
+      "text": "Talks, institutes, professional events, and field signals.",
+      "filterType": "",
+      "filterField": "",
+      "filterQuery": "workshop"
+    }
+  ],
+  "filters": {
+    "ariaLabel": "Opportunity filters",
+    "searchLabel": "Search",
+    "searchPlaceholder": "AI, rhetoric, film, technical communication...",
+    "fieldLabel": "Field",
+    "allFieldsLabel": "All fields",
+    "typeLabel": "Type",
+    "allTypesLabel": "All types",
+    "sortLabel": "Sort",
+    "sortOptions": [
+      {
+        "label": "Due soonest",
+        "value": "deadline"
+      },
+      {
+        "label": "New first",
+        "value": "new"
+      },
+      {
+        "label": "Strongest fit",
+        "value": "fit"
+      },
+      {
+        "label": "Title A-Z",
+        "value": "title"
+      }
+    ],
+    "newButtonLabel": "New",
+    "savedButtonLabel": "Saved",
+    "mapButtonLabel": "Map"
+  },
+  "groups": {
+    "dueSoon": {
+      "title": "Due Soon",
+      "text": "Deadlines in the next two weeks."
+    },
+    "mediaArt": {
+      "title": "Media, Film & Art",
+      "text": "Film, media studies, video art, exhibition, and creative-practice calls."
+    },
+    "publications": {
+      "title": "Journals & Collections",
+      "text": "Publication calls, special issues, and edited collections."
+    },
+    "conferences": {
+      "title": "Conferences & CFPs",
+      "text": "Panels, seminars, symposia, workshops, and conference calls."
+    },
+    "funding": {
+      "title": "Funding & Fellowships",
+      "text": "Grants, fellowships, and support opportunities."
+    }
+  },
+  "map": {
+    "kicker": "Event Map",
+    "title": "Where the in-person calls are gathering.",
+    "text": "Mapped from recognizable event locations in the feed. Contact-name locations stay off the map until a venue can be inferred cleanly.",
+    "canvasLabel": "Map of opportunity event locations",
+    "listLabel": "Mapped opportunities",
+    "locationsSuffix": "locations",
+    "mappedCallsSuffix": "mapped calls",
+    "virtualSuffix": "online / virtual",
+    "loadingTitle": "Loading interactive map",
+    "loadingText": "Map data from OpenStreetMap via OpenFreeMap.",
+    "callSingular": "call",
+    "callPlural": "calls",
+    "eventDateFallback": "Event date listed in source",
+    "rollingDeadlineLabel": "Rolling deadline",
+    "moreAtLocationSuffix": "mapped to this location.",
+    "moreInListSuffix": "more in the list",
+    "markerOpportunitySingular": "opportunity",
+    "markerOpportunityPlural": "opportunities",
+    "popupListLabelPrefix": "Sample calls in",
+    "unavailableTitle": "Map temporarily unavailable",
+    "unavailableText": "The mapped location list is still available to the right."
+  },
+  "results": {
+    "countSuffix": "curated items",
+    "updatedPrefix": "Updated",
+    "savedNote": "Saved items stay only in this browser on this device.",
+    "copySavedLabel": "Copy saved list",
+    "emailSavedLabel": "Email saved list",
+    "savedGroupTitle": "Saved Radar Items",
+    "savedGroupText": "Your private browser-local shortlist, sorted by the current controls.",
+    "emptySavedText": "No saved opportunities match these filters. Use Save on any card to build a private browser-local shortlist.",
+    "emptyNewText": "No new opportunities match these filters. New items appear after the feed changes on a later visit.",
+    "emptyText": "No matching opportunities right now.",
+    "emptyFilteredText": "No matching opportunities right now. Try widening the search or changing the filters.",
+    "showMoreLabel": "Show 10 more",
+    "showMorePrefix": "Show",
+    "showMoreSuffix": "more"
+  },
+  "actions": {
+    "forwardLabel": "Forward",
+    "saveLabel": "Save",
+    "savedLabel": "Saved",
+    "detailsLabel": "Details",
+    "copyLabel": "Copy",
+    "copiedLabel": "Copied",
+    "copyUnavailableLabel": "Copy unavailable",
+    "newBadgeLabel": "New"
+  },
+  "cards": {
+    "eventLabel": "Event",
+    "daysLeftLabel": "Days left",
+    "rollingLabel": "Rolling",
+    "sourceListedFallback": "Rolling / see source",
+    "onlineFallback": "Online / source listed",
+    "fieldsLabel": "Fields"
+  },
+  "dateLabels": {
+    "rolling": "Rolling",
+    "closed": "Closed",
+    "today": "Today",
+    "oneDay": "1 day",
+    "daysSuffix": "days",
+    "deadline": "Deadline",
+    "finalDeadline": "Final deadline",
+    "earlyDeadline": "Early deadline",
+    "nextDeadline": "Next deadline",
+    "applicationDue": "Application due",
+    "proposalDue": "Proposal due",
+    "submissionDue": "Submission due",
+    "dueSuffix": "due"
+  },
+  "generatedInsights": {
+    "matchedBecausePrefix": "Matched because:",
+    "matchedFallback": "Matched because it comes from a monitored opportunity source.",
+    "submissionShapePrefix": "Submission shape:",
+    "formatsMentionedPrefix": "Formats mentioned:",
+    "contactPrefix": "Contact:"
+  },
+  "dialog": {
+    "closeLabel": "Close",
+    "detailsLabel": "Opportunity details",
+    "deadlineFallback": "Deadline",
+    "daysLeftLabel": "Days left",
+    "eventLabel": "Event",
+    "locationLabel": "Location",
+    "quickScanTitle": "Quick Scan",
+    "fieldsLabel": "Fields",
+    "openSourceLabel": "Open source",
+    "doneLabel": "Done"
+  },
+  "sourceSection": {
+    "kicker": "Curation Notes",
+    "title": "How this list is gathered.",
+    "text": "These sources help surface possibilities for the RCID community. They are starting points for review, not automatic endorsements.",
+    "feedTitle": "How the feed works",
+    "feedText": "The radar refreshes from a curated source list, then filters for readable deadlines, source confidence, deduplication, and likely RCID relevance. Some high-value sources are email-distributed newsletters, including NCA COMMNotes, and are tracked as watchlist sources until a dedicated inbox parser is connected. Some sites limit automated access, change their markup, or publish broad listings where only a few items fit the feed, so not every call from every monitored source appears here.",
+    "suggestSourceLabel": "Suggest a source",
+    "cadenceSuffix": "check",
+    "watchlistTitle": "Watchlist",
+    "watchlistText": "High-value sources we track for future automation or manual review.",
+    "watchSourceLabel": "Watch source",
+    "suggestEmailSubject": "Opportunity feed source suggestion",
+    "suggestEmailBody": "Suggested source:\n\nLink:\n\nWhat kinds of calls or opportunities does it usually post?\n\nWhy might it be useful for RCID students?\n"
+  }
+}

@@ -2,14 +2,15 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import identity from "../data/site/identity.json";
 import archive from "../data/archive/posts.json";
+import archiveSettings from "../data/archive/settings.json";
 
 const posts = archive.items;
 const categories = Array.from(new Set(posts.flatMap((post) => post.categories))).sort((a, b) => a.localeCompare(b));
 const years = Array.from(new Set(posts.map((post) => post.year))).sort((a, b) => Number(b) - Number(a));
 ---
 
-<BaseLayout title={`Legacy Archive | ${identity.title}`} description="Legacy posts and announcements from the Society of the Third Sophistic WordPress archive.">
-  <a class="skip-link" href="#archive-main">Skip to content</a>
+<BaseLayout title={`${archiveSettings.metaTitle} | ${identity.title}`} description={archiveSettings.metaDescription}>
+  <a class="skip-link" href="#archive-main">{archiveSettings.skipLinkText}</a>
 
   <header class="site-header">
     <a class="brand" href="/" aria-label={`${identity.title} home`}>
@@ -19,44 +20,41 @@ const years = Array.from(new Set(posts.map((post) => post.year))).sort((a, b) =>
         <small>{identity.subtitle}</small>
       </span>
     </a>
-    <nav class="site-nav" aria-label="Archive navigation">
-      <a href="/">Home</a>
-      <a href="/#resources">Resources</a>
-      <a href="/#officers">Officers</a>
-      <a href="/archive/">Archive</a>
+    <nav class="site-nav" aria-label={archiveSettings.navigationLabel}>
+      {archiveSettings.navLinks.map((link) => <a href={link.url}>{link.label}</a>)}
     </nav>
   </header>
 
   <main id="archive-main">
     <section class="archive-hero">
-      <p class="eyebrow">Legacy Archive</p>
-      <h1>S3S history, announcements, and student milestones.</h1>
-      <p class="dek">This archive preserves published posts from the former WordPress site. It is separate from the homepage so dated calls, job listings, and historical announcements remain findable without crowding current student resources.</p>
+      <p class="eyebrow">{archiveSettings.hero.kicker}</p>
+      <h1>{archiveSettings.hero.title}</h1>
+      <p class="dek">{archiveSettings.hero.text}</p>
     </section>
 
-    <section class="archive-tools" aria-label="Archive filters">
+    <section class="archive-tools" aria-label={archiveSettings.filters.ariaLabel}>
       <label>
-        Search
-        <input id="archive-search" type="search" placeholder="Search titles, excerpts, categories..." />
+        {archiveSettings.filters.searchLabel}
+        <input id="archive-search" type="search" placeholder={archiveSettings.filters.searchPlaceholder} />
       </label>
       <label>
-        Category
+        {archiveSettings.filters.categoryLabel}
         <select id="archive-category">
-          <option value="">All categories</option>
+          <option value="">{archiveSettings.filters.allCategoriesLabel}</option>
           {categories.map((category) => <option value={category}>{category}</option>)}
         </select>
       </label>
       <label>
-        Year
+        {archiveSettings.filters.yearLabel}
         <select id="archive-year">
-          <option value="">All years</option>
+          <option value="">{archiveSettings.filters.allYearsLabel}</option>
           {years.map((year) => <option value={year}>{year}</option>)}
         </select>
       </label>
     </section>
 
     <section class="archive-results" aria-live="polite">
-      <p class="archive-count"><span id="archive-count">{posts.length}</span> archived posts</p>
+      <p class="archive-count"><span id="archive-count">{posts.length}</span> {archiveSettings.results.countSuffix}</p>
       <div class="archive-list" id="archive-list">
         {
           posts.map((post) => (

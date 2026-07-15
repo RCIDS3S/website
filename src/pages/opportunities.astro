@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import identity from "../data/site/identity.json";
 import contact from "../data/site/contact.json";
 import opportunities from "../data/opportunities.json";
+import opportunityUi from "../data/opportunities-ui.json";
 import sources from "../data/opportunity-sources.json";
 
 const now = new Date();
@@ -11,21 +12,21 @@ const items = opportunities.items
     const deadline = item.deadline ? new Date(`${item.deadline}T23:59:59-04:00`) : null;
     const days = deadline ? Math.ceil((deadline.getTime() - now.getTime()) / 86400000) : null;
     let urgency = "rolling";
-    let label = item.deadlineType || "Rolling";
+    let label = item.deadlineType || opportunityUi.dateLabels.rolling;
 
     if (typeof days === "number") {
       if (days < 0) {
         urgency = "closed";
-        label = "Closed";
+        label = opportunityUi.dateLabels.closed;
       } else if (days <= 7) {
         urgency = "urgent";
-        label = `${days} days`;
+        label = `${days} ${opportunityUi.dateLabels.daysSuffix}`;
       } else if (days <= 30) {
         urgency = "soon";
-        label = `${days} days`;
+        label = `${days} ${opportunityUi.dateLabels.daysSuffix}`;
       } else {
         urgency = "open";
-        label = `${days} days`;
+        label = `${days} ${opportunityUi.dateLabels.daysSuffix}`;
       }
     }
 
@@ -49,48 +50,12 @@ const urgentCount = items.filter((item) => item.urgency === "urgent").length;
 const soonCount = items.filter((item) => item.urgency === "soon").length;
 const activeSources = sources.items.filter((source) => source.parser !== "officialWatch");
 const watchSources = sources.items.filter((source) => source.parser === "officialWatch");
-const purposeOptions = [
-  {
-    label: "Publish",
-    text: "Journals, edited collections, and special issues.",
-    filterType: "",
-    filterField: "Publication",
-    filterQuery: ""
-  },
-  {
-    label: "Present",
-    text: "Conference CFPs, panels, workshops, and symposia.",
-    filterType: "Conference CFP",
-    filterField: "",
-    filterQuery: ""
-  },
-  {
-    label: "Fund",
-    text: "Grants, fellowships, and project support.",
-    filterType: "",
-    filterField: "Funding",
-    filterQuery: ""
-  },
-  {
-    label: "Make / Screen",
-    text: "Film, media, art, and creative-practice calls.",
-    filterType: "",
-    filterField: "Film / Media",
-    filterQuery: ""
-  },
-  {
-    label: "Learn / Connect",
-    text: "Talks, institutes, professional events, and field signals.",
-    filterType: "",
-    filterField: "",
-    filterQuery: "workshop"
-  }
-];
+const purposeOptions = opportunityUi.purposeOptions;
 const groups = [
   {
     id: "due-soon",
-    title: "Due Soon",
-    text: "Deadlines in the next two weeks.",
+    title: opportunityUi.groups.dueSoon.title,
+    text: opportunityUi.groups.dueSoon.text,
     filterType: "",
     filterField: "",
     filterQuery: "",
@@ -98,8 +63,8 @@ const groups = [
   },
   {
     id: "media-art",
-    title: "Media, Film & Art",
-    text: "Film, media studies, video art, exhibition, and creative-practice calls.",
+    title: opportunityUi.groups.mediaArt.title,
+    text: opportunityUi.groups.mediaArt.text,
     filterType: "",
     filterField: "Film / Media",
     filterQuery: "",
@@ -107,8 +72,8 @@ const groups = [
   },
   {
     id: "publications",
-    title: "Journals & Collections",
-    text: "Publication calls, special issues, and edited collections.",
+    title: opportunityUi.groups.publications.title,
+    text: opportunityUi.groups.publications.text,
     filterType: "",
     filterField: "Publication",
     filterQuery: "",
@@ -116,8 +81,8 @@ const groups = [
   },
   {
     id: "conferences",
-    title: "Conferences & CFPs",
-    text: "Panels, seminars, symposia, workshops, and conference calls.",
+    title: opportunityUi.groups.conferences.title,
+    text: opportunityUi.groups.conferences.text,
     filterType: "Conference CFP",
     filterField: "",
     filterQuery: "",
@@ -125,8 +90,8 @@ const groups = [
   },
   {
     id: "funding",
-    title: "Funding & Fellowships",
-    text: "Grants, fellowships, and support opportunities.",
+    title: opportunityUi.groups.funding.title,
+    text: opportunityUi.groups.funding.text,
     filterType: "",
     filterField: "Funding",
     filterQuery: "",
@@ -186,8 +151,8 @@ const signalQuery = (tag: string) => ({
 
 const matchReasons = (item: typeof items[number]) => {
   const tags = signalTags(item).slice(0, 4);
-  if (tags.length) return `Matched because: ${tags.join(", ")}.`;
-  return "Matched because it comes from a monitored opportunity source.";
+  if (tags.length) return `${opportunityUi.generatedInsights.matchedBecausePrefix} ${tags.join(", ")}.`;
+  return opportunityUi.generatedInsights.matchedFallback;
 };
 
 const detailChecklist = (item: typeof items[number]) => {
@@ -197,9 +162,9 @@ const detailChecklist = (item: typeof items[number]) => {
   const formatMatch = text.match(/(?:single papers?|panels?|roundtables?|workshops?|alternative formats?|screenplays?|films?|videos?)[^.]{0,120}/i);
   const contactMatch = text.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i);
 
-  if (lengthMatch) lines.push(`Submission shape: ${lengthMatch[0].trim()}`);
-  if (formatMatch) lines.push(`Formats mentioned: ${formatMatch[0].trim()}`);
-  if (contactMatch) lines.push(`Contact: ${contactMatch[0].trim()}`);
+  if (lengthMatch) lines.push(`${opportunityUi.generatedInsights.submissionShapePrefix} ${lengthMatch[0].trim()}`);
+  if (formatMatch) lines.push(`${opportunityUi.generatedInsights.formatsMentionedPrefix} ${formatMatch[0].trim()}`);
+  if (contactMatch) lines.push(`${opportunityUi.generatedInsights.contactPrefix} ${contactMatch[0].trim()}`);
   return lines.slice(0, 4);
 };
 
@@ -213,26 +178,26 @@ const formatShortDate = (value: unknown) => {
 };
 
 const formatDaysLeft = (days: unknown) => {
-  if (typeof days !== "number") return "Rolling";
-  if (days < 0) return "Closed";
-  if (days === 0) return "Today";
-  if (days === 1) return "1 day";
-  return `${days} days`;
+  if (typeof days !== "number") return opportunityUi.dateLabels.rolling;
+  if (days < 0) return opportunityUi.dateLabels.closed;
+  if (days === 0) return opportunityUi.dateLabels.today;
+  if (days === 1) return opportunityUi.dateLabels.oneDay;
+  return `${days} ${opportunityUi.dateLabels.daysSuffix}`;
 };
 
 const formatDeadlineLabel = (value: unknown, type: unknown) => {
   const label = String(value || "").trim().toLowerCase();
   const kind = String(type || "").trim().toLowerCase();
-  if (!label) return "Deadline";
-  if (label.includes("final")) return "Final deadline";
-  if (label.includes("early")) return "Early deadline";
-  if (label.includes("next")) return "Next deadline";
-  if (label.includes("application")) return "Application due";
-  if (label.includes("proposal")) return "Proposal due";
-  if (label.includes("abstract")) return "Proposal due";
-  if (label.includes("submission") || kind.includes("journal") || kind.includes("film festival")) return "Submission due";
-  if (label.includes("deadline")) return "Deadline";
-  return `${label.charAt(0).toUpperCase()}${label.slice(1)} due`;
+  if (!label) return opportunityUi.dateLabels.deadline;
+  if (label.includes("final")) return opportunityUi.dateLabels.finalDeadline;
+  if (label.includes("early")) return opportunityUi.dateLabels.earlyDeadline;
+  if (label.includes("next")) return opportunityUi.dateLabels.nextDeadline;
+  if (label.includes("application")) return opportunityUi.dateLabels.applicationDue;
+  if (label.includes("proposal")) return opportunityUi.dateLabels.proposalDue;
+  if (label.includes("abstract")) return opportunityUi.dateLabels.proposalDue;
+  if (label.includes("submission") || kind.includes("journal") || kind.includes("film festival")) return opportunityUi.dateLabels.submissionDue;
+  if (label.includes("deadline")) return opportunityUi.dateLabels.deadline;
+  return `${label.charAt(0).toUpperCase()}${label.slice(1)} ${opportunityUi.dateLabels.dueSuffix}`;
 };
 
 const locationPatterns = [
@@ -357,13 +322,14 @@ const physicalMapPlacesJson = JSON.stringify(physicalMapPlaces.map((place) => ({
     url: entry.item.sourceUrl
   }))
 })));
+const opportunityUiJson = JSON.stringify(opportunityUi).replace(/</g, "\\u003c");
 
 const copyDetails = (item: typeof items[number]) => [
   item.title,
   `${item.source} / ${item.type}`,
-  item.deadline ? `${formatDeadlineLabel(item.deadlineType, item.type)}: ${item.deadline}` : "Deadline: Rolling / see source",
-  item.eventDate ? `Event: ${item.eventDate}` : "",
-  item.location ? `Location: ${item.location}` : "",
+  item.deadline ? `${formatDeadlineLabel(item.deadlineType, item.type)}: ${item.deadline}` : `${opportunityUi.dialog.deadlineFallback}: ${opportunityUi.cards.sourceListedFallback}`,
+  item.eventDate ? `${opportunityUi.cards.eventLabel}: ${item.eventDate}` : "",
+  item.location ? `${opportunityUi.dialog.locationLabel}: ${item.location}` : "",
   "",
   detailText(item),
   "",
@@ -376,9 +342,9 @@ const forwardHref = (item: typeof items[number]) => {
     "",
     `Source: ${item.source}`,
     `Type: ${item.type}`,
-    item.deadline ? `Deadline: ${item.deadline}` : "Deadline: Rolling / see source",
-    item.location ? `Location: ${item.location}` : "",
-    item.eventDate ? `Event: ${item.eventDate}` : "",
+    item.deadline ? `${opportunityUi.dialog.deadlineFallback}: ${item.deadline}` : `${opportunityUi.dialog.deadlineFallback}: ${opportunityUi.cards.rollingLabel} / see source`,
+    item.location ? `${opportunityUi.dialog.locationLabel}: ${item.location}` : "",
+    item.eventDate ? `${opportunityUi.cards.eventLabel}: ${item.eventDate}` : "",
     "",
     detailText(item),
     "",
@@ -388,20 +354,11 @@ const forwardHref = (item: typeof items[number]) => {
   return `mailto:?subject=${encodeURIComponent(`Opportunity: ${item.title}`)}&body=${encodeURIComponent(details.join("\n"))}`;
 };
 
-const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent("Opportunity feed source suggestion")}&body=${encodeURIComponent([
-  "Suggested source:",
-  "",
-  "Link:",
-  "",
-  "What kinds of calls or opportunities does it usually post?",
-  "",
-  "Why might it be useful for RCID students?",
-  ""
-].join("\n"))}`;
+const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(opportunityUi.sourceSection.suggestEmailSubject)}&body=${encodeURIComponent(opportunityUi.sourceSection.suggestEmailBody)}`;
 ---
 
-<BaseLayout title={`Opportunity Radar | ${identity.title}`} description="Curated Opportunity Radar feed for CFPs, conferences, publication calls, media opportunities, and field signals.">
-  <a class="skip-link" href="#opportunity-main">Skip to content</a>
+<BaseLayout title={`${opportunityUi.metaTitle} | ${identity.title}`} description={opportunityUi.metaDescription}>
+  <a class="skip-link" href="#opportunity-main">{opportunityUi.skipLinkText}</a>
 
   <header class="site-header">
     <a class="brand" href="/" aria-label={`${identity.title} home`}>
@@ -416,11 +373,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       <span></span>
       <span></span>
     </button>
-    <nav class="site-nav" id="site-nav" aria-label="Opportunity Radar navigation">
-      <a href="/">Home</a>
-      <a href="/#resources">Resources</a>
-      <a href="/opportunities/">Radar</a>
-      <a href="/archive/">Archive</a>
+    <nav class="site-nav" id="site-nav" aria-label={opportunityUi.navigationLabel}>
+      {opportunityUi.navLinks.map((link) => <a href={link.url}>{link.label}</a>)}
     </nav>
   </header>
 
@@ -430,34 +384,34 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       <h1 id="opportunity-title">{opportunities.summary.title}</h1>
       <p class="dek">{opportunities.summary.text}</p>
 
-      <div class="opportunity-stats" aria-label="Opportunity Radar status">
+      <div class="opportunity-stats" aria-label={opportunityUi.stats.ariaLabel}>
         <div>
-          <span>Open calls</span>
+          <span>{opportunityUi.stats.openCallsLabel}</span>
           <strong>{items.length}</strong>
         </div>
         <div>
-          <span>This week</span>
+          <span>{opportunityUi.stats.urgentLabel}</span>
           <strong>{urgentCount}</strong>
         </div>
         <div>
-          <span>Coming up</span>
+          <span>{opportunityUi.stats.soonLabel}</span>
           <strong>{soonCount}</strong>
         </div>
         <div>
-          <span>Discovery sources</span>
+          <span>{opportunityUi.stats.sourcesLabel}</span>
           <strong>{sources.items.length}</strong>
         </div>
         <div>
-          <span>New here</span>
+          <span>{opportunityUi.stats.newLabel}</span>
           <strong id="opportunity-new-count">0</strong>
         </div>
       </div>
     </section>
 
-    <section class="opportunity-purposes" aria-label="Browse opportunities by purpose">
+    <section class="opportunity-purposes" aria-label={opportunityUi.purposeSection.ariaLabel}>
       <div>
-        <p class="eyebrow">Browse by Purpose</p>
-        <h2>Start with what you are trying to do.</h2>
+        <p class="eyebrow">{opportunityUi.purposeSection.kicker}</p>
+        <h2>{opportunityUi.purposeSection.title}</h2>
       </div>
       <div class="opportunity-purpose-list">
         {purposeOptions.map((purpose) => (
@@ -475,50 +429,47 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       </div>
     </section>
 
-    <section class="opportunity-tools" aria-label="Opportunity filters">
+    <section class="opportunity-tools" aria-label={opportunityUi.filters.ariaLabel}>
       <label>
-        Search
-        <input id="opportunity-search" type="search" placeholder="AI, rhetoric, film, technical communication..." />
+        {opportunityUi.filters.searchLabel}
+        <input id="opportunity-search" type="search" placeholder={opportunityUi.filters.searchPlaceholder} />
       </label>
       <label>
-        Field
+        {opportunityUi.filters.fieldLabel}
         <select id="opportunity-field">
-          <option value="">All fields</option>
+          <option value="">{opportunityUi.filters.allFieldsLabel}</option>
           {fieldOptions.map((field) => <option value={field}>{field}</option>)}
         </select>
       </label>
       <label>
-        Type
+        {opportunityUi.filters.typeLabel}
         <select id="opportunity-type">
-          <option value="">All types</option>
+          <option value="">{opportunityUi.filters.allTypesLabel}</option>
           {typeOptions.map((type) => <option value={type}>{type}</option>)}
         </select>
       </label>
       <label>
-        Sort
+        {opportunityUi.filters.sortLabel}
         <select id="opportunity-sort">
-          <option value="deadline">Due soonest</option>
-          <option value="new">New first</option>
-          <option value="fit">Strongest fit</option>
-          <option value="title">Title A-Z</option>
+          {opportunityUi.filters.sortOptions.map((option) => <option value={option.value}>{option.label}</option>)}
         </select>
       </label>
-      <div class="opportunity-new-filter" aria-label="New opportunities">
+      <div class="opportunity-new-filter" aria-label={opportunityUi.filters.newButtonLabel}>
         <button id="opportunity-new-filter" type="button" aria-pressed="false">
-          New
+          {opportunityUi.filters.newButtonLabel}
           <span id="opportunity-new-filter-count">0</span>
         </button>
       </div>
-      <div class="opportunity-save-filter" aria-label="Saved opportunities">
+      <div class="opportunity-save-filter" aria-label={opportunityUi.filters.savedButtonLabel}>
         <button id="opportunity-saved-filter" type="button" aria-pressed="false">
-          Saved
+          {opportunityUi.filters.savedButtonLabel}
           <span id="opportunity-saved-count">0</span>
         </button>
       </div>
       {mappedOpportunities.length > 0 && (
-        <div class="opportunity-map-filter" aria-label="Mapped opportunities">
+        <div class="opportunity-map-filter" aria-label={opportunityUi.filters.mapButtonLabel}>
           <button id="opportunity-map-toggle" type="button" aria-expanded="false" aria-controls="opportunity-map-view">
-            Map
+            {opportunityUi.filters.mapButtonLabel}
             <span>{physicalMapPlaces.length}</span>
           </button>
         </div>
@@ -529,35 +480,35 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       <section class="opportunity-map" id="opportunity-map-view" aria-labelledby="opportunity-map-title" hidden>
         <div class="opportunity-map__heading">
           <div>
-            <p class="eyebrow">Event Map</p>
-            <h2 id="opportunity-map-title">Where the in-person calls are gathering.</h2>
-            <p>Mapped from recognizable event locations in the feed. Contact-name locations stay off the map until a venue can be inferred cleanly.</p>
+            <p class="eyebrow">{opportunityUi.map.kicker}</p>
+            <h2 id="opportunity-map-title">{opportunityUi.map.title}</h2>
+            <p>{opportunityUi.map.text}</p>
           </div>
           <div class="opportunity-map__summary">
-            <span>{physicalMapPlaces.length} locations</span>
-            <span>{physicalMapOpportunities.length} mapped calls</span>
-            {virtualMapCount > 0 && <span>{virtualMapCount} online / virtual</span>}
+            <span>{physicalMapPlaces.length} {opportunityUi.map.locationsSuffix}</span>
+            <span>{physicalMapOpportunities.length} {opportunityUi.map.mappedCallsSuffix}</span>
+            {virtualMapCount > 0 && <span>{virtualMapCount} {opportunityUi.map.virtualSuffix}</span>}
           </div>
         </div>
 
         <div class="opportunity-map__layout">
-          <div class="opportunity-map__canvas" aria-label="Map of opportunity event locations">
+          <div class="opportunity-map__canvas" aria-label={opportunityUi.map.canvasLabel}>
             <div
               class="opportunity-map__real"
               id="opportunity-map-canvas"
               data-map-places={physicalMapPlacesJson}
             ></div>
             <div class="opportunity-map__loading" data-map-loading>
-              <strong>Loading interactive map</strong>
-              <span>Map data from OpenStreetMap via OpenFreeMap.</span>
+              <strong>{opportunityUi.map.loadingTitle}</strong>
+              <span>{opportunityUi.map.loadingText}</span>
             </div>
           </div>
 
-          <div class="opportunity-map__list" aria-label="Mapped opportunities">
+          <div class="opportunity-map__list" aria-label={opportunityUi.map.listLabel}>
             {
               physicalMapPlaces.map((place) => (
                 <article class="opportunity-map__item" data-map-card={place.id}>
-                  <span>{place.items.length} mapped {place.items.length === 1 ? "call" : "calls"}</span>
+                  <span>{place.items.length} mapped {place.items.length === 1 ? opportunityUi.map.callSingular : opportunityUi.map.callPlural}</span>
                   <h3>{place.label}</h3>
                   <div class="opportunity-map__calls">
                     {
@@ -565,13 +516,13 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                         <a href={entry.item.sourceUrl} target="_blank" rel="noreferrer">
                           <strong>{entry.item.title}</strong>
                           <small>
-                            {entry.item.eventDate ? `Event ${formatShortDate(entry.item.eventDate)}` : "Event date listed in source"}
-                            {entry.item.deadline ? ` / ${formatDeadlineLabel(entry.item.deadlineType, entry.item.type)} ${formatShortDate(entry.item.deadline)}` : " / Rolling deadline"}
+                            {entry.item.eventDate ? `${opportunityUi.cards.eventLabel} ${formatShortDate(entry.item.eventDate)}` : opportunityUi.map.eventDateFallback}
+                            {entry.item.deadline ? ` / ${formatDeadlineLabel(entry.item.deadlineType, entry.item.type)} ${formatShortDate(entry.item.deadline)}` : ` / ${opportunityUi.map.rollingDeadlineLabel}`}
                           </small>
                         </a>
                       ))
                     }
-                    {place.items.length > 5 && <p>{place.items.length - 5} more {place.items.length - 5 === 1 ? "call" : "calls"} mapped to this location.</p>}
+                    {place.items.length > 5 && <p>{place.items.length - 5} more {place.items.length - 5 === 1 ? opportunityUi.map.callSingular : opportunityUi.map.callPlural} {opportunityUi.map.moreAtLocationSuffix}</p>}
                   </div>
                 </article>
               ))
@@ -583,8 +534,8 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
 
     <section class="opportunity-results" aria-live="polite">
       <div class="opportunity-results__bar">
-        <p><span id="opportunity-count">{items.length}</span> curated items</p>
-        <span>Updated {opportunities.updated}</span>
+        <p><span id="opportunity-count">{items.length}</span> {opportunityUi.results.countSuffix}</p>
+        <span>{opportunityUi.results.updatedPrefix} {opportunities.updated}</span>
       </div>
 
       <div class="opportunity-list" id="opportunity-list">
@@ -613,10 +564,10 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                 </div>
                 <div class="opportunity-group__side">
                   <div class="opportunity-saved-note" data-saved-note hidden>
-                    <p>Saved items stay only in this browser on this device.</p>
+                    <p>{opportunityUi.results.savedNote}</p>
                     <div>
-                      <button type="button" data-copy-saved>Copy saved list</button>
-                      <a href="#" data-email-saved>Email saved list</a>
+                      <button type="button" data-copy-saved>{opportunityUi.results.copySavedLabel}</button>
+                      <a href="#" data-email-saved>{opportunityUi.results.emailSavedLabel}</a>
                     </div>
                   </div>
                   <span data-group-count>{group.items.length}</span>
@@ -639,24 +590,24 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                       <div class="opportunity-date-strip">
                         {item.eventDate && (
                           <time class="opportunity-date-box" datetime={item.eventDate}>
-                            <span>Event</span>
+                            <span>{opportunityUi.cards.eventLabel}</span>
                             <strong>{formatShortDate(item.eventDate)}</strong>
                           </time>
                         )}
                         <time class="opportunity-date-box" datetime={item.deadline || undefined}>
                           <span>{formatDeadlineLabel(item.deadlineType, item.type)}</span>
-                          <strong>{item.deadline ? formatShortDate(item.deadline) : "Rolling"}</strong>
+                          <strong>{item.deadline ? formatShortDate(item.deadline) : opportunityUi.cards.rollingLabel}</strong>
                         </time>
                         <span class:list={["opportunity-date-box", "opportunity-date-box--countdown", `is-${item.urgency}`]}>
-                          <span>Days left</span>
+                          <span>{opportunityUi.cards.daysLeftLabel}</span>
                           <strong>{formatDaysLeft(item.days)}</strong>
                         </span>
                         <div class="opportunity-card__actions">
                           <a class="opportunity-forward" href={forwardHref(item)} aria-label={`Forward opportunity: ${item.title}`}>
-                            Forward
+                            {opportunityUi.actions.forwardLabel}
                           </a>
                           <button class="opportunity-save" type="button" data-save-opportunity aria-pressed="false">
-                            Save
+                            {opportunityUi.actions.saveLabel}
                           </button>
                           <button
                             class="opportunity-detail"
@@ -665,20 +616,20 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                             data-detail-title={item.title}
                             data-detail-source={`${item.source} / ${item.type}`}
                             data-detail-deadline-label={formatDeadlineLabel(item.deadlineType, item.type)}
-                            data-detail-deadline={item.deadline || "Rolling / see source"}
+                            data-detail-deadline={item.deadline || opportunityUi.cards.sourceListedFallback}
                             data-detail-days={formatDaysLeft(item.days)}
                             data-detail-event={item.eventDate || ""}
-                            data-detail-location={item.location || "Online / source listed"}
+                            data-detail-location={item.location || opportunityUi.cards.onlineFallback}
                             data-detail-excerpt={detailText(item)}
                             data-detail-url={item.sourceUrl}
                             data-detail-fields={item.fields.join("|")}
                             data-detail-reason={matchReasons(item)}
                             data-detail-checklist={detailChecklist(item).join("|")}
                           >
-                            Details
+                            {opportunityUi.actions.detailsLabel}
                           </button>
                           <button class="opportunity-copy" type="button" data-copy-opportunity data-copy-text={copyDetails(item)}>
-                            Copy
+                            {opportunityUi.actions.copyLabel}
                           </button>
                         </div>
                       </div>
@@ -686,17 +637,17 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
                         <div>
                           <div class="opportunity-card__kicker">
                             <p class="opportunity-source">{item.source} / {item.type}</p>
-                            <span class="opportunity-new" data-new-badge hidden>New</span>
+                            <span class="opportunity-new" data-new-badge hidden>{opportunityUi.actions.newBadgeLabel}</span>
                           </div>
                           <h3><a href={item.sourceUrl} target="_blank" rel="noreferrer">{item.title}</a></h3>
                           <p>{displayPreview(item.excerpt)}</p>
                           <div class="opportunity-meta">
-                            <span>{item.location || "Online / source listed"}</span>
-                            {item.eventDate && <time datetime={item.eventDate}>Event: {item.eventDate}</time>}
+                            <span>{item.location || opportunityUi.cards.onlineFallback}</span>
+                            {item.eventDate && <time datetime={item.eventDate}>{opportunityUi.cards.eventLabel}: {item.eventDate}</time>}
                           </div>
                         </div>
                       </div>
-                      <div class="opportunity-tags" aria-label="Fields">
+                      <div class="opportunity-tags" aria-label={opportunityUi.cards.fieldsLabel}>
                         {signalTags(item).map((field) => (
                           <button type="button" data-field-filter={field} data-field-query={signalQuery(field)}>{field}</button>
                         ))}
@@ -709,64 +660,62 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           ))
         }
       </div>
-      <p class="opportunity-empty" id="opportunity-empty" hidden>No matching opportunities right now.</p>
+      <p class="opportunity-empty" id="opportunity-empty" hidden>{opportunityUi.results.emptyText}</p>
       <div class="opportunity-more">
-        <button id="opportunity-more" type="button">Show 10 more</button>
+        <button id="opportunity-more" type="button">{opportunityUi.results.showMoreLabel}</button>
       </div>
     </section>
 
     <dialog class="opportunity-dialog" id="opportunity-dialog" aria-labelledby="opportunity-dialog-title">
       <div class="opportunity-dialog__panel">
-        <button class="opportunity-dialog__close" type="button" data-dialog-close aria-label="Close details">Close</button>
+        <button class="opportunity-dialog__close" type="button" data-dialog-close aria-label={opportunityUi.dialog.closeLabel}>{opportunityUi.dialog.closeLabel}</button>
         <p class="opportunity-dialog__source" id="opportunity-dialog-source"></p>
         <h2 id="opportunity-dialog-title"></h2>
-        <div class="opportunity-dialog__facts" aria-label="Opportunity details">
+        <div class="opportunity-dialog__facts" aria-label={opportunityUi.dialog.detailsLabel}>
           <div>
-            <span id="opportunity-dialog-deadline-label">Deadline</span>
+            <span id="opportunity-dialog-deadline-label">{opportunityUi.dialog.deadlineFallback}</span>
             <strong id="opportunity-dialog-deadline"></strong>
           </div>
           <div>
-            <span>Days left</span>
+            <span>{opportunityUi.dialog.daysLeftLabel}</span>
             <strong id="opportunity-dialog-days"></strong>
           </div>
           <div id="opportunity-dialog-event-wrap">
-            <span>Event</span>
+            <span>{opportunityUi.dialog.eventLabel}</span>
             <strong id="opportunity-dialog-event"></strong>
           </div>
           <div>
-            <span>Location</span>
+            <span>{opportunityUi.dialog.locationLabel}</span>
             <strong id="opportunity-dialog-location"></strong>
           </div>
         </div>
         <p class="opportunity-dialog__reason" id="opportunity-dialog-reason"></p>
         <div class="opportunity-dialog__checklist" id="opportunity-dialog-checklist" hidden>
-          <h3>Quick Scan</h3>
+          <h3>{opportunityUi.dialog.quickScanTitle}</h3>
           <ul></ul>
         </div>
         <p class="opportunity-dialog__excerpt" id="opportunity-dialog-excerpt"></p>
-        <div class="opportunity-dialog__fields" id="opportunity-dialog-fields" aria-label="Fields"></div>
+        <div class="opportunity-dialog__fields" id="opportunity-dialog-fields" aria-label={opportunityUi.dialog.fieldsLabel}></div>
         <div class="opportunity-dialog__actions">
-          <a id="opportunity-dialog-link" href="#" target="_blank" rel="noreferrer">Open source</a>
-          <button type="button" data-dialog-close>Done</button>
+          <a id="opportunity-dialog-link" href="#" target="_blank" rel="noreferrer">{opportunityUi.dialog.openSourceLabel}</a>
+          <button type="button" data-dialog-close>{opportunityUi.dialog.doneLabel}</button>
         </div>
       </div>
     </dialog>
 
     <section class="section source-section" aria-labelledby="source-title">
-      <div class="section-kicker">Curation Notes</div>
+      <div class="section-kicker">{opportunityUi.sourceSection.kicker}</div>
       <div class="section-heading">
-        <h2 id="source-title">How this list is gathered.</h2>
-        <p>These sources help surface possibilities for the RCID community. They are starting points for review, not automatic endorsements.</p>
+        <h2 id="source-title">{opportunityUi.sourceSection.title}</h2>
+        <p>{opportunityUi.sourceSection.text}</p>
       </div>
 
       <div class="feed-note">
         <div>
-          <h3>How the feed works</h3>
-          <p>
-            The radar refreshes from a curated source list, then filters for readable deadlines, source confidence, deduplication, and likely RCID relevance. Some high-value sources are email-distributed newsletters, including NCA COMMNotes, and are tracked as watchlist sources until a dedicated inbox parser is connected. Some sites limit automated access, change their markup, or publish broad listings where only a few items fit the feed, so not every call from every monitored source appears here.
-          </p>
+          <h3>{opportunityUi.sourceSection.feedTitle}</h3>
+          <p>{opportunityUi.sourceSection.feedText}</p>
         </div>
-        <a href={suggestSourceHref}>Suggest a source</a>
+        <a href={suggestSourceHref}>{opportunityUi.sourceSection.suggestSourceLabel}</a>
       </div>
 
       <div class="source-grid">
@@ -775,7 +724,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
             <a class="source-card" href={source.url} target="_blank" rel="noreferrer">
               <span>{source.type}</span>
               <strong>{source.name}</strong>
-              <small>{source.cadence} check</small>
+              <small>{source.cadence} {opportunityUi.sourceSection.cadenceSuffix}</small>
             </a>
           ))
         }
@@ -784,14 +733,14 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       {watchSources.length > 0 && (
         <div class="watch-source-block">
           <div class="watch-source-heading">
-            <h3>Watchlist</h3>
-            <p>High-value sources we track for future automation or manual review.</p>
+            <h3>{opportunityUi.sourceSection.watchlistTitle}</h3>
+            <p>{opportunityUi.sourceSection.watchlistText}</p>
           </div>
           <div class="watch-source-list">
             {
               watchSources.map((source) => (
                 <a href={source.url} target="_blank" rel="noreferrer">
-                  <small>Watch source</small>
+                  <small>{opportunityUi.sourceSection.watchSourceLabel}</small>
                   <strong>{source.name}</strong>
                   <span>{source.type}</span>
                 </a>
@@ -803,7 +752,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     </section>
   </main>
 
+  <script type="application/json" id="opportunity-ui-config" set:html={opportunityUiJson}></script>
   <script is:inline>
+    const ui = JSON.parse(document.querySelector("#opportunity-ui-config")?.textContent || "{}");
     const search = document.querySelector("#opportunity-search");
     const field = document.querySelector("#opportunity-field");
     const type = document.querySelector("#opportunity-type");
@@ -954,7 +905,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const button = card.querySelector("[data-save-opportunity]");
         if (!button) return;
         button.setAttribute("aria-pressed", String(isSaved));
-        button.textContent = isSaved ? "Saved" : "Save";
+        button.textContent = isSaved ? ui.actions.savedLabel : ui.actions.saveLabel;
       });
 
       savedCount.textContent = String(savedItems.size);
@@ -980,7 +931,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       emailSavedLinks.forEach((link) => {
         link.toggleAttribute("aria-disabled", !hasSaved);
         link.href = hasSaved
-          ? `mailto:?subject=${encodeURIComponent("Saved RCID opportunities")}&body=${encodeURIComponent(text)}`
+          ? `mailto:?subject=${encodeURIComponent(ui.results.savedGroupTitle)}&body=${encodeURIComponent(text)}`
           : "#";
       });
     };
@@ -1035,7 +986,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
     const initializeRadarMap = async () => {
       if (!mapCanvas || mapCanvas.dataset.mapReady === "true" || mapCanvas.dataset.mapReady === "loading") return;
       mapCanvas.dataset.mapReady = "loading";
-      setMapStatus("Loading interactive map", "Map data from OpenStreetMap via OpenFreeMap.");
+      setMapStatus(ui.map.loadingTitle, ui.map.loadingText);
 
       try {
         loadExternalAsset("style", "https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css").catch(() => {});
@@ -1068,7 +1019,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           const markerLabel = document.createElement("span");
           markerLabel.textContent = place.label;
           markerElement.append(markerCount, markerLabel);
-          markerElement.setAttribute("aria-label", `${place.label}: ${place.count} mapped ${place.count === 1 ? "opportunity" : "opportunities"}`);
+          markerElement.setAttribute("aria-label", `${place.label}: ${place.count} mapped ${place.count === 1 ? ui.map.markerOpportunitySingular : ui.map.markerOpportunityPlural}`);
           markerElement.addEventListener("click", () => {
             selectMapPlace(place.id);
           });
@@ -1080,10 +1031,10 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           const popupTitle = document.createElement("strong");
           popupTitle.textContent = place.label;
           const popupCount = document.createElement("span");
-          popupCount.textContent = `${place.count} ${place.count === 1 ? "call" : "calls"}`;
+          popupCount.textContent = `${place.count} ${place.count === 1 ? ui.map.callSingular : ui.map.callPlural}`;
           popupHeader.append(popupTitle, popupCount);
           const popupList = document.createElement("ul");
-          popupList.setAttribute("aria-label", `Sample calls in ${place.label}`);
+          popupList.setAttribute("aria-label", `${ui.map.popupListLabelPrefix} ${place.label}`);
           place.calls.slice(0, 3).forEach((call) => {
             const popupItem = document.createElement("li");
             const popupLink = document.createElement("a");
@@ -1096,7 +1047,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
           });
           if (place.count > place.calls.length) {
             const popupMore = document.createElement("p");
-            popupMore.textContent = `${place.count - place.calls.length} more in the list`;
+            popupMore.textContent = `${place.count - place.calls.length} ${ui.map.moreInListSuffix}`;
             popupContent.append(popupHeader, popupList, popupMore);
           } else {
             popupContent.append(popupHeader, popupList);
@@ -1115,7 +1066,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const mapPaintTimeout = window.setTimeout(() => {
           if (mapCanvas.dataset.mapReady !== "true") {
             mapCanvas.dataset.mapReady = "error";
-            setMapStatus("Map temporarily unavailable", "The mapped location list is still available to the right.");
+            setMapStatus(ui.map.unavailableTitle, ui.map.unavailableText);
           }
         }, 6000);
 
@@ -1128,13 +1079,13 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         map.once("error", () => {
           window.clearTimeout(mapPaintTimeout);
           mapCanvas.dataset.mapReady = "error";
-          setMapStatus("Map temporarily unavailable", "The mapped location list is still available to the right.");
+          setMapStatus(ui.map.unavailableTitle, ui.map.unavailableText);
         });
 
         window.radarMap = map;
       } catch {
         mapCanvas.dataset.mapReady = "error";
-        setMapStatus("Map temporarily unavailable", "The mapped location list is still available to the right.");
+        setMapStatus(ui.map.unavailableTitle, ui.map.unavailableText);
       }
     };
 
@@ -1180,11 +1131,11 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const groupTitle = group.querySelector("[data-group-title]");
         const groupText = group.querySelector("[data-group-text]");
         if (groupTitle) {
-          groupTitle.textContent = group.classList.contains("is-saved-primary") ? "Saved Radar Items" : groupTitle.dataset.originalTitle || groupTitle.textContent;
+          groupTitle.textContent = group.classList.contains("is-saved-primary") ? ui.results.savedGroupTitle : groupTitle.dataset.originalTitle || groupTitle.textContent;
         }
         if (groupText) {
           groupText.textContent = group.classList.contains("is-saved-primary")
-            ? "Your private browser-local shortlist, sorted by the current controls."
+            ? ui.results.savedGroupText
             : groupText.dataset.originalText || groupText.textContent;
         }
 
@@ -1205,12 +1156,12 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       count.textContent = String(matched);
       empty.hidden = matched > 0;
       empty.textContent = showSavedOnly
-        ? "No saved opportunities match these filters. Use Save on any card to build a private browser-local shortlist."
+        ? ui.results.emptySavedText
         : showNewOnly
-          ? "No new opportunities match these filters. New items appear after the feed changes on a later visit."
-        : "No matching opportunities right now. Try widening the search or changing the filters.";
+          ? ui.results.emptyNewText
+        : ui.results.emptyFilteredText;
       more.hidden = matched <= visibleLimit;
-      more.textContent = `Show ${Math.min(pageSize, Math.max(matched - visibleLimit, 0))} more`;
+      more.textContent = `${ui.results.showMorePrefix} ${Math.min(pageSize, Math.max(matched - visibleLimit, 0))} ${ui.results.showMoreSuffix}`;
     };
 
     const resetLimit = () => {
@@ -1276,9 +1227,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const original = button.textContent;
         try {
           await navigator.clipboard.writeText(savedListText());
-          button.textContent = "Copied";
+          button.textContent = ui.actions.copiedLabel;
         } catch {
-          button.textContent = "Copy unavailable";
+          button.textContent = ui.actions.copyUnavailableLabel;
         }
         window.setTimeout(() => {
           button.textContent = original;
@@ -1292,9 +1243,9 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
         const text = button.dataset.copyText || "";
         try {
           await navigator.clipboard.writeText(text);
-          button.textContent = "Copied";
+          button.textContent = ui.actions.copiedLabel;
         } catch {
-          button.textContent = "Copy unavailable";
+          button.textContent = ui.actions.copyUnavailableLabel;
         }
         window.setTimeout(() => {
           button.textContent = original;
@@ -1306,7 +1257,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       button.addEventListener("click", () => {
         dialogTitle.textContent = button.dataset.detailTitle || "";
         dialogSource.textContent = button.dataset.detailSource || "";
-        dialogDeadlineLabel.textContent = button.dataset.detailDeadlineLabel || "Deadline";
+        dialogDeadlineLabel.textContent = button.dataset.detailDeadlineLabel || ui.dialog.deadlineFallback;
         dialogDeadline.textContent = button.dataset.detailDeadline || "";
         dialogDays.textContent = button.dataset.detailDays || "";
         dialogLocation.textContent = button.dataset.detailLocation || "";

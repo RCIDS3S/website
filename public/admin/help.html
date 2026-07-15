@@ -94,7 +94,8 @@
     <p>The CMS is configured with an editorial workflow, so content can move through draft, review, and publish states inside Decap.</p>
 
     <h2>Manual editing map</h2>
-    <p>Manual edits can be made in GitHub or locally by changing these files:</p>
+    <p>Most editors should start in the Decap admin. The sections are organized to match the site: homepage settings, events, resources, officers, Opportunity Radar, and Legacy Archive. Fields labeled <strong>Advanced</strong> control filters or sorting behavior and should usually be left alone.</p>
+    <p>Manual edits can still be made in GitHub or locally by changing these files:</p>
     <ul>
       <li>Homepage hero: <code>src/data/site/hero.json</code></li>
       <li>Site title, subtitle, SEO: <code>src/data/site/identity.json</code></li>
@@ -107,9 +108,15 @@
       <li>Contact: <code>src/data/site/contact.json</code></li>
       <li>Footer: <code>src/data/site/footer.json</code></li>
       <li>Opportunities page copy: <code>src/data/opportunities.json</code></li>
+      <li>Opportunity Radar labels, buttons, filters, map text, and dialog copy: <code>src/data/opportunities-ui.json</code></li>
       <li>Opportunity sources: <code>src/data/opportunity-sources.json</code></li>
+      <li>Legacy archive page copy and filter labels: <code>src/data/archive/settings.json</code></li>
+      <li>Legacy archive posts: <code>src/data/archive/posts.json</code></li>
       <li>Images: <code>public/assets/images/</code></li>
     </ul>
+
+    <h2>What editors should avoid</h2>
+    <p>The Opportunity Radar item list is partly automation-shaped, so the admin hides the raw published items from routine editing. Editors can safely change the page title, intro, controls, labels, sources, and explanatory text. If an individual opportunity needs to be corrected, ask a site admin to make that change in GitHub or rerun the opportunity update workflow.</p>
 
     <h2>Manual GitHub workflow</h2>
     <ol>

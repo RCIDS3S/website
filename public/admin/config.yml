@@ -204,6 +204,228 @@ collections:
             widget: "hidden"
             required: false
 
+      - label: "Opportunity Radar Labels and Controls"
+        name: "opportunity_ui"
+        file: "src/data/opportunities-ui.json"
+        format: "json"
+        fields:
+          - { label: "Browser Tab Title", name: "metaTitle", widget: "string" }
+          - { label: "Search Engine Description", name: "metaDescription", widget: "text" }
+          - { label: "Skip Link Text", name: "skipLinkText", widget: "string" }
+          - { label: "Navigation Accessibility Label", name: "navigationLabel", widget: "string", hint: "Usually invisible, but useful for screen readers." }
+          - label: "Top Navigation Links"
+            name: "navLinks"
+            widget: "list"
+            summary: "{{fields.label}}"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+          - label: "Status Cards"
+            name: "stats"
+            widget: "object"
+            fields:
+              - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
+              - { label: "Open Calls Label", name: "openCallsLabel", widget: "string" }
+              - { label: "This Week Label", name: "urgentLabel", widget: "string" }
+              - { label: "Coming Up Label", name: "soonLabel", widget: "string" }
+              - { label: "Discovery Sources Label", name: "sourcesLabel", widget: "string" }
+              - { label: "New Here Label", name: "newLabel", widget: "string" }
+          - label: "Browse by Purpose Heading"
+            name: "purposeSection"
+            widget: "object"
+            fields:
+              - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+          - label: "Browse by Purpose Cards"
+            name: "purposeOptions"
+            widget: "list"
+            summary: "{{fields.label}}"
+            fields:
+              - { label: "Card Label", name: "label", widget: "string" }
+              - { label: "Card Text", name: "text", widget: "text" }
+              - { label: "Advanced: Type Filter", name: "filterType", widget: "string", required: false, hint: "Leave this alone unless changing how the card filters results." }
+              - { label: "Advanced: Field Filter", name: "filterField", widget: "string", required: false, hint: "Leave this alone unless changing how the card filters results." }
+              - { label: "Advanced: Search Filter", name: "filterQuery", widget: "string", required: false, hint: "Leave this alone unless changing how the card filters results." }
+          - label: "Search and Filter Controls"
+            name: "filters"
+            widget: "object"
+            fields:
+              - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
+              - { label: "Search Label", name: "searchLabel", widget: "string" }
+              - { label: "Search Placeholder", name: "searchPlaceholder", widget: "string" }
+              - { label: "Field Filter Label", name: "fieldLabel", widget: "string" }
+              - { label: "All Fields Option", name: "allFieldsLabel", widget: "string" }
+              - { label: "Type Filter Label", name: "typeLabel", widget: "string" }
+              - { label: "All Types Option", name: "allTypesLabel", widget: "string" }
+              - { label: "Sort Label", name: "sortLabel", widget: "string" }
+              - label: "Sort Options"
+                name: "sortOptions"
+                widget: "list"
+                summary: "{{fields.label}}"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Advanced: Sort Value", name: "value", widget: "string", hint: "Leave this alone unless changing sort behavior." }
+              - { label: "New Button Label", name: "newButtonLabel", widget: "string" }
+              - { label: "Saved Button Label", name: "savedButtonLabel", widget: "string" }
+              - { label: "Map Button Label", name: "mapButtonLabel", widget: "string" }
+          - label: "Result Group Headings"
+            name: "groups"
+            widget: "object"
+            fields:
+              - label: "Due Soon"
+                name: "dueSoon"
+                widget: "object"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Text", name: "text", widget: "text" }
+              - label: "Media, Film & Art"
+                name: "mediaArt"
+                widget: "object"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Text", name: "text", widget: "text" }
+              - label: "Journals & Collections"
+                name: "publications"
+                widget: "object"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Text", name: "text", widget: "text" }
+              - label: "Conferences & CFPs"
+                name: "conferences"
+                widget: "object"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Text", name: "text", widget: "text" }
+              - label: "Funding & Fellowships"
+                name: "funding"
+                widget: "object"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Text", name: "text", widget: "text" }
+          - label: "Map Text"
+            name: "map"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "text", widget: "text" }
+              - { label: "Map Accessibility Label", name: "canvasLabel", widget: "string" }
+              - { label: "Mapped List Accessibility Label", name: "listLabel", widget: "string" }
+              - { label: "Locations Label", name: "locationsSuffix", widget: "string" }
+              - { label: "Mapped Calls Label", name: "mappedCallsSuffix", widget: "string" }
+              - { label: "Online/Virtual Label", name: "virtualSuffix", widget: "string" }
+              - { label: "Loading Title", name: "loadingTitle", widget: "string" }
+              - { label: "Loading Text", name: "loadingText", widget: "string" }
+              - { label: "Call Singular", name: "callSingular", widget: "string" }
+              - { label: "Call Plural", name: "callPlural", widget: "string" }
+              - { label: "Event Date Fallback", name: "eventDateFallback", widget: "string" }
+              - { label: "Rolling Deadline Label", name: "rollingDeadlineLabel", widget: "string" }
+              - { label: "More At Location Suffix", name: "moreAtLocationSuffix", widget: "string" }
+              - { label: "More In List Suffix", name: "moreInListSuffix", widget: "string" }
+              - { label: "Marker Opportunity Singular", name: "markerOpportunitySingular", widget: "string" }
+              - { label: "Marker Opportunity Plural", name: "markerOpportunityPlural", widget: "string" }
+              - { label: "Popup List Label Prefix", name: "popupListLabelPrefix", widget: "string" }
+              - { label: "Map Unavailable Title", name: "unavailableTitle", widget: "string" }
+              - { label: "Map Unavailable Text", name: "unavailableText", widget: "string" }
+          - label: "Results and Saved Items Text"
+            name: "results"
+            widget: "object"
+            fields:
+              - { label: "Count Suffix", name: "countSuffix", widget: "string" }
+              - { label: "Updated Prefix", name: "updatedPrefix", widget: "string" }
+              - { label: "Saved Note", name: "savedNote", widget: "text" }
+              - { label: "Copy Saved Button", name: "copySavedLabel", widget: "string" }
+              - { label: "Email Saved Button", name: "emailSavedLabel", widget: "string" }
+              - { label: "Saved Group Title", name: "savedGroupTitle", widget: "string" }
+              - { label: "Saved Group Text", name: "savedGroupText", widget: "text" }
+              - { label: "Empty Saved Message", name: "emptySavedText", widget: "text" }
+              - { label: "Empty New Message", name: "emptyNewText", widget: "text" }
+              - { label: "Empty Message", name: "emptyText", widget: "text" }
+              - { label: "Empty Filtered Message", name: "emptyFilteredText", widget: "text" }
+              - { label: "Show More Button", name: "showMoreLabel", widget: "string" }
+              - { label: "Show More Prefix", name: "showMorePrefix", widget: "string" }
+              - { label: "Show More Suffix", name: "showMoreSuffix", widget: "string" }
+          - label: "Card Action Labels"
+            name: "actions"
+            widget: "object"
+            fields:
+              - { label: "Forward", name: "forwardLabel", widget: "string" }
+              - { label: "Save", name: "saveLabel", widget: "string" }
+              - { label: "Saved", name: "savedLabel", widget: "string" }
+              - { label: "Details", name: "detailsLabel", widget: "string" }
+              - { label: "Copy", name: "copyLabel", widget: "string" }
+              - { label: "Copied", name: "copiedLabel", widget: "string" }
+              - { label: "Copy Unavailable", name: "copyUnavailableLabel", widget: "string" }
+              - { label: "New Badge", name: "newBadgeLabel", widget: "string" }
+          - label: "Card Labels"
+            name: "cards"
+            widget: "object"
+            fields:
+              - { label: "Event Label", name: "eventLabel", widget: "string" }
+              - { label: "Days Left Label", name: "daysLeftLabel", widget: "string" }
+              - { label: "Rolling Label", name: "rollingLabel", widget: "string" }
+              - { label: "No Deadline Fallback", name: "sourceListedFallback", widget: "string" }
+              - { label: "Online Fallback", name: "onlineFallback", widget: "string" }
+              - { label: "Fields Label", name: "fieldsLabel", widget: "string" }
+          - label: "Date Labels"
+            name: "dateLabels"
+            widget: "object"
+            fields:
+              - { label: "Rolling", name: "rolling", widget: "string" }
+              - { label: "Closed", name: "closed", widget: "string" }
+              - { label: "Today", name: "today", widget: "string" }
+              - { label: "One Day", name: "oneDay", widget: "string" }
+              - { label: "Days Suffix", name: "daysSuffix", widget: "string" }
+              - { label: "Deadline", name: "deadline", widget: "string" }
+              - { label: "Final Deadline", name: "finalDeadline", widget: "string" }
+              - { label: "Early Deadline", name: "earlyDeadline", widget: "string" }
+              - { label: "Next Deadline", name: "nextDeadline", widget: "string" }
+              - { label: "Application Due", name: "applicationDue", widget: "string" }
+              - { label: "Proposal Due", name: "proposalDue", widget: "string" }
+              - { label: "Submission Due", name: "submissionDue", widget: "string" }
+              - { label: "Due Suffix", name: "dueSuffix", widget: "string" }
+          - label: "Generated Quick Scan Text"
+            name: "generatedInsights"
+            widget: "object"
+            hint: "These labels appear before automatically extracted source details."
+            fields:
+              - { label: "Matched Because Prefix", name: "matchedBecausePrefix", widget: "string" }
+              - { label: "Matched Fallback", name: "matchedFallback", widget: "text" }
+              - { label: "Submission Shape Prefix", name: "submissionShapePrefix", widget: "string" }
+              - { label: "Formats Mentioned Prefix", name: "formatsMentionedPrefix", widget: "string" }
+              - { label: "Contact Prefix", name: "contactPrefix", widget: "string" }
+          - label: "Details Dialog Text"
+            name: "dialog"
+            widget: "object"
+            fields:
+              - { label: "Close Label", name: "closeLabel", widget: "string" }
+              - { label: "Details Accessibility Label", name: "detailsLabel", widget: "string" }
+              - { label: "Deadline Fallback", name: "deadlineFallback", widget: "string" }
+              - { label: "Days Left Label", name: "daysLeftLabel", widget: "string" }
+              - { label: "Event Label", name: "eventLabel", widget: "string" }
+              - { label: "Location Label", name: "locationLabel", widget: "string" }
+              - { label: "Quick Scan Title", name: "quickScanTitle", widget: "string" }
+              - { label: "Fields Label", name: "fieldsLabel", widget: "string" }
+              - { label: "Open Source Button", name: "openSourceLabel", widget: "string" }
+              - { label: "Done Button", name: "doneLabel", widget: "string" }
+          - label: "Source Notes Section"
+            name: "sourceSection"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "text", widget: "text" }
+              - { label: "Feed Title", name: "feedTitle", widget: "string" }
+              - { label: "Feed Text", name: "feedText", widget: "text" }
+              - { label: "Suggest Source Button", name: "suggestSourceLabel", widget: "string" }
+              - { label: "Cadence Suffix", name: "cadenceSuffix", widget: "string" }
+              - { label: "Watchlist Title", name: "watchlistTitle", widget: "string" }
+              - { label: "Watchlist Text", name: "watchlistText", widget: "text" }
+              - { label: "Watch Source Label", name: "watchSourceLabel", widget: "string" }
+              - { label: "Suggest Email Subject", name: "suggestEmailSubject", widget: "string" }
+              - { label: "Suggest Email Body", name: "suggestEmailBody", widget: "text" }
+
       - label: "Opportunity Sources"
         name: "opportunity_sources"
         file: "src/data/opportunity-sources.json"
@@ -232,3 +454,46 @@ collections:
               - { label: "Page Limit", name: "pageLimit", widget: "number", value_type: "int", min: 1, required: false }
               - { label: "Cadence", name: "cadence", widget: "string", required: false }
               - { label: "Notes", name: "notes", widget: "text", required: false }
+
+  - name: "archive"
+    label: "Legacy Archive"
+    files:
+      - label: "Legacy Archive Page"
+        name: "archive_settings"
+        file: "src/data/archive/settings.json"
+        format: "json"
+        fields:
+          - { label: "Browser Tab Title", name: "metaTitle", widget: "string" }
+          - { label: "Search Engine Description", name: "metaDescription", widget: "text" }
+          - { label: "Skip Link Text", name: "skipLinkText", widget: "string" }
+          - { label: "Navigation Accessibility Label", name: "navigationLabel", widget: "string", hint: "Usually invisible, but useful for screen readers." }
+          - label: "Top Navigation Links"
+            name: "navLinks"
+            widget: "list"
+            summary: "{{fields.label}}"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+          - label: "Hero Copy"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "text", widget: "text" }
+          - label: "Filter Labels"
+            name: "filters"
+            widget: "object"
+            fields:
+              - { label: "Accessibility Label", name: "ariaLabel", widget: "string" }
+              - { label: "Search Label", name: "searchLabel", widget: "string" }
+              - { label: "Search Placeholder", name: "searchPlaceholder", widget: "string" }
+              - { label: "Category Label", name: "categoryLabel", widget: "string" }
+              - { label: "All Categories Option", name: "allCategoriesLabel", widget: "string" }
+              - { label: "Year Label", name: "yearLabel", widget: "string" }
+              - { label: "All Years Option", name: "allYearsLabel", widget: "string" }
+          - label: "Results Text"
+            name: "results"
+            widget: "object"
+            fields:
+              - { label: "Count Suffix", name: "countSuffix", widget: "string" }
