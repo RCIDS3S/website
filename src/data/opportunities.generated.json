@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,7 +8,7 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Film and Television",
-      "count": 51
+      "count": 50
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -40,10 +40,6 @@
     },
     {
       "source": "UPenn CFP: Cultural Studies",
-      "count": 15
-    },
-    {
-      "source": "UPenn CFP: Gender and Sexuality",
       "count": 13
     },
     {
@@ -52,7 +48,11 @@
     },
     {
       "source": "CFPList: Rhetoric & Composition",
-      "count": 10
+      "count": 11
+    },
+    {
+      "source": "UPenn CFP: Gender and Sexuality",
+      "count": 11
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
@@ -75,12 +75,16 @@
       "count": 8
     },
     {
-      "source": "UPenn CFP: Interdisciplinary",
-      "count": 7
-    },
-    {
       "source": "UPenn CFP: Theatre and Performance Studies",
       "count": 6
+    },
+    {
+      "source": "UPenn CFP: Interdisciplinary",
+      "count": 6
+    },
+    {
+      "source": "UPenn CFP: Fan Studies and Fandom",
+      "count": 5
     },
     {
       "source": "UPenn CFP: Ecocriticism and Environmental Studies",
@@ -88,10 +92,6 @@
     },
     {
       "source": "UPenn CFP: Science and Culture",
-      "count": 4
-    },
-    {
-      "source": "UPenn CFP: Fan Studies and Fandom",
       "count": 4
     },
     {
@@ -131,15 +131,37 @@
       "count": 2
     },
     {
-      "source": "UPenn CFP: Awards",
-      "count": 1
-    },
-    {
       "source": "UPenn CFP: Translation Studies",
       "count": 1
     }
   ],
   "items": [
+    {
+      "title": "JMMLA CFP Spring 2027: Computation, Interdisciplinarity, and the Humanities",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/jmmla-cfp-spring-2027-computation-interdisciplinarity-and-the-humanities",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-07-28",
+      "eventDate": "",
+      "location": "Midwest Modern Language Association",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 70,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of comp...",
+      "fullDescription": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of computation in shaping inquiry across the humanities. These intersections are especially visible in interdisciplinary work. As T. S. Eliot observes, “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.” The same spirit can illuminate how methods and tools migrate across fields.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
     {
       "title": "Special Issue , \"AI Reshaping the Classroom: Transformation of Teaching and Learning Models”",
       "source": "CFPList",
@@ -147,7 +169,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47930",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-07-31",
       "location": "· Contemporary Education and Teaching Research",
       "status": "open",
@@ -174,7 +196,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -192,129 +214,13 @@
       "publish": true
     },
     {
-      "title": "Women’s Interpellation in Early Modern Texts",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/women%E2%80%99s-interpellation-in-early-modern-texts",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "Kara McCabe / Renaissance Society of America 2027",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "In her 1991 article “Scolding Brides and Bridling Scolds: Taming the Woman's Unruly Member,” Lynda Boose describes Kate’s final speech in The Taming of the Shrew as “a textual moment in which, in Althusserian terms, the play quite overtly ‘interpellates,’ or hails, its women viewers to an imaginary relationship with the ideology of the discourse being pla...",
-      "fullDescription": "In her 1991 article “Scolding Brides and Bridling Scolds: Taming the Woman's Unruly Member,” Lynda Boose describes Kate’s final speech in The Taming of the Shrew as “a textual moment in which, in Althusserian terms, the play quite overtly ‘interpellates,’ or hails, its women viewers to an imaginary relationship with the ideology of the discourse being played out on stage.” This panel builds on Boose’s reading by examining texts that both assume an audience of women and interpellate the reader in a meaningful way. During a period when relatively few women were literate, texts that hail women had to find a way to reach their audience. Boose’s stage example is one way to attract women’s attention.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Women's Work",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/womens-work",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "Kara McCabe / Renaissance Society of America 2027",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "This interdisciplinary panel aims to explore how women’s work is made manifest in material culture and literary texts. This panel defines “work” broadly. Work might include actions performed, actions in the process of being completed, or the result of labor. Panelists are invited to explore the materials women produced during the early modern period – obj...",
-      "fullDescription": "This interdisciplinary panel aims to explore how women’s work is made manifest in material culture and literary texts. This panel defines “work” broadly. Work might include actions performed, actions in the process of being completed, or the result of labor. Panelists are invited to explore the materials women produced during the early modern period – objects we still have access to and those that would be used or discarded during the period – as well as narratives and depictions of women’s work. Of particular interest are discussions around how and why certain actions or products were gendered in response to religious doctrine or practical divisions of labor.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Fairies, Spirits, Witches, and Wise Women",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Gender and Sexuality",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/fairies-spirits-witches-and-wise-women",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "Kara McCabe / Renaissance Society of America 2027",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Inspired by Ronald Hutton’s work in “The Making of the Early Modern British Fairy Tradition” (2014), this panel explores gendered figures in early modern folklore texts. The study of early modern folklore features significant crossover: fairies may also be familiars, witches can be wise women, and fairyland could be, as Hutton explains, the “embodiment of...",
-      "fullDescription": "Inspired by Ronald Hutton’s work in “The Making of the Early Modern British Fairy Tradition” (2014), this panel explores gendered figures in early modern folklore texts. The study of early modern folklore features significant crossover: fairies may also be familiars, witches can be wise women, and fairyland could be, as Hutton explains, the “embodiment of hedonism, summed up in its characteristic activity of song and dance.” Panelists are invited to explore texts and records that capture folk traditions in early modern literature and culture. Papers are welcome to explore a wide variety of topics with questions of gender at their heart.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "The State of SF and of Things to Come: Reading SF through the Clarke Award",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Awards",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/07/the-state-of-sf-and-of-things-to-come-reading-sf-through-the-clarke-award",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "2026-12-12",
-      "location": "Science Fiction Foundation / The Arthur C. Clarke Award / University of Liverpool",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "A two-day conference to be held online by the University of Liverpool, in partnership with the Science Fiction Foundation and the Arthur C. Clarke Award, 12-13 December 2026 Keynote Speaker: Andrew M. Butler (non-voting chair of the Arthur C. Clarke Award) Roundtable discussion with Clarke Award-winning authors Anne Charnock, Adrian Tchaikovsky and Tade T...",
-      "fullDescription": "A two-day conference to be held online by the University of Liverpool, in partnership with the Science Fiction Foundation and the Arthur C. Clarke Award, 12-13 December 2026 Keynote Speaker: Andrew M. Butler (non-voting chair of the Arthur C. Clarke Award) Roundtable discussion with Clarke Award-winning authors Anne Charnock, Adrian Tchaikovsky and Tade Thompson",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Postcolonial Studies / World Literatures and Comparative Studies",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Interdisciplinary",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/18/postcolonial-studies-world-literatures-and-comparative-studies",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "PAMLA 2026",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Postcolonial Literature and Culture session invites submissions that explore postcolonial literature, art, film, or culture. We specifically welcome papers aligned with the conference theme, “Our Ruling Classes: Culture, Power, Conflict,” although the session is open to any projects engaging with postcolonial texts. The Postcolonial Literature and Cul...",
-      "fullDescription": "The Postcolonial Literature and Culture session invites submissions that explore postcolonial literature, art, film, or culture. We specifically welcome papers aligned with the conference theme, “Our Ruling Classes: Culture, Power, Conflict,” although the session is open to any projects engaging with postcolonial texts. The Postcolonial Literature and Culture session invites submissions that explore postcolonial literature, art, film, or culture. We specifically welcome papers aligned with the conference theme, “Our Ruling Classes: Culture, Power, Conflict,” although the session is open to any projects engaging with postcolonial texts. Potential areas of focus include, but are not limited to:",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Extended Deadline: CFP - Life Writing in the Age of Generative AI: Power, Authorship, and Self-Representation - PAMLA 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -337,7 +243,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -361,7 +267,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -385,7 +291,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -409,7 +315,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-08-03",
       "location": "Las Vegas NV USA · California State University Chancellor's Office",
       "status": "open",
@@ -433,7 +339,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48920",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-08-03",
       "location": "Las Vegas NV USA · California State University Chancellor's Office",
       "status": "open",
@@ -456,7 +362,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -479,7 +385,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -503,7 +409,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -526,7 +432,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -549,7 +455,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -572,7 +478,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -587,32 +493,6 @@
       "fullDescription": "Engaging with PAMLA's 2026 theme, \"Our Ruling Classes: Culture, Power, Conflict,\" this panel asks: How do esoteric ecological imaginaries reinforce, negotiate, or resist ruling ideologies? How have spiritualized visions of nature shaped elite cultural production, countercultural movements, or alternative political communities? What conflicts emerge when esoteric environmental ethics confront institutional religion, scientific rationalism, or capitalist extraction? Topics of interest include, but are not limited to, literary representations of enchanted ecologies, spiritual ecologies in travel writing or poetic form, occult environmental metaphysics, and the role of esoteric belief in shaping ecological imaginaries. We welcome historically grounded and theoretically informed approaches to literature, art, travel writing, popular culture, and critical theory. Topics may include ecospirituality, occult environmentalism, esoteric dimensions of deep ecology, and aesthetic practices that envision enchanted or spiritually animated landscapes as sites of cultural struggle and renewal. To submit a paper and present, you must become a PAMLA member by paying the member fee and the conference fee. For graduate students, there are scholarships available to help with the conference fee in exchange for some volunteer hours.",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
-    },
-    {
-      "title": "JMMLA CFP Spring 2027: Computation, Interdisciplinarity, and the Humanities",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/jmmla-cfp-spring-2027-computation-interdisciplinarity-and-the-humanities",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-28",
-      "eventDate": "",
-      "location": "Midwest Modern Language Association",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 70,
-      "fields": [
-        "AI",
-        "Digital Humanities / Design",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of comp...",
-      "fullDescription": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of computation in shaping inquiry across the humanities. These intersections are especially visible in interdisciplinary work. As T. S. Eliot observes, “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.” The same spirit can illuminate how methods and tools migrate across fields.",
-      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
-      "publish": true
     },
     {
       "title": "Renaissance Texts and the Human (RSA 2027)",
@@ -3361,7 +3241,7 @@
       "publish": true
     },
     {
-      "title": "Déplacements dans les réseaux transcoloniaux : l'Asie, l’Afrique et/ou l’Europe reliés",
+      "title": "Déplacements dans les réseaux transcoloniaux : l'Asie, l’Afrique et l’Europe reliés",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
@@ -5065,29 +4945,6 @@
       "publish": true
     },
     {
-      "title": "Trees and Environment in Literature and Cinema",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/16/trees-and-environment-in-literature-and-cinema",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "Dr Kashyap Deepak, Assistant Professor, Mahatma Gandhi Central Univeristy, India",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "The book is proposed to Bloomsbury . Trees and Environment in Literature and Cinema",
-      "fullDescription": "The book is proposed to Bloomsbury . Trees and Environment in Literature and Cinema",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "NeMLA 2027 - Apocalypse or Utopia: Whose End of the World?",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -5470,29 +5327,6 @@
       "excerpt": "This panel invites proposals that examine acts of remembrance and care of an individual’s or a collective’s past that lead to empowerment and change. Papers may address historical or contemporary works in art, architecture, film, recordings, and literature, and may engage theoretical, critical, pedagogical, or archival practices. Drawing from Valérie Perr...",
       "fullDescription": "This panel invites proposals that examine acts of remembrance and care of an individual’s or a collective’s past that lead to empowerment and change. Papers may address historical or contemporary works in art, architecture, film, recordings, and literature, and may engage theoretical, critical, pedagogical, or archival practices. Drawing from Valérie Perrin’s novels Forgotten on Sundays (2015) and Fresh Water for Flowers (2019), soon to be on the screen by Jean-Pierre Jeunet, memory work enables individuals to feel visible, situate themselves in a collective, and solve piece puzzles through inquiry. Such work is often relegated to women’s labor, caregivers, and hired help who go beyond roles and job duties to make personal connections.",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Wounded, Witnessed, Written: Women and Illness Across Hispanic and Lusophone Texts",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/09/wounded-witnessed-written-women-and-illness-across-hispanic-and-lusophone-texts",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "Amparo Alpañes",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "Illness is rarely a purely private experience, yet for women it has historically been rendered invisible: sequestered within domestic walls, dismissed by medical institutions, and silenced in the cultural record. This session examines how film and literature in Spanish and Portuguese bring female sickness out of the shadows, transforming what is often hid...",
-      "fullDescription": "Illness is rarely a purely private experience, yet for women it has historically been rendered invisible: sequestered within domestic walls, dismissed by medical institutions, and silenced in the cultural record. This session examines how film and literature in Spanish and Portuguese bring female sickness out of the shadows, transforming what is often hidden and isolated into a site of testimony, intimacy, and meaning.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -6531,6 +6365,33 @@
       "publish": false
     },
     {
+      "title": "II International Congress of Videogames, Virtual Environments and Interactive Creation",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Film and Television",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/26/ii-international-congress-of-videogames-virtual-environments-and-interactive-creation",
+      "type": "Art Call",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-01",
+      "eventDate": "",
+      "location": "Double Vision Platform/ MASSIVA Research Group /UMH /Salamanca University",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 70,
+      "fields": [
+        "Film / Media",
+        "AI",
+        "Digital Humanities / Design",
+        "Pedagogy",
+        "Art / Media Practice"
+      ],
+      "excerpt": "The II International Congress of Videogames, Virtual Environments and Interactive Creation is an event of scientific and academic dissemination whose objective is the diffusion of studies related to the field of videogames, digital art and online and virtual environments, in its wide range of topics and media: development of ludic and interactive platform...",
+      "fullDescription": "The II International Congress of Videogames, Virtual Environments and Interactive Creation is an event of scientific and academic dissemination whose objective is the diffusion of studies related to the field of videogames, digital art and online and virtual environments, in its wide range of topics and media: development of ludic and interactive platforms; video game studies (Game Studies); initiatives around eSports; expressions of Digital Art, Virtual and Augmented Reality, and Artificial Intelligence applied to ludic or plastic creation; projects in networked communities and mobile devices; e-learning platforms; games and digital artistic works and their imbrications with cinema, animation, music, comics, etc.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, AI, Digital Humanities / Design, Pedagogy, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Counting Ourselves",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -6751,29 +6612,28 @@
       "publish": true
     },
     {
-      "title": "CFP - 2027 SAAS CONFERENCE: Speculative Ontologies: The Posthuman, the Eerie, and Cultural Memory in US Media and Narratives PANEL",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Gender and Sexuality",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/08/cfp-2027-saas-conference-speculative-ontologies-the-posthuman-the-eerie-and-cultural",
+      "title": "Speculative Ontologies: The Posthuman, the Eerie, and Cultural Memory in US Media and Narratives",
+      "source": "CFPList",
+      "sourceName": "CFPList: Rhetoric & Composition",
+      "sourceUrl": "https://www.cfplist.com/CFP/48928",
       "type": "Conference CFP",
-      "deadlineType": "Submission",
+      "deadlineType": "ABSTRACT",
       "deadline": "2026-10-15",
       "eventDate": "2027-03-15",
-      "location": "SAAS (Spanish Association of American Studies)",
+      "location": "Oviedo, Spain · SAAS (Spanish Association of American Studies)",
       "status": "open",
-      "priority": "medium",
-      "confidence": "high",
+      "priority": "high",
+      "confidence": "medium",
       "publishMode": "auto",
       "score": 54,
       "fields": [
-        "Interdisciplinary",
         "Rhetoric",
         "Film / Media",
         "Digital Humanities / Design"
       ],
-      "excerpt": "Call for Papers (CFP)18th SAAS Conference Negotiating Identity and Power: Resistance, Rebellion, and Resilience in U.S. Literature and Culture Universidad de Oviedo, Spain | March 15–17, 2027 Panel Title:Speculative Ontologies: The Posthuman, the Eerie, and Cultural Memory in US Media and NarrativesPanel Chairs:",
-      "fullDescription": "Call for Papers (CFP)18th SAAS Conference Negotiating Identity and Power: Resistance, Rebellion, and Resilience in U.S. Literature and Culture Universidad de Oviedo, Spain | March 15–17, 2027 Panel Title:Speculative Ontologies: The Posthuman, the Eerie, and Cultural Memory in US Media and NarrativesPanel Chairs:",
-      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
+      "excerpt": "This panel explores speculative fiction in US culture as a critical lens for examining power, history, and futurity across literature, film, television, and digital media. Drawing on Cultural Studies, feminist, queer, posthuman, and decolonial frameworks, it highlights speculative narratives as tools for interrogating late capitalism, technological mediat...",
+      "fullDescription": "This panel explores speculative fiction in US culture as a critical lens for examining power, history, and futurity across literature, film, television, and digital media. Drawing on Cultural Studies, feminist, queer, posthuman, and decolonial frameworks, it highlights speculative narratives as tools for interrogating late capitalism, technological mediation, racialized and gendered subjectivities, and ecological crises. Emphasizing counter-hegemonic futures-through Afrofuturism, Indigenous and Latinx futurisms, and minoritarian practices-this panel considers how speculative texts reimagine temporalities, ontologies, and modes of resistance. We aim to foster an interdisciplinary dialogue on alternative futures and cultural critique. Suggested Topics for Proposals: We invite contributions on a wide range of media and narratives, including but not limited to: Posthumanism and Cyborg Ontologies: Redefining the boundaries of the human, machine integration, and non-human agency. The Eerie and Speculative Horror: Uncanny spaces, Hauntology, and the architectural or psychological eerie in US cultural memory. Alternative and Minoritarian Futurisms: Counter-hegemonic narratives through Afrofuturism, Indigenous futurisms and Latinx futurisms. Climate Fiction (Cli-Fi) and Ecological Crises: Anthropocene narratives, environmental decay, and post-apocalyptic landscapes. Utopian and Dystopian Imaginaries: Surveillance, late capitalism, and systemic resistance. Queer Futurities: Disrupting heteronormative temporalities and imagining alternative spaces of belonging. Transmedia Storytelling and Participatory World-Building: Digital media, video games, and collaborative speculative universes. Submission Guidelines: Proposals must be submitted directly to the panel organizers using the official SAAS paper proposal form. Download the form here: SAAS Paper Proposal Form https://saas-web.org/saas-oviedo-2027/ Send your completed form via email to BOTH panel chairs: Elena Romea Parente: eromea@hum.uc3m.es Carmen G&oacute;mez Galisteo: cgomez@flog.uned.es Important Dates: Submission Deadline: October 15, 2026 (Note: While the conference takes place in March 2027, academic CFP deadlines traditionally close the preceding autumn). Conference Dates: March 15, 16, and 17, 2027",
+      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Film / Media, Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -7189,6 +7049,29 @@
       "excerpt": "In India, the displacement of Adivasis, tribals, poor, farmers, forest-dwelling and land-based people, and other marginalized communities for development and infrastructure projects like dams, railways, power projects, and bridge construction, or for capitalist accumulation like mining, resource extraction, tourism, and industry, is a common occurrence. T...",
       "fullDescription": "In India, the displacement of Adivasis, tribals, poor, farmers, forest-dwelling and land-based people, and other marginalized communities for development and infrastructure projects like dams, railways, power projects, and bridge construction, or for capitalist accumulation like mining, resource extraction, tourism, and industry, is a common occurrence. The trajectory of such displacement has a long history, starting in the colonial period and being aggravated in the postcolonial period under the Nehruvian model of development. Although such projects are implemented for the sake of the ‘greater common good’ for all, only a few elites enjoy the benefit of these projects, depriving millions of displaced, marginalized people (Roy 1999).",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "CFP: An Edited Collection on Faith No More (title tbc)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Fan Studies and Fandom",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/12/cfp-an-edited-collection-on-faith-no-more-title-tbc",
+      "type": "Edited Collection",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-31",
+      "eventDate": "",
+      "location": "Dr Sam Thomas (Durham University) / Dr Jasmine Hazel Shadrack (University of Western Ontario)",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Publication"
+      ],
+      "excerpt": "Background & Rationale:",
+      "fullDescription": "Background & Rationale:",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
       "publish": true
     },
     {

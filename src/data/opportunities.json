@@ -1,13 +1,36 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "items": [
+    {
+      "title": "JMMLA CFP Spring 2027: Computation, Interdisciplinarity, and the Humanities",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/jmmla-cfp-spring-2027-computation-interdisciplinarity-and-the-humanities",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-07-28",
+      "eventDate": "",
+      "location": "Midwest Modern Language Association",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "score": 70,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of comp...",
+      "fullDescription": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of computation in shaping inquiry across the humanities. These intersections are especially visible in interdisciplinary work. As T. S. Eliot observes, “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.” The same spirit can illuminate how methods and tools migrate across fields.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice."
+    },
     {
       "title": "Special Issue , \"AI Reshaping the Classroom: Transformation of Teaching and Learning Models”",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/47930",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-07-31",
       "location": "· Contemporary Education and Teaching Research",
       "status": "open",
@@ -31,7 +54,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -47,113 +70,12 @@
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design."
     },
     {
-      "title": "Women’s Interpellation in Early Modern Texts",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/women%E2%80%99s-interpellation-in-early-modern-texts",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "Kara McCabe / Renaissance Society of America 2027",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "In her 1991 article “Scolding Brides and Bridling Scolds: Taming the Woman's Unruly Member,” Lynda Boose describes Kate’s final speech in The Taming of the Shrew as “a textual moment in which, in Althusserian terms, the play quite overtly ‘interpellates,’ or hails, its women viewers to an imaginary relationship with the ideology of the discourse being pla...",
-      "fullDescription": "In her 1991 article “Scolding Brides and Bridling Scolds: Taming the Woman's Unruly Member,” Lynda Boose describes Kate’s final speech in The Taming of the Shrew as “a textual moment in which, in Althusserian terms, the play quite overtly ‘interpellates,’ or hails, its women viewers to an imaginary relationship with the ideology of the discourse being played out on stage.” This panel builds on Boose’s reading by examining texts that both assume an audience of women and interpellate the reader in a meaningful way. During a period when relatively few women were literate, texts that hail women had to find a way to reach their audience. Boose’s stage example is one way to attract women’s attention.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice."
-    },
-    {
-      "title": "Women's Work",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/womens-work",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "Kara McCabe / Renaissance Society of America 2027",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "This interdisciplinary panel aims to explore how women’s work is made manifest in material culture and literary texts. This panel defines “work” broadly. Work might include actions performed, actions in the process of being completed, or the result of labor. Panelists are invited to explore the materials women produced during the early modern period – obj...",
-      "fullDescription": "This interdisciplinary panel aims to explore how women’s work is made manifest in material culture and literary texts. This panel defines “work” broadly. Work might include actions performed, actions in the process of being completed, or the result of labor. Panelists are invited to explore the materials women produced during the early modern period – objects we still have access to and those that would be used or discarded during the period – as well as narratives and depictions of women’s work. Of particular interest are discussions around how and why certain actions or products were gendered in response to religious doctrine or practical divisions of labor.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice."
-    },
-    {
-      "title": "Fairies, Spirits, Witches, and Wise Women",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/fairies-spirits-witches-and-wise-women",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "Kara McCabe / Renaissance Society of America 2027",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Inspired by Ronald Hutton’s work in “The Making of the Early Modern British Fairy Tradition” (2014), this panel explores gendered figures in early modern folklore texts. The study of early modern folklore features significant crossover: fairies may also be familiars, witches can be wise women, and fairyland could be, as Hutton explains, the “embodiment of...",
-      "fullDescription": "Inspired by Ronald Hutton’s work in “The Making of the Early Modern British Fairy Tradition” (2014), this panel explores gendered figures in early modern folklore texts. The study of early modern folklore features significant crossover: fairies may also be familiars, witches can be wise women, and fairyland could be, as Hutton explains, the “embodiment of hedonism, summed up in its characteristic activity of song and dance.” Panelists are invited to explore texts and records that capture folk traditions in early modern literature and culture. Papers are welcome to explore a wide variety of topics with questions of gender at their heart.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice."
-    },
-    {
-      "title": "The State of SF and of Things to Come: Reading SF through the Clarke Award",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/07/the-state-of-sf-and-of-things-to-come-reading-sf-through-the-clarke-award",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "2026-12-12",
-      "location": "Science Fiction Foundation / The Arthur C. Clarke Award / University of Liverpool",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "A two-day conference to be held online by the University of Liverpool, in partnership with the Science Fiction Foundation and the Arthur C. Clarke Award, 12-13 December 2026 Keynote Speaker: Andrew M. Butler (non-voting chair of the Arthur C. Clarke Award) Roundtable discussion with Clarke Award-winning authors Anne Charnock, Adrian Tchaikovsky and Tade T...",
-      "fullDescription": "A two-day conference to be held online by the University of Liverpool, in partnership with the Science Fiction Foundation and the Arthur C. Clarke Award, 12-13 December 2026 Keynote Speaker: Andrew M. Butler (non-voting chair of the Arthur C. Clarke Award) Roundtable discussion with Clarke Award-winning authors Anne Charnock, Adrian Tchaikovsky and Tade Thompson",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice."
-    },
-    {
-      "title": "Postcolonial Studies / World Literatures and Comparative Studies",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/18/postcolonial-studies-world-literatures-and-comparative-studies",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-27",
-      "eventDate": "",
-      "location": "PAMLA 2026",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Postcolonial Literature and Culture session invites submissions that explore postcolonial literature, art, film, or culture. We specifically welcome papers aligned with the conference theme, “Our Ruling Classes: Culture, Power, Conflict,” although the session is open to any projects engaging with postcolonial texts. The Postcolonial Literature and Cul...",
-      "fullDescription": "The Postcolonial Literature and Culture session invites submissions that explore postcolonial literature, art, film, or culture. We specifically welcome papers aligned with the conference theme, “Our Ruling Classes: Culture, Power, Conflict,” although the session is open to any projects engaging with postcolonial texts. The Postcolonial Literature and Culture session invites submissions that explore postcolonial literature, art, film, or culture. We specifically welcome papers aligned with the conference theme, “Our Ruling Classes: Culture, Power, Conflict,” although the session is open to any projects engaging with postcolonial texts. Potential areas of focus include, but are not limited to:",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice."
-    },
-    {
       "title": "Extended Deadline: CFP - Life Writing in the Age of Generative AI: Power, Authorship, and Self-Representation - PAMLA 2026",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -173,7 +95,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -194,7 +116,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -215,7 +137,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -236,7 +158,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-08-03",
       "location": "Las Vegas NV USA · California State University Chancellor's Office",
       "status": "open",
@@ -257,7 +179,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48920",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-08-03",
       "location": "Las Vegas NV USA · California State University Chancellor's Office",
       "status": "open",
@@ -277,7 +199,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-07-27",
+      "deadline": "2026-07-28",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -290,29 +212,6 @@
       "excerpt": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK time) Venue : Hotel Flemings Wien Stadthalle in Vienna, Austria. Call for Proposals Business English education sits at the intersection of education, profession...",
       "fullDescription": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK time) Venue : Hotel Flemings Wien Stadthalle in Vienna, Austria. Call for Proposals Business English education sits at the intersection of education, professional communication, and global social change. In a world shaped by geopolitical tensions, economic inequalities, technological disruption, and cultural polarization, communication across cultural contexts is both more necessary and more complex than ever. Business English therefore involves more than teaching linguistic skills for the workplace; it also prepares learners to deal with cultural diversity, power structures, and ethical decision-making in international professional contexts. Effective professional communication today requires not only exchanging information but also negotiating meaning, building trust, and collaborating across cultures and perspectives. Business English courses support university students, vocational learners, and professionals in developing communicative competence, intercultural awareness, and confidence in multilingual workplaces. In many contexts, this work involves collaboration with corporate partners and engagement with current workplace practices, while also encouraging critical reflection on whose voices are heard in professional communication. The role of the business English educator is therefore to help learners bridge multiple gaps: between education and professional practice, between various cultures, and between local experiences and global systems. In a fragmented and rapidly changing world, business English education can help create spaces for inclusive, responsible, and effective professional communication. This year's conference invites contributions that explore how business English education can respond to these challenges and build the bridges needed for meaningful intercultural understanding. We particularly welcome contributions that combine practical experience, innovative teaching approaches, and reflective insights from educational and professional contexts. ----------------- Thank you for your interest in submitting a speaker proposal for the 39th IATEFL BESIG Conference. Only members of IATEFL BESIG can present at the conference. You may submit a proposal if you are not a member; however, if your proposal is accepted, you will be required to join IATEFL BESIG in order to be included in the programme. The call for proposals is open until 30 June 2026 at 16:00 (UK time). Click here for more information: https://www.iateflbesig.org/events/annual-conference",
       "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication."
-    },
-    {
-      "title": "JMMLA CFP Spring 2027: Computation, Interdisciplinarity, and the Humanities",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/jmmla-cfp-spring-2027-computation-interdisciplinarity-and-the-humanities",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-07-28",
-      "eventDate": "",
-      "location": "Midwest Modern Language Association",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "score": 70,
-      "fields": [
-        "AI",
-        "Digital Humanities / Design",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of comp...",
-      "fullDescription": "The advancement of artificial intelligence has transformed humanities research and education, deepening computation’s influence on scholarly practice and everyday life. From the early era of “humanities computing” in the 1970s to the rise of “computational humanities” over the past decade, this trajectory highlights the enduring—and expanding—role of computation in shaping inquiry across the humanities. These intersections are especially visible in interdisciplinary work. As T. S. Eliot observes, “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.” The same spirit can illuminate how methods and tools migrate across fields.",
-      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice."
     },
     {
       "title": "Renaissance Texts and the Human (RSA 2027)",
@@ -4950,26 +4849,6 @@
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Theory."
     },
     {
-      "title": "Trees and Environment in Literature and Cinema",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/16/trees-and-environment-in-literature-and-cinema",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "Dr Kashyap Deepak, Assistant Professor, Mahatma Gandhi Central Univeristy, India",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 46,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "The book is proposed to Bloomsbury . Trees and Environment in Literature and Cinema",
-      "fullDescription": "The book is proposed to Bloomsbury . Trees and Environment in Literature and Cinema",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media."
-    },
-    {
       "title": "NeMLA 2027 - Apocalypse or Utopia: Whose End of the World?",
       "source": "UPenn CFP",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/15/nemla-2027-apocalypse-or-utopia-whose-end-of-the-world",
@@ -5254,6 +5133,26 @@
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design."
     },
     {
+      "title": "Trees and Environment in Literature and Cinema",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/16/trees-and-environment-in-literature-and-cinema",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "",
+      "location": "Dr Kashyap Deepak, Assistant Professor, Mahatma Gandhi Central Univeristy, India",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 46,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "The book is proposed to Bloomsbury . Trees and Environment in Literature and Cinema",
+      "fullDescription": "The book is proposed to Bloomsbury . Trees and Environment in Literature and Cinema",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media."
+    },
+    {
       "title": "Edited Volume — Call for Contributions: Theorizing Gender, Sex and Sexuality through Speculative Literatures",
       "source": "UPenn CFP",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/26/edited-volume-%E2%80%94-call-for-contributions-theorizing-gender-sex-and-sexuality-through",
@@ -5338,26 +5237,6 @@
       "excerpt": "This panel invites proposals that examine acts of remembrance and care of an individual’s or a collective’s past that lead to empowerment and change. Papers may address historical or contemporary works in art, architecture, film, recordings, and literature, and may engage theoretical, critical, pedagogical, or archival practices. Drawing from Valérie Perr...",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
       "fullDescription": "This panel invites proposals that examine acts of remembrance and care of an individual’s or a collective’s past that lead to empowerment and change. Papers may address historical or contemporary works in art, architecture, film, recordings, and literature, and may engage theoretical, critical, pedagogical, or archival practices. Drawing from Valérie Perrin’s novels Forgotten on Sundays (2015) and Fresh Water for Flowers (2019), soon to be on the screen by Jean-Pierre Jeunet, memory work enables individuals to feel visible, situate themselves in a collective, and solve piece puzzles through inquiry. Such work is often relegated to women’s labor, caregivers, and hired help who go beyond roles and job duties to make personal connections."
-    },
-    {
-      "title": "Wounded, Witnessed, Written: Women and Illness Across Hispanic and Lusophone Texts",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/09/wounded-witnessed-written-women-and-illness-across-hispanic-and-lusophone-texts",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "Amparo Alpañes",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "Illness is rarely a purely private experience, yet for women it has historically been rendered invisible: sequestered within domestic walls, dismissed by medical institutions, and silenced in the cultural record. This session examines how film and literature in Spanish and Portuguese bring female sickness out of the shadows, transforming what is often hid...",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "fullDescription": "Illness is rarely a purely private experience, yet for women it has historically been rendered invisible: sequestered within domestic walls, dismissed by medical institutions, and silenced in the cultural record. This session examines how film and literature in Spanish and Portuguese bring female sickness out of the shadows, transforming what is often hidden and isolated into a site of testimony, intimacy, and meaning."
     },
     {
       "title": "Cognitive Ecologies: Thinking With, Through, and Against Environments (Special Issue, The Apollonian)",
@@ -5542,6 +5421,129 @@
       "excerpt": "CFP for NeMLA 2027 Conference Virtual Only Panel Oral Community Knowledge as Antidote for Empire in Anglophone Literature If Empire thrives and even conquers through written text: codification of laws and bureaucracy, cartography of territory, travelogues of the exotic Other, it equally seeks to suppress oral indigenous knowledge of the vanquished. Yet or...",
       "fullDescription": "CFP for NeMLA 2027 Conference Virtual Only Panel Oral Community Knowledge as Antidote for Empire in Anglophone Literature If Empire thrives and even conquers through written text: codification of laws and bureaucracy, cartography of territory, travelogues of the exotic Other, it equally seeks to suppress oral indigenous knowledge of the vanquished. Yet orality can also be the site of resistance and community identity for just such a reason. This panel seeks proposals of works that investigate how orality of form and/or content in Anglophone literature disrupts Empire and empowers community. The irony of pursuing orality in literature, which is historically written, is not lost on us, but also provides an opportunity for creative, resilient exploration. Some possible ways of approaching this topic may include: Accent and dialect Pidgins, creoles, and contact languages Translations and translators Language and identity Oral folk wisdom and stories Glossaries and indices Textual hybridity or multimodality Literacy This is a Call for Papers for the NeMLA 2027 Conference. Submissions will only be accepted through the NeMLA portal, with a deadline of September 30, 2026 . This panel is Virtual Only , regardless of whether the participant is physically present at the conference. Paper proposals can be submitted here: https://cfplist.com/nemla/Home/S/22648. Only submissions submitted through the NeMLA portal will be considered. For questions, please feel free to email Dr. Dorisa Costello at dcostello@jessup.edu.",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice."
+    },
+    {
+      "title": "Wounded, Witnessed, Written: Women and Illness Across Hispanic and Lusophone Texts",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/09/wounded-witnessed-written-women-and-illness-across-hispanic-and-lusophone-texts",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "",
+      "location": "Amparo Alpañes",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 42,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "Illness is rarely a purely private experience, yet for women it has historically been rendered invisible: sequestered within domestic walls, dismissed by medical institutions, and silenced in the cultural record. This session examines how film and literature in Spanish and Portuguese bring female sickness out of the shadows, transforming what is often hid...",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "fullDescription": "Illness is rarely a purely private experience, yet for women it has historically been rendered invisible: sequestered within domestic walls, dismissed by medical institutions, and silenced in the cultural record. This session examines how film and literature in Spanish and Portuguese bring female sickness out of the shadows, transforming what is often hidden and isolated into a site of testimony, intimacy, and meaning."
+    },
+    {
+      "title": "MEMORY, MELANCHOLY AND NOSTALGIA - 11th International Interdisciplinary Conference",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49400",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2026-12-02",
+      "location": "Gdansk/Poland · InMind Support",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 38,
+      "fields": [
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "Conference: 2-4 December 2026, in Gdansk, Poland and online CALL FOR PAPERS: In our modern world, which some have argued to be disjointed while immersing itself ever deeper in crisis, the turning back to \"the olden days\" and the ensuing nostalgia constitute anoticeable phenomenon, both individually (the memory of biography) and collectively (the memory of...",
+      "fullDescription": "Conference: 2-4 December 2026, in Gdansk, Poland and online CALL FOR PAPERS: In our modern world, which some have argued to be disjointed while immersing itself ever deeper in crisis, the turning back to \"the olden days\" and the ensuing nostalgia constitute anoticeable phenomenon, both individually (the memory of biography) and collectively (the memory of history). Another important - and equally noticeable - phenomenon is the longing for something vague, indefinite or never existent. Hence, during our interdisciplinary conference we would like to concentrate on the phenomena of nostalgia and melancholy. We are interested in all expressions of longing forthe past, from the reassuring and action-propelling ones to those which paralyze us, leading to despair and utter dejection. We aim to explore the experience of nostalgia and melancholy in its multifarious manifestations: psychological, social, historical, cultural, philosophical, religious, economic, political, artistic, and many others. We will also devote considerable attention to how these phenomena appear and transform in artistic practices: literature, film, theatre, and visual arts. This is why we invite researchers representing various academic disciplines: anthropology, history, psychology, psychoanalysis, sociology, politics, philosophy, economics, law, literary studies, theatre studies, film studies, memory studies, nostalgia studies, migration studies, consciousness studies, dream studies, gender studies, postcolonial studies, medical sciences, psychiatry, cognitive sciences, design, project management and other disciplines. Different forms of presentations are encouraged, including case studies, theoretical investigations, problem-oriented arguments, and comparative analyses. We will be happy to hear from both experienced scholars and young academics at the beginning of their careers, as well as students. We also invite anyone interested inparticipating in the conference as listeners, without giving a presentation. We hope that due to its interdisciplinary nature, the conference will bring many interesting observations on and discussions about the role of memory, melancholy, and nostalgia in the past and in the present-day world. Our repertoire of suggested topics includes but is not restricted to: I. Memory and Affects unwanted memory nostalgia or melancholy? non-melancholic nostalgia nostalgia and longing the healing power of nostalgia nostalgia as an illness nostalgia and depression nostalgia and psychoanalysis collective nostalgia anticipatory nostalgia memory and emotions memory, trauma and resilience ecological grief/ solastalgia memory and wellbeing nostalgia and identity formation II. Common Experiences nostalgic epochs nostalgic nations nostalgic generations nostalgia and the myth of eternal return nostalgia, melancholy and totalitarianisms nostalgia and war nostalgia and melancholy of the expelled nostalgic patriotism nostalgia and nationalism nostalgia and gender nostalgia and religion nostalgia and language nostalgia and melancholy in the postmodern world nostalgia and postmemory digital nostalgia platform nostalgia social media and nostalgia nostalgia and populism memory politics cultural memory prosthetic memory diasporic nostalgia transnational memory memory and decolonization nostalgia after pandemics III. Individual Experiences return to childhood nostalgia for something indefinite nostalgia for the future nostalgia for a traumatic experience nostalgia, melancholy and old age nostalgia, melancholy and death nostalgia, melancholy and mourning nostalgia, melancholy and love nostalgia, melancholy and imagination nostalgic phantasms nostalgic dreams identity and memory false memories memory reconstruction memory and ageing nostalgia and life transitions memory and mental health embodied memory everyday nostalgia family memory intergenerational memory IV. The Arts nostalgia and melancholy as a theme in literature, film, and theatre nostalgic literature nostalgic cinema literature and the arts as a vehicle of memory literature, theatre and film in search of lost time nostalgic literary genres melancholic artists nostalgia in digital art nostalgia in video games virtual reality and memory memory in interactive media AI-generated memories photography and memory music and nostalgia museums and memory architecture and memory material culture and nostalgia digital archives memory and digital storytelling V. Society nostalgia and political movements nostalgia, melancholy and memory places nostalgia, melancholy and memorials nostalgia, melancholy and community development nostalgia, melancholy and migration nostalgia, melancholy and meaning-making nostalgia, melancholy and drive to change nostalgia and travelling nostalgia and food nostalgia and climate change social media memories algorithmic nostalgia AI and collective memory digital heritage memory activism urban memory memory and place-making nostalgia and consumer culture brand nostalgia food heritage migration and belonging memory and reconciliation memory and human rights memory of pandemics memory of ecological crises climate grief memory and resilience VI. Memory and Emerging Technologies artificial intelligence and memory algorithmic remembrance digital afterlife online mourning virtual memorials memory in the age of big data digital storytelling social media archives nostalgia in streaming culture synthetic memories AI-generated heritage virtual identities and memory VII. Environmental Memory climate memory environmental nostalgia memory of landscapes environmental humanities memory of natural disasters memory of extinction memory in the Anthropocene nostalgia for nature environmental justice and memory Please submit abstracts (no longer than 300 words) of your proposed 20-minute presentations, together with a short biographical note to: conferencenostalgia@gmail.com onsite presenters - by 30 September 2026 online presenters - by 31 October 2026 The conference language is English. Our email: conferencenostalgia@gmail.com",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design."
+    },
+    {
+      "title": "Reading the Earth: Geology, Memory, and Relational Poetics",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49353",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 38,
+      "fields": [
+        "Digital Humanities / Design",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Across contemporary literary and cultural studies, increasing attention has been devoted to the ways in which geological matter shapes cultural imagination, environmental memory, and literary form. Rocks, minerals, fossils, sediments, ruins, and other more-than-living material formations are no longer understood merely as settings or symbols, but as archi...",
+      "fullDescription": "Across contemporary literary and cultural studies, increasing attention has been devoted to the ways in which geological matter shapes cultural imagination, environmental memory, and literary form. Rocks, minerals, fossils, sediments, ruins, and other more-than-living material formations are no longer understood merely as settings or symbols, but as archives of deep time, environmental change, historical violence, and planetary entanglement. This panel invites papers exploring how literature engages with the Earth as a site of memory, relation, and meaning-making. We are particularly interested in approaches that examine geological formations, landscapes, material traces, planetary archives, and sedimented histories as participants in literary and cultural processes rather than passive backdrops to human experience. Possible topics include geologies of memory; deep time and literary temporality; environmental trauma and material archives; fossils, ruins, and traces; sacred landscapes and earth-based imaginaries; extraction, waste, and environmental justice; posthumanist and new materialist approaches to literature; relational poetics; and the intersections of geology, ecology, and cultural memory. We welcome contributions addressing literary and cultural texts from any historical period, linguistic tradition, or geographical region, as well as comparative and transnational perspectives. The session will be held in-person but a few remote presentations may be included. Please clearly indicate in your submission whether you wish to participate in person or remotely. All abstract submissions must be submitted through the NeMLA portal https://cfplist.com/nemla/Home/S/22630. Please note that the submission window for individual abstracts officially opens June 15 and closes September 30.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice."
+    },
+    {
+      "title": "CfP | NeMLA 2027 Roundtable | Against Agency",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/cfp-nemla-2027-roundtable-against-agency",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Northeast Modern Language Association (NeMLA)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 36,
+      "fields": [
+        "Theory",
+        "Interdisciplinary"
+      ],
+      "excerpt": "Against Agency NeMLA 2027 Chairs: Nicholas Bujalski (Oberlin College) and Valeria Dani (Hamilton College)",
+      "fullDescription": "Against Agency NeMLA 2027 Chairs: Nicholas Bujalski (Oberlin College) and Valeria Dani (Hamilton College)",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory."
+    },
+    {
+      "title": "CFP Using Comics to Build Community: Approaches to Teaching Comics (Roundtable) (Virtual) (9/30/2026; NeMLA 3/6-9/2027)",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/cfp-using-comics-to-build-community-approaches-to-teaching-comics-roundtable-virtual",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Michael Torregrossa / Association for the Advancement of Scholarship and Teaching of the Medieval in Popular Culture",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 36,
+      "fields": [
+        "Pedagogy"
+      ],
+      "excerpt": "Using Comics to Build Community: Approaches to Teaching Comics (Roundtable) (Virtual) Co-organizers Michael A. Torregrossa and Carl B. Sell Sponsored by Association for the Advancement of Scholarship and Teaching of the Medieval in Popular Culture Call for Papers - Please Submit Proposals by 30 September 2026 58th Annual Convention of Northeast Modern Lan...",
+      "fullDescription": "Using Comics to Build Community: Approaches to Teaching Comics (Roundtable) (Virtual) Co-organizers Michael A. Torregrossa and Carl B. Sell Sponsored by Association for the Advancement of Scholarship and Teaching of the Medieval in Popular Culture Call for Papers - Please Submit Proposals by 30 September 2026 58th Annual Convention of Northeast Modern Language Association (NeMLA) Salve Regina University (Newport, RI)/Online. Hybrid event: 6-9 March 2027 This session’s modality is Virtual Only, meaning all presentations will be delivered via Zoom regardless of whether the presenters are in-person.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy."
+    },
+    {
+      "title": "Embodied Ecologies and Empowered Communities: Experiential Pedagogies for Environmental Studies",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/25/embodied-ecologies-and-empowered-communities-experiential-pedagogies-for",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Northeast Modern Language Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 36,
+      "fields": [
+        "Theory",
+        "Pedagogy"
+      ],
+      "excerpt": "This panel invites theoretical and pedagogical explorations of experiential approaches to teaching environmental studies in higher education through the frameworks of new materialism, transcorporeality, affect theory, and embodied pedagogy. Aligning with NeMLA 2027’s theme, “Empowering Communities,” the panel examines how environmental learning can move b...",
+      "fullDescription": "This panel invites theoretical and pedagogical explorations of experiential approaches to teaching environmental studies in higher education through the frameworks of new materialism, transcorporeality, affect theory, and embodied pedagogy. Aligning with NeMLA 2027’s theme, “Empowering Communities,” the panel examines how environmental learning can move beyond hierarchical and text-centered models toward collaborative, community-oriented, and experiential forms of knowledge production.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Pedagogy."
     }
   ]
 }
