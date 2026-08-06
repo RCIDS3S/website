@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -51,10 +51,6 @@
       "count": 11
     },
     {
-      "source": "UPenn CFP: Ethnicity and National Identity",
-      "count": 10
-    },
-    {
       "source": "UPenn CFP: Graduate Conferences",
       "count": 10
     },
@@ -64,6 +60,10 @@
     },
     {
       "source": "CFPList: Pedagogy",
+      "count": 9
+    },
+    {
+      "source": "UPenn CFP: Ethnicity and National Identity",
       "count": 9
     },
     {
@@ -95,10 +95,6 @@
       "count": 4
     },
     {
-      "source": "UPenn CFP: Science and Culture",
-      "count": 4
-    },
-    {
       "source": "UPenn CFP: Popular Culture",
       "count": 4
     },
@@ -116,6 +112,10 @@
     },
     {
       "source": "CFPList: Philosophy",
+      "count": 3
+    },
+    {
+      "source": "UPenn CFP: Science and Culture",
       "count": 3
     },
     {
@@ -155,7 +155,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -173,36 +173,13 @@
       "publish": true
     },
     {
-      "title": "[The Association for Asian Studies] Racialization, ethnicization, care, and entangled colonial and imperial systems and epistemologies in Asia and the",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Ethnicity and National Identity",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/30/the-association-for-asian-studies-racialization-ethnicization-care-and-entangled",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-05",
-      "eventDate": "",
-      "location": "Jessica Chang",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "This is a CFP seeking panelists for the 2027 Annual Conference of the Association for Asian Studies. We invite papers that examine racialization and ethnicization across Sinophone and Asian contexts in which local projects of improvement and rule are entangled with colonial and imperial systems and epistemologies, both Western and non-Western, external an...",
-      "fullDescription": "This is a CFP seeking panelists for the 2027 Annual Conference of the Association for Asian Studies. We invite papers that examine racialization and ethnicization across Sinophone and Asian contexts in which local projects of improvement and rule are entangled with colonial and imperial systems and epistemologies, both Western and non-Western, external and internal, often sustained by local elites and intermediaries. We understand these contexts in broad terms, including transnational, diasporic, and colonial aspects. Processes of racialization and ethnicization, as well as resistance to and negotiation of such processes, could involve, but are not limited to, discussions of care, gender, and sexuality.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Tentative Title- Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2027-07-31",
       "location": "CFPList",
       "status": "open",
@@ -226,7 +203,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49000",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-09-28",
       "location": "University of Zululand, Ongoye, KwaZulu-Natal, South Africa · University of Zululand",
       "status": "open",
@@ -250,7 +227,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -273,7 +250,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -297,7 +274,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -321,7 +298,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -345,7 +322,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -369,7 +346,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49571",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-11",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -393,7 +370,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -410,36 +387,13 @@
       "publish": true
     },
     {
-      "title": "RSA 2027 Terror and Transcendence: Hybridity in the Renaissance",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Science and Culture",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/16/rsa-2027-terror-and-transcendence-hybridity-in-the-renaissance",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-05",
-      "eventDate": "",
-      "location": "Claire Sommers/Washington University in St. Louis",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Appropriately for a word broadly defined as “having a mixed character,” the idea of “hybridity” has elicited contradictory interpretation since its inception in the Greek word hybris. While the word could mean miscegenation, shame, wantonness, outrage, and even violence, the term carried the alternate but equally valid connotation of thinking and moving b...",
-      "fullDescription": "Appropriately for a word broadly defined as “having a mixed character,” the idea of “hybridity” has elicited contradictory interpretation since its inception in the Greek word hybris. While the word could mean miscegenation, shame, wantonness, outrage, and even violence, the term carried the alternate but equally valid connotation of thinking and moving beyond human limitations. Despite a shift fromclassical beliefs through Christianity, hybrid figures such as the centaur and satyr continued to proliferate throughout the Renaissance, evoking both wonder and terror. While sometimes considered blasphemous, these classical hybrids were also allegorized to fit into Renaissance ethical and religious frameworks.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Resisting Abandonment: Language, Culture, and Ecology",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -463,7 +417,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -486,7 +440,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -509,7 +463,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47638",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-12",
       "location": "Seattle, Washington · Pacific Ancient and Modern Language Association (PAMLA)",
       "status": "open",
@@ -532,7 +486,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -555,7 +509,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -578,7 +532,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-05",
+      "deadline": "2026-08-06",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -740,31 +694,6 @@
       "excerpt": "Autism did not exist at the beginning of the world. Who we would now recognize as autistic people existed, yes. But autism itself is undoubtedly new, born in the 20th century clinic and doggedly taken up in popular discourse ever since. Autism did not exist at the beginning of the world, but now, it's hard to imagine a world without it. Despite, or perhap...",
       "fullDescription": "Autism did not exist at the beginning of the world. Who we would now recognize as autistic people existed, yes. But autism itself is undoubtedly new, born in the 20th century clinic and doggedly taken up in popular discourse ever since. Autism did not exist at the beginning of the world, but now, it's hard to imagine a world without it. Despite, or perhaps because of this, autistic characters frequently feature in speculative and post-apocalyptic media—stories which take place at the end of the world but are often based on or extend from of our own reality.",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "Human-Machine interfacing in Western and Global Literature, Media and Culture (abstracts and proposals only)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/10/human-machine-interfacing-in-western-and-global-literature-media-and-culture",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-10",
-      "eventDate": "",
-      "location": "Nizar Zouidi/University of Gafsa",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "AI",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started...",
-      "fullDescription": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started long before the invention of these technologies. Machines did communicate with us and tell us about themselves even before chatbots were invented. The clanking of a hammer on the anvil tells us that it is old and dull. The whistle of a microwave tells us that dinner is ready. The process of interfacing is not a one-way process. Through it, humans also communicate with the machine.",
-      "relevance": "Automatically surfaced as a likely RCID fit across AI, Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -983,6 +912,31 @@
       "excerpt": "The Politics of Literary Form Graduate Student Conference at Johns Hopkins University Date: November 13–15, 2026 Location: Johns Hopkins University, Baltimore, MD Keynote Speaker: Oliver Simons, Columbia University",
       "fullDescription": "The Politics of Literary Form Graduate Student Conference at Johns Hopkins University Date: November 13–15, 2026 Location: Johns Hopkins University, Baltimore, MD Keynote Speaker: Oliver Simons, Columbia University",
       "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Human-Machine interfacing in Western and Global Literature, Media and Culture (abstracts and proposals only)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/10/human-machine-interfacing-in-western-and-global-literature-media-and-culture",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-08-15",
+      "eventDate": "",
+      "location": "Nizar Zouidi/University of Gafsa",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "AI",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started...",
+      "fullDescription": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started long before the invention of these technologies. Machines did communicate with us and tell us about themselves even before chatbots were invented. The clanking of a hammer on the anvil tells us that it is old and dull. The whistle of a microwave tells us that dinner is ready. The process of interfacing is not a one-way process. Through it, humans also communicate with the machine.",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI, Publication, Art / Media Practice.",
       "publish": true
     },
     {
