@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,7 +8,7 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Film and Television",
-      "count": 49
+      "count": 48
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -28,15 +28,15 @@
     },
     {
       "source": "CFPList: Digital Humanities",
-      "count": 18
+      "count": 19
     },
     {
       "source": "CFPList: Graduate Conferences",
-      "count": 15
+      "count": 16
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 14
+      "count": 15
     },
     {
       "source": "UPenn CFP: Cultural Studies",
@@ -48,7 +48,7 @@
     },
     {
       "source": "CFPList: Rhetoric & Composition",
-      "count": 11
+      "count": 10
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
@@ -87,6 +87,10 @@
       "count": 5
     },
     {
+      "source": "CFPList: Communication Studies Search",
+      "count": 5
+    },
+    {
       "source": "UPenn CFP: Modernist Studies",
       "count": 5
     },
@@ -99,19 +103,11 @@
       "count": 4
     },
     {
-      "source": "CFPList: Communication Studies Search",
-      "count": 4
-    },
-    {
       "source": "CLIR Programs and Grants",
       "count": 4
     },
     {
       "source": "CFPList",
-      "count": 3
-    },
-    {
-      "source": "CFPList: Philosophy",
       "count": 3
     },
     {
@@ -125,6 +121,10 @@
     {
       "source": "UPenn CFP: Ecocriticism and Environmental Studies",
       "count": 3
+    },
+    {
+      "source": "CFPList: Philosophy",
+      "count": 2
     },
     {
       "source": "UPenn CFP: Professional Topics",
@@ -159,7 +159,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -177,37 +177,13 @@
       "publish": true
     },
     {
-      "title": "Between Screens: Video Games, Film, Television and Transmedia Exchange",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/25/between-screens-video-games-film-television-and-transmedia-exchange",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-07",
-      "eventDate": "",
-      "location": "Dr Michael Samuel (University of Bristol) and Dr Richard Cole (University of Bristol)",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Film / Media",
-        "Publication"
-      ],
-      "excerpt": "Between Screens: Video Games, Film, Television and Transmedia Exchange Edited by Dr Michael Samuel and Dr Richard Cole Adaptation is a dialogic process, a creative exchange across content production and context rather than an attempt at fidelity. Recent trends in adaptation studies reflect this complexity. Videogames exist within a vast ecosystem of trans...",
-      "fullDescription": "Between Screens: Video Games, Film, Television and Transmedia Exchange Edited by Dr Michael Samuel and Dr Richard Cole Adaptation is a dialogic process, a creative exchange across content production and context rather than an attempt at fidelity. Recent trends in adaptation studies reflect this complexity. Videogames exist within a vast ecosystem of transmedia storytelling and experiences, yet scholarship on adaptation and video games remains limited.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Tentative Title- Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2027-07-31",
       "location": "CFPList",
       "status": "open",
@@ -231,7 +207,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49000",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-09-28",
       "location": "University of Zululand, Ongoye, KwaZulu-Natal, South Africa · University of Zululand",
       "status": "open",
@@ -255,7 +231,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -278,7 +254,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -302,7 +278,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -320,27 +296,26 @@
       "publish": true
     },
     {
-      "title": "Narrating the Self Today: Contemporary Directions in Biography, Memoir, and Life Writing",
+      "title": "‘Showing Myself, Seeing Myself’: Lived Experience in Disabled & Neurodivergent Film",
       "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/48930",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49685",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
-      "eventDate": "2026-11-12",
-      "location": "Seattle, WA · PAMLA",
+      "deadline": "2026-08-08",
+      "eventDate": "2027-06-03",
+      "location": "Winchester, Hampshire, UK · Lived Perspectives CIC/University of Winchester",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Rhetoric",
-        "Art / Media Practice"
+        "Film / Media"
       ],
-      "excerpt": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays and creative nonfiction/memoir submissions accompanied by a brief meta-analysis. Potential topics incl...",
-      "fullDescription": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays and creative nonfiction/memoir submissions accompanied by a brief meta-analysis. Potential topics include, but are not limited to, autoethnography, digital self-representation, intersectional approaches to life writing, and the emerging impacts of technological shifts-such as generative AI-on authorship and equity. Desctription : How do we articulate, preserve, and present our lived experiences in an era marked by rapid cultural and technological change? Aligning with the conference theme, \"Our Ruling Classes: Culture, Power and Conflict,\" this roundtable invites participants to investigate the shifting landscape of life writing across textual, digital, and visual formats. To foster a vibrant, multi-voiced dialogue, we encourage submissions from a wide range of perspectives, including traditional literary criticism, biographical studies, and creative pieces that feature a reflective or meta-analytical component. Presenters will deliver brief, 10-to-12-minute talks to maximize time for collective discussion. Link for submissions: https://pamla.ballastacademic.com/Home/S/20174 Submission Deadline: June 30, 2026 Conference format: In Person, in Seattle. No provision for virtual presentations If you have any queries, please reach out to the undersigned: Dr. Meghna Gangadharan Presiding Officer, \"Narrating the Self Today\" Email: phd1901261010@alum.iiti.ac.in",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Art / Media Practice.",
+      "excerpt": "'Showing Myself, Seeing Myself': Lived Experience in Disabled & Neurodivergent Film A Call for Papers for the Lived Perspectives Film Festival and Conference. Saturday 6th March 2027, University of Winchester, UK Since launching in 2023, the Lived Perspectives film festival has celebrated disabled and neurodivergent filmmakers. By championing their innova...",
+      "fullDescription": "'Showing Myself, Seeing Myself': Lived Experience in Disabled & Neurodivergent Film A Call for Papers for the Lived Perspectives Film Festival and Conference. Saturday 6th March 2027, University of Winchester, UK Since launching in 2023, the Lived Perspectives film festival has celebrated disabled and neurodivergent filmmakers. By championing their innovative, diverse, and often challenging work, we aim to support them in telling their stories and creating a space for their vision to be shared. This year's event combines film screenings with a one-day conference exploring the importance of creating opportunities for disabled and neurodivergent filmmakers to have their work shared and seen, and the range of representations for these minority groups in mainstream cinema. We invite proposals for 20-minute presentations and interactive workshops from academics, research students, filmmakers, and lived-experience-led organisations. Contributions might, for example, explore: Disabled and neurodivergent representation in mainstream film Audience perspectives on recognition and representation on screen Identity-based film festivals as sites of self-representation Independent lived experience filmmaking Key themes, styles, or case studies in disabled and neurodivergent independent filmmaking Interactive workshops exploring film, accessibility, and community connection Proposals of approximately 250 words are due by Monday 2nd November 2026 through the call for papers form on the website: www.livedperspectives.co.uk/showingmyself2027 Contact for more information or to discuss your ideas email: contact@livedperspectives.co.uk",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -350,7 +325,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -374,7 +349,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49571",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-11",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -392,13 +367,36 @@
       "publish": true
     },
     {
+      "title": "Narrating the Self Today: Contemporary Directions in Biography, Memoir, and Life Writing",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/48930",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-08-08",
+      "eventDate": "2026-11-12",
+      "location": "Seattle, WA · PAMLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Art / Media Practice"
+      ],
+      "excerpt": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays and creative nonfiction/memoir submissions accompanied by a brief meta-analysis. Potential topics incl...",
+      "fullDescription": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays and creative nonfiction/memoir submissions accompanied by a brief meta-analysis. Potential topics include, but are not limited to, autoethnography, digital self-representation, intersectional approaches to life writing, and the emerging impacts of technological shifts-such as generative AI-on authorship and equity. Desctription : How do we articulate, preserve, and present our lived experiences in an era marked by rapid cultural and technological change? Aligning with the conference theme, \"Our Ruling Classes: Culture, Power and Conflict,\" this roundtable invites participants to investigate the shifting landscape of life writing across textual, digital, and visual formats. To foster a vibrant, multi-voiced dialogue, we encourage submissions from a wide range of perspectives, including traditional literary criticism, biographical studies, and creative pieces that feature a reflective or meta-analytical component. Presenters will deliver brief, 10-to-12-minute talks to maximize time for collective discussion. Link for submissions: https://pamla.ballastacademic.com/Home/S/20174 Submission Deadline: June 30, 2026 Conference format: In Person, in Seattle. No provision for virtual presentations If you have any queries, please reach out to the undersigned: Dr. Meghna Gangadharan Presiding Officer, \"Narrating the Self Today\" Email: phd1901261010@alum.iiti.ac.in",
+      "relevance": "Automatically surfaced as a possible RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "CfP \"Building Bridges: Preparing for Global Business\"(39th Annual IATEFL BESIG Conference)",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -421,7 +419,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -445,7 +443,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -468,7 +466,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -491,7 +489,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47638",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-12",
       "location": "Seattle, Washington · Pacific Ancient and Modern Language Association (PAMLA)",
       "status": "open",
@@ -514,7 +512,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -537,7 +535,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -560,7 +558,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-07",
+      "deadline": "2026-08-08",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -966,6 +964,32 @@
       "publish": true
     },
     {
+      "title": "Handbook of the Cultural Legacy of 9/11",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/49687",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-08-15",
+      "eventDate": "2027-08-15",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Interdisciplinary",
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "full name / name of organization: Marc A. Ouellette, Old Dominion University; Peter Pericles Trifonas, University of Toronto contact email: ouellema@gmail.com CFP: Handbook of the Cultural Legacy of 9/11. (under contract with Springer) Edited by: Marc A. Ouellette, Old Dominion University, (mouellet@odu.edu) and Peter Pericles Trifonas, University of Toro...",
+      "fullDescription": "full name / name of organization: Marc A. Ouellette, Old Dominion University; Peter Pericles Trifonas, University of Toronto contact email: ouellema@gmail.com CFP: Handbook of the Cultural Legacy of 9/11. (under contract with Springer) Edited by: Marc A. Ouellette, Old Dominion University, (mouellet@odu.edu) and Peter Pericles Trifonas, University of Toronto From the instant the first news reports appeared, the events of 11 September 2001 changed the way texts are created, produced, shared, and received and with them the way we read, speak, think and understand our day-to-day existence changed, as well. Winston Wheeler Dixon's early collection, Post-9/11 Film & Television (2004) attempted to capture the initials changes, as did Lynn Spiegel's (2004) field defining essay. However, \"9/11\" has had and indeed continues to have a thorough and lasting impact on American culture, writ large. Here, we take an important cue from Susan Jeffords' studies of what she calls \"Vietnam representation\" (1989, 1992), which includes \"films, novels, personal accounts, collections of observations and experiences, and political and social analyses\" (1989, p. 1). Importantly, the texts need not deal directly with the events; rather, they bear the traces, archetypes, themes, and images that invoke the germinal event and its outcomes. It is no mistake that the American Movie Classics network ran Red Dawn (1984) in heavy rotation in late 2001 and early 2002, nor is it an accident that the film was remade in 2012, with the plot altered to include a member of the \"axis of evil. No episode of Friends, with its stock images of the \"twin towers,\" will be the same. Moreover, the presence lingers in other forms and other texts, particularly given the Trump regime's threats of \"Gitmo,\" deportations, and the return to Bagram. As we reach the twenty-fifth anniversary of the attacks, we invite scholars in a host of disciplines to think through how \"9/11\" conditions the production, distribution, and reception of texts. Here, we mean texts in the truest sense, from the tiniest representation to works of art, poetry, novels, film, television, music, games, and other media. Moreover, 9/11 functions both centrifugally and centripetally, changing how texts produced both prior to and after the attacks are perceived and interpreted. Thus, we also invite scholars to theorize and consider whether post-9/11 representation has become a distinct mode or whether the weight of Vietnam representation lingers, particularly in the valourization of veterans, as the hagiography of American Sniper clearly suggests. We are still living with and experiencing the consequences of that day and the immediate responses to it. Indeed, such was the response to an earlier special issue of a journal that the project on the cultural legacies of 9/11 has grown into this handbook. Topics might include but should not be limited to the cultural productions and constructions of Allegories of 9/11 and/or the war on terror Artefacts and productions that changed after 9/11 (e.g., Red Dawn and 1990s action movies, reinterpretation of the Vietnam era and experience) Sci-fi/fantasy and themes of the war on terror (e.g., Battlestar Galactica) Ideas of cities and \"fly over America.\" Music, popular music, and musical forms Zombies, vampires, and the post-9/11 shaping of monsters Social media, podcasts, and other emerging forms War poetry, war elegies, and other poetic interventions Sport and games as surrogates for war, the projection of nationalism and patriotism Popular culture for children, including toys, TV, apps and games Education and pedagogy Cultural memory, cultural geographies, space and place The culture and representation of veterans, \"POGS\" and others Journalism, editorial, and the production of \"news\" Language and semiotics, particularly the reshaping of what can and cannot be said. History and popular histories Memes, gifs, images, and other short digital media forms Cultural resistance and activism, including slow activism Political extremism and the return of right-wing populism The cultural play and performance of patriotism Post-9/11 games and gaming, whether video, table top, and card games The reshaping of the gender order in post-9/11 cultural productions Genre and/or genre theory, including industrial, audience and institutional expectations Ethnography and the multiple layers of community Cult media productions, their fans and their producers The limits of populism and of media effects Paratexts and user-developed content and digital memorials Again, this is only a list of suggestions and the editors welcome other topics that explore the ways in which 11 September 2001 has become an inflection point for considerations of popular culture for the last twenty-five years. Proposals (roughly 500 word abstracts) are sought by 15 Aug. 2026. Completed papers are due by 1 Dec. 2026 and no later than 1 Jan. 2027. Please send proposals, papers, and queries to Marc A. Ouellette, mouellet@odu.edu; ouellema@gmail.com",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
       "title": "OPEN CALL: Journal for Literary & Intermedial Crossings",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theatre and Performance Studies",
@@ -988,30 +1012,6 @@
       "fullDescription": "JLIC: CALL FOR ARTICLES FOR OPEN ISSUE 2028",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
       "publish": true
-    },
-    {
-      "title": "Business and Management in Asia: Digital Transformation in NGOs and Civil Society",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/49607",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-15",
-      "eventDate": "2027-08-15",
-      "location": "Asia · Springer",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design",
-        "Publication"
-      ],
-      "excerpt": "Call for Book Chapters Business and Management in Asia: Digital Transformation in NGOs and Civil Society We invite chapter proposals for the fifth volume of the Business and Management in Asia series, to be published by Springer Nature. The volume explores how NGOs and civil society organizations across Asia use digital technologies, data, innovative gove...",
-      "fullDescription": "Call for Book Chapters Business and Management in Asia: Digital Transformation in NGOs and Civil Society We invite chapter proposals for the fifth volume of the Business and Management in Asia series, to be published by Springer Nature. The volume explores how NGOs and civil society organizations across Asia use digital technologies, data, innovative governance, and new management approaches to strengthen resilience, expand their reach, and increase their impact. Relevant topics include digital capacity building, data-driven decision-making, platform collaboration, stakeholder engagement, governance innovation, and the ethical challenges of digital transformation. Key dates Chapter proposal due: 15 August 2026 Full chapter due: 15 October 2026 Expected publication: Q1 2027 Chapters should generally be around 4,000-6,000 words, although quality and relevance are more important than length. Please submit a brief chapter outline and a one-page biography to Dr. Tobias Endress at tobiasendress@ait.asia. Editors: Dr. Tobias Endress and Prof. Yuosre F. Badir, Asian Institute of Technology.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Publication.",
-      "publish": false
     },
     {
       "title": "Dalit Women and the Politics of Labour: Caste, Gender and Invisibility",
@@ -1133,29 +1133,6 @@
       "publish": true
     },
     {
-      "title": "Black Sea as a Literary and Cultural Space 4 and Beyond: Inter-Reflections of Translation and Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
-      "sourceUrl": "https://www.cfplist.com/CFP/49506",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-15",
-      "eventDate": "2026-09-29",
-      "location": "Batumi Shota Rustaveli State University · HEI",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Theory"
-      ],
-      "excerpt": "Black Sea as a Literary and Cultural Space 4 and Beyond: Inter-Reflections of Translation and Literature (International Conference) Batumi, Georgia Organization: Batumi Shota Rustaveli State University Event: International Conference Categories: Postcolonial, Digital Humanities, Hispanic & Latino, Comparative, Interdisciplinary, Lingustics, Popular Cultur...",
-      "fullDescription": "Black Sea as a Literary and Cultural Space 4 and Beyond: Inter-Reflections of Translation and Literature (International Conference) Batumi, Georgia Organization: Batumi Shota Rustaveli State University Event: International Conference Categories: Postcolonial, Digital Humanities, Hispanic & Latino, Comparative, Interdisciplinary, Lingustics, Popular Culture, Literary Theory, World Literatures, Aesthetics, Anthropology/Sociology, Classical Studies, Cultural Studies, Environmental Studies, Film, TV, & Media, Food Studies, History, Philosophy, African & African Diasporas, Asian & Asian Diasporas, Australian Literature, Canadian Literature, Caribbean & Caribbean Diasporas, Indian Subcontinent, Eastern European, Mediterranean, Middle East, Native American, Scandinavian, Pacific Literature. Black Sea as a Literary and Cultural Space 4 and Beyond: Inter-Reflections of Translation and Literature BSLC4 Edith W. Clowes conceptualises post-Soviet culture in Russia on the Edge: Imagined Geographies and Post-Soviet Identity (Cornell University Press, 2011) and \"The Return of Eurasia: Imagining Empire in Post-Soviet Russia\" (Ab Imperio, 3 (2005), 69-96). Clowes's article shifts imperial imaginaries and frames the Black Sea as a dynamic cultural site rather than a periphery. Positioned at the intersection of empires, languages, and shifting cultural hegemonies, the Black Sea constitutes a complex translational space shaped by asymmetrical flows, mediated circulation, and layered dependencies. Therefore, a literature of the Black Sea region, would be typically a 'Small' Literature, as Yordan Lyutskanov (\"A 'Small' Literature, that is: Literature with Limited Translational Opportunities, of Structural Undercapacity and Voluntary Self-diminishment,\" 2024) points out national literatures are posed to dependence on dominant linguistic channels that perpetuates structural subordination. Mzago Dokhtourichvili's article Les probl&egrave;mes traductologiques ou &laquo;trahison créatrice&raquo; &agrave; la lumi&egrave;re de la traduction de la poésie géorgienne en français demonstrates, using the example of the translation into French of Nikoloz Baratachvili's poem \"Merani\" and Galaktion Tabidze's poem \"Blue Horses,\" that translators are obliged, in order to keep \"the soul and spirit\" (Françoise Wuilmart) of the original poems, to carry out a creative betrayal of the original work (Antoine Berman), which makes the grandeur and the risk of translation. Susanna Witt (2011: 150-151) explores the themes instrumental to the study of literary translation in the context of Soviet culture, pointing out that there are gaps in research regarding the study of literary translation in the context of Soviet culture. This argument can be well-extended to the Black Sea translational space. Bela Tsipuria's works highlight Georgia's \"in-between\" position, where cultural texts reveal both imposed imperial narratives and local efforts to preserve agency (2021). Her work often examines how literary representation functions as a site where colonial power is reproduced, challenged, or reimagined in the post-Soviet context (2016). Hayate Sotome considers Ilia Chavchavadze's \"Letters of a Traveler\" (2019) as a distinctly postcolonial work, and Gül Mükerrem &Ouml;ztürk (2025), in the same light, writes about Translation and Power in Georgia exploring Socialist Realism to Post-Soviet Market Pressures. Khatuna Beridze's Black Sea, Trilingual Reflections: Georgian and Russian Literature (2022-2023) identifies a \"trilingual condition\" in Georgian writing that oscillates between languages and interlinear trots. Her theoretical approach to the analysis explores theories of Cognitive Linguistics (Lacoff, Johnson, 1989, 1999), the Habitus (Bourdieu's (1991) and Cultural Archive (Said, 1993). Ukrainian research executed by Lada Kolomiyets (2023) exposes the political anatomy of translation under totalitarian rule. Her archival studies of the 1930s \"Executed Renaissance\" demonstrate how Stalinist purges destroyed Ukraine's direct Western translation culture. Bulgarian scholarship, from Boyko Penchev (2012), to Alexander Kiossev (1995, 2004), and Miglena Nikolchina (2013) - shifts the focus from coercion to voluntary emulation. Romanian theorists highlight translation as both refuge and resistance. Lidia Vianu's (1998) idea of \"translation as asylum\" describes how writers used translation to survive censorship, keeping literary language alive under the \"wooden language\" of propaganda. Maria Sass (2018) redefines translation as an internal dialogue between Romania's German and Romanian traditions, the Transylvanian model where translation becomes a means of European self-identification rather than subordination. Turkish research, as represented by ?ehnaz Tahir Gürça?lar and Saliha Paker (2015), foregrounds translation as a tool of state planning and ideological re-engineering. The global circulation of Georgian literature offers a particularly revealing case of how \"small literatures\" navigate asymmetrical translation systems and negotiate visibility within the world literary space. In this context, translation emerges not merely as transfer but as a strategic act of cultural positioning, where translational choices shape how national literature is framed for international audiences. Alexis Nuselovici (Nouss) (2022) advocates for a paratranslational ethics that embraces the threshold as a space of creative tension, where translation is an act of hospitality to the foreign without erasing its difference. It calls for translators to recognize their role as active, critical agents who generate new linguistic and cultural forms through the very act of translating on the threshold. Dokhtourichvili's another article \"La représentation linguistique de différentes cultures &agrave; travers une m&ecirc;me langue (2021) of Assia Djebar (Algeria), Tahar Ben Jelloun (Morocco), and Andrei Makine (Russia) demonstrates how writers use French as a non-native language to express distinct cultural identities while challenging fixed notions of belonging. Against this background, the situational analysis of Black Sea writers is interesting to analyze: there are other models of exile and cultural translation. What unites the literatures of the Black Sea region in translation? Shakespeare stands as a possible shared translational and cultural axis of the Black Sea cultures. Circulating across the region through direct and indirect translations, Shakespeare's works offer a unique opportunity to trace diachronic shifts, intermediary influences, and inter-reflexive translation practices. In many cases, Shakespeare in the Black Sea context is not a direct encounter with the English original, but a palimpsestic construct, shaped by prior translations and dominant linguistic filters. Recent developments in corpus-based and corpus-driven translation studies offer powerful tools for systematically investigating the Black Sea translational space, particularly in relation to asymmetrical mediation, indirect translation, and diachronic layering. Corpus linguistic approaches with aligned multilingual corpora make it possible to empirically identify whether translations are produced directly from source texts or mediated through dominant languages, and to map how these trajectories evolve across time. Researchers can trace recurring patterns in lexical choice, stylistic normalization, pragmatic shifts, and the persistence of intermediary influence. At the same time, the integration of cognitive linguistics, enables a deeper analysis of how meaning is not merely transferred but restructured in translation. This cognitive dimension intersects productively with Bourdieu's concept of habitus, which foregrounds the historically and socially conditioned dispositions guiding translators' choices. In the Black Sea context and beyond, translational habitus may reflect ideological constraints, institutional norms, and inherited literary models. This conference proposes to reconceptualize the Black Sea as a dynamic laboratory of translation, where texts do not merely move between languages but are continuously reconstituted through processes of mediation, reinterpretation, and ideological reframing. case studies of modern translations, exploring how contemporary works are reframed across linguistic and cultural boundaries, and how they negotiate between local specificity and global legibility. The conference seeks to explore how such translational trajectories generate what may be termed inter-reflexive systems: configurations in which translations interact not only with source texts but also with other translations, historical imaginaries, and cognitive schemas embedded within specific cultural contexts. Key Topics The main topics of the conference are: &bull; The Black Sea, National Literature and Translation &bull; The Black Sea and Beyond: The Practice of Literary Translation: Empirical Studies &bull; Understanding Shakespeare in the Common Cultural-Translational Space of the Black Sea &bull; From Cognitive Linguistics to Cognitive Translation Studies &bull; Literary and Translation Inter-Reflections in the Contexts of Icon Schemes, Habitus and Cultural Archives &bull; Corpus Linguistic Research Models of Literary Translation &bull; Cultural Imperialism and Censorship &bull; Linguistic Exile and Cultural Translation The previous conferences included: 25-27 October: The Black Sea as a literary and cultural area; https://blacksea.iliauni.edu.ge/en/ - held at Ilia State University, Georgia; 30 March - 1 April 2020 Black Sea as literary and cultural space (II): peoples and communities https://www.bas.bg/?tribe_events=25923&lang=en held online at Sofia University \"St Kliment Ohridski\"; 20-21 November, 2025, The Black Sea as a Literary and Cultural Space (3): Ruins (Ancient and Modern) and Mobilities, held at Ovidius University, Constanta, Romania. https://sites.utexas.edu/creees/2025/06/05/cfp-the-black-sea-as-a-literary-and-cultural-space-university-of-constanta-romania/ Topical conferences also included: 5-6 October 2018: \"East European Multicultural Space\" https://bsu.edu.ge/sub-41/page/2-246/index.html?lang=en ; https://www.bsu.edu.ge/main/page/10932/index.html at Batumi State University, Georgia; 29-30 March, 2024: \"Re-envisioning the Black Sea in Literature and Historiography: Backwater or oikoumen??\" held at Virginia University, US; https://classics.as.virginia.edu/symposium-re-envisioning-black-sea-literature-and-historiography Keynote speakers: Professor Diana Roig-Sanz, coordinator of GlobaLS, is an ICREA Research Professor and an ERC Starting Grant holder at the IN3 (UOC). Ram&oacute;n y Cajal senior research fellow at the Universitat Oberta de Catalunya. Professor Yordan Lyutskanov, Docent / Associate Professor in Russian Literature, Department of Comparative Literature, Institute for Literature Bulgarian Academy of Sciences; Co-editor of Transponticae, journal & book series Organizers: Batumi Shota Rustaveli State University Translation and Interdisciplinary Research Centre at BSU Faculty of Humanities Batumi Shota Rustaveli State University's UNESCO Chair on Internationalization of Higher Education through Interdisciplinary Research and Development; Co-organizers: Association Transpontica Sofia, directed by Assoc. Professor Yordan Lyutskanov, Institute of Literature, Bulgarian Academy of Sciences. Types of Contributions Accepted Individual papers Venue: Batumi Shota Rustaveli State University Address: Rustaveli/Ninoshvili St. 32/35 Website: www.bsu.edu.ge E-mail: Blacksea4translation@gmail.com Conference Date: 29-30 September, 2026 Mode: onsite/online Conference fee: 80 eur. For citizens of Georgia: 150 GEL The fee includes the fee for the conference banquet and all social events. The fee is payable on-site, upon registration. Visit the conference website: https://sites.google.com/view/bslc4/home?authuser=0 See the call on the website of Batumi Shota Rustaveli State University: https://bsu.edu.ge/sub-57/page/2-405/index.html?lang=en Important Deadlines &bull; Abstract Submission Deadline: 10 August 2026 &bull; Acceptance Notification: 20 August 2026 Submission Guidelines &bull; Abstract Length: 300-350 words Formatting guidelines 1. Margins: top, bottom, left, right - 2 cm. Paragraph 1.25 cm. 2. The main text of the abstract should be in the font: Sylfaen for the Georgian version, and Times New Roman, 12 pt., line spacing - 1.0 for abstracts prepared in English. 3. On the first line: the author's name and surname in bold, italicized at the top right of the page. On the next line in regular font in the following order: first line - scientific/academic degree; second line - academic position in full with the name of the faculty; Third line - name of institution; Fourth line - city, country. 4. Author Required Information: Name, Affiliation, Email, ORCID identifier - https://orcid.org/ 5. On the next line below, the abstract title should be placed, bold, centered. Author's email address; 6. References: - at the bottom, Times New Roman, 12 pt. APA (American Psychological Association (APA) Style. 7. Keywords: Maximum 5 Conference Languages: English (French and Georgian in case of full paper submissions, 2 weeks prior to the conference, by email; Or, extended summary in English) Organizational Fee 80 Eur. Scientific Committee Khatuna Beridze, Batumi Shota Rustaveli State University, Georgia Bela Tsipuria, Ilia State University, Tbilisi, Georgia Yordan Lyutskanov, Institute of Literature, Bulgarian Academy of Sciences, Bulgaria Mzago Dokhturishvili, Ilia State University, Tbilisi, Georgia Alexis Nuselovici (Nouss), Aix-Marseille University, France Monica Vlad, Ovidius University of Constan?a, Romania Eyüp &Ouml;zveren, Ankara Technical University, Türkiy Hayate Sotome, University of Tsukuba, Japan Susanna Witt, Stockholm University, Sweden Teona Beridze, Batumi Shota Rustaveli State University, Georgia Gül Mükerrem &Ouml;ztürk, Recep Tayyip Erdo?an University, Türkiye 12. Lada Kolomiyets, visiting professor at Dartmouth College (Ukraine, USA) Tamar Siradze, Batumi Shota Rustaveli State University, Georgia Marine Giorgadze, Batumi Shota Rustaveli State University, Georgia Ramaz Khalvashi, Batumi Shota Rustaveli State University, Georgia References: 1. Beridze, Khatuna. (2023). Black Sea, trilingual reflections: Georgian and Russian literature. Transponticae: Journal and Book Series for Black Sea Literary and Cultural Studies, 1(1), 356-422. 2. Beridze, Khatuna. (2026). Inter-reflexive Theory of Translation (forthcoming). 3. Beridze, Khatuna, Nana Kajaia. Exploring Shakespeare Speaking Old and Modern Georgian. Journal of Narrative and Language Studies 13 (27), 19-32, 2025. 4. Clowes, Edith W. (2011). Russia on the edge: Imagined geographies and post-Soviet identity. Cornell University Press. 5. Dokhtourichvili, Mzago. (2021). La représentation linguistique de différentes cultures &agrave; travers une m&ecirc;me langue. De Gruyter Brill. https://doi.org/10.1515/9783110642018-028 6. Dokhtourichvili, Mzago. (2025) Les probl&egrave;mes traductologiques ou &laquo;trahison créatrice&raquo; &agrave; la lumi&egrave;re de la traduction de la poésie géorgienne en français (Translation problems or \"creative betrayal\" in light of the translation of Georgian poetry into French), in : Denis Fadda, Carmen Saggiomo (dir.) UN COUP DE D&Eacute;S Cahier de culture française, francophone et maghrébine, La Renaissance Française &Eacute;DITIONS, ?12, p. 57-69. 7. Gürça?lar, ?ehnaz Tahir. (2008). The politics and poetics of translation in Turkey, 1923-1960. Rodopi. 8. Gürça?lar, ?ehnaz Tahir, Paker, Saliha, & Milton, John (Eds.). (2015). Tradition, tension and translation in Turkey (Vol. 118). John Benjamins. 9. Hundorova, Tamara. (n.d.). Ukrainian postmodernism of the 1990s (Sergiy Yakovenko, Trans.). Academic Studies Press. (Honorable Mention, Book Prize of the American Association for Ukrainian Studies 2018-2019). https://books.huri.harvard.edu/books/the-post-chornobyl-library 10. Kiossev, Alexander. (1995) The self-colonising cultures. In Cultural Aspects of the Modernisation Process, ed. by Dimit?r Ginev, Francis Sejersted, Kostadinka Simeonova, Oslo: TMV-senteret, 73-81. 11. Kiossev, Alexander. (2004) Heritage and inheritors The literary canon in totalitarian Bulgaria. John Benjamins. 12. Kolomiyets, Lada. (2023). The politics of literal translation in Soviet Ukraine: The case of Gogol's \"The tale of how Ivan Ivanovich quarreled with Ivan Nikiforovich.\" Translation and Interpreting Studies, 18(3), 325-359. https://doi.org/10.1075/tis.21020.kol 13. Lakoff, George, and Mark Johnson. 1999. Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought. New York: Basic Books. 14. Lakoff, George & Turner, Mark. 1989. More than cool reason. A field guide to poetic metaphor. Chicago: University of Chicago Press. 15. Ljuckanov Jordan. (2014). Introduction: Translating a Small Literature to the Global Market. The Bulgarian Case and Beyond. Studi Slavisitici 11, 215-223 16. Lyutskanov, Yordan. (2024). A \"small\" literature, that is: Literature with limited translational opportunities, of structural undercapacity and voluntary self-diminishment. In Contemporary Issues of Literary Studies - International Symposium Proceedings (Vol. 17, pp. 644-652). 17. Lyutskanov, Yordan. Introduction. In Heteroeuropeanisations: (in)capacity to stay marginal, ed. by Y. Lyutskanov, Benedikts Kalna?s and Gaga Shurgaia, Napoli: UniOr Press, 2021, 1-61; 18. Nikolchina, Miglena. (2013). Lost unicorns of the velvet revolutions: Heterotopias of the seminar. Fordham University Press. 19. Nuselovici (Nouss), Alexis. (2022). Paratraduction: Du seuil et du traduire. Meta, 67(3), 665-671. https://doi.org/10.7202/1100480ar 20. Nuselovici (Nouss), Alexis. (2013). L'exil comme expérience. ?halshs-00861245?. 21. Gould, Rebecca (2013) Inimitability versus Translatability, The Translator, 19:1, 81-104, DOI: 10.1080/13556509.2013.10799520 22. &Ouml;ztürk, Gül Mükerrem. (2025). \"Translation and Power in Georgia: Postcolonial Trajectories from Socialist Realism to Post-Soviet Market Pressures.\" Humanities 14, no. 9: 174. 23. Penchev, Boyko. (2012). A History of the Literary Field of the People's Republic A History of the Literary Field of the People's Republic. Maison des Sciences de l'Homme et de la Société (Sofia) 24. Riabchuk, Mykola. (2011). Postcolonial syndrome [Postkolonialnyi syndrom. Sposterezhennia]. KIS. 25. Sass, Maria, Pojoga, Vlad, & Baghiu, Stefan (Eds.). (2018). The culture of translation in Romania / &Uuml;bersetzungskultur und Literaturübersetzen in Rumänien. Peter Lang. 26. Sotome, Hayate. 2019. The Perspective of Postcolonial Zoocriticism in 19th Century Georgian Literature. Sjani, (20), pp.174-184. 27. Tlostanova, Madina. (2017). Postsocialist &ne; postcolonial? On post-Soviet imaginary and global coloniality. In Postcolonial perspectives on postcommunism in Central and Eastern Europe (pp. 28-40). Routledge. 28. Said, Edward W. (1993). Culture and Imperialism. Vintage Books. New York. 29. Tsipuria, Bela. (2016). Georgian modernism: Relocating Georgian culture. In Chancen und Schwierigkeiten des interkulturellen Dialogs über ästhetische Fragen (pp. 57-74). 30. Tsipuria, Bela. (2021). \"The Figurative Language of Soviet Power and Georgian Literature\". Volume 3 Discourses on Nations and Identities, edited by Daniel Syrovy, Berlin, Boston: De Gruyter, 2021, pp. 529-542. https://doi.org/10.1515/9783110642018-041 31. Vianu, Lidia. (1998). Censorship in Romania. Central European University Press. 32. Witt, Susanna. (2011). \"Between the lines: totalitarianism and translation in the USSR\", in: Contexts, Subtexts and Pretexts, 89: Literary translation in Eastern Europe and Russia, ed. by Brian James Baer. John Benjamins B.V., pp. 149-170. 33. Witt, Susanna. (2017). Translation Studies 10(2):1-17 Institutionalized intermediates: Conceptualizing Soviet practices of indirect literary translation. DOI: 10.1080/14781700.2017.1281157 beridze@bsu.edu.ge Khatuna Beridze",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
-      "publish": false
-    },
-    {
       "title": "CFP 24º SBPJor",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theory",
@@ -1227,32 +1204,6 @@
       "publish": true
     },
     {
-      "title": "Deadline Extended: Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/28/deadline-extended-beyond-the-ocean-maritime-infrastructure-and-hydro-narratives-of",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-17",
-      "eventDate": "2027-08-17",
-      "location": "Dr. Shubhanku Kochar & Dr. Shehnaz Kabir",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Publication",
-        "Funding",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces...",
-      "fullDescription": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces of radical rebirth and enduring kinship.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication, Funding.",
-      "publish": true
-    },
-    {
       "title": "The State of SF and of Things to Come: Reading SF through the Clarke Award",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Awards",
@@ -1296,6 +1247,31 @@
       "excerpt": "Resurgens Theatre Company, along with the Georgia State University Department of English, is pleased to announce our fourth biennial conference on early modern verse drama by Shakespeare and his contemporaries, “Shakespeare’s Apocrypha Now.” We’re calling for papers that examine some aspect of Shakespeare’s non-canonical plays, i.e., those dramatic works...",
       "fullDescription": "Resurgens Theatre Company, along with the Georgia State University Department of English, is pleased to announce our fourth biennial conference on early modern verse drama by Shakespeare and his contemporaries, “Shakespeare’s Apocrypha Now.” We’re calling for papers that examine some aspect of Shakespeare’s non-canonical plays, i.e., those dramatic works that have been or are currently attributed to Shakespeare (as a whole or in part) that have yet to receive widespread scholarly and/or theatrical recognition. We particularly welcome topics on canonicity, collaboration, and performance-oriented concerns regarding Renaissance drama and/or early modern print culture.",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Deadline Extended: Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/28/deadline-extended-beyond-the-ocean-maritime-infrastructure-and-hydro-narratives-of",
+      "type": "Grant / Fellowship",
+      "deadlineType": "Submission",
+      "deadline": "2026-08-17",
+      "eventDate": "2027-08-17",
+      "location": "Dr. Shubhanku Kochar & Dr. Shehnaz Kabir",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Publication",
+        "Funding",
+        "Theory"
+      ],
+      "excerpt": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces...",
+      "fullDescription": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces of radical rebirth and enduring kinship.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication, Funding.",
       "publish": true
     },
     {
@@ -1540,6 +1516,31 @@
       "publish": true
     },
     {
+      "title": "CFP: Dead by Daylight edited collection extended deadline",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49710",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-08-21",
+      "eventDate": "2027-08-21",
+      "location": "N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Call for Contributors Into the Fog: Essays on Dead by Daylight The call for papers has been extended to August 21st, 2026. While we are particularly interested in submissions dealing with lore and worldbuilding, survival horror, fandom, online discourse, anime and horror, and transmedia ventures and shared worlds of horror, we welcome all topics. Dead by...",
+      "fullDescription": "Call for Contributors Into the Fog: Essays on Dead by Daylight The call for papers has been extended to August 21st, 2026. While we are particularly interested in submissions dealing with lore and worldbuilding, survival horror, fandom, online discourse, anime and horror, and transmedia ventures and shared worlds of horror, we welcome all topics. Dead by Daylight (DBD) is an asymmetric four versus one online horror game where a team of survivors must work together to escape from a brutal killer, developed and published by Behavior Interactive. From its debut in 2016 the game has risen to become one of the most popular horror gaming experiences. As a live-service game with frequent updates, the game has developed a notable community following with prominent streamers, content creators, and popular memes. The game has inspired fans to cosplay, stream their matches, and develop fanart and fanfiction. The game is also known for its frequent collaborations with classic and emerging horror franchises, including Halloween , Nightmare on Elm Street , Alien , Stranger Things , Five Nights at Freddy's , and drag performers The Boulet Brothers. The game has also had different versions and spinoffs including Dead By Daylight Mobile (Behavior Interactive 2020) and The Casting of Frank Stone (Supermassive Games 2024). In November 2023, the gaming site Polygon reported Dead by Daylight reached 60 million players, and the game is celebrating its tenth anniversary in 2026. We invite proposals for original, unpublished essays that explore the different facets of horror and gaming in Dead by Daylight for an edited volume under contract with McFarland. We welcome interdisciplinary submissions from all career stages, including independent scholars and graduate students. Submissions should be scholarly but accessible to a general audience. The collection will be published in English, but we welcome submissions from and are eager to work with scholars working in other languages who are interested in publishing new work on the game in English. Suggested topics with DBD may include, but are not limited to, the following: · Lore and worldbuilding · Fan culture and community · Horror in video games and the survival horror genre · Transmedia ventures and shared worlds of horror - Anime and horror · Toxicity and online discourse · World horror, folk horror, internet horror, and transnational dimensions of horror · LGBTQ+ representation and community · Race, horror, and survival · The monstrous feminine, final girls, and women in horror · Cosplay and fan work · Embodiment and avatars · Accessibility and horror games · Interfaces and game menus · Ruins, rust, and history in horror · Game mechanics, balancing updates, and fairness · Affect and abjection · Player sentiment and experiences · Licensing, collaborations, and merchandising Submission Guidelines Abstracts of 300 words, as well as brief author bios, should be submitted to Daniel Fandino (Daniel.Fandino@ucf.edu) & Cody Mejeur (codymeje@buffalo.edu) by our extended deadline of August 21, 2026 . The editors will review all submitted proposals and notify applicants by the end of August 2026. Chapters should be approximately between 5000-8000 words, and first drafts of completed manuscripts will be due December 15, 2026. The expected publication date will be 2027-2028. Note: Acceptance of a proposed abstract does not guarantee the acceptance of the full chapter. Chapters will undergo both editor and peer review. About the Editors Daniel Fandino (PhD) is the coordinator of the Digital Exploration Center at the University of Central Florida. He has previously co-edited a book on the Marvel cinematic universe for McFarland and has written articles on EVE Online and the history of computer gaming. Cody Mejeur (They/them, PhD) is Assistant Professor of Media Study at University at Buffalo, SUNY, and Director of the Amatryx Gaming Lab & Studio there. They are currently the game director for Trans Folks Walking , a narrative game about trans experiences. They are an editor of Historiographies of Game Studies (punctum 2025), co-editor of the trans narratology special issue of the Narrative journal (2024) and have published numerous articles and book chapters in Games & Culture , Digital Humanities Quarterly , and Resilience: A Journal of the Environmental Humanities , among others. Contact Email Daniel Fandino: daniel.fandino@ucf.edu Cody Mejeur: codymeje@buffalo.edu",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "(In)Hospitable Earth: Entertaining the World Beyond Ecopessimism",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Cultural Studies",
@@ -1705,6 +1706,30 @@
       "publish": true
     },
     {
+      "title": "New Discoveries and New Directions in Biblical, Hebrew, and Theological Studies",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/49743",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-08-25",
+      "eventDate": "2026-11-06",
+      "location": "Zoom · Institute for Hebrew Language and Literature",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 20,
+      "fields": [
+        "Theory",
+        "Publication"
+      ],
+      "excerpt": "CALL FOR PAPERS / CALL FOR PRESENTATIONS EUROPEAN HEBREW JOURNAL INTERNATIONAL SCHOLARLY ONLINE ZOOM CONFERENCE New Discoveries and New Directions in Biblical, Hebrew, and Theological Studies 6-8 November 2026 Live Online via Zoom ABSTRACT SUBMISSION DEADLINE: 20 AUGUST 2026 Present Your Research at an International Scholarly Conference The European Hebre...",
+      "fullDescription": "CALL FOR PAPERS / CALL FOR PRESENTATIONS EUROPEAN HEBREW JOURNAL INTERNATIONAL SCHOLARLY ONLINE ZOOM CONFERENCE New Discoveries and New Directions in Biblical, Hebrew, and Theological Studies 6-8 November 2026 Live Online via Zoom ABSTRACT SUBMISSION DEADLINE: 20 AUGUST 2026 Present Your Research at an International Scholarly Conference The European Hebrew Journal invites scholars, researchers, university professors, postdoctoral researchers, doctoral candidates, graduate students, independent scholars, and other qualified researchers from around the world to submit proposals for presentations at the European Hebrew Journal International Scholarly Online Zoom Conference, taking place on 6-8 November 2026. This three-day international academic conference brings together scholars working across biblical studies, Hebrew language and linguistics, Jewish studies, theology, religious studies, history, archaeology, textual studies, and related disciplines. The conference is organized in support of the Diamond Open Access mission of the European Hebrew Journal, promoting international scholarly exchange and wider accessibility and visibility of academic research. Join an Expanding International Programme The conference programme already includes distinguished scholars and researchers from universities and academic institutions around the world. Confirmed speakers include, among others: Prof. em. Dr. Dr. h.c. Eckart Otto Ludwig-Maximilians-Universität München / Hochschule für Philosophie München Prof. Dr. Aaron Koller Regius Professor of Hebrew, University of Cambridge Prof. Dr. Avraham Faust Bar-Ilan University Prof. Joshua Schwartz Chair, Board of Directors, Israel Antiquities Authority Professor Emeritus, Bar-Ilan University Prof. Gabriele Boccaccini Professor Emeritus, University of Michigan Founding Director, Enoch Seminar Prof. Rivka Halevy Professor Emerita of Hebrew Language, The Hebrew University of Jerusalem Prof. Dr. Yigal Levin Bar-Ilan University as well as scholars from the United States, United Kingdom, Israel, Germany, Switzerland, Denmark, Italy, Ethiopia, Nigeria, and other countries. The programme is continuing to expand, and a limited number of additional presentation proposals are now being considered. Areas of Interest We particularly welcome original research related to: Hebrew Bible / Old Testament Biblical Studies Biblical Hebrew Modern Hebrew Mishnaic and Rabbinic Hebrew Medieval Hebrew Hebrew Linguistics Semitic Linguistics Historical Linguistics Philology Lexicography Hebrew Grammar and Syntax Textual Criticism Dead Sea Scrolls Qumran Studies Second Temple Judaism Rabbinic Literature Jewish Studies Jewish History Judaism Theology Religious Studies Early Christianity Christianity and its Jewish Background Biblical Interpretation and Reception Archaeology of Israel Biblical Archaeology Ancient Near Eastern Archaeology Ancient Near Eastern Studies Epigraphy Palaeography Manuscript Studies History of Religion Jewish-Christian Relations Jewish-Muslim Relations Christianity, Judaism, and Islam in comparative perspective Biblical and Religious Literature History and Culture of the Ancient Near East History of Israel Hebrew and Semitic Manuscript Traditions Digital Humanities Computational Linguistics Computational Approaches to Biblical and Historical Research Interdisciplinary approaches connecting language, history, archaeology, religion, theology, and textual studies Research introducing new discoveries, new evidence, new methodologies, reassessments of established interpretations, or genuinely new directions of research is especially welcome. Presentation Format Each accepted presenter will receive an official 30-minute conference presentation slot: 20 minutes - Research Presentation 10 minutes - Questions and Scholarly Discussion Presentations will be delivered live online via Zoom. The online format enables scholars from different countries and academic traditions to participate without the financial and logistical costs of international travel, accommodation, or visas. Who May Submit? Proposals are welcome from: University professors Researchers Postdoctoral researchers Doctoral / PhD candidates Graduate students Early-career scholars Independent researchers Biblical scholars Hebrew specialists Linguists and philologists Historians Archaeologists Theologians Scholars of religion Jewish Studies researchers Scholars working in related interdisciplinary fields Academic affiliation is welcome but is not in itself a requirement. Proposals will be evaluated primarily according to the scholarly quality and relevance of the proposed research. How to Submit a Proposal Please send your application to: office@hebrew.edu.rs Please use the email subject: CFP 2026 - Presentation Proposal Your application should include: Full name Academic title or current academic position Institutional affiliation, if applicable Country Email address Proposed presentation title Abstract of approximately 150-250 words 3-5 keywords Short academic biography Submission Deadline 20 AUGUST 2026 Proposals submitted before the deadline will be evaluated for inclusion in the developing international conference programme. Applicants are encouraged to submit as early as possible while programme slots remain available. Academic Selection Presentation proposals will be considered on the basis of: scholarly quality originality methodological clarity relevance to the conference significance of the research question potential contribution to international scholarly discussion Acceptance is based on academic evaluation and is completely separate from conference payment. Presenter Registration There is no submission fee. Registration is required only after a proposal has been accepted. Submitting an abstract and presentation proposal is completely free of charge. There is no application fee and no abstract submission fee. Only applicants whose presentation proposals have been academically accepted will be invited to complete presenter registration. Accepted Presenter Registration Regular Presenter: &euro;89 Student / PhD Presenter: &euro;49 Presenter registration is payable only after academic acceptance. What Accepted Presenters Receive Accepted presenter registration includes: An official place in the international conference programme A 30-minute presentation session 20 minutes for presentation 10 minutes for questions and scholarly discussion Live access to the complete three-day conference Access to presentations by international scholars Participation in live questions and academic discussions Twelve months of access to the complete conference recording library Digital conference programme Digital certificate of participation Downloadable conference booklet with speaker biographies and abstracts Curated reading lists and bibliographies Digital conference participation badge suitable for LinkedIn and professional portfolios Access to additional conference resources provided to registered participants Complimentary access to two additional live online scholarly Zoom sessions planned for December 2026 Twelve Months of Conference Access Presenters do not need to attend every lecture live. Every registered presenter will receive twelve months of on-demand access to the complete conference recording library, making it possible to follow presentations and scholarly discussions from different time zones and return to important lectures after the conference. One presenter registration provides access to the complete three-day academic programme and twelve months of conference recordings. Scholarly Visibility The conference is designed not only as a live international scholarly meeting but also as a platform for the continuing visibility and dissemination of academic research. Conference proceedings and published presentation materials will receive persistent Crossref-registered DOIs. Eligible scholarly outputs will be structured for scholarly discovery through services such as Google Scholar and OpenAlex. Conference-derived research articles subsequently published in the European Hebrew Journal may additionally benefit from the journal's scholarly dissemination and indexing infrastructure. Supporting Diamond Open Access Scholarship The conference supports the Diamond Open Access mission of the European Hebrew Journal. Diamond Open Access scholarship aims to make academic research available without subscription charges for readers and without publication charges for authors. By participating in the conference, scholars become part of a wider international initiative dedicated to scholarly communication, research visibility, academic exchange, and accessible knowledge. Bring Your Research into the International Conversation Are you working on a new interpretation of a biblical text? Have you identified previously overlooked linguistic evidence? Are you researching Hebrew, Jewish history, theology, religion, archaeology, manuscripts, ancient texts, or the historical world of the Bible? Are you developing a new methodology or challenging an established scholarly interpretation? This conference provides an opportunity to present that research to an international audience and discuss it with researchers working across related disciplines. We especially encourage proposals that introduce new discoveries and new directions - research that can generate discussion, connect disciplines, and contribute meaningfully to contemporary scholarship. SUBMIT YOUR ABSTRACT BY 20 AUGUST 2026 Send your proposal to: office@hebrew.edu.rs European Hebrew Journal International Scholarly Online Zoom Conference 6-8 November 2026 New Discoveries and New Directions in Biblical, Hebrew, and Theological Studies Live Online via Zoom Official Conference Website: https://conference.hebrew.edu.rs/",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
+      "publish": false
+    },
+    {
       "title": "Digital Intimacies 12: Intimately Disconnected",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -1726,31 +1751,6 @@
       "excerpt": "Intimately Disconnected 4-5 December 2026 (Friday and Saturday) The University of Sydney",
       "fullDescription": "Intimately Disconnected 4-5 December 2026 (Friday and Saturday) The University of Sydney",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Teaching languages to mixed-ability groups: solutions to succeed (workshop)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/49230",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
-      "eventDate": "2026-08-31",
-      "location": "online · \"L&D initiatives\" Nataliia Gach Education Centre",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Are you a foreign language teacher juggling learners with different levels, needs and learning styles? You're not alone - and we've got something designed exactly for you. What will you get? *Smart ways to prepare lessons for students of varying levels *Strategies for managing a mixed-ability classroom and building a positive learning environment *Ready-t...",
-      "fullDescription": "Are you a foreign language teacher juggling learners with different levels, needs and learning styles? You're not alone - and we've got something designed exactly for you. What will you get? *Smart ways to prepare lessons for students of varying levels *Strategies for managing a mixed-ability classroom and building a positive learning environment *Ready-to-use activities for speaking, writing, reading and listening *Tools to help students develop stronger study skills *Effective approaches to assessing mixed-ability groups For participation in the workshop all participants will be awarded with 0,1 ECTS credits, which will be stated in the certificate of participation. Don't miss out - boost your teaching confidence and transform your classroom! Workshop language - English. Workshop time - 15:30-17:30 (CEST). Participation fee - 25 CHF. ENQUIRIES To register for the workshop, please, contact Dr. Nataliia Gach at info@ld-initiatives.ch , by phone +41 78 340 32 13, or leave the message on our website https://ld-initiatives.ch/en/workshops/",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Art / Media Practice.",
       "publish": true
     },
     {
@@ -2238,7 +2238,7 @@
     {
       "title": "Language, Literature, and Learning: Interdisciplinary Perspectives",
       "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
+      "sourceName": "CFPList: Communication Studies Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49235",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
@@ -2251,13 +2251,13 @@
       "publishMode": "auto",
       "score": 16,
       "fields": [
+        "Communication",
         "Pedagogy",
-        "Publication",
-        "Communication"
+        "Publication"
       ],
       "excerpt": "Invitation for Chapter Contributions Book Title: Language, Literature, and Learning: Interdisciplinary Perspectives Edited By Dr. R. Saraswathi Dr. Sumalatha Donipati ISBN: 978-93-92760-14-3 Publisher: KY Publications, India KY Publications cordially invites academicians, researchers, faculty members, research scholars, and postgraduate students to contri...",
       "fullDescription": "Invitation for Chapter Contributions Book Title: Language, Literature, and Learning: Interdisciplinary Perspectives Edited By Dr. R. Saraswathi Dr. Sumalatha Donipati ISBN: 978-93-92760-14-3 Publisher: KY Publications, India KY Publications cordially invites academicians, researchers, faculty members, research scholars, and postgraduate students to contribute original and unpublished book chapters for the forthcoming edited volume, Language, Literature, and Learning: Interdisciplinary Perspectives. This volume aims to provide an interdisciplinary platform for innovative research exploring the intersections of language, literature, education, linguistics, communication, translation, cultural studies, pedagogy, and contemporary learning practices. High-quality theoretical, empirical, and review-based chapters are welcome. Submission Status: Open Publication Fee:2,000 INR / 75US$ per accepted chapter The publication fee includes: Publication of one accepted book chapter One complimentary printed paperback copy of the book Chapter publication certificate (E-Certificate) ISBN-assigned edited book E-chapter publication within 3 days after successful peer review, acceptance, and completion of publication formalities How to Submit Authors are requested to submit their manuscripts as a Microsoft Word (.doc/.docx) attachment via email to: Email: submissiontokypub@gmail.com For Queries and Communication WhatsApp (Text Messages Only): +91 88858 48005 Please Note: Voice calls are not accepted. Kindly communicate only through WhatsApp text messages for submission-related queries and updates. Suggested Themes Authors may submit chapters related to, but not limited to, the following areas: English Language Teaching (ELT) English Literature Comparative Literature Literary Theory and Criticism Linguistics Applied Linguistics Translation Studies Cultural Studies Postcolonial Literature Gender Studies Digital Humanities Discourse Analysis Language and Society Communication Studies Educational Technology Curriculum Development Language Assessment Second Language Acquisition Creative Writing Interdisciplinary Learning Artificial Intelligence in Language Education Digital Learning and Online Education Contemporary Literary Studies Inclusive Education Multilingual Education Language Policy Any other topic relevant to the theme of the book Submission Guidelines Authors should prepare their manuscript according to the following structure: Title Author(s) Name(s) Institutional Affiliation(s) Email Address(es) Abstract (Maximum 200 words) Keywords (3-5) Introduction Methodology (where applicable) Results/Analysis (if applicable) Discussion Conclusion References (APA 7th Edition) Formatting Guidelines Paper Size: A4 Length: Minimum 5 pages - Maximum 15 pages (including references) Font: Times New Roman Font Size: 12 pt Line Spacing: Double Citation Style: APA 7th Edition File Format: Microsoft Word (.doc/.docx) Review and Publication Double-blind peer review process Editorial decision communicated promptly E-Chapter publication within 3 days after successful review, acceptance, and completion of publication formalities Printed book published subsequently Originality Submitted chapters must be original, unpublished, and should not be under consideration for publication elsewhere. All submissions will be screened for plagiarism. Manuscripts with significant plagiarism will be rejected without review. Who Can Submit? We welcome contributions from: Faculty Members Professors Researchers Research Scholars Postgraduate Students Independent Scholars Professionals working in language, literature, education, and related interdisciplinary fields We warmly invite scholars and researchers to contribute to this interdisciplinary volume and become part of a collaborative academic initiative that promotes excellence in language, literature, and learning research.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Publication.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Communication, Pedagogy, Publication.",
       "publish": false
     },
     {
@@ -2995,6 +2995,34 @@
       "publish": true
     },
     {
+      "title": "Artificial/Ancestral: Black Theatre and the Question of AI",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/49711",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-04",
+      "eventDate": "2027-09-04",
+      "location": "· the Black Theatre Review",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "AI",
+        "Art / Media Practice",
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory",
+        "Pedagogy"
+      ],
+      "excerpt": "As artificial intelligence rapidly reshapes cultural, educational, and creative institutions, the field of Black theatre confronts a familiar set of questions in a newly technological register: Who creates knowledge, who benefits from it, who gets remembered, and whose labor remains obscured? Public conversations about AI often proceed as though these tec...",
+      "fullDescription": "As artificial intelligence rapidly reshapes cultural, educational, and creative institutions, the field of Black theatre confronts a familiar set of questions in a newly technological register: Who creates knowledge, who benefits from it, who gets remembered, and whose labor remains obscured? Public conversations about AI often proceed as though these technologies have arrived without history, entering an empty landscape awaiting innovation. Yet Black theatre has long grappled with questions of representation, embodiment, archives, intellectual inheritance, collective memory, labor, and futurity. Rather than asking simply what AI can do for Black theatre, this issue invites contributors to consider what Black theatre reveals about AI itself: its assumptions, limitations, aspirations, and consequences. Volume 4.2 of the Black Theatre Review seeks essays, interviews, case studies, pedagogical interventions, archival investigations, artist statements, and process reflections that place Black theatre and performance studies in critical conversation with artificial intelligence and related technologies. We are particularly interested in work that moves beyond questions of adoption, utility, or rejection toward deeper examinations of power, ethics, governance, memory, embodiment, and knowledge production. We welcome contributions from scholars, artists, archivists, educators, practitioners, dramaturgs, designers, and cultural workers whose engagement with these questions emerges from both theory and practice. The issue is organized around five interrelated areas of inquiry. These themes are offered not as rigid categories, but as points of departure for further investigation. Taken together, these areas encourage contributors to approach AI not simply as a technological development, but as a site through which questions of labor, memory, embodiment, governance, spirituality, and future-making can be reconsidered. AI, Labor and Extraction: The beneficiaries of AI systems, whose labor makes them possible and required forms of accountability when Black creative work becomes data. Possible points of investigation may include: The labor of artists whose knowledge underlies any AI-readable record and what ethical stewardship of that labor requires. Generative AI in dramaturgy, script analysis, and design workflows, and models of artist-led intentional integration. Archives, Memory, and Black Theatre Histories: How do AI systems shape, distort, recover, or fail to capture Black theatrical histories and modes of remembering? Possible points of investigation may include: Digitization and AI-training projects involving Black theatre collections and their assumptions about what counts as trainable data. AI-assisted archival misreadings, flattening, erasure, and historical distortion. Embodiment, Liveness, and Performance: What happens when embodied, communal, and improvisational performance practices encounter technologies built on prediction, simulation, and abstraction? Possible points of investigation may include: Case studies of AI in the classroom, rehearsal hall, or production process. The complementary offerings of embodied, ensemble-based theatre training to university-wide AI adoption. Relatedly, how do such offerings get recognized, funded, or institutionally protected? Ancestral Intelligence, Spiritual Knowledge, and Black Futures: Understanding AI as a knowledge system entering into conversation with much older Black diasporic traditions of intelligence, memory, and futurity Possible points of investigation may include: AI as ancestral intelligence, or Black diasporic traditions of pattern recognition, forecasting, memory, and knowledge transmission. How do Black diasporic understandings of knowledge, memory, inheritance, ritual, and collective survival shape the technological futures we imagine? Refusal, Governance, and Alternative Technological Practices: Forms of resistance, opacity, governance, and the possibilities of misuse Possible points of investigation may include: How Black artists are bending, breaking, or refusing AI against its intended use. Teaching against technological inevitability. Photograph, Visual Media, and Digital Project Documentation tBTR welcomes photographic, visual media, and digital project documentation that illuminates the intersections of Black theatre, performance, and artificial intelligence. We encourage submissions featuring productions, rehearsals, classroom projects, design processes, digital or hybrid performances, archival initiatives, community-based projects, and artistic experiments that engage the themes of this issue. Submissions may include production photography, design renderings, screenshots, interface documentation, archival images, process documentation, and other visual materials that help narrate how artists, scholars, educators, and institutions are critically engaging AI and related technologies. All submissions must include the project or production title, names and roles of key collaborators, location, creator and/or photographer credit, date, and a 2-3 sentence description explaining the work's relationship to the issue's focus on labor, archives, embodiment, pedagogy, artificial intelligence, ancestral knowledge, refusal, governance, or Black futures. Contributors are responsible for securing all necessary permissions and reproduction rights prior to submission. Please contact the managing editor for additional information. Book Reviews, Performance Reviews, and Notes from the Field, and Multimedia Works In addition to scholarly articles, tBTR seeks book reviews, performance reviews, multimedia works, illustrative case studies, and notes from the field that engage the intersections of Black theatre, performance, and artificial intelligence. We are particularly interested in contributions that document pedagogical experimentation, archival initiatives, institution-building efforts, production processes, dramaturgical and design practices, community engagement, and artist-led technological interventions. We also welcome reflections on the ethical, political, and aesthetic questions surrounding AI, including issues of labor, extraction, memory, embodiment, governance, ancestral intelligence, resistance, and alternative technological futures. Submission Guidelines The last date for submissions is September 4, 2026, at 11:59 p.m. EDT. Please refer to the tBTR website for specific article section guidelines. Manuscripts must be submitted in Microsoft Word using standard formatting (1-inch margins, double-spaced, single-column layout, and 12-point Times New Roman font). Please include an abstract and a 150-word author biography with your submission. All submissions must include footnotes and a bibliography and must fully comply with The Chicago Manual of Style (18th ed.), using the notes and bibliography system. Please do not use the author-date citation system or another style guide. Please upload your complete manuscript through the journal's online submission portal via the website. Early submissions will receive preference in the review and publication process.",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI, Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Seminars Available: 47th Annual Meeting of the International T. S. Eliot Society",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Graduate Conferences",
@@ -3135,6 +3163,31 @@
       "excerpt": "Plastic / Plasticity Literature and Culture and the Material of a (Bygone?) Era Plastic is a defining material of our era. Its properties—plasticity, durability, the ability to imitate any shape, its toxicity, and indecomposability—are also properties of contemporary culture and literature. The proposed thematic issue begins with the premise that plastic...",
       "fullDescription": "Plastic / Plasticity Literature and Culture and the Material of a (Bygone?) Era Plastic is a defining material of our era. Its properties—plasticity, durability, the ability to imitate any shape, its toxicity, and indecomposability—are also properties of contemporary culture and literature. The proposed thematic issue begins with the premise that plastic can be read simultaneously as a historical substance and as a \"theory machine\"—a tool for understanding cultural texts and the experience of contemporary times. \"My approach, in this paper, is one of thinking with plastic through its metaphoricity and materiality, its relationality and gestationality; in short, a material mediality.” [R. Gosh]",
       "relevance": "Automatically surfaced as a likely RCID fit across Theory, Publication.",
+      "publish": true
+    },
+    {
+      "title": "(CFP - Special Issue) Shakespeare Between Text, Stage, and Criticism: (im)permanences",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49686",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-10",
+      "eventDate": "2027-09-10",
+      "location": "N/A · Em Tese (ISSN 1982-0739)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Publication",
+        "Theory"
+      ],
+      "excerpt": "Free of taxes (No APC) - Open Access Journal Academic Journal: Em Tese (ISSN 1982-0739) OA Submission format: .doc or .docx, font 12, spacing 1,5, from 10 to 20 pages long. Submission guidelines : https://periodicos.ufmg.br/index.php/emt/about/submissions Journal homepage: https://periodicos.ufmg.br/index.php/emt/index Questions: lauraribaraujo@gmail.com...",
+      "fullDescription": "Free of taxes (No APC) - Open Access Journal Academic Journal: Em Tese (ISSN 1982-0739) OA Submission format: .doc or .docx, font 12, spacing 1,5, from 10 to 20 pages long. Submission guidelines : https://periodicos.ufmg.br/index.php/emt/about/submissions Journal homepage: https://periodicos.ufmg.br/index.php/emt/index Questions: lauraribaraujo@gmail.com This special edition will be published in 2027/01 More than four centuries after his death, William Shakespeare (1564-1616) remains one of the most widely read, translated, staged, and reinterpreted authors in the world. His work spans a multitude of media platforms and continues to spark fundamental debates about language, subjectivity, power, gender, history, and performativity. \"Our\" Shakespeare, as Terry Eagleton suggests, is not the same as that of his contemporaries, and it is precisely the processes of (re)reading and (re)writing that rearticulate his work and ensure its critical and interpretative survival. It is in this sense that this call for papers aims to gather artistic and academic contributions that expand the Shakespearean field of studies. We welcome article submissions that approach his poetic and dramatic production in its multiple facets; from classical to contemporary, including literary analysis, performance, staging and production of Shakespearean texts, issues of translation and adaptation, fan rewritings, comparative and linguistic studies, among other possibilities: Literary and poetic analysis of Shakespeare's works; Textual and editing studies; Literary translation processes; Critical reviews of the state of the art; Studies of the reception of dramatic and poetic works; Comparative readings; Theatre, performance and staging/production; Adaptations and rewritings, including cinematic, literary and intermedial versions of Shakespearean works in modern and post-colonial contexts; Fan studies and productions; Cultural and theoretical studies, including issues of gender, race, politics, ecocriticism, and post-humanism in Shakespeare's texts and receptions; Digital humanities and virtual contexts of the work; Teaching Shakespeare across different levels. For the Resenhas section, we invite submissions of texts that discuss works published in the last three years about the bard, including analyses of theoretical and artistic books and reissues. Up to 15 pages. For the Poéticas section, original artistic works may be submitted, such as texts, photographs, illustrations, stagings, videos, audios, poems, and short stories that engage with the central theme of the dossier, preferably accompanied by a brief introductory note (up to one page) situating the aesthetic gesture and its mediations. Up to 20 pages. Em Tese is a biannual electronic journal of the Postgraduate Program in Literary Studies at the Federal University of Minas Gerais (UFMG) in Brazil dedicated to disseminating productions and research in the areas of Literary Studies and Arts. In addition to the texts in the dossier, the journal accepts, on a continuous basis, unpublished texts that address the areas of Literary Theory, Brazilian Literature, Classical and Medieval Literatures, Modern Foreign Literatures, Literatures from the Anglophone world, and Comparative Literature.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
       "publish": true
     },
     {
@@ -3715,6 +3768,31 @@
       "publish": true
     },
     {
+      "title": "AI Revolution Summit - Malaysia",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49675",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-20",
+      "eventDate": "2026-09-22",
+      "location": "CROWNE PLAZA KUALA LUMPUR CITY CENTRE, MALAYSIA · Traiconevents pvt ltd",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 46,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Malaysia is emerging as a leader in Southeast Asia's digital transformation, driven by rapid advancements in AI technology and a strong focus on innovation-led growth. As industries evolve, the future of AI is becoming central to Malaysia's vision for smart manufacturing, digital trade, and inclusive economic development-paving the way for a smarter futur...",
+      "fullDescription": "Malaysia is emerging as a leader in Southeast Asia's digital transformation, driven by rapid advancements in AI technology and a strong focus on innovation-led growth. As industries evolve, the future of AI is becoming central to Malaysia's vision for smart manufacturing, digital trade, and inclusive economic development-paving the way for a smarter future with AI. This Summit stands as a premier AI summit, bringing together policymakers, enterprise leaders, and innovators from across the ecosystem. This world AI summit will gather over 200 + curated participants to explore how advanced AI are addressing critical national challenges and enabling the growth of next-generation industries. Through engaging keynote sessions, panel discussions, and product showcases, the event will highlight the latest trends in AI generative technologies, and sustainable AI solutions. Attendees will gain actionable insights into how technology and AI are reshaping business ecosystems, improving efficiency, and driving long-term growth.",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI, Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "The Chorus: Blackness, Visitation, and the Poetics of Enclosure (ACLA '27)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theory",
@@ -3736,6 +3814,30 @@
       "excerpt": "This virtual seminar takes its inspiration from Saidiya Hartman’s citation of the Greek etymology of the word chorus : “to dance within an enclosure.” For Hartman, the chorus also furnishes a paradigm for thinking—to play on Jean-Luc Nancy’s notion—Black (non)being singular plural. In Wayward Lives , Hartman suggests that any of the minor figures can stan...",
       "fullDescription": "This virtual seminar takes its inspiration from Saidiya Hartman’s citation of the Greek etymology of the word chorus : “to dance within an enclosure.” For Hartman, the chorus also furnishes a paradigm for thinking—to play on Jean-Luc Nancy’s notion—Black (non)being singular plural. In Wayward Lives , Hartman suggests that any of the minor figures can stand in for the others, not as a claim of homogeneity, but rather as a contention that their singularity can be read as paradigmatic of waywardness—in its queer heterogeneity—in general. The chorus of black femme and queer youth is thus at once a singular plurality and a plural singularity as they make beautifully riotous lives within the enclosure of social death.",
       "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "ACLA SEMINAR: Becoming Monster: Representation and Rights",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49688",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-22",
+      "eventDate": "2027-05-20",
+      "location": "Houston, Texas · ACLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "American Comparative Literature Association IN-PERSON 2027 Annual Meeting (May 20-23, 2027), Houston, Texas Organizers: Dr. Julia Chan (Lingnan University) Fatma Betul Ciftci (Lingnan University) One is not born a monster; the monster is produced. From Beowulf to Ruthven to Dracula to cyborgs, 'monster' is a cultural construction, a humanly-produced non-h...",
+      "fullDescription": "American Comparative Literature Association IN-PERSON 2027 Annual Meeting (May 20-23, 2027), Houston, Texas Organizers: Dr. Julia Chan (Lingnan University) Fatma Betul Ciftci (Lingnan University) One is not born a monster; the monster is produced. From Beowulf to Ruthven to Dracula to cyborgs, 'monster' is a cultural construction, a humanly-produced non-human. This seminar invites scholars to discuss the monster both as a literary figure and as the representation and construction of a cultural and political identity. Through this, it aims to explore the question of where, why, and how monsters are produced, and what these monsterized creatures \"show\" about the communities that \"produce\" them. The seminar discusses how theory, from Freud's \"the uncanny\" to Cohen's \"monster theory\" to Creed's \"monstrous feminine,\" can help us understand monsterization. The monsterized body is pushed outside the category of the \"human\" and thus outside the status of a rights-bearing subject. In this respect, monsterization begs the question of rights. This seminar aims to understand and make visible how the process which \"produces\" the Other as a monster, works in relation to rights. In Of Monsters and Migrants, Peter Arnds traces this process through Carl Schmitt's concepts of sovereignty and the \"state of exception\" and Agamben's biopolitics: to monsterize the migrant, the stranger, the refugee allows one to push them outside the protection of the law. As Arnds shows, the question of who - and what - monsterizes is therefore also the question of who is, or is not, recognized as a rights-bearing subject. The second focus of the seminar is the reclamation of the monster. Susan Stryker's \"My Words to Victor Frankenstein Above the Village of Chamounix\" identifies the trans body with Frankenstein's creature. It reverses the accusation of the \"unnatural,\" constructed body and transforms the words \"monster\" and \"creature\" into terms of power reclamation, self-representation, and resistance. The monster is not only a position produced by the powerful but also one that can be reclaimed by those who are monsterized. What else can we see in monsters beyond the gendered or racial Other? We encourage scholars working in different areas-literary studies, television, film and anime studies, law and human rights theory, postcolonial and critical race theory, queer and trans theory-to offer new definitions of, and reflections on, the category of the monster. We invite papers around the following questions: How does the monster negotiate who counts as \"human\" and who counts as a subject of human rights? What social, political, or legal aspects make a body a monster? What strategies do those who are monsterized use to reclaim their representations and rights? How do different media construct the relationship between monsters and rights? Submit your paper title and abstract through the ACLA submission portal on the ACLA website by September 22, 2026, and note that you must be logged in to see the \"Propose a Paper\" button. Link for the seminar: https://www.acla.org/seminar/43ce7d31-1cb1-46b8-a8a2-6d34614d1e5e",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -3800,7 +3902,11 @@
       "publishMode": "auto",
       "score": 46,
       "fields": [
-        "Rhetoric"
+        "Rhetoric",
+        "Interdisciplinary",
+        "Film / Media",
+        "Theory",
+        "Pedagogy"
       ],
       "excerpt": "National Advanced Writing Symposium (NAWS) 2027 - January 29, 2027 Please use the link, below, to find a full description of our CFP for \"Evolving Possibiilities: Futures of Advanced Writing.\" The event is entirely ONLINE and FREE to both speakers and attendees. Proposals are due Friday, September 25, 2026.",
       "fullDescription": "National Advanced Writing Symposium (NAWS) 2027 - January 29, 2027 Please use the link, below, to find a full description of our CFP for \"Evolving Possibiilities: Futures of Advanced Writing.\" The event is entirely ONLINE and FREE to both speakers and attendees. Proposals are due Friday, September 25, 2026.",
@@ -4630,33 +4736,6 @@
       "publish": true
     },
     {
-      "title": "Language Learning Beyond the Classroom: Virtual Exchanges, Platforms, and AI",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/49521",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI (Salve Regina University) · Northeast Modern Language Association (NeMLA)",
-      "status": "open",
-      "priority": "high",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "AI",
-        "Digital Humanities / Design",
-        "Pedagogy",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "TITLE: Language Learning Beyond the Classroom: Virtual Exchanges, Platforms, and AI MODALITY: Hybrid: The session will be held in-person but a few remote presentations may be included. CHAIRS: Liana Ewald (Massachusetts Institute of Technology), Dagmar Jaeger (Massachusetts Institute of Technology) ABSTRACT: This session explores the growing role of virtu...",
-      "fullDescription": "TITLE: Language Learning Beyond the Classroom: Virtual Exchanges, Platforms, and AI MODALITY: Hybrid: The session will be held in-person but a few remote presentations may be included. CHAIRS: Liana Ewald (Massachusetts Institute of Technology), Dagmar Jaeger (Massachusetts Institute of Technology) ABSTRACT: This session explores the growing role of virtual exchanges, commercial platforms, and AI-mediated interactions in language, literature, and culture courses. In recent years, many instructors have experimented with new ways of connecting students with speakers, authors, and communities beyond the classroom: Teletandem exchanges, Zoom conversations with writers and artists, commercial conversation platforms, and AI conversation partners. These exchanges can open up forms of communication and cultural contact that are difficult to create in a traditional classroom, especially for students who may not have access to study abroad or regular interaction with speakers from other linguistic and cultural contexts. At the same time, these tools raise important questions. What kinds of communities do these exchanges create? What changes when conversation becomes mediated through platforms or AI? How do students respond to the differences between speaking with another person and interacting with an AI system designed to simulate one? What happens when intercultural exchange becomes something organized and mediated by commercial companies, especially when those relationships may at times raise questions about inequality or exploitation? The session is especially interested in presentations grounded in classroom experience, as well as broader reflections on the pedagogical and theoretical questions raised by these forms of virtual and AI-mediated exchange. Possible topics include current and emerging forms of virtual exchange, AI-mediated interaction, commercial platforms, the changing relationship between human and technological forms of communication, and the pedagogical, cultural, and ethical questions these developments may raise in the years ahead. DESCRIPTION: This session explores the growing role of virtual exchanges, commercial platforms, and AI-mediated interaction in language, literature, and culture courses. It welcomes presentations on classroom experiences, emerging technologies, and the practical, cultural, and ethical questions these forms of exchange may raise.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, AI, Digital Humanities / Design, Pedagogy.",
-      "publish": true
-    },
-    {
       "title": "Embracing Inconvenience, Writing Resistance",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Rhetoric and Composition",
@@ -4761,7 +4840,7 @@
       "type": "Edited Collection",
       "deadlineType": "Submission",
       "deadline": "2026-09-30",
-      "eventDate": "2027-09-30",
+      "eventDate": "",
       "location": "Fernando Gabriel Pagnoni Berns",
       "status": "open",
       "priority": "medium",
@@ -5030,8 +5109,8 @@
       "publishMode": "auto",
       "score": 46,
       "fields": [
-        "Digital Humanities / Design",
         "Rhetoric",
+        "Digital Humanities / Design",
         "Pedagogy"
       ],
       "excerpt": "How do writing and general education programs create conditions for communities that empower themselves-sustaining, growing, and often exceeding their original design? This panel invites papers that examine collaborative relationships among students, near-peers, tutors, and faculty that form in and around writing instruction and beyond, with particular in...",
@@ -5372,6 +5451,31 @@
       "publish": true
     },
     {
+      "title": "Language Learning Beyond the Classroom: Virtual Exchanges, Platforms, and AI",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/49521",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI (Salve Regina University) · Northeast Modern Language Association (NeMLA)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Pedagogy"
+      ],
+      "excerpt": "TITLE: Language Learning Beyond the Classroom: Virtual Exchanges, Platforms, and AI MODALITY: Hybrid: The session will be held in-person but a few remote presentations may be included. CHAIRS: Liana Ewald (Massachusetts Institute of Technology), Dagmar Jaeger (Massachusetts Institute of Technology) ABSTRACT: This session explores the growing role of virtu...",
+      "fullDescription": "TITLE: Language Learning Beyond the Classroom: Virtual Exchanges, Platforms, and AI MODALITY: Hybrid: The session will be held in-person but a few remote presentations may be included. CHAIRS: Liana Ewald (Massachusetts Institute of Technology), Dagmar Jaeger (Massachusetts Institute of Technology) ABSTRACT: This session explores the growing role of virtual exchanges, commercial platforms, and AI-mediated interactions in language, literature, and culture courses. In recent years, many instructors have experimented with new ways of connecting students with speakers, authors, and communities beyond the classroom: Teletandem exchanges, Zoom conversations with writers and artists, commercial conversation platforms, and AI conversation partners. These exchanges can open up forms of communication and cultural contact that are difficult to create in a traditional classroom, especially for students who may not have access to study abroad or regular interaction with speakers from other linguistic and cultural contexts. At the same time, these tools raise important questions. What kinds of communities do these exchanges create? What changes when conversation becomes mediated through platforms or AI? How do students respond to the differences between speaking with another person and interacting with an AI system designed to simulate one? What happens when intercultural exchange becomes something organized and mediated by commercial companies, especially when those relationships may at times raise questions about inequality or exploitation? The session is especially interested in presentations grounded in classroom experience, as well as broader reflections on the pedagogical and theoretical questions raised by these forms of virtual and AI-mediated exchange. Possible topics include current and emerging forms of virtual exchange, AI-mediated interaction, commercial platforms, the changing relationship between human and technological forms of communication, and the pedagogical, cultural, and ethical questions these developments may raise in the years ahead. DESCRIPTION: This session explores the growing role of virtual exchanges, commercial platforms, and AI-mediated interaction in language, literature, and culture courses. It welcomes presentations on classroom experiences, emerging technologies, and the practical, cultural, and ethical questions these forms of exchange may raise.",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI, Digital Humanities / Design, Pedagogy.",
+      "publish": true
+    },
+    {
       "title": "Oral Community Knowledge as Antidote for Empire in Anglophone Literature",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
@@ -5450,7 +5554,7 @@
       "type": "Conference CFP",
       "deadlineType": "Submission",
       "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
+      "eventDate": "",
       "location": "Northeast Modern Language Association (NeMLA)",
       "status": "open",
       "priority": "medium",
@@ -5626,8 +5730,6 @@
       "score": 34,
       "fields": [
         "Digital Humanities / Design",
-        "Film / Media",
-        "Theory",
         "Pedagogy"
       ],
       "excerpt": "Esta sess&atilde;o explora como comunidades historicamente marginalizadas pelo colonialismo, racismo, desigualdade e exclus&atilde;o epist&ecirc;mica mobilizam a educaç&atilde;o, a cultura, a l&iacute;ngua, a mem&oacute;ria e a aç&atilde;o coletiva como formas de empoderamento e transformaç&atilde;o social. Fundamentada no pensamento decolonial e em abord...",
@@ -5706,53 +5808,6 @@
       "publish": true
     },
     {
-      "title": "Subtle Performances of the Body: Female Agency and Autonomy in Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/49276",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Rhode Island · NEMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "How do female characters employ their bodies to navigate, process, and challenge the cultural and socioeconomic structures of their times? Under the antagonistic system where the pursuit of \"good life\" is no longer plausible, how do women across different cultures, historical periods, and geopolitical contexts respond by utilizing their bodily autonomy an...",
-      "fullDescription": "How do female characters employ their bodies to navigate, process, and challenge the cultural and socioeconomic structures of their times? Under the antagonistic system where the pursuit of \"good life\" is no longer plausible, how do women across different cultures, historical periods, and geopolitical contexts respond by utilizing their bodily autonomy and agency? This panel invites papers that critically investigate female bodily representation in the context of empowerment and change. In particular, this panel is interested in literary analyses that focus on the subtle yet tangible (dis)orientation of female bodies in and out of public spaces. Gestures, clothing, behavior, decorum, and adherence to social respectability are tactical ways in which female characters maneuver the contours of their precarious belonging to the surrounding environment. We welcome papers that extend the existing scholarship on female agency and bodily autonomy as a crucial means of cultural transformation. This (in-person) panel invites papers that critically investigate female bodily representation in the context of empowerment and change. In particular, this panel is interested in literary analyses that focus on the subtle yet tangible (dis)orientation of female bodies in and out of public spaces. https://cfplist.com/nemla/ Home/S/22387",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "\"Why Am I Reading This?\" Finding Literary Relevance",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/49273",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy"
-      ],
-      "excerpt": "If you've taught older literature recently, you've probably heard students ask the question \"Why am I reading this?\" They've got a point. Why should we read Shakespeare's plays, or Paradise Lost , or (god-forbid) \"The Rape of the Lock\"? We might be able to coax students into reading a Jane Austen novel or even Huckleberry Finn because they are still part...",
-      "fullDescription": "If you've taught older literature recently, you've probably heard students ask the question \"Why am I reading this?\" They've got a point. Why should we read Shakespeare's plays, or Paradise Lost , or (god-forbid) \"The Rape of the Lock\"? We might be able to coax students into reading a Jane Austen novel or even Huckleberry Finn because they are still part of our cultural imagination, but it's less easy to coax students into reading Beowulf or Tom Jones -texts that are less familiar in form and content. As we jettison the canon and the timeless truths of literature, what do we expect reading older texts will give our students that they wouldn't otherwise understand? How do we explain our reasoning to students about why they should read texts from earlier literary periods? How do we present these earlier periods (or periodization) and their culture and ideas as relevant to our undergraduate students in our English, writing, or humanities programs? Or is relevance the problem? How might we redefine older literature in our classes, or what we (can) do with these texts? I'm particularly interested in position papers that take into consideration practical pedagogical and theoretical concerns: arguments about curricula, course development or assignments that do different things with this literature. Papers are welcome on any kind of literature/texts or periods prior to 1800.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "The Classroom as Counter-Archive: Place-Based Pedagogies of Community Empowerment",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
@@ -5776,30 +5831,6 @@
       "excerpt": "Education is an ideal means of empowerment, for it enables students to take ownership of the historical and personal archives that stand for their communities. This panel regards the classroom as a privileged site of such empowerment-particularly for students from immigrant families-and seeks proposals on how to equip them to become active agents in produ...",
       "fullDescription": "Education is an ideal means of empowerment, for it enables students to take ownership of the historical and personal archives that stand for their communities. This panel regards the classroom as a privileged site of such empowerment-particularly for students from immigrant families-and seeks proposals on how to equip them to become active agents in producing their own interpretations of the cultural and spatial memory they share with their forebears. We draw inspiration from courses in which students articulate their personal, familial, and communal relationships with the tangible and intangible spaces of the city they inhabit: from their own homes to the streets they traverse daily, the buildings, neighborhoods, and monuments they encounter, and the individual and social practices that animate them. Setting their lived experience against the historical archives that purport to represent them, students produce analytical descriptions of urban space. Their work collectively assembles a shared repository of cultural memory - a \"counter-archive\" that weaves together place-based learning, immigration histories, and autobiographical narrative. In classrooms of diverse composition, this work empowers along more than one path. Immigrant students illuminate the place of their communities within the urban social fabric, while others discover-in their own projects and in those of their classmates-insights that transform how they perceive the city and their own identities in relation to it. We invite educators across languages, periods, and disciplines to share pedagogical projects and activities-assignments, archives, community-engaged work, digital repositories, creative and testimonial writing-that treat teaching as a practice of empowerment. We especially welcome contributions that reflect on the theory of change behind their work: when does a classroom project produce agency, and how do we know?",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Pedagogy, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Educação, Meio Ambiente e Transformação Social",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/49536",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI · Northeast Modern Language Association (NeMLA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "As transformaç&otilde;es ambientais, sociais e pol&iacute;ticas das &uacute;ltimas décadas t&ecirc;m intensificado os debates sobre o papel das pol&iacute;ticas p&uacute;blicas, da educaç&atilde;o e das comunidades na construç&atilde;o de sociedades mais sustent&aacute;veis, democr&aacute;ticas e socialmente inclusivas. Em di&aacute;logo com o tema da con...",
-      "fullDescription": "As transformaç&otilde;es ambientais, sociais e pol&iacute;ticas das &uacute;ltimas décadas t&ecirc;m intensificado os debates sobre o papel das pol&iacute;ticas p&uacute;blicas, da educaç&atilde;o e das comunidades na construç&atilde;o de sociedades mais sustent&aacute;veis, democr&aacute;ticas e socialmente inclusivas. Em di&aacute;logo com o tema da convenç&atilde;o, Empowering Communities, este painel prop&otilde;e discutir como pol&iacute;ticas educacionais e ambientais podem fortalecer processos de participaç&atilde;o social, cidadania e aç&atilde;o coletiva diante dos desafios ambientais contempor&acirc;neos. O painel re&uacute;ne pesquisas que analisam as relaç&otilde;es entre educaç&atilde;o, sustentabilidade, governança ambiental e participaç&atilde;o comunit&aacute;ria em diferentes contextos sociais, pol&iacute;ticos e culturais. Busca-se compreender de que maneira instituiç&otilde;es educacionais, comunidades locais, movimentos sociais e atores p&uacute;blicos participam da formulaç&atilde;o, implementaç&atilde;o e transformaç&atilde;o de pol&iacute;ticas voltadas &agrave; sustentabilidade, &agrave; justiça ambiental e ao desenvolvimento social. A proposta acolhe contribuiç&otilde;es te&oacute;ricas e emp&iacute;ricas que discutam temas relacionados &agrave; educaç&atilde;o ambiental, mudanças clim&aacute;ticas, desenvolvimento sustent&aacute;vel, pol&iacute;ticas ambientais, gest&atilde;o de recursos naturais, cidadania ecol&oacute;gica, participaç&atilde;o social, governança ambiental e experi&ecirc;ncias comunit&aacute;rias de transformaç&atilde;o social. Também s&atilde;o bem-vindas pesquisas que reflitam sobre os impactos das desigualdades sociais e territoriais nos processos ambientais e nas pol&iacute;ticas p&uacute;blicas, especialmente em contextos marcados por vulnerabilidades sociais, desafios institucionais e disputas em torno do desenvolvimento e do acesso aos recursos naturais. Ao promover um di&aacute;logo interdisciplinar, este painel busca ampliar as reflex&otilde;es sobre os desafios contempor&acirc;neos da sustentabilidade e sobre o papel das comunidades na construç&atilde;o de alternativas mais democr&aacute;ticas, inclusivas e ambientalmente respons&aacute;veis. A proposta incentiva contribuiç&otilde;es das &aacute;reas de pol&iacute;ticas p&uacute;blicas, educaç&atilde;o, ci&ecirc;ncia pol&iacute;tica, sociologia, estudos ambientais, geografia, antropologia e campos afins interessados nas relaç&otilde;es entre sociedade, meio ambiente e transformaç&atilde;o social.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -6218,6 +6249,29 @@
       "publish": false
     },
     {
+      "title": "\"Why Am I Reading This?\" Finding Literary Relevance",
+      "source": "CFPList",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/49273",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI · NeMLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Pedagogy"
+      ],
+      "excerpt": "If you've taught older literature recently, you've probably heard students ask the question \"Why am I reading this?\" They've got a point. Why should we read Shakespeare's plays, or Paradise Lost , or (god-forbid) \"The Rape of the Lock\"? We might be able to coax students into reading a Jane Austen novel or even Huckleberry Finn because they are still part...",
+      "fullDescription": "If you've taught older literature recently, you've probably heard students ask the question \"Why am I reading this?\" They've got a point. Why should we read Shakespeare's plays, or Paradise Lost , or (god-forbid) \"The Rape of the Lock\"? We might be able to coax students into reading a Jane Austen novel or even Huckleberry Finn because they are still part of our cultural imagination, but it's less easy to coax students into reading Beowulf or Tom Jones -texts that are less familiar in form and content. As we jettison the canon and the timeless truths of literature, what do we expect reading older texts will give our students that they wouldn't otherwise understand? How do we explain our reasoning to students about why they should read texts from earlier literary periods? How do we present these earlier periods (or periodization) and their culture and ideas as relevant to our undergraduate students in our English, writing, or humanities programs? Or is relevance the problem? How might we redefine older literature in our classes, or what we (can) do with these texts? I'm particularly interested in position papers that take into consideration practical pedagogical and theoretical concerns: arguments about curricula, course development or assignments that do different things with this literature. Papers are welcome on any kind of literature/texts or periods prior to 1800.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
+      "publish": false
+    },
+    {
       "title": "II International Congress of Videogames, Virtual Environments and Interactive Creation",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -6601,7 +6655,6 @@
       "publishMode": "auto",
       "score": 42,
       "fields": [
-        "Interdisciplinary",
         "Digital Humanities / Design"
       ],
       "excerpt": "38th Annual Marjorie Kinnan Rawlings Conference Gainesville, Florida May 7-8, 2027 Call for Papers The Marjorie Kinnan Rawlings Society, an organization of over 200 members worldwide, invites paper proposals on topics related to Rawlings's life and works. Topics might include the following: Rawlings and Modernism Rawlings and other authors - and her place...",
@@ -6632,6 +6685,31 @@
       "excerpt": "\"That Sounds Funny\": CFP for ALA \"Music and the American Literary Imagination\" symposium The American Humor Studies Association (AHSA) invites submissions for a proposed panel for the American Literature Association (ALA) 2027 symposium \"Music and the American Literary Imagination,\" to be held January 28-30, 2027, in Nashville, TN. For hundreds of years,...",
       "fullDescription": "\"That Sounds Funny\": CFP for ALA \"Music and the American Literary Imagination\" symposium The American Humor Studies Association (AHSA) invites submissions for a proposed panel for the American Literature Association (ALA) 2027 symposium \"Music and the American Literary Imagination,\" to be held January 28-30, 2027, in Nashville, TN. For hundreds of years, humor has been an indelible element of American popular music as well as literature. This AHSA-sponsored, non-guaranteed panel seeks proposals that consider the connections between American humor, American music, and American literature. We invite submissions on any genre, period, or place, including papers that explore the fuzzy boundaries of what it means to be \"American.\" We are especially interested in presentations that examine humor practices in the American South; for example, proposals might consider the use of humor in Southern rap, children's author Shel Silverstein's role in shaping the \"outlaw country\" sound, or the recent rise of right-wing \"humorists\" in Nashville. Together, the presentations constituting this panel will explore the pitfalls and possibilities of the imbrication of music, humor, and American literary culture. Please send a 250-word abstract and a brief biography by October 15, 2026, to AHSA Vice President Benjamin Schwartz at bs8959@princeton.edu. All panel participants must be AHSA members before the ALA conference opens on January 28, 2027. The Constance Rourke travel award is available for graduate students on a panel. The award varies between $100 - $300 (depending on AHSA funds and the number of applicants) to help defray the cost of attending conferences with AHSA-sponsored panels. We also remind everyone that AHSA has in place a mentoring program to help emerging scholars prepare an essay for publication. Presenting at ALA can be the first step to being published.",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
+      "title": "European Comic Art Special Issue",
+      "source": "CFPList",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/49674",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-15",
+      "eventDate": "2027-02-28",
+      "location": "N/A · European Comic Art",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Pedagogy",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "European Comic Art Special Issue 'Francophone Graphic Narratives / Bande dessinée: Authority and Resistance' European Comic Art invites proposals for a special issue on 'Francophone Graphic Narratives/Bande dessinée: Authority and Resistance'. This issue will examine how francophone graphic narratives engage with, challenge, and reimagine authority in its...",
+      "fullDescription": "European Comic Art Special Issue 'Francophone Graphic Narratives / Bande dessinée: Authority and Resistance' European Comic Art invites proposals for a special issue on 'Francophone Graphic Narratives/Bande dessinée: Authority and Resistance'. This issue will examine how francophone graphic narratives engage with, challenge, and reimagine authority in its many forms - political, cultural, institutional, and aesthetic - and how they forge practices of resistance and dissent. The bande dessinée is a medium that subverts hierarchies and blurs boundaries. Long regarded as the lowly offspring of literature and the visual arts, comics have since been legitimised by scholars and artists demonstrating their capacity to engage with complex sociohistorical, political, and cultural topics. This 'Ninth Art' now occupies an increasingly important place in university classrooms, academic publications, and public discourse alike. Its multimodal features - panel layout, gutters, framing, braiding, and complex interplay between text and image - allow comics to stage and challenge authority in formally distinctive ways. This aesthetic vantage point makes comics a powerful medium through which to bring displaced, excluded, and silenced narratives into view. From Chantal Montellier's impressive four-decade oeuvre of political cartoons and graphic novels contesting racism, misogyny and totalitarianism to Jessica Oublié's Peyi an nou , which provides a counternarrative to state discourse on the BUMIDOM, the bande dessinée has often served to undercut official rhetoric. This special issue of European Comic Art seeks articles that examine how Francophone bandes dessinées engage with dominant institutions and discourses from theoretical and pedagogical perspectives. How do comics represent power and powerlessness? How do they respond to hierarchies that exist in various settings and communities? How do they decentre and challenge 'standard' language practices? Finally, how might comics be used pedagogically to help foster students' critical thinking skills and question institutional, political, and social discourses? Possible topics include, but are not limited to: Migration Ecocriticism Social justice and political activism Gender and sexuality Comics and memory studies Class, labour, and economic inequality Pedagogy and second language acquisition Nationalism, cosmopolitanism, and globalization Colonial legacies, decolonial resistance/critique Monolingualism, multilingualism, and language politics Official histories, counter archives, and silenced narratives Humour, parody, satire, and subversion Submission Guidelines Please submit a 500-word abstract with a short biographical note to Liana Pshevorska at lpshevorska@wesleyan.edu and Valentina Denzel at vdenzel@msu.edu by October 15, 2026. Informal inquiries are welcome. Decisions will be communicated in November 2026. The deadline for submitting full manuscripts is February 28, 2027. Articles should be in English, approximately 8,000 words, including images, notes, and bibliography. Contributors may include up to four images, which will be factored into the overall length of the article. Each image will be counted as approximately three-quarters of a printed page, based on an estimate 400 words per page. Please note that authors are responsible for obtaining copyright permission for all included images. Documentation of permissions should be submitted alongside the manuscript.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -7405,29 +7483,6 @@
       "publish": true
     },
     {
-      "title": "Girlboss and Puzzle-Boy: Gender in the Comic Detective TV Genre",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/49547",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-01",
-      "eventDate": "2027-12-01",
-      "location": "N/A",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "Working Title: Girlboss and Puzzle-Boy: Gender in the Comic Detective TV Genre Series: DeGruyter Brill book series, Pop Culture in Context, series editors Liz Faber, Emily Hamilton-Honey & Judith Rauscher! Editor: Dr. Marc A. Ouellette, Old Dominion University (mouellet@odu.edu) Project Overview and Rationale We often think of the police procedural as a v...",
-      "fullDescription": "Working Title: Girlboss and Puzzle-Boy: Gender in the Comic Detective TV Genre Series: DeGruyter Brill book series, Pop Culture in Context, series editors Liz Faber, Emily Hamilton-Honey & Judith Rauscher! Editor: Dr. Marc A. Ouellette, Old Dominion University (mouellet@odu.edu) Project Overview and Rationale We often think of the police procedural as a very serious genre with rigid constraints, particularly in terms of gender, heroism, morality, character types, \"pulled from the headlines\" stories, and a heavy dose of forensic evidence. This edited collection, critically examines the rise of the comic variant of the detective genre and with it, the revision of the gender order in terms of physicality, puzzle-solving, and the emotional labor required to support the star. The more recent development of the hybrid comic-detective show, from the long-running Death in Paradise and The Brokenwood Mysteries, The Miss Fisher Mysteries, to newer breakout hits like Deadloch, Professor T, The Chelsea Detective, Death Valley, and Ludwig, makes several important interventions, making the genre a riddle and puzzle-based \"whodunnit.\" In this edited collection, we seek to examine what makes this genre an international and cross-cultural phenomenon. In particular, these shows and similar offerings from competitors, refigure the detective from being deceivingly and deliberately inept as a manipulative ploy into an actually bumbling, frequently helpless, and always awkward figure who routinely needs saving and protection, especially from women who perform more heroic roles in addition to their own detective skills. Of further interest is the fact that many of these productions are popular in countries other than the one(s) in which they are set, and others (Miss Fisher and Professor T) are adaptations, and all are available on local and streaming services. Thus, we welcome proposals addressing a wide array of topics across media, genre, and nationalities. The book welcomes scholars from interdisciplinary fields, including media and popular culture, gender studies, television studies, cultural studies, and genre studies, to contribute to a study of the evolution of the television detective genre in a post-Sherlock Holmes, post-CSI, post-truth era, where the focus has shifted from the detective's profound heroism to a relatable, if frustrating, human fallibility. Moving beyond the traditional heroic masculinity of earlier police procedurals, this collection argues that this new detective figure is not a profound hero, but rather a savant whose primary skill is a highly specialized form of diagnostic logic and pattern recognition. His surrounding female colleagues-often a single female superior, a team of women, or a female romantic lead-serve as his emotional and social interpreters, managing his relationships, smoothing over his eccentricities, and providing the patient, holistic perspective that he lacks. This dynamic reconfigures the procedural form, creating a hybrid genre that marries the intricate plotting of the police procedural with the interpersonal humor of a character-driven comedy. Graduate students and emerging researchers are especially welcome in this process! Topics might include, but are not limited to · Reflections of contemporary anxieties about gender, social competence, and labor. · Individual case studies of series or episodes (including but not limited to those listed above) · American exceptionalism, responses, and adaptations · Space and place in the genre, including the small town or neighborhood trope · Literary Adaptation and/or cross-cultural adaptation · Defining the comic-detective genre · Comparative considerations of The Residence (and others) among the genre · Historical patterns in the genre · Gender performances and gender tropes · Heroism, femininities, and the role of wise women · Fragile, anxious masculinities and the \"prestige male\" · The quirky best friend (or relative) trope · Racial diversity (or lack thereof) among main characters · Puzzles, games, riddles and the genre · The therapeutic aspects of solving the case · Heteronormativity and/or queer romance · Celebrity casting and fan studies · Social blindspots and the value of the team · Nostalgia and tradition · From deductive hero to puzzle-solving Sisyphus and the post-heroic detective · the regional and cultural variations of the awkward detective archetype. · the aesthetics of awkwardness and formal analysis of camera work, editing, and sound design to create comedic moments from social gaffes. We invite scholars from multiple disciplines to submit abstracts (300-500 words) by 1 Dec. 2026, with completed papers due 31 May 2027. Please send abstracts and inquiries to mouellet@odu.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Public Humanities Projects",
       "source": "NEH",
       "sourceName": "National Endowment for the Humanities Grants",
@@ -7810,29 +7865,6 @@
       "fullDescription": "How is everyone doing? At a routine meeting of the Editorial Board of this journal in March 2026, this innocuous question erupted into disquiet, tension, unease. Speaking from vastly different parts of the world, there was an unmistakable sense of a planet slipping beyond available comprehension and unplugging us from work and life routines. As wars in the Middle East expand and fires spread from apartment blocks reduced to rubble to bombed oil refineries and shipping corridors, profound geopolitical, personal, even psychic rifts leave us grasping for the language and feel of the moment, the falling apart of things, the zeitgeist of an endangered now.",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
       "publish": true
-    },
-    {
-      "title": "Call for Proposals, Entries for a Handbook on the Politics of Neurodiversity",
-      "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
-      "sourceUrl": "https://www.cfplist.com/CFP/49517",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-01",
-      "eventDate": "2028-01-01",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 20,
-      "fields": [
-        "Theory"
-      ],
-      "excerpt": "Editors: Dana Lee Baker and Matthew Mendez Garcia Publisher: Edward Elger Publishing Submission deadline for abstracts: 1 January 2027 We invite proposals for entries in an edited academic handbook on the politics of neurodiversity. This volume will bring together interdisciplinary perspectives on neurodiversity as a political, cultural, institutional, le...",
-      "fullDescription": "Editors: Dana Lee Baker and Matthew Mendez Garcia Publisher: Edward Elger Publishing Submission deadline for abstracts: 1 January 2027 We invite proposals for entries in an edited academic handbook on the politics of neurodiversity. This volume will bring together interdisciplinary perspectives on neurodiversity as a political, cultural, institutional, legal, and epistemic phenomenon. The handbook seeks to advance critical scholarship on how neurodivergence is governed, represented, contested, institutionalized, commodified, resisted, and politicized across local, national, and global contexts. We welcome contributions from scholars across the humanities and social sciences, as well as practitioner-scholars, activists, and community-based researchers. We are especially interested in contributions that situate neurodiversity within broader debates concerning disability politics, citizenship, identity, labor, education, race, gender, capitalism, biopolitics, medicalization, technology, and social movements. The handbook aims to foster dialogue across disciplines and perspectives. We particularly encourage submissions from: Neurodivergent scholars Early-career researchers Disabled and scholar-activist contributors Contributors outside North America and Western Europe Interdisciplinary and collaborative teams We welcome theoretical, empirical, historical, normative, and methodological approaches. Example Topics Include (but are not limited to) · Neurodiversity & Progressivism · Neurodiversity & Liberalism · Neurodiversity & Socialism · Neurodiversity & Conservatism · Extremism, hate, and neurodiversity · Feminist neuroinclusion · Neurodiversity & class power · Neurodiversity, Faith, and Politics · Political Histories of Neurodiversity in Nations other than the United States · Neurodiversity and the politics of aging · Profiles of specific activist/advocacy groups · Black neurodivergence · Neurodiversity in International Politics · Positive Rights to Neuroinclusion · Neurodiversity, Gender, and Sexuality · Neurodiversity and Public Sector Employment · Neurodiversity and Public Sector Ethics Contribution Format We envision concise, accessible, and analytically rigorous entries suitable for scholars, students, practitioners, and policymakers. Proposals should include: A title An abstract of approximately 250-500 words A brief author biography (100-150 words) Completed entries be approximately 3000 words, inclusive of bibliography and figures. Entries must meet requirements of European Accessibility Act. Entry authors must not use AI to generate text or enter their drafts into an AI system. Submission Information Please send proposals and inquiries to: dana.baker@csuci.edu Deadline for abstracts: 1 January 2027 Notification of acceptance: 15 February 2027 Draft chapters due: 15 August 2027",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
-      "publish": false
     },
     {
       "title": "JMMLA CFP Spring 2027: Computation, Interdisciplinarity, and the Humanities",
