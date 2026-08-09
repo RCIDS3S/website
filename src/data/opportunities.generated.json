@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -36,7 +36,7 @@
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 15
+      "count": 14
     },
     {
       "source": "UPenn CFP: Cultural Studies",
@@ -99,16 +99,16 @@
       "count": 4
     },
     {
+      "source": "CFPList: Philosophy",
+      "count": 4
+    },
+    {
       "source": "UPenn CFP: Popular Culture",
       "count": 4
     },
     {
       "source": "CLIR Programs and Grants",
       "count": 4
-    },
-    {
-      "source": "CFPList",
-      "count": 3
     },
     {
       "source": "UPenn CFP: Science and Culture",
@@ -123,15 +123,15 @@
       "count": 3
     },
     {
-      "source": "CFPList: Philosophy",
-      "count": 2
-    },
-    {
       "source": "UPenn CFP: Professional Topics",
       "count": 2
     },
     {
       "source": "UPenn CFP: Awards",
+      "count": 1
+    },
+    {
+      "source": "CFPList",
       "count": 1
     },
     {
@@ -159,7 +159,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -183,7 +183,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2027-07-31",
       "location": "CFPList",
       "status": "open",
@@ -207,7 +207,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49000",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-09-28",
       "location": "University of Zululand, Ongoye, KwaZulu-Natal, South Africa · University of Zululand",
       "status": "open",
@@ -231,7 +231,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -254,7 +254,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -278,7 +278,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -302,7 +302,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49685",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2027-06-03",
       "location": "Winchester, Hampshire, UK · Lived Perspectives CIC/University of Winchester",
       "status": "open",
@@ -325,7 +325,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -343,37 +343,13 @@
       "publish": true
     },
     {
-      "title": "PAMLA 2026 The Picaro and Picaresque Fiction",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/49571",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
-      "eventDate": "2026-11-11",
-      "location": "Seattle, WA · PAMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Abstract: This panel explores variations on the theme of the picaro from its sixteenth-century Spanish origins to the present day. Examinations of the picaro's origins and of more recent variations on the theme may also be presented. Some papers may explore considerations of picaros across various time periods and cultural contexts, with the intention to...",
-      "fullDescription": "Abstract: This panel explores variations on the theme of the picaro from its sixteenth-century Spanish origins to the present day. Examinations of the picaro's origins and of more recent variations on the theme may also be presented. Some papers may explore considerations of picaros across various time periods and cultural contexts, with the intention to explore the question of what this recurring impish rapscallion has to offer readers in different political and historical contexts. Description: Acquiring a name and distinct identity in the 1554 narrative Lazarillo de Tormes, the picaro had many precursors in Roman and Slavic folk traditions and even links to the trickster gods of various polytheistic faiths. The emergence of this young outsider as a figure in the mid-sixteenth century coincided with radical innovations in narrative form anticipating Cervantes's Don Quixote, which was published in 1605. And, of course, as prose narrative and travel narrative traditions evolved from this point forward, the picaro kept cropping up in overt and subtle incarnations, a figure who could be both an object of derision and derider of others, often simultaneously. This panel welcomes examinations of the picaro's origins and more recent variations on the theme. It will pay particular attention to challenging and creative arguments for how the picaro may present itself as a present-day figure. We seek considerations of picaros across various time periods and cultural contexts in topics such as: · Trickster-god picaros in religious traditions and folklore · Reconsiderations of Lazarillo de Tormes · Childhood and mischief-making · Picaresque and travel narratives · Picaresque and the Bildungsroman · Picaro and political satire · Picaro and gender · And, other topics along these lines",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Narrating the Self Today: Contemporary Directions in Biography, Memoir, and Life Writing",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -396,7 +372,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -419,7 +395,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -437,13 +413,36 @@
       "publish": false
     },
     {
+      "title": "PAMLA 2026 The Picaro and Picaresque Fiction",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/49571",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-08-09",
+      "eventDate": "2026-11-11",
+      "location": "Seattle, WA · PAMLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Theory"
+      ],
+      "excerpt": "Abstract: This panel explores variations on the theme of the picaro from its sixteenth-century Spanish origins to the present day. Examinations of the picaro's origins and of more recent variations on the theme may also be presented. Some papers may explore considerations of picaros across various time periods and cultural contexts, with the intention to...",
+      "fullDescription": "Abstract: This panel explores variations on the theme of the picaro from its sixteenth-century Spanish origins to the present day. Examinations of the picaro's origins and of more recent variations on the theme may also be presented. Some papers may explore considerations of picaros across various time periods and cultural contexts, with the intention to explore the question of what this recurring impish rapscallion has to offer readers in different political and historical contexts. Description: Acquiring a name and distinct identity in the 1554 narrative Lazarillo de Tormes, the picaro had many precursors in Roman and Slavic folk traditions and even links to the trickster gods of various polytheistic faiths. The emergence of this young outsider as a figure in the mid-sixteenth century coincided with radical innovations in narrative form anticipating Cervantes's Don Quixote, which was published in 1605. And, of course, as prose narrative and travel narrative traditions evolved from this point forward, the picaro kept cropping up in overt and subtle incarnations, a figure who could be both an object of derision and derider of others, often simultaneously. This panel welcomes examinations of the picaro's origins and more recent variations on the theme. It will pay particular attention to challenging and creative arguments for how the picaro may present itself as a present-day figure. We seek considerations of picaros across various time periods and cultural contexts in topics such as: · Trickster-god picaros in religious traditions and folklore · Reconsiderations of Lazarillo de Tormes · Childhood and mischief-making · Picaresque and travel narratives · Picaresque and the Bildungsroman · Picaro and political satire · Picaro and gender · And, other topics along these lines",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
+      "publish": false
+    },
+    {
       "title": "Of Pods and Pages: Rare Books and the Human-Insect/Human-Mollusk Relationship",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -466,7 +465,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -489,7 +488,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47638",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-12",
       "location": "Seattle, Washington · Pacific Ancient and Modern Language Association (PAMLA)",
       "status": "open",
@@ -512,7 +511,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -535,7 +534,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -558,7 +557,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-08",
+      "deadline": "2026-08-09",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -1257,7 +1256,7 @@
       "type": "Grant / Fellowship",
       "deadlineType": "Submission",
       "deadline": "2026-08-17",
-      "eventDate": "2027-08-17",
+      "eventDate": "",
       "location": "Dr. Shubhanku Kochar & Dr. Shehnaz Kabir",
       "status": "open",
       "priority": "low",
@@ -1266,8 +1265,7 @@
       "score": 32,
       "fields": [
         "Publication",
-        "Funding",
-        "Theory"
+        "Funding"
       ],
       "excerpt": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces...",
       "fullDescription": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces of radical rebirth and enduring kinship.",
@@ -1565,29 +1563,6 @@
       "publish": true
     },
     {
-      "title": "Fintech Revolution Summit - Singapore",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/49639",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-24",
-      "eventDate": "2026-08-26",
-      "location": "442 Orchard Rd, Singapore 238879 · Traiconevents pvt ltd",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "The Fintech Revolution Summit - Singapore brings together leaders from banking and financial services, regulators, investors, and fintech innovators to explore how digital innovation is transforming the financial ecosystem across Asia-Pacific. Positioned as a leading global financial centre, Singapore continues to drive fintech growth through strong regul...",
-      "fullDescription": "The Fintech Revolution Summit - Singapore brings together leaders from banking and financial services, regulators, investors, and fintech innovators to explore how digital innovation is transforming the financial ecosystem across Asia-Pacific. Positioned as a leading global financial centre, Singapore continues to drive fintech growth through strong regulatory support, advanced infrastructure, and a thriving innovation ecosystem. The summit will spotlight Singapore's leadership in digital payments, open banking, and financial inclusion, along with cutting-edge advancements in AI in banking that are enhancing customer experience, strengthening risk management, and improving operational efficiency. Discussions will also highlight how technology-driven finance is enabling secure, compliant, and scalable financial services aligned with Singapore's forward-looking regulatory framework. With participation from senior executives, policymakers, and technology leaders - including representatives from major financial institutions, fintech startups, and regulatory bodies - the summit provides a strategic platform to exchange insights, foster partnerships, and shape the future of digital finance in Singapore and beyond.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": false
-    },
-    {
       "title": "Literary Friends and Rivals: Hospitality and Literary Networks in Spain and Latin America (SAMLA)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Gender and Sexuality",
@@ -1636,11 +1611,11 @@
       "publish": true
     },
     {
-      "title": "Thinking Beyond Species: Cinema in the Anthropocene",
+      "title": "Thinking Beyond Species: Cinema in the Anthropocene - III TFO International Seminar in Collaboration with Alliance University, Bengaluru",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106115",
-      "type": "CFP",
+      "type": "Conference CFP",
       "deadlineType": "Submission",
       "deadline": "2026-08-25",
       "eventDate": "2026-10-30",
@@ -1649,12 +1624,12 @@
       "priority": "high",
       "confidence": "high",
       "publishMode": "auto",
-      "score": 54,
+      "score": 50,
       "fields": [
         "Film / Media"
       ],
-      "excerpt": "From Panorama of Calcutta, India from the River Ganges (1899), one of the earliest instances of filming a river in India, to Dweepa (Kannada, 2002), set against the developmentalist project of damming rivers; from Elephant Boy (1937), which emerged out of documentary footage of elephant–mahout life in Mysore, to Kadaisi Vivasayi (Tamil, 2021), which refle...",
-      "fullDescription": "From Panorama of Calcutta, India from the River Ganges (1899), one of the earliest instances of filming a river in India, to Dweepa (Kannada, 2002), set against the developmentalist project of damming rivers; from Elephant Boy (1937), which emerged out of documentary footage of elephant–mahout life in Mysore, to Kadaisi Vivasayi (Tamil, 2021), which reflects on forms of ecological knowledge threatened by the disappearance of agrarian life; from Ajantrik (Bengali, 1958), an anthropomorphic tale of intimacy between a taxi driver and his aging car, to Android Kunjappan Version 5.25 (Malayalam, 2019), which imagines a robot as caregiver, companion, and surrogate son; from Warning from Space (Japan",
+      "excerpt": "Call for Papers for III TFO International Seminar Titled \"Thinking Beyond Species: Cinema in the Anthropocene\" in Collaboration with Alliance University, Bengaluru on 30-31 October, 2026",
+      "fullDescription": "Call for Papers for III TFO International Seminar Titled \"Thinking Beyond Species: Cinema in the Anthropocene\" in Collaboration with Alliance University, Bengaluru on 30-31 October, 2026",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
       "publish": true
     },
@@ -1802,6 +1777,31 @@
       "publish": true
     },
     {
+      "title": "The AI Knowledge Society: Mapping Digital Hospitality and Hostility (In-person)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/18/the-ai-knowledge-society-mapping-digital-hospitality-and-hostility-in-person",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-08-30",
+      "eventDate": "",
+      "location": "SAMLA 2026",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 62,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Artificial Intelligence (AI) systems, in contemporary digital society, have drastically evolved from statistical tools to principal instruments of knowledge production, validation and dissemination. Large language models (LLMs), automated search systems, and predictive algorithms increasingly dictate what society knows, how knowledge is validated, and who...",
+      "fullDescription": "Artificial Intelligence (AI) systems, in contemporary digital society, have drastically evolved from statistical tools to principal instruments of knowledge production, validation and dissemination. Large language models (LLMs), automated search systems, and predictive algorithms increasingly dictate what society knows, how knowledge is validated, and who is recognized as an expert/authority. This shift demands a rigorous critique from the perspective of the sociology of knowledge to evaluate how power, inequality, and social structures are embedded within these automated epistemic tools.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "The Odyssey Take 2026",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -1845,31 +1845,6 @@
       "excerpt": "CFP: 3rd International Interdisciplinary Conference of the Department of English, University of Zululand and the Department of English and Literary Studies, Federal University Wukari, Nigeria 28-30 September 2026 Ongoye, KwaZulu-Natal, South Africa Re-imagining Language, Writing, and Literature in English in a Fast-Changing World",
       "fullDescription": "CFP: 3rd International Interdisciplinary Conference of the Department of English, University of Zululand and the Department of English and Literary Studies, Federal University Wukari, Nigeria 28-30 September 2026 Ongoye, KwaZulu-Natal, South Africa Re-imagining Language, Writing, and Literature in English in a Fast-Changing World",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "The AI Knowledge Society: Mapping Digital Hospitality and Hostility (In-person)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/18/the-ai-knowledge-society-mapping-digital-hospitality-and-hostility-in-person",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-31",
-      "eventDate": "",
-      "location": "SAMLA 2026",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 62,
-      "fields": [
-        "AI",
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Artificial Intelligence (AI) systems, in contemporary digital society, have drastically evolved from statistical tools to principal instruments of knowledge production, validation and dissemination. Large language models (LLMs), automated search systems, and predictive algorithms increasingly dictate what society knows, how knowledge is validated, and who...",
-      "fullDescription": "Artificial Intelligence (AI) systems, in contemporary digital society, have drastically evolved from statistical tools to principal instruments of knowledge production, validation and dissemination. Large language models (LLMs), automated search systems, and predictive algorithms increasingly dictate what society knows, how knowledge is validated, and who is recognized as an expert/authority. This shift demands a rigorous critique from the perspective of the sociology of knowledge to evaluate how power, inequality, and social structures are embedded within these automated epistemic tools.",
-      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Art / Media Practice.",
       "publish": true
     },
     {
@@ -3531,7 +3506,7 @@
     {
       "title": "ABUNDANCE AND ABSENCE: Queer and Trans Methods in the Archive",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
+      "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/49568",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
@@ -3544,13 +3519,12 @@
       "publishMode": "auto",
       "score": 30,
       "fields": [
-        "Film / Media",
-        "Art / Media Practice",
-        "Theory"
+        "Theory",
+        "Art / Media Practice"
       ],
       "excerpt": "This session invites 20-minute papers that attend to the partial and resistant ways queerness and transness emerge in medieval archives. Torn pages, smudged images, misplaced marginalia, and fragmentary traces all signal forms of queer archival participation. In reimagining archival potential how might medievalists access, interpret, or refuse archival le...",
       "fullDescription": "This session invites 20-minute papers that attend to the partial and resistant ways queerness and transness emerge in medieval archives. Torn pages, smudged images, misplaced marginalia, and fragmentary traces all signal forms of queer archival participation. In reimagining archival potential how might medievalists access, interpret, or refuse archival legibility? Contributions may address explicitly socio-political queer identities and communities, as well as approaching the archive itself as a site structured by both queer and trans abundance and absence. The session welcomes interdisciplinary approaches that reconsider how scholars encounter, interpret, preserve, and reimagine archives beyond inherited frameworks of organization, memory, and scholarly proximity. As queer and trans studies continue to reshape medieval scholarship, this session asks how archival methodologies themselves might be reconsidered. Building on Brian Schram's claim that queerness offers \"a potent antidote to the oppressive regimes of categorization,\" the panel explores how queer and trans approaches challenge normative systems of preservation, legibility, and historical interpretation. The session is timely in its emphasis on archival structures, silences, and fragmentary traces as sites of inquiry, encouraging medievalists to think critically about how archives produce, obscure, or resist categories of identity, memory, and power. Abstract length: 300 word limit",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Art / Media Practice.",
       "publish": true
     },
     {
@@ -3814,6 +3788,31 @@
       "excerpt": "This virtual seminar takes its inspiration from Saidiya Hartman’s citation of the Greek etymology of the word chorus : “to dance within an enclosure.” For Hartman, the chorus also furnishes a paradigm for thinking—to play on Jean-Luc Nancy’s notion—Black (non)being singular plural. In Wayward Lives , Hartman suggests that any of the minor figures can stan...",
       "fullDescription": "This virtual seminar takes its inspiration from Saidiya Hartman’s citation of the Greek etymology of the word chorus : “to dance within an enclosure.” For Hartman, the chorus also furnishes a paradigm for thinking—to play on Jean-Luc Nancy’s notion—Black (non)being singular plural. In Wayward Lives , Hartman suggests that any of the minor figures can stand in for the others, not as a claim of homogeneity, but rather as a contention that their singularity can be read as paradigmatic of waywardness—in its queer heterogeneity—in general. The chorus of black femme and queer youth is thus at once a singular plurality and a plural singularity as they make beautifully riotous lives within the enclosure of social death.",
       "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "TALKING DIFFERENTLY: MARGINALISED WOMEN AND THE FORMS OF INTERSECTIONALITY IN SOUTH ASIA",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/49761",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-22",
+      "eventDate": "2027-05-20",
+      "location": "University of Houston · ACLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Talking Differently: Marginalised Women and the Forms of Intersectionality in South Asia Seminar at the Annual Meeting of the American Comparative Literature Association (ACLA) University of Houston, Houston, Texas 20-23 May 2027 - in person Organisers: Nandini Gayen and Tamanna Priya Deadline for paper proposals: 22 September 2026 Submit at: https://www....",
+      "fullDescription": "Talking Differently: Marginalised Women and the Forms of Intersectionality in South Asia Seminar at the Annual Meeting of the American Comparative Literature Association (ACLA) University of Houston, Houston, Texas 20-23 May 2027 - in person Organisers: Nandini Gayen and Tamanna Priya Deadline for paper proposals: 22 September 2026 Submit at: https://www.acla.org/seminar/6b731612-c856-4a5e-91e9-5dbdd113434e Marginalised women in South Asia are read for what was done to them, far less often for what they made. This seminar asks what comparative literature can do about that. Intersectionality has become the default grammar for writing about marginalised women in the region. It arrived from a particular genealogy - Black feminist jurisprudence in the United States - into a region that had theorised compounded subordination for a century under other names: Phule on caste and women's education; Ambedkar on endogamy as the mechanism reproducing caste through control of women; Pandita Ramabai; Uma Chakravarti's Brahmanical patriarchy; Gopal Guru's claim that Dalit women talk differently; Sharmila Rege's Dalit feminist standpoint. Whether the import clarifies or flattens that inheritance is contested. Nivedita Menon argues that intersectionality serves states and donor agencies better than feminist politics; Sunaina Arya and Anandita Pan reply that the fault is citational, not conceptual. That argument has run almost entirely in social science. Our premise is that intersectionality is a diagram - a crossroads, a grid, a set of axes. Literary forms do not behave like diagrams. They work through voice, genre, meter, silence, obscenity, laughter, ritual and untranslatability. What does intersectionality look like as a reading practice rather than a taxonomy of identities? Where does form outrun the grid, and what should replace it - standpoint, assemblage, repertoire, abundance? Three provocations frame the seminar. First, the arithmetic of injury: criticism here tends to produce a tally of wounds, in which the Dalit, Adivasi, Muslim, trans, disabled or displaced woman is legible chiefly through what was done to her. Charu Gupta shows this figure has a history: in colonial Hindi reformist print the polluting \"vamp\" gave way to the deferential sufferer, Surpanakha displaced by Shabari, while the Dalit virangana of 1857 offered a rival image that never took. Following Gupta, Anjali Arondekar on archival abundance over loss, and Shailaja Paik on Tamasha performers who turn vulgarity into leverage, we welcome papers that read craft, expertise, pleasure and the ordinary. Second, marginality is not virtue. Tanika Sarkar's work on the Hindu wife as ground of cultural nationalism, and on women's agency inside right-wing movements, refuses to assume that subordination guarantees a critical position. We want dominant-caste women's self-writing - Rashsundari Debi's Amar Jiban - read alongside rather than apart from Dalit testimonio, and the complicities an axis model hides. Third, translation. Most of these texts do not exist in English. Bama's Karukku and Challapalli Swaroopa Rani's Telugu poems reach the Anglophone academy through an apparatus - glossary, preface, caste footnote, anthology - that turns literature into evidence. Swaroopa Rani's \"Water\" registers not only the village/wada line but the gradations within it, leather-worker and weaver. The grid has grids inside it, and translation is where they flatten. Topics might include, but are in no way limited to: the genre problem in Dalit women's testimonio; Dalit feminist poetry read as theory; the manufacture of the suffering woman in colonial print and the counter-archives that failed; nineteenth-century women's self-writing and its caste unconscious; women as agents of majoritarian politics; sung and seasonal repertoires as authorial economies rather than folklore; Adivasi women's poetry and the politics of script; landays and Afghan women's oral forms; testimonial method in Kashmir; plantation labour and memory in Sri Lanka; Muslim women and the meme as a genre of gendered communal violence; trans and hijra life-writing at the caste intersection; devadasi, Tamasha and courtesan archives read for abundance; caste in North America and Gulf labour circuits; translation as method. We invite papers on any South Asian language, region, period or diaspora. Researchers and Faculty Members at every career stage are welcome, including independent researchers and those working outside the Anglophone academy, and papers that argue against the seminar's premises are equally welcome. To submit: proposals go through the ACLA portal, not to the organisers directly. Visit https://www.acla.org/seminar/6b731612-c856-4a5e-91e9-5dbdd113434e and use the \"Propose a Paper\" button. Current ACLA membership is required. Deadline 22 September 2026. We'd like to have you in person, please mention your preferred mode- ONLINE/IN PERSON along with the abstract. Enquieres: nandinigayen006@gmail.com; tamanna0602@gmail.com",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -5476,30 +5475,6 @@
       "publish": true
     },
     {
-      "title": "Oral Community Knowledge as Antidote for Empire in Anglophone Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/49279",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Newport, Rhode Island · Northeastern Modern Language Association (NeMLA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CFP for NeMLA 2027 Conference Virtual Only Panel Oral Community Knowledge as Antidote for Empire in Anglophone Literature If Empire thrives and even conquers through written text: codification of laws and bureaucracy, cartography of territory, travelogues of the exotic Other, it equally seeks to suppress oral indigenous knowledge of the vanquished. Yet or...",
-      "fullDescription": "CFP for NeMLA 2027 Conference Virtual Only Panel Oral Community Knowledge as Antidote for Empire in Anglophone Literature If Empire thrives and even conquers through written text: codification of laws and bureaucracy, cartography of territory, travelogues of the exotic Other, it equally seeks to suppress oral indigenous knowledge of the vanquished. Yet orality can also be the site of resistance and community identity for just such a reason. This panel seeks proposals of works that investigate how orality of form and/or content in Anglophone literature disrupts Empire and empowers community. The irony of pursuing orality in literature, which is historically written, is not lost on us, but also provides an opportunity for creative, resilient exploration. Some possible ways of approaching this topic may include: Accent and dialect Pidgins, creoles, and contact languages Translations and translators Language and identity Oral folk wisdom and stories Glossaries and indices Textual hybridity or multimodality Literacy This is a Call for Papers for the NeMLA 2027 Conference. Submissions will only be accepted through the NeMLA portal, with a deadline of September 30, 2026 . This panel is Virtual Only , regardless of whether the participant is physically present at the conference. Paper proposals can be submitted here: https://cfplist.com/nemla/Home/S/22648. Only submissions submitted through the NeMLA portal will be considered. For questions, please feel free to email Dr. Dorisa Costello at dcostello@jessup.edu.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "MEMORY, MELANCHOLY AND NOSTALGIA - 11th International Interdisciplinary Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
@@ -5972,30 +5947,6 @@
       "publish": true
     },
     {
-      "title": "Global and Intersectional Framings of Disability in Comics & Graphic Narratives",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/global-and-intersectional-framings-of-disability-in-comics-graphic-narratives",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-09-30",
-      "location": "Crystal Yin Lie (California State University, Long Beach) and Kai Qing Tan (Ghent University; Aachen University)",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Publication",
-        "Rhetoric"
-      ],
-      "excerpt": "Global and Intersectional Framings of Disability in Comics & Graphic Narratives Edited by Crystal Yin Lie (California State University, Long Beach) and Kai Qing Tan (Ghent University; Aachen University)",
-      "fullDescription": "Global and Intersectional Framings of Disability in Comics & Graphic Narratives Edited by Crystal Yin Lie (California State University, Long Beach) and Kai Qing Tan (Ghent University; Aachen University)",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
-      "publish": true
-    },
-    {
       "title": "Resisting from the Edge: Marginal Characters and Collective Empowerment",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
@@ -6016,6 +5967,29 @@
       "excerpt": "This panel invites papers that examine the agency of marginalized characters in literary, visual, audiovisual, and artistic productions from the French?speaking world across any historical period. Artistic works offer numerous examples of figures who maintain an ambivalent relationship to their communities. Because of their social or ethnic origins, their...",
       "fullDescription": "This panel invites papers that examine the agency of marginalized characters in literary, visual, audiovisual, and artistic productions from the French?speaking world across any historical period. Artistic works offer numerous examples of figures who maintain an ambivalent relationship to their communities. Because of their social or ethnic origins, their divergent perspectives, or their transgression of established norms, certain characters find themselves pushed to the margins of social, familial, or professional groups. While such exclusion may appear to weaken those who experience it, this panel asks whether marginalization might also function as a source of strength. Can marginality become a generative position? Do marginalized individuals succeed in forming new communities that enable them to confront stigma and ultimately overcome it? This discussion seeks to shift our understanding of the place occupied by marginalized individuals and groups in fictional narratives. By considering the networks of solidarity that emerge among marginalized subjects, the panel explores what lies beneath their presumed inferiority, inviting critical attention to what is hidden, erased, or rendered invisible within dominant narratives. More importantly, we will examine how marginalized communities may become empowering spaces of resistance, mutual support, and hope. Drawing on approaches from cultural studies, postcolonial theory, sociolinguistics, and intersectionality, this session seeks to understand how literary, visual, audiovisual, and artistic narratives stage the tensions between marginality and belonging, strength and vulnerability. Proposals engaging with environmental humanities, posthumanism, Indigenous studies, as well as diaspora and migration studies are strongly encouraged. We also welcome submissions drawing on gender and queer studies, memory and trauma studies, digital humanities, or other interdisciplinary frameworks within the humanities. We welcome proposals of 250-300 words, in French or English, submitted by September 30.",
       "relevance": "Automatically surfaced as a possible RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Global and Intersectional Framings of Disability in Comics & Graphic Narratives",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/global-and-intersectional-framings-of-disability-in-comics-graphic-narratives",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "",
+      "location": "Crystal Yin Lie (California State University, Long Beach) and Kai Qing Tan (Ghent University; Aachen University)",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Publication"
+      ],
+      "excerpt": "Global and Intersectional Framings of Disability in Comics & Graphic Narratives Edited by Crystal Yin Lie (California State University, Long Beach) and Kai Qing Tan (Ghent University; Aachen University)",
+      "fullDescription": "Global and Intersectional Framings of Disability in Comics & Graphic Narratives Edited by Crystal Yin Lie (California State University, Long Beach) and Kai Qing Tan (Ghent University; Aachen University)",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
       "publish": true
     },
     {
@@ -6279,7 +6253,7 @@
       "type": "Art Call",
       "deadlineType": "Submission",
       "deadline": "2026-10-01",
-      "eventDate": "2026-10-26",
+      "eventDate": "",
       "location": "Double Vision Platform/ MASSIVA Research Group /UMH /Salamanca University",
       "status": "open",
       "priority": "high",
@@ -6291,8 +6265,7 @@
         "AI",
         "Digital Humanities / Design",
         "Pedagogy",
-        "Art / Media Practice",
-        "Theory"
+        "Art / Media Practice"
       ],
       "excerpt": "The II International Congress of Videogames, Virtual Environments and Interactive Creation is an event of scientific and academic dissemination whose objective is the diffusion of studies related to the field of videogames, digital art and online and virtual environments, in its wide range of topics and media: development of ludic and interactive platform...",
       "fullDescription": "The II International Congress of Videogames, Virtual Environments and Interactive Creation is an event of scientific and academic dissemination whose objective is the diffusion of studies related to the field of videogames, digital art and online and virtual environments, in its wide range of topics and media: development of ludic and interactive platforms; video game studies (Game Studies); initiatives around eSports; expressions of Digital Art, Virtual and Augmented Reality, and Artificial Intelligence applied to ludic or plastic creation; projects in networked communities and mobile devices; e-learning platforms; games and digital artistic works and their imbrications with cinema, animation, music, comics, etc.",
@@ -6760,6 +6733,32 @@
       "excerpt": "SAVE THE DATE Alternative Endings: A Symposium Celebrating the 30th Anniversary of Cheryl Dunye's The Watermelon Woman October 17, 2026 Northwestern University--Downtown Campus Chicago, Illinois Join scholars, filmmakers, artists for a one-day symposium commemorating the thirtieth anniversary of Cheryl Dunye's groundbreaking film The Watermelon Woman . Th...",
       "fullDescription": "SAVE THE DATE Alternative Endings: A Symposium Celebrating the 30th Anniversary of Cheryl Dunye's The Watermelon Woman October 17, 2026 Northwestern University--Downtown Campus Chicago, Illinois Join scholars, filmmakers, artists for a one-day symposium commemorating the thirtieth anniversary of Cheryl Dunye's groundbreaking film The Watermelon Woman . The symposium will feature: • A special panel showcasing previously unreleased alternative endings from the film, with commentary from invited scholars. • A luncheon bringing together contributors to the film, panelists, and local Black women filmmakers.",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Material, Metaphor and Modernity: Ruskin and Architecture",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49758",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-16",
+      "eventDate": "2027-03-03",
+      "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Interdisciplinary",
+        "Rhetoric",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "We are pleased to share the Call for Papers for the upcoming Symposium, Material, Metaphor and Modernity: Ruskin and Architecture. Symposium 3-5 March 2027 Boekentoren, Universiteit Gent Library Submission of abstract via email to the-ruskin@lancaster.ac.uk: by 16 October 2026 to include: · Author name(s) affiliation(s) · Email address · Abstract (up to 2...",
+      "fullDescription": "We are pleased to share the Call for Papers for the upcoming Symposium, Material, Metaphor and Modernity: Ruskin and Architecture. Symposium 3-5 March 2027 Boekentoren, Universiteit Gent Library Submission of abstract via email to the-ruskin@lancaster.ac.uk: by 16 October 2026 to include: · Author name(s) affiliation(s) · Email address · Abstract (up to 250 words) · Biographical paragraph (up to 150 words) Key dates : · Submission of abstract by 16 October 2026 · Notification of paper acceptance: 16 November 2026 · Submission of full paper deadline: by 1 February 2027 The CFP can be found here: https://the-ruskin.co.uk/events/material-metaphor-and-modernity/ Organised by. the Faculty of Engineering and Architecture UGent, the Ruskin Museum and Research Institute Lancaster University, Edinburgh School of Architecture and Landscape Architecture (ESALA) Dipartimento di Architettura - Universit&agrave; di Bologna, Alma Mater Studiorum - Universit&agrave; di Bologna Boekentoren Organising committee. Hendrik Defoort, Mark Dorrian, Yannick Joosten, Sandra Kemp, and Dirk De Meyer Scientific Committee. Richard Brook, Peter Burman, Hendrik Defoort, Mark Dorrian, Yannick Joosten, Sandra Kemp, Katherine M. Kuenzli, Giovanni Leoni, Elizabeth Merrill, Dirk de Meyer, Kevin Saladé, and Bart Verschaffel *Please see the link attached for information on the symposium and the CFP.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -8224,29 +8223,6 @@
       "fullDescription": "Narratives of Space: Eco-Feminist Perspectives on Postcolonial Environmental Discourse Submission deadline: 2027-07-31 Organization: Environment and Social Psychology Journal (Scopus-indexed), ISSN: 2424-8975 Special Issue Editors: Dr. Behzad Pourgharib, Dr. Moein Moradi Contact Email: moein.moradi1988@gmail.com b.pourgharib@umz.ac.ir",
       "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
       "publish": true
-    },
-    {
-      "title": "Aging & Social Change: 17th Int Conf, University de Navarra, Pamplona, Spain, 3-5 November 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/49638",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-10-03",
-      "eventDate": "2027-11-03",
-      "location": "University de Navarra · Common Ground Research Networks",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Aging & Social Change: Seventeenth Interdisciplinary Conference, University de Navarra, Pamplona, Spain, 3-5 November 2027 Founded in 2011, the Aging & Social Change Research Network is a forum for discussion of challenges and opportunities for a rapidly growing segment of the population worldwide. The process of aging is a concern for individuals, famili...",
-      "fullDescription": "Aging & Social Change: Seventeenth Interdisciplinary Conference, University de Navarra, Pamplona, Spain, 3-5 November 2027 Founded in 2011, the Aging & Social Change Research Network is a forum for discussion of challenges and opportunities for a rapidly growing segment of the population worldwide. The process of aging is a concern for individuals, families, communities, and nations. The social context of aging provides a rich background for community dialogue on this, one of the critical questions of our time. We aim to traverse a broad terrain, sometimes technically and other times socially oriented, sometimes theoretical and other times practical in their perspective, and sometimes reflecting dispassionate analysis while at other times suggesting interested strategies for action. Our aim is to build an epistemic community where we can make linkages across disciplinary, geographic, and cultural boundaries. As a Research Network, we are defined by our scope and concerns and motivated to build strategies for action framed by our shared themes and tensions. Aging & Social Change: Seventeenth Interdisciplinary Conference features research addressing the following themes. 2027 Special Focus-Aging in Place: Designing Connected Lives, Communities, and Care Systems Theme 1: Aging, Place, and Community Theme 2: Care, Health, and Well-Being Theme 3: Technology, Design, and Accessibility Theme 4: Rights, Policy, and Intergenerational Futures",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
     },
     {
       "title": "Call for Papers: ‘Fatness, Fashion and Profession in India’",
