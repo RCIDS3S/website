@@ -29,6 +29,12 @@
     },
     {
       "showRole": true,
+      "role": "Archivist",
+      "name": "Open",
+      "description": "Records and preserves approved S3S materials, event documentation, and organizational archives for continuity."
+    },
+    {
+      "showRole": true,
       "role": "Communications Director",
       "name": "Frederick Sunkpa",
       "description": "Oversees the website, social media, and public communications to promote S3S events, initiatives, and identity."
@@ -38,6 +44,12 @@
       "role": "First-Year Student Liaison",
       "name": "Durga Bhusal",
       "description": "Welcomes incoming students by building connections, sharing resources, and supporting their transition into the RCID community."
+    },
+    {
+      "showRole": true,
+      "role": "Graduate Student Government Senator",
+      "name": "Open",
+      "description": "Represents S3S and RCID student interests in Graduate Student Government when the position is filled."
     }
   ]
 }
