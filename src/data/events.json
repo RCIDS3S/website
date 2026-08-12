@@ -3,12 +3,12 @@
   "title": "Upcoming events.",
   "text": "Upcoming colloquia, workshops, officer meetings, and social events.",
   "calendar": {
-    "enabled": false,
-    "provider": "manual",
-    "publicUrl": "",
-    "embedUrl": "",
-    "buttonText": "Open the S3S calendar",
-    "note": "Manual event cards remain the fallback until a public Google Calendar or Microsoft calendar is connected."
+    "enabled": true,
+    "provider": "clemson",
+    "publicUrl": "https://events.clemson.edu/all/categories/Academic%20Calendar",
+    "embedUrl": "https://events.clemson.edu/all/categories/Academic%20Calendar",
+    "buttonText": "Open Clemson academic calendar",
+    "note": "Clemson Registrar academic dates are pulled from the University Calendar Academic Calendar category. Manual event cards remain the fallback for S3S-specific events."
   },
   "items": [
     {
