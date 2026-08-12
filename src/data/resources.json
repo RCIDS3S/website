@@ -33,7 +33,7 @@
     },
     {
       "label": "Legacy",
-      "title": "Current S3S Archive",
+      "title": "S3S Archive",
       "description": "Older posts, calls, awards, and announcements from the existing WordPress site.",
       "url": "https://thirdsophistic.org/",
       "style": "normal"
