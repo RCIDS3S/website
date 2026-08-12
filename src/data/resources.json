@@ -1,7 +1,7 @@
 {
   "kicker": "Resources",
-  "title": "Fast paths for recurring student needs.",
-  "text": "Your one stop shop for useful links.",
+  "title": "Useful links.",
+  "text": "Program pages, shared resources, and places students tend to look for first.",
   "items": [
     {
       "label": "Program",
@@ -27,14 +27,14 @@
     {
       "label": "Governance",
       "title": "S3S Constitution",
-      "description": "Current constitution and bylaws, including the S3S mission, RSA chapter status, officer roles, elections, and amendments.",
+      "description": "The current constitution and bylaws for S3S.",
       "url": "https://docs.google.com/document/d/1If2QGFvVsB7oPjac4lAdXmmU6LEQUfuS/edit",
       "style": "normal"
     },
     {
       "label": "RSA",
       "title": "Rhetoric Society of America",
-      "description": "Official RSA site for membership, student chapters, conferences, institutes, and field resources.",
+      "description": "Membership, student chapter information, conferences, institutes, and other RSA resources.",
       "url": "https://rhetoricsociety.org/",
       "style": "normal"
     },
