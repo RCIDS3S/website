@@ -3,20 +3,29 @@
   "title": "Upcoming events.",
   "text": "Upcoming colloquia, workshops, officer meetings, and social events.",
   "calendar": {
-    "enabled": true,
-    "provider": "clemson",
-    "publicUrl": "https://events.clemson.edu/all/categories/Academic%20Calendar",
-    "embedUrl": "https://events.clemson.edu/all/categories/Academic%20Calendar",
-    "buttonText": "Open Clemson academic calendar",
-    "note": "Clemson Registrar academic dates are pulled from the University Calendar Academic Calendar category. Manual event cards remain the fallback for S3S-specific events."
+    "enabled": false,
+    "provider": "manual",
+    "publicUrl": "",
+    "embedUrl": "",
+    "buttonText": "Open calendar",
+    "note": "Manual event cards are the default. Add a URL to an event card when it should link to Clemson, S3S, Google Calendar, Microsoft Calendar, or another event page."
   },
   "items": [
+    {
+      "date": "Clemson",
+      "datetime": "2026-08-01",
+      "title": "Academic calendar",
+      "description": "Registrar dates and deadlines for Clemson terms, including classes, exams, breaks, and grade deadlines.",
+      "status": "Open Clemson calendar",
+      "url": "https://events.clemson.edu/all/categories/Academic%20Calendar"
+    },
     {
       "date": "TBA!",
       "datetime": "2026-12-30",
       "title": "TBA!",
       "description": "The board is in the process of planning for the upcoming year - stay tuned! ",
-      "status": "Details TBA"
+      "status": "Details TBA",
+      "url": ""
     }
   ]
 }

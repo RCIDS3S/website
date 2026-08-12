@@ -111,14 +111,27 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
 
       <div class="event-strip" aria-label="Featured events">
         {
-          events.items.map((event) => (
-            <article class="event-card">
-              <time datetime={event.datetime}>{event.date}</time>
-              <h3>{event.title}</h3>
-              <p>{event.description}</p>
-              <span>{event.status}</span>
-            </article>
-          ))
+          events.items.map((event) => {
+            const hasEventUrl = Boolean(event.url);
+            const eventContent = (
+              <>
+                <time datetime={event.datetime}>{event.date}</time>
+                <h3>{event.title}</h3>
+                <p>{event.description}</p>
+                <span>{event.status}</span>
+              </>
+            );
+
+            return hasEventUrl ? (
+              <a class="event-card event-card-link" href={event.url} {...externalLinkAttrs}>
+                {eventContent}
+              </a>
+            ) : (
+              <article class="event-card">
+                {eventContent}
+              </article>
+            );
+          })
         }
       </div>
     </section>

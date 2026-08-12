@@ -154,6 +154,7 @@ collections:
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Description", name: "description", widget: "text" }
               - { label: "Status", name: "status", widget: "string", default: "Details TBA" }
+              - { label: "Event URL", name: "url", widget: "string", required: false, hint: "Optional. Add a link when the whole event card should open another page or calendar." }
 
   - name: "resources"
     label: "Resources"
