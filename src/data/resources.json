@@ -25,6 +25,20 @@
       "style": "normal"
     },
     {
+      "label": "Governance",
+      "title": "S3S Constitution",
+      "description": "Current constitution and bylaws, including the S3S mission, RSA chapter status, officer roles, elections, and amendments.",
+      "url": "https://docs.google.com/document/d/1If2QGFvVsB7oPjac4lAdXmmU6LEQUfuS/edit",
+      "style": "normal"
+    },
+    {
+      "label": "RSA",
+      "title": "Rhetoric Society of America",
+      "description": "Official RSA site for membership, student chapters, conferences, institutes, and field resources.",
+      "url": "https://rhetoricsociety.org/",
+      "style": "normal"
+    },
+    {
       "label": "Archive",
       "title": "RCID Dissertations",
       "description": "Browse recent and past dissertations from the program.",
