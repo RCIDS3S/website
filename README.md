@@ -1,6 +1,6 @@
 # Society of the Third Sophistic site
 
-Astro static site for the Society of the Third Sophistic, the student organization for Clemson University's RCID doctoral program.
+Astro static site for the Society of the Third Sophistic, the student organization for Clemson University's RCID PhD program.
 
 ## Files
 
