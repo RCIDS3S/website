@@ -4,6 +4,13 @@
   "text": "Program pages, shared resources, and places students tend to look for first.",
   "items": [
     {
+      "label": "Submit",
+      "title": "S3S Form",
+      "description": "Use this form to send S3S updates, requests, announcements, or information the board should have.",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfY4pXW1CqNk-DLIXjpxxHVIsv-9lFygKSxxSwvQrIJLbzN5A/viewform?pli=1",
+      "style": "normal"
+    },
+    {
       "label": "Program",
       "title": "RCID at Clemson",
       "description": "Degree overview, faculty, admissions, and official program information.",

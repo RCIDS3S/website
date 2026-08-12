@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "label": "S3S Form",
+      "title": "Submit updates or requests",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfY4pXW1CqNk-DLIXjpxxHVIsv-9lFygKSxxSwvQrIJLbzN5A/viewform?pli=1"
+    },
+    {
       "label": "RCID Program",
       "title": "Official Clemson page",
       "url": "https://www.clemson.edu/cah/academics/interdisciplinary-studies/programs/rcid/"
