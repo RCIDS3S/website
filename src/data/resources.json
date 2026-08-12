@@ -55,9 +55,9 @@
     {
       "label": "Shared",
       "title": "S3S Drive",
-      "description": "Add the current shared drive link here once officer access is confirmed.",
-      "url": "https://drive.google.com/drive/folders/1ts1euqCETO0YuNXij-mC7oatSX6Fg3pc",
-      "style": "muted"
+      "description": "Meeting notes and shared S3S files.",
+      "url": "https://drive.google.com/drive/u/0/folders/1EAqxaXTqEHFEQByhgGr89qyYo0JnlZ6w",
+      "style": "normal"
     }
   ]
 }
