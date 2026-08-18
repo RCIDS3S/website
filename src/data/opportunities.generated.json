@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -12,11 +12,11 @@
     },
     {
       "source": "UPenn CFP: Journals and Collections",
-      "count": 29
+      "count": 28
     },
     {
       "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 23
+      "count": 22
     },
     {
       "source": "CFPList: Digital Humanities",
@@ -24,11 +24,11 @@
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 20
+      "count": 21
     },
     {
       "source": "UPenn CFP: Theory",
-      "count": 20
+      "count": 21
     },
     {
       "source": "CFPList: Graduate Conferences",
@@ -51,24 +51,20 @@
       "count": 10
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
+      "source": "UPenn CFP: Ethnicity and National Identity",
       "count": 9
     },
     {
-      "source": "UPenn CFP: Ethnicity and National Identity",
-      "count": 9
+      "source": "CFPList: Rhetoric & Composition",
+      "count": 8
     },
     {
       "source": "UPenn CFP: African American",
       "count": 8
     },
     {
-      "source": "CFPList: Rhetoric & Composition",
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 7
-    },
-    {
-      "source": "UPenn CFP: International Conferences",
-      "count": 6
     },
     {
       "source": "UPenn CFP: Gender and Sexuality",
@@ -77,6 +73,10 @@
     {
       "source": "UPenn CFP: Interdisciplinary",
       "count": 6
+    },
+    {
+      "source": "UPenn CFP: International Conferences",
+      "count": 5
     },
     {
       "source": "CFPList: Communication Studies Search",
@@ -93,10 +93,6 @@
     {
       "source": "CLIR Programs and Grants",
       "count": 4
-    },
-    {
-      "source": "UPenn CFP: Theatre and Performance Studies",
-      "count": 3
     },
     {
       "source": "UPenn CFP: Science and Culture",
@@ -131,8 +127,8 @@
       "count": 2
     },
     {
-      "source": "UPenn CFP: Awards",
-      "count": 1
+      "source": "UPenn CFP: Theatre and Performance Studies",
+      "count": 2
     },
     {
       "source": "UPenn CFP: Postcolonial",
@@ -159,7 +155,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -177,97 +173,27 @@
       "publish": true
     },
     {
-      "title": "\"Who Cares?\" Interdisciplinary Graduate Conference 2026",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/who-cares-interdisciplinary-graduate-conference-2026",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-17",
-      "eventDate": "",
-      "location": "Department of French and Italian / Northwestern University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "FRIT Graduate Conference 2026 November 6th, 2026 Northwestern University Keynote Speaker Jina Kim, Smith College Author of Care at the End of the World (2025) CALL FOR PAPERS: WHO CARES?",
-      "fullDescription": "FRIT Graduate Conference 2026 November 6th, 2026 Northwestern University Keynote Speaker Jina Kim, Smith College Author of Care at the End of the World (2025) CALL FOR PAPERS: WHO CARES?",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "The State of SF and of Things to Come: Reading SF through the Clarke Award",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Awards",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/07/the-state-of-sf-and-of-things-to-come-reading-sf-through-the-clarke-award",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-17",
-      "eventDate": "2026-12-12",
-      "location": "Science Fiction Foundation / The Arthur C. Clarke Award / University of Liverpool",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "A two-day conference to be held online by the University of Liverpool, in partnership with the Science Fiction Foundation and the Arthur C. Clarke Award, 12-13 December 2026 Keynote Speaker: Andrew M. Butler (non-voting chair of the Arthur C. Clarke Award) Roundtable discussion with Clarke Award-winning authors Anne Charnock, Adrian Tchaikovsky and Tade T...",
-      "fullDescription": "A two-day conference to be held online by the University of Liverpool, in partnership with the Science Fiction Foundation and the Arthur C. Clarke Award, 12-13 December 2026 Keynote Speaker: Andrew M. Butler (non-voting chair of the Arthur C. Clarke Award) Roundtable discussion with Clarke Award-winning authors Anne Charnock, Adrian Tchaikovsky and Tade Thompson",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Resurgens/GSU Fall 2026 Conference—“Shakespeare’s Apocrypha Now”",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theatre and Performance Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/01/resurgensgsu-fall-2026-conference%E2%80%94%E2%80%9Cshakespeare%E2%80%99s-apocrypha-now%E2%80%9D",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-17",
-      "eventDate": "",
-      "location": "Resurgens Theatre Company / Georgia State University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Resurgens Theatre Company, along with the Georgia State University Department of English, is pleased to announce our fourth biennial conference on early modern verse drama by Shakespeare and his contemporaries, “Shakespeare’s Apocrypha Now.” We’re calling for papers that examine some aspect of Shakespeare’s non-canonical plays, i.e., those dramatic works...",
-      "fullDescription": "Resurgens Theatre Company, along with the Georgia State University Department of English, is pleased to announce our fourth biennial conference on early modern verse drama by Shakespeare and his contemporaries, “Shakespeare’s Apocrypha Now.” We’re calling for papers that examine some aspect of Shakespeare’s non-canonical plays, i.e., those dramatic works that have been or are currently attributed to Shakespeare (as a whole or in part) that have yet to receive widespread scholarly and/or theatrical recognition. We particularly welcome topics on canonicity, collaboration, and performance-oriented concerns regarding Renaissance drama and/or early modern print culture.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Deadline Extended: Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/28/deadline-extended-beyond-the-ocean-maritime-infrastructure-and-hydro-narratives-of",
+      "title": "Tentative Title- Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
+      "source": "CFPList",
+      "sourceName": "CFPList: Rhetoric & Composition",
+      "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-17",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-08-18",
       "eventDate": "2027-07-31",
-      "location": "Dr. Shubhanku Kochar & Dr. Shehnaz Kabir",
+      "location": "CFPList",
       "status": "open",
-      "priority": "low",
-      "confidence": "high",
+      "priority": "medium",
+      "confidence": "medium",
       "publishMode": "auto",
       "score": 38,
       "fields": [
-        "Publication",
-        "Funding",
-        "Rhetoric"
+        "Rhetoric",
+        "Funding"
       ],
-      "excerpt": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces...",
-      "fullDescription": "Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj (Tentative Title) Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces of radical rebirth and enduring kinship.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication, Funding.",
+      "excerpt": "Tentative Title- Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces o...",
+      "fullDescription": "Tentative Title- Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj Concept Note The imperial ships of the British Raj bore millions of Indian migrants across waterways just the way Charon ferried souls across the river Styx to an irreversible fate. Nonetheless, the Indians transformed the vicious vessels into spaces of radical rebirth and enduring kinship. While the first volume in this series geographically mapped the global representations of Indian migration under the British Empire, Volume 2 moves into a critical interrogation of colonial history through ports, maritime framework, and waterways. Moving away from land-bound histories, this volume initiates an intensive interrogation of colonial history through its maritime infrastructures: ports, dockyards, maritime records, and waterways. This book adopts a hydrocolonial and aqua-centric hermeneutic to explore how subaltern narratives were historically erased from official imperial records, shipping registers, and mainstream historiography. It will examine the ports, vessels, inland rivers, and vast oceans that witnessed the diverse, turbulent flows of Indian populations across the globe. We invite chapter proposals that explore how literary depictions illustrate the ways the British Empire transformed global waterways into networks of imperial power, capital, and radical identity transformation. The psychological and structural undoing of native culture began long before the ship reached the open ocean. In the liminal, high-stress spaces of the colonial dockyards and ports, social hierarchies began to collapse. Diaspora literature, folk traditions, travelogues, and ship logs frequently evoke the immediate and profound breakdown of caste and religious boundaries the moment emigrants set foot on the regimented ports. Sudden intermixing occurred in these crowded transit camps as we witnessed Brahmins consuming food prepared by lower-caste hands, Hindus and Muslims shared sleeping quarters, and sacred visual markers of identity (turbans, sacred threads, prayer beads, religious caps, and tilaks) were stripped or voluntarily discarded to avoid surveillance, standing out, or segregation upon reaching destination ports. Once aboard, the ship itself became a volatile micro-world, sort of floating world suspended between an old life and an uncertain future. Significantly, many post-slavery labour migrations repurposed slave ships to transport new, freer workforce alongside other cargo. Textual representations from this middle passage vividly capture the horrors of overcrowding, disease, and racial prejudice. Yet, the vessel can be read as a site of profound subaltern resilience. Indian migrants forged deep, enduring bonds that acted as vital substitutes for the blood relations left behind, helping them survive the culture shock and grief of displacement. The songs, stories, and archives of this passage are filled with narratives of maritime resistance, shipboard revolts, and haunting tragedies that demand our critical attention. Book II of the Beyond the Ocean series invites proposals that capture the Indian migrant experience from port to port during the British Raj. Echoing Kamau Brathwaite's conceptualization of the tidal experience, we welcome essays that explore the large-scale, long-term dispersion of Indians across the global maritime network, starting from the Gulf nations and the African continent to Southeast Asia, American states, and the archipelagic Caribbean islands. Suggested areas for submission, including, but not limited to: Literary depictions of port architecture, custom houses, dockyards, and the initial dismantling of caste/religious identities. Ship as a total institution, the legacy of repurposed slave ships, and narratives of disease, discipline, and imperial surveillance at sea. Textual and musical representations of shipboard kinship, solidarity, and emotional survival among diverse migrant groups. Songs, oral histories, and literary accounts of maritime mutinies, escapes, sabotage, and shipboard tragedies. How the crossing of the Kala Pani (black waters) fractured and reshaped languages, creating creolized idioms, plantation songs, and hybrid oral traditions. Comparative literary readings of different aquatic journeys- including indentured labourers, penal convicts, Lascar sailors, Kangani System, Maistry System, Sepoys, and Colonial Constabularies, and free passage merchants. Literary representation of Indian ocean, Atlantic Ocean, Pacific Ocean, Bay of Bengal, Arabian Sea, Red Sea, and other water bodies. Literary representation of ship and its infrastructure. Literary representation of the ocean as repository of forgotten/suppressed history and marginalized culture. Comparative study of the Middle Passage and the Kala Pani crossing or other hydro-crossings and its literary representation. Abstract submission deadline: 31st July 2026 Word limit: 250- 350 words with 4-5 keywords Submissions in a word document along with a brief bio-note to be sent to: shubhankukochar@outlook.com You can find Book I (Beyond the Ocean: Literature, History and the British Empire) via this link https://link.springer.com/book/10.1007/978-981-95-2137-1. Note: As Book I was published by Springer, the editors have submitted the proposal for Book II to Springer as well, aiming to establish this as a long-running series. Editors: Dr. Shubhanku Kochar (Associate Professor, University School of Humanities and Social Sciences at Guru Gobind Singh Indraprastha University, Delhi) Dr. Shehnaz Kabir (Research and Development Officer, Loreto College, Kolkata)",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Funding.",
       "publish": true
     },
     {
@@ -277,7 +203,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49665",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-08-20",
       "location": "Durgapur, West Bengal · Durgapur Institute of Legal Studies",
       "status": "open",
@@ -302,7 +228,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -325,7 +251,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -349,7 +275,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -373,7 +299,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49685",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2027-06-03",
       "location": "Winchester, Hampshire, UK · Lived Perspectives CIC/University of Winchester",
       "status": "open",
@@ -396,7 +322,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -420,7 +346,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -443,7 +369,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -460,59 +386,13 @@
       "publish": true
     },
     {
-      "title": "The Long Middle Ages Autumn 2026",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/13/the-long-middle-ages-autumn-2026",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-17",
-      "eventDate": "",
-      "location": "Natalie Hopwood and Saaleha Iqbal / Institute for Medieval Studies, University of Leeds",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "We are excited to announce that the Long Middle Ages, a seminar series for postgraduate students and early career researchers working on the Late Antique, Medieval, and Early Modern Periods, will be returning for a second series in Autumn 2026! We welcome submissions of 30 minute papers from postgraduates and early career researchers working in any discip...",
-      "fullDescription": "We are excited to announce that the Long Middle Ages, a seminar series for postgraduate students and early career researchers working on the Late Antique, Medieval, and Early Modern Periods, will be returning for a second series in Autumn 2026! We welcome submissions of 30 minute papers from postgraduates and early career researchers working in any discipline and on any topic related to the late antique, medieval and early modern periods. Papers will be followed by time for questions and further discussion. Seminars will commence in October 2026 and run on a fortnightly basis until mid-December.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Emancipatory Memoir: Yiyun Li's Things in Nature Merely Grow",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: International Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/07/emancipatory-memoir-yiyun-lis-things-in-nature-merely-grow",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-17",
-      "eventDate": "",
-      "location": "MLA Conference 2027 - Just in Time Session",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Following Yiyun Li's May 2026 Pulitzer Prize win, this session is a critical reception of her memoir as an emancipatory narrative: a descriptive and agential act that represents the unrepresentable experience of maternal grief/trauma. Welcome papers that are interdisciplinary/inter-textual dealing with themes of maternal loss, grief, growth, birth/death,...",
-      "fullDescription": "Following Yiyun Li's May 2026 Pulitzer Prize win, this session is a critical reception of her memoir as an emancipatory narrative: a descriptive and agential act that represents the unrepresentable experience of maternal grief/trauma. Welcome papers that are interdisciplinary/inter-textual dealing with themes of maternal loss, grief, growth, birth/death, nature/unnatural, death by suicide. Mail 150-200 word abstracts to Dr. Anhiti Patnaik at apatnaik@cascadia.edu Submission Deadline:Monday, August 17, 2026Type:Just-in-Time Session, Modern Language Association Conference 2027Venue:Los Angeles",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Resisting Abandonment: Language, Culture, and Ecology",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -536,7 +416,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -559,7 +439,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -582,7 +462,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -605,7 +485,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47638",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-12",
       "location": "Seattle, Washington · Pacific Ancient and Modern Language Association (PAMLA)",
       "status": "open",
@@ -628,7 +508,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -651,7 +531,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -674,7 +554,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-17",
+      "deadline": "2026-08-18",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -1101,6 +981,31 @@
       "excerpt": "Call for Chapter Proposals for an Edited Book Digital Precarity and Speculative Narratives in the South Asian Context",
       "fullDescription": "Call for Chapter Proposals for an Edited Book Digital Precarity and Speculative Narratives in the South Asian Context",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication.",
+      "publish": true
+    },
+    {
+      "title": "Dalit Women and the Politics of Labour: Caste, Gender and Invisibility",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theory",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/08/dalit-women-and-the-politics-of-labour-caste-gender-and-invisibility",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-08-25",
+      "eventDate": "",
+      "location": "Saundarya and Durba, Jawaharlal Nehru University, New Delhi",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Theory",
+        "Pedagogy",
+        "Interdisciplinary"
+      ],
+      "excerpt": "Labour is deeply intertwined with caste, gender and class in the socioeconomic fabric of India. However, caste and gender are the two factors that remain ignored in this discourse. In the Hindu social order, the caste system assigns vocations through arbitrary hierarchy, producing pernicious structures of marginalisation. Labour performed by Dalits is oft...",
+      "fullDescription": "Labour is deeply intertwined with caste, gender and class in the socioeconomic fabric of India. However, caste and gender are the two factors that remain ignored in this discourse. In the Hindu social order, the caste system assigns vocations through arbitrary hierarchy, producing pernicious structures of marginalisation. Labour performed by Dalits is often stereotyped through casteist assumptions that naturalise certain kinds of work as “belonging” to these peripheral communities. These stereotypes that are perpetuated historically, culturally and socio-politically, are furthered through mechanisms of caste that operate in the material and affective realms.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
       "publish": true
     },
     {
@@ -3129,7 +3034,7 @@
         "Theory"
       ],
       "excerpt": "Conference online (via Zoom) CFP: What makes us happy and content in our life? Some people may point to fabulous fame, fortune, or money. Others may argue that interpersonal relationships are the key to happiness. But what if someone is alone? Is loneliness truly disastrous? Are there any benefits of loneliness? Can loneliness become an epidemic? To addre...",
-      "fullDescription": "Conference online (via Zoom) CFP: What makes us happy and content in our life? Some people may point to fabulous fame, fortune, or money. Others may argue that interpersonal relationships are the key to happiness. But what if someone is alone? Is loneliness truly disastrous? Are there any benefits of loneliness? Can loneliness become an epidemic? To address these questions, this event focuses on a wide range of specific issues. We are interested in exploring all aspects of loneliness, both in the past and in the present-day world. The conference is intended as an interdisciplinary event. Hence, we invite researchers representing various academic disciplines: sociology, psychology, psychiatry, philosophy, anthropology, gender studies, literary studies, theatre studies, film studies, consciousness studies, social policy, cognitive sciences, and history, among others. The aim of our conference is to provide opportunities for researchers from a range of disciplines and countries to share their research, create an academically challenging and productive space for discussion, and enable them to establish long-lasting, ever-growing scientific networks and contacts with professionals worldwide. We welcome submissions from both experienced scholars and young academics at the beginning of their careers, as well as doctoral and graduate students. We also invite individuals interested in participating in the conference as listeners, without giving a presentation. The topics of the conference include but are not limited to the following suggestions: 1. Loneliness and Society ? loneliness and social relationships (in families, marriages, partnerships, workplaces, etc.)? loneliness and war loneliness and illness loneliness and self-isolation, social distancing loneliness among children loneliness among seniors the lonely crowd loneliness in urban spaces loneliness as an epidemic loneliness and pandemic loneliness and social exclusion (social class, racism, gender factors, educational status) loneliness and social media (Facebook, Instagram, etc.) 2. Loneliness and Culture loneliness in different parts of the world loneliness and religions loneliness and initiation rituals lonely communities abandoned nations expelled minorities loneliness and digital cultures / virtual communities the cultural taboo of solitude vs. hyper-individualism migrant loneliness and diaspora experiences 3. Individual experiences ? loneliness during self-isolation, quarantanne, loneliness as a state of mind loneliness and emotional isolation loneliness and depression loneliness and shame creative loneliness loneliness as a rest situational loneliness existential loneliness loneliness, aloneness, and solitude the commercialization of loneliness (the \"rent-a-friend\" industry, monetized companion apps, dating algorithms, and AI relationships) synthetic companionship & AI (digital intimacy, dating algorithms, and robotic care) 4. Literature and Arts loneliness in literature, film, theatre and visual arts lonely artists aesthetics, spaces, and narratives of isolation (e.g., in pop culture, life-writing, and architecture) Please submit abstracts (no longer than 300 words) of your proposed 20-minute presentations, together with a short biographical note, by 18 September 2026 to: lonelinessconference@gmail.com",
+      "fullDescription": "Conference online (via Zoom) CFP: What makes us happy and content in our life? Some people may point to fabulous fame, fortune, or money. Others may argue that interpersonal relationships are the key to happiness. But what if someone is alone? Is loneliness truly disastrous? Are there any benefits of loneliness? Can loneliness become an epidemic? To address these questions, this event focuses on a wide range of specific issues. We are interested in exploring all aspects of loneliness, both in the past and in the present-day world. The conference is intended as an interdisciplinary event. Hence, we invite researchers representing various academic disciplines: sociology, psychology, psychiatry, philosophy, anthropology, gender studies, literary studies, theatre studies, film studies, consciousness studies, social policy, cognitive sciences, and history, among others. The aim of our conference is to provide opportunities for researchers from a range of disciplines and countries to share their research, create an academically challenging and productive space for discussion, and enable them to establish long-lasting, ever-growing scientific networks and contacts with professionals worldwide. We welcome submissions from both experienced scholars and young academics at the beginning of their careers, as well as doctoral and graduate students. We also invite individuals interested in participating in the conference as listeners, without giving a presentation. The topics of the conference include but are not limited to the following suggestions: 1. Loneliness and Society loneliness and social relationships (in families, marriages, partnerships, workplaces, etc.)? loneliness and war loneliness and illness loneliness and self-isolation, social distancing loneliness among children loneliness among seniors the lonely crowd loneliness in urban spaces loneliness as an epidemic loneliness and pandemic loneliness and social exclusion (social class, racism, gender factors, educational status) loneliness and social media (Facebook, Instagram, etc.) 2. Loneliness and Culture loneliness in different parts of the world loneliness and religions loneliness and initiation rituals lonely communities abandoned nations expelled minorities loneliness and digital cultures / virtual communities the cultural taboo of solitude vs. hyper-individualism migrant loneliness and diaspora experiences 3. Individual experiences loneliness during self-isolation, quarantanne, loneliness as a state of mind loneliness and emotional isolation loneliness and depression loneliness and shame creative loneliness loneliness as a rest situational loneliness existential loneliness loneliness, aloneness, and solitude the commercialization of loneliness (the \"rent-a-friend\" industry, monetized companion apps, dating algorithms, and AI relationships) synthetic companionship & AI (digital intimacy, dating algorithms, and robotic care) 4. Literature and Arts loneliness in literature, film, theatre and visual arts lonely artists aesthetics, spaces, and narratives of isolation (e.g., in pop culture, life-writing, and architecture) Please submit abstracts (no longer than 300 words) of your proposed 20-minute presentations, together with a short biographical note, by 18 September 2026 to: lonelinessconference@gmail.com",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
@@ -3809,31 +3714,6 @@
       "excerpt": "Sponsored by the Association for the Study of Literature and the Environment (ASLE) This roundtable envisions writing as a collaborative act and centers writings that empower Environmental Justice communities. How have/do writing communities negotiate and enact environmental justice? How do writing communities disseminate scientific and technical informat...",
       "fullDescription": "Sponsored by the Association for the Study of Literature and the Environment (ASLE) This roundtable envisions writing as a collaborative act and centers writings that empower Environmental Justice communities. How have/do writing communities negotiate and enact environmental justice? How do writing communities disseminate scientific and technical information towards environmental action and justice? Participants in this roundtable are encouraged to consider: o How does/can writing raise collective environmental consciousness? o Writing in the Humanities to mobilize marginalized communities in the age of climate change o Aesthetic writings beyond the pleasure of nature writing but those that fuel ethical actions",
       "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Scrap, Trash, and Junk: Within the Margins of Writing",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106422",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "Onur Ayaz",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 58,
-      "fields": [
-        "Rhetoric",
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "What strategies can paper ephemera teach us in the digital age? This panel invites conversations by writing instructors, educators, poets, and artists exploring the work that happens at/within the margins of writing. Both literally and figuratively, we take an expansive scope to the term “margins,” imagining not only the writing that appears on the space...",
-      "fullDescription": "What strategies can paper ephemera teach us in the digital age? This panel invites conversations by writing instructors, educators, poets, and artists exploring the work that happens at/within the margins of writing. Both literally and figuratively, we take an expansive scope to the term “margins,” imagining not only the writing that appears on the space of the printed page, but writing that would normally be scrapped, discarded, remixed, or ephemeralized. This can include digital ephemera, such as “disappearing” messages in Instagram or other communication services. At another angle: margins can also mean the liminality of writing, the furthermost edges of what’s often standard and visible.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Digital Humanities / Design, Art / Media Practice.",
       "publish": true
     },
     {
@@ -6495,29 +6375,6 @@
       "publish": true
     },
     {
-      "title": "Northeast Indian Writing in English and Cultural Expressions",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Ethnicity and National Identity",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/northeast-indian-writing-in-english-and-cultural-expressions",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-25",
-      "eventDate": "",
-      "location": "Hijam Georgie Philemon",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "About the volume",
-      "fullDescription": "About the volume",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "ILL 2026 | Innovation in Language Learning 19th Edition - International Conference",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: International Conferences",
@@ -7195,6 +7052,29 @@
       "publish": true
     },
     {
+      "title": "Northeast Indian Writing in English and Cultural Expressions",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Ethnicity and National Identity",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/northeast-indian-writing-in-english-and-cultural-expressions",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-20",
+      "eventDate": "",
+      "location": "Hijam Georgie Philemon",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "About the volume",
+      "fullDescription": "About the volume",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "2027 Imagining Human Worlds Online Symposium, 27–28 January 2027",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Pedagogy",
@@ -7335,6 +7215,32 @@
       "excerpt": "FEMSPEC, an interdisciplinary peer-reviewed journal dedicated to challenging gender through speculative means in any genre, seeks a new member to join our volunteer collective to fill the role of Website Editor and Social Media Manager Duties include: Updating FEMSPEC's website at the collective's request - this could include updating biographies of colle...",
       "fullDescription": "FEMSPEC, an interdisciplinary peer-reviewed journal dedicated to challenging gender through speculative means in any genre, seeks a new member to join our volunteer collective to fill the role of Website Editor and Social Media Manager Duties include: Updating FEMSPEC's website at the collective's request - this could include updating biographies of collective members, altering the website's layout, adding or removing content from various pages in the website, and updating the website with information about the current issue of the journal Managing the journal's Facebook page and X account",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication.",
+      "publish": true
+    },
+    {
+      "title": "Theme Collection: Sovereign AI and Digital Sovereignty",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/theme-collection-sovereign-ai-and-digital-sovereignty",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-31",
+      "eventDate": "",
+      "location": "Institute for Digital Economy & Artificial Systems",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Theme Collection: Sovereign AI and Digital Sovereignty Submission deadline Thursday, 31 December 2026",
+      "fullDescription": "Theme Collection: Sovereign AI and Digital Sovereignty Submission deadline Thursday, 31 December 2026",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
       "publish": true
     },
     {
