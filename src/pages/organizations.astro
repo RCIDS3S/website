@@ -1,0 +1,97 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import identity from "../data/site/identity.json";
+import organizations from "../data/organizations.json";
+
+const items = organizations.items;
+const categories = Array.from(new Set(items.map((item) => item.category))).sort((a, b) => a.localeCompare(b));
+---
+
+<BaseLayout title={`${organizations.metaTitle} | ${identity.title}`} description={organizations.metaDescription}>
+  <a class="skip-link" href="#organizations-main">{organizations.skipLinkText}</a>
+
+  <header class="site-header">
+    <a class="brand" href="/" aria-label={`${identity.title} home`}>
+      <img src="/assets/images/third-sophistic.png" alt="" width="48" height="48" />
+      <span>
+        <strong>{identity.title}</strong>
+        <small>{identity.subtitle}</small>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label={organizations.navigationLabel}>
+      {organizations.navLinks.map((link) => <a href={link.url}>{link.label}</a>)}
+    </nav>
+  </header>
+
+  <main id="organizations-main">
+    <section class="archive-hero">
+      <p class="eyebrow">{organizations.hero.kicker}</p>
+      <h1>{organizations.hero.title}</h1>
+      <p class="dek">{organizations.hero.text}</p>
+    </section>
+
+    <section class="archive-tools organizations-tools" aria-label={organizations.filters.ariaLabel}>
+      <label>
+        {organizations.filters.searchLabel}
+        <input id="organizations-search" type="search" placeholder={organizations.filters.searchPlaceholder} />
+      </label>
+      <label>
+        {organizations.filters.categoryLabel}
+        <select id="organizations-category">
+          <option value="">{organizations.filters.allCategoriesLabel}</option>
+          {categories.map((category) => <option value={category}>{category}</option>)}
+        </select>
+      </label>
+    </section>
+
+    <section class="archive-results" aria-live="polite">
+      <p class="archive-count"><span id="organizations-count">{items.length}</span> {organizations.results.countSuffix}</p>
+      <div class="organization-grid" id="organizations-list">
+        {
+          items.map((item) => (
+            <a
+              class="organization-card"
+              href={item.url}
+              target="_blank"
+              rel="noreferrer"
+              data-name={item.name.toLowerCase()}
+              data-acronym={item.acronym.toLowerCase()}
+              data-category={item.category}
+              data-search={`${item.name} ${item.acronym} ${item.category}`.toLowerCase()}
+            >
+              <span>{item.category}</span>
+              <h2>{item.name}</h2>
+              {item.acronym && <strong>{item.acronym}</strong>}
+            </a>
+          ))
+        }
+      </div>
+    </section>
+  </main>
+
+  <script is:inline>
+    const search = document.querySelector("#organizations-search");
+    const category = document.querySelector("#organizations-category");
+    const cards = Array.from(document.querySelectorAll(".organization-card"));
+    const count = document.querySelector("#organizations-count");
+
+    const filterOrganizations = () => {
+      const query = search.value.trim().toLowerCase();
+      const selectedCategory = category.value;
+      let visible = 0;
+
+      cards.forEach((card) => {
+        const matchesQuery = !query || card.dataset.search.includes(query);
+        const matchesCategory = !selectedCategory || card.dataset.category === selectedCategory;
+        const show = matchesQuery && matchesCategory;
+
+        card.hidden = !show;
+        if (show) visible += 1;
+      });
+
+      count.textContent = String(visible);
+    };
+
+    [search, category].forEach((control) => control.addEventListener("input", filterOrganizations));
+  </script>
+</BaseLayout>

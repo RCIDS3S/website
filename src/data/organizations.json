@@ -1,0 +1,335 @@
+{
+  "metaTitle": "Field Organizations",
+  "metaDescription": "Professional organizations, societies, and networks relevant to RCID students in rhetoric, technical communication, information design, writing studies, communication, and adjacent fields.",
+  "skipLinkText": "Skip to organizations",
+  "navigationLabel": "Organizations navigation",
+  "navLinks": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Resources",
+      "url": "/#resources"
+    },
+    {
+      "label": "Radar",
+      "url": "/opportunities/"
+    },
+    {
+      "label": "Archive",
+      "url": "/archive/"
+    }
+  ],
+  "hero": {
+    "kicker": "Student resources",
+    "title": "Field organizations.",
+    "text": "A starting list of professional organizations, societies, conferences, and networks RCID students may want to know about."
+  },
+  "filters": {
+    "ariaLabel": "Filter field organizations",
+    "searchLabel": "Search",
+    "searchPlaceholder": "Search by name, field, or acronym",
+    "categoryLabel": "Field area",
+    "allCategoriesLabel": "All field areas"
+  },
+  "results": {
+    "countSuffix": "organizations"
+  },
+  "items": [
+    {
+      "name": "American Association for Applied Linguistics",
+      "acronym": "AAAL",
+      "category": "Language, Writing, and Literacy",
+      "url": "https://www.aaal.org/"
+    },
+    {
+      "name": "American Forensic Association",
+      "acronym": "AFA",
+      "category": "Communication and Performance",
+      "url": "https://www.americanforensicsassoc.org/"
+    },
+    {
+      "name": "American Philosophical Association",
+      "acronym": "APA",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://www.apaonline.org/"
+    },
+    {
+      "name": "American Society for Aesthetics",
+      "acronym": "ASA",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://aesthetics-online.org"
+    },
+    {
+      "name": "American Society for the History of Rhetoric",
+      "acronym": "ASHR",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://ashr.org"
+    },
+    {
+      "name": "American Sociological Association",
+      "acronym": "ASA",
+      "category": "Communication and Social Research",
+      "url": "https://www.asanet.org"
+    },
+    {
+      "name": "Association for Computers and the Humanities",
+      "acronym": "ACH",
+      "category": "Digital Humanities and Media",
+      "url": "https://www.ach.org"
+    },
+    {
+      "name": "Association for Computing Machinery SIGDOC",
+      "acronym": "ACM SIGDOC",
+      "category": "Technical Communication and Information Design",
+      "url": "https://www.acm.org/special-interest-groups/sigs/sigdoc"
+    },
+    {
+      "name": "Association for the Rhetoric of Science, Technology, and Medicine",
+      "acronym": "ARSTM",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://www.arstmonline.org"
+    },
+    {
+      "name": "Association of Teachers of Technical Writing",
+      "acronym": "ATTW",
+      "category": "Technical Communication and Information Design",
+      "url": "https://attw.org"
+    },
+    {
+      "name": "Academic Workforce",
+      "acronym": "",
+      "category": "Academic Labor and Higher Education",
+      "url": "http://www.academicworkforce.org"
+    },
+    {
+      "name": "Brooklyn Institute for Social Research",
+      "acronym": "BISR",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://thebrooklyninstitute.com"
+    },
+    {
+      "name": "Carolina Environmental Rhetoric Working Group",
+      "acronym": "CERWG",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://sites.google.com/site/ncenvirorhetoric/"
+    },
+    {
+      "name": "CAER Group",
+      "acronym": "CAER",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://caergroup.org"
+    },
+    {
+      "name": "Coalition of Feminist Scholars in the History of Rhetoric and Composition",
+      "acronym": "CFSHRC",
+      "category": "Writing Studies and Composition",
+      "url": "https://cfshrc.org"
+    },
+    {
+      "name": "College Art Association",
+      "acronym": "CAA",
+      "category": "Design, Visual Culture, and Arts",
+      "url": "https://www.collegeart.org/"
+    },
+    {
+      "name": "Community Literacy Journal",
+      "acronym": "CLJ",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.communityliteracy.org/"
+    },
+    {
+      "name": "Council of Writing Program Administrators",
+      "acronym": "CWPA",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.wpacouncil.org/aws/CWPA/pt/sp/home_page"
+    },
+    {
+      "name": "Digital Black Lit and Composition",
+      "acronym": "DBLAC",
+      "category": "Writing Studies and Composition",
+      "url": "https://sites.google.com/view/dblacvwg/about"
+    },
+    {
+      "name": "Digital Games Research Association",
+      "acronym": "DiGRA",
+      "category": "Digital Humanities and Media",
+      "url": "https://digra.org/"
+    },
+    {
+      "name": "Game Studies",
+      "acronym": "",
+      "category": "Digital Humanities and Media",
+      "url": "https://gamestudies.ca/"
+    },
+    {
+      "name": "Global Society of Online Literacy Education",
+      "acronym": "GSOLE",
+      "category": "Writing Studies and Composition",
+      "url": "https://gsole.org"
+    },
+    {
+      "name": "HASTAC",
+      "acronym": "HASTAC",
+      "category": "Digital Humanities and Media",
+      "url": "https://hastac.hcommons.org"
+    },
+    {
+      "name": "IEEE Professional Communication Society",
+      "acronym": "IEEE PCS",
+      "category": "Technical Communication and Information Design",
+      "url": "https://procomm.ieee.org/"
+    },
+    {
+      "name": "American Council of Learned Societies",
+      "acronym": "ACLS",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://www.acls.org"
+    },
+    {
+      "name": "International Association for Media and Communication Research",
+      "acronym": "IAMCR",
+      "category": "Communication and Media Studies",
+      "url": "https://uia.org/s/or/en/1100056688"
+    },
+    {
+      "name": "International Communication Association",
+      "acronym": "ICA",
+      "category": "Communication and Media Studies",
+      "url": "https://www.icahdq.org/"
+    },
+    {
+      "name": "International Rhetoric",
+      "acronym": "",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://www.internationalrhetoric.com"
+    },
+    {
+      "name": "International Society for the History of Rhetoric",
+      "acronym": "ISHR",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://ishr-web.org/aws/ISHR/pt/sp/home_page"
+    },
+    {
+      "name": "Kenneth Burke Society",
+      "acronym": "KBS",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://www.kbjournal.org/kbs"
+    },
+    {
+      "name": "Modern Language Association",
+      "acronym": "MLA",
+      "category": "Language, Writing, and Literacy",
+      "url": "https://www.mla.org"
+    },
+    {
+      "name": "Metaphysical Society of America",
+      "acronym": "MSA",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://www.metaphysicalsociety.org"
+    },
+    {
+      "name": "National Communication Association",
+      "acronym": "NCA",
+      "category": "Communication and Media Studies",
+      "url": "https://www.natcom.org"
+    },
+    {
+      "name": "National Council of Teachers of English",
+      "acronym": "NCTE",
+      "category": "Writing Studies and Composition",
+      "url": "https://ncte.org"
+    },
+    {
+      "name": "National Women's Studies Association",
+      "acronym": "NWSA",
+      "category": "Communication and Social Research",
+      "url": "https://www.nwsa.org"
+    },
+    {
+      "name": "Popular Culture Association",
+      "acronym": "PCA",
+      "category": "Digital Humanities and Media",
+      "url": "https://pcaaca.org/"
+    },
+    {
+      "name": "Rhetoric Society of America",
+      "acronym": "RSA",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://rhetoricsociety.org/"
+    },
+    {
+      "name": "Rhetoric Society of Europe",
+      "acronym": "RSE",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://rhetoricsocietyeurope.eu"
+    },
+    {
+      "name": "Society for Cinema and Media Studies",
+      "acronym": "SCMS",
+      "category": "Communication and Media Studies",
+      "url": "https://www.cmstudies.org/"
+    },
+    {
+      "name": "Society for Literature, Science, and the Arts",
+      "acronym": "SLSA",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://litsciarts.org/"
+    },
+    {
+      "name": "Society for the Advancement of American Philosophy",
+      "acronym": "SAAP",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://american-philosophy.org"
+    },
+    {
+      "name": "Society for the History of Technology",
+      "acronym": "SHOT",
+      "category": "Technology, Science, and Society",
+      "url": "https://www.historyoftechnology.org"
+    },
+    {
+      "name": "Society for Social Studies of Science",
+      "acronym": "4S",
+      "category": "Technology, Science, and Society",
+      "url": "https://4sonline.org/"
+    },
+    {
+      "name": "Society for Technical Communication",
+      "acronym": "STC",
+      "category": "Technical Communication and Information Design",
+      "url": "https://www.stc.org/"
+    },
+    {
+      "name": "Society for Visual Anthropology",
+      "acronym": "SVA",
+      "category": "Design, Visual Culture, and Arts",
+      "url": "https://societyforvisualanthropology.org/"
+    },
+    {
+      "name": "Society for Health Communication",
+      "acronym": "SHC",
+      "category": "Communication and Social Research",
+      "url": "https://societyforhealthcommunication.org/"
+    },
+    {
+      "name": "The New Centre for Research and Practice",
+      "acronym": "New Centre",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://thenewcentre.org/"
+    },
+    {
+      "name": "User Experience Professionals Association",
+      "acronym": "UXPA",
+      "category": "Technical Communication and Information Design",
+      "url": "https://uxpa.org/"
+    },
+    {
+      "name": "Writing Program Administrators Graduate Organization",
+      "acronym": "WPA-GO",
+      "category": "Writing Studies and Composition",
+      "url": "https://sites.google.com/view/wpago/home"
+    }
+  ]
+}

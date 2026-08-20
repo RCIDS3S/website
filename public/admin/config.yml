@@ -185,6 +185,61 @@ collections:
                   - { label: "Normal", value: "normal" }
                   - { label: "Muted / Placeholder", value: "muted" }
 
+  - name: "organizations"
+    label: "Field Organizations"
+    files:
+      - label: "Field Organizations Page"
+        name: "organizations"
+        file: "src/data/organizations.json"
+        format: "json"
+        fields:
+          - { label: "Browser Tab Title", name: "metaTitle", widget: "string" }
+          - { label: "Search Engine Description", name: "metaDescription", widget: "text" }
+          - { label: "Skip Link Text", name: "skipLinkText", widget: "string" }
+          - { label: "Navigation Label", name: "navigationLabel", widget: "string" }
+          - label: "Navigation Links"
+            name: "navLinks"
+            widget: "list"
+            collapsed: false
+            summary: "{{fields.label}}"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            collapsed: false
+            fields:
+              - { label: "Small Label Above Page Title", name: "kicker", widget: "string" }
+              - { label: "Page Title", name: "title", widget: "string" }
+              - { label: "Intro Text", name: "text", widget: "text" }
+          - label: "Filters"
+            name: "filters"
+            widget: "object"
+            collapsed: false
+            fields:
+              - { label: "ARIA Label", name: "ariaLabel", widget: "string" }
+              - { label: "Search Label", name: "searchLabel", widget: "string" }
+              - { label: "Search Placeholder", name: "searchPlaceholder", widget: "string" }
+              - { label: "Category Label", name: "categoryLabel", widget: "string" }
+              - { label: "All Categories Label", name: "allCategoriesLabel", widget: "string" }
+          - label: "Results"
+            name: "results"
+            widget: "object"
+            collapsed: false
+            fields:
+              - { label: "Count Suffix", name: "countSuffix", widget: "string" }
+          - label: "Organizations"
+            name: "items"
+            widget: "list"
+            collapsed: false
+            summary: "{{fields.acronym}} - {{fields.name}}"
+            fields:
+              - { label: "Organization Name", name: "name", widget: "string" }
+              - { label: "Acronym", name: "acronym", widget: "string", required: false }
+              - { label: "Field Area", name: "category", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+
   - name: "officers"
     label: "Officers"
     files:

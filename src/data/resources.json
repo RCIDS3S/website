@@ -32,6 +32,13 @@
       "style": "normal"
     },
     {
+      "label": "Fields",
+      "title": "Field Organizations",
+      "description": "Professional organizations and networks in rhetoric, writing studies, technical communication, information design, media, and adjacent fields.",
+      "url": "/organizations/",
+      "style": "normal"
+    },
+    {
       "label": "Governance",
       "title": "S3S Constitution",
       "description": "The current constitution and bylaws for S3S.",
