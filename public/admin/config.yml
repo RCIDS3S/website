@@ -186,9 +186,9 @@ collections:
                   - { label: "Muted / Placeholder", value: "muted" }
 
   - name: "organizations"
-    label: "Field Organizations"
+    label: "Field Organizations and Journals"
     files:
-      - label: "Field Organizations Page"
+      - label: "Field Organizations and Journals Page"
         name: "organizations"
         file: "src/data/organizations.json"
         format: "json"

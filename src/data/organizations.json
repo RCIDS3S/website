@@ -1,6 +1,6 @@
 {
-  "metaTitle": "Field Organizations",
-  "metaDescription": "Professional organizations, societies, and networks relevant to RCID students in rhetoric, technical communication, information design, writing studies, communication, and adjacent fields.",
+  "metaTitle": "Field Organizations and Journals",
+  "metaDescription": "Professional organizations, journals, CFP hubs, fellowships, societies, and networks relevant to RCID students in rhetoric, technical communication, information design, writing studies, communication, and adjacent fields.",
   "skipLinkText": "Skip to organizations",
   "navigationLabel": "Organizations navigation",
   "navLinks": [
@@ -23,8 +23,8 @@
   ],
   "hero": {
     "kicker": "Student resources",
-    "title": "Field organizations.",
-    "text": "A starting list of professional organizations, societies, conferences, and networks RCID students may want to know about."
+    "title": "Field organizations and journals.",
+    "text": "A starting list of professional organizations, journals, CFP hubs, fellowships, societies, conferences, and networks RCID students may want to know about."
   },
   "filters": {
     "ariaLabel": "Filter field organizations",
@@ -74,10 +74,22 @@
       "url": "https://www.asanet.org"
     },
     {
+      "name": "American Educational Research Association",
+      "acronym": "AERA",
+      "category": "Education Research",
+      "url": "https://www.aera.net/"
+    },
+    {
       "name": "Association for Computers and the Humanities",
       "acronym": "ACH",
       "category": "Digital Humanities and Media",
       "url": "https://www.ach.org"
+    },
+    {
+      "name": "Association for Business Communication",
+      "acronym": "ABC",
+      "category": "Technical Communication and Information Design",
+      "url": "https://www.businesscommunication.org/home"
     },
     {
       "name": "Association for Computing Machinery SIGDOC",
@@ -96,6 +108,12 @@
       "acronym": "ATTW",
       "category": "Technical Communication and Information Design",
       "url": "https://attw.org"
+    },
+    {
+      "name": "Association for Writing Across the Curriculum",
+      "acronym": "AWAC",
+      "category": "Writing Studies and Composition",
+      "url": "https://wacassociation.org/"
     },
     {
       "name": "Academic Workforce",
@@ -128,10 +146,28 @@
       "url": "https://cfshrc.org"
     },
     {
+      "name": "Coalition for Community Writing",
+      "acronym": "CCW",
+      "category": "Writing Studies and Composition",
+      "url": "https://communitywriting.org/"
+    },
+    {
       "name": "College Art Association",
       "acronym": "CAA",
       "category": "Design, Visual Culture, and Arts",
       "url": "https://www.collegeart.org/"
+    },
+    {
+      "name": "College English Association",
+      "acronym": "CEA",
+      "category": "Language, Writing, and Literacy",
+      "url": "https://cea-web.org/home%2Fmeet-cea"
+    },
+    {
+      "name": "College Language Association",
+      "acronym": "CLA",
+      "category": "Language, Writing, and Literacy",
+      "url": "https://www.clascholars.org/"
     },
     {
       "name": "Community Literacy Journal",
@@ -140,10 +176,40 @@
       "url": "https://www.communityliteracy.org/"
     },
     {
+      "name": "Community Literacies Collaboratory",
+      "acronym": "",
+      "category": "Writing Studies and Composition",
+      "url": "https://communityliteraciescollaboratory.com/"
+    },
+    {
+      "name": "Consortium on Graduate Communication",
+      "acronym": "CGC",
+      "category": "Writing Studies and Composition",
+      "url": "https://gradconsortium.org/"
+    },
+    {
+      "name": "Council for Programs in Technical and Scientific Communication",
+      "acronym": "CPTSC",
+      "category": "Technical Communication and Information Design",
+      "url": "https://cptsc.org/"
+    },
+    {
       "name": "Council of Writing Program Administrators",
       "acronym": "CWPA",
       "category": "Writing Studies and Composition",
       "url": "https://www.wpacouncil.org/aws/CWPA/pt/sp/home_page"
+    },
+    {
+      "name": "Centre for Research in Reasoning, Argumentation and Rhetoric",
+      "acronym": "CRRAR",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://www.uwindsor.ca/crrar/"
+    },
+    {
+      "name": "Critical Language Awareness Collective",
+      "acronym": "CLAC",
+      "category": "Language, Writing, and Literacy",
+      "url": "https://cla.middlecreate.net/"
     },
     {
       "name": "Digital Black Lit and Composition",
@@ -162,6 +228,24 @@
       "acronym": "",
       "category": "Digital Humanities and Media",
       "url": "https://gamestudies.ca/"
+    },
+    {
+      "name": "European Association for Research on Learning and Instruction",
+      "acronym": "EARLI SIG-Writing",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.earli.org/"
+    },
+    {
+      "name": "European Association for the Teaching of Academic Writing",
+      "acronym": "EATAW",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.eataw.eu/"
+    },
+    {
+      "name": "European Writing Centers Association",
+      "acronym": "EWCA",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.europeanwritingcenters.eu/index.html"
     },
     {
       "name": "Global Society of Online Literacy Education",
@@ -200,6 +284,12 @@
       "url": "https://www.icahdq.org/"
     },
     {
+      "name": "International Learned Institute of Argumentation Studies",
+      "acronym": "ILIAS",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://ilias-argumentation.com/"
+    },
+    {
       "name": "International Rhetoric",
       "acronym": "",
       "category": "Rhetoric and Argumentation",
@@ -210,6 +300,18 @@
       "acronym": "ISHR",
       "category": "Rhetoric and Argumentation",
       "url": "https://ishr-web.org/aws/ISHR/pt/sp/home_page"
+    },
+    {
+      "name": "International Society for the Advancement of Writing Research",
+      "acronym": "ISAWR / WRAB",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.isawr.org/"
+    },
+    {
+      "name": "International Writing Centers Association",
+      "acronym": "IWCA",
+      "category": "Writing Studies and Composition",
+      "url": "https://writingcenters.org/"
     },
     {
       "name": "Kenneth Burke Society",
@@ -230,10 +332,22 @@
       "url": "https://www.metaphysicalsociety.org"
     },
     {
+      "name": "Latin American Writing Studies Association",
+      "acronym": "",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.estudiosdelaescritura.org/home-english.html"
+    },
+    {
       "name": "National Communication Association",
       "acronym": "NCA",
       "category": "Communication and Media Studies",
       "url": "https://www.natcom.org"
+    },
+    {
+      "name": "National Resource Center for the First-Year Experience and Students in Transition",
+      "acronym": "NRC",
+      "category": "Student Success and Higher Education",
+      "url": "https://sc.edu/about/offices_and_divisions/national_resource_center/index.php"
     },
     {
       "name": "National Council of Teachers of English",
@@ -266,10 +380,28 @@
       "url": "https://rhetoricsocietyeurope.eu"
     },
     {
+      "name": "Rhetoric of Health and Medicine Society",
+      "acronym": "RHMS",
+      "category": "Rhetoric and Argumentation",
+      "url": "https://rhmsociety.org/"
+    },
+    {
+      "name": "Small Liberal Arts Colleges-Writing Program Administrators",
+      "acronym": "SLAC-WPA",
+      "category": "Writing Studies and Composition",
+      "url": "https://slacwpa.org/"
+    },
+    {
       "name": "Society for Cinema and Media Studies",
       "acronym": "SCMS",
       "category": "Communication and Media Studies",
       "url": "https://www.cmstudies.org/"
+    },
+    {
+      "name": "Society for the History of Authorship, Reading and Publishing",
+      "acronym": "SHARP",
+      "category": "Theory, Philosophy, and Humanities",
+      "url": "https://sharpweb.org/"
     },
     {
       "name": "Society for Literature, Science, and the Arts",
@@ -314,6 +446,24 @@
       "url": "https://societyforhealthcommunication.org/"
     },
     {
+      "name": "Southern States Communication Association",
+      "acronym": "SSCA",
+      "category": "Communication and Media Studies",
+      "url": "https://www.ssca.net/"
+    },
+    {
+      "name": "Symposium on Second Language Writing",
+      "acronym": "SSLW",
+      "category": "Language, Writing, and Literacy",
+      "url": "https://pmatsuda.net/sslw/about/"
+    },
+    {
+      "name": "Teachers of English to Speakers of Other Languages",
+      "acronym": "TESOL",
+      "category": "Language, Writing, and Literacy",
+      "url": "https://www.tesol.org/"
+    },
+    {
       "name": "The New Centre for Research and Practice",
       "acronym": "New Centre",
       "category": "Theory, Philosophy, and Humanities",
@@ -326,10 +476,100 @@
       "url": "https://uxpa.org/"
     },
     {
+      "name": "Watson Conference on Rhetoric and Composition",
+      "acronym": "Watson",
+      "category": "Writing Studies and Composition",
+      "url": "http://www.louisville.edu/conference/watson"
+    },
+    {
+      "name": "Writing through the Lifespan Collaboration",
+      "acronym": "",
+      "category": "Writing Studies and Composition",
+      "url": "https://www.lifespanwriting.org/"
+    },
+    {
       "name": "Writing Program Administrators Graduate Organization",
       "acronym": "WPA-GO",
       "category": "Writing Studies and Composition",
       "url": "https://sites.google.com/view/wpago/home"
+    },
+    {
+      "name": "NCA Journals",
+      "acronym": "NCA Journals",
+      "category": "Journals and Publications",
+      "url": "https://www.natcom.org/nca-journals/"
+    },
+    {
+      "name": "Technical Communication Quarterly",
+      "acronym": "TCQ",
+      "category": "Journals and Publications",
+      "url": "https://attw.org/publications/technical-communication-quarterly/"
+    },
+    {
+      "name": "Rhetoric Society Quarterly",
+      "acronym": "RSQ",
+      "category": "Journals and Publications",
+      "url": "https://rhetoricsociety.org/rhetoric-society-quarterly/"
+    },
+    {
+      "name": "IEEE Transactions on Professional Communication",
+      "acronym": "TPC",
+      "category": "Journals and Publications",
+      "url": "https://procomm.ieee.org/transactions-of-professional-communication/"
+    },
+    {
+      "name": "Journal of User Experience",
+      "acronym": "JUX",
+      "category": "Journals and Publications",
+      "url": "https://uxpajournal.org/"
+    },
+    {
+      "name": "Journal of Cinema and Media Studies",
+      "acronym": "JCMS",
+      "category": "Journals and Publications",
+      "url": "https://quod.lib.umich.edu/i/jcms//"
+    },
+    {
+      "name": "WPA: Writing Program Administration",
+      "acronym": "WPA",
+      "category": "Journals and Publications",
+      "url": "https://www.wpacouncil.org/aws/CWPA/pt/sp/journal"
+    },
+    {
+      "name": "The Journal of the Kenneth Burke Society",
+      "acronym": "KB Journal",
+      "category": "Journals and Publications",
+      "url": "https://www.kbjournal.org/kbs"
+    },
+    {
+      "name": "Programmatic Perspectives",
+      "acronym": "JPP",
+      "category": "Journals and Publications",
+      "url": "https://programmaticperspectives.cptsc.org/index.php/jpp/index"
+    },
+    {
+      "name": "UPenn CFP Feed",
+      "acronym": "CFP",
+      "category": "CFP and Fellowship Sources",
+      "url": "https://call-for-papers.sas.upenn.edu"
+    },
+    {
+      "name": "2027 ATTW CFP",
+      "acronym": "ATTW CFP",
+      "category": "CFP and Fellowship Sources",
+      "url": "https://attw.org/2027-attw-cfp/"
+    },
+    {
+      "name": "Writing Programs and AI CFP",
+      "acronym": "CFP",
+      "category": "CFP and Fellowship Sources",
+      "url": "https://wpa-announcements.tracigardner.com/2026/07/05/cfp-writing-programs-and-ai/"
+    },
+    {
+      "name": "Mellon/ACLS Dissertation Innovation Fellowship",
+      "acronym": "ACLS",
+      "category": "CFP and Fellowship Sources",
+      "url": "https://www.acls.org/competitions/mellon-acls-dissertation-innovation-fellowship/"
     }
   ]
 }
