@@ -18,7 +18,12 @@ const categories = Array.from(new Set(items.map((item) => item.category))).sort(
         <small>{identity.subtitle}</small>
       </span>
     </a>
-    <nav class="site-nav" aria-label={organizations.navigationLabel}>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label={organizations.navigationLabel}>
       {organizations.navLinks.map((link) => <a href={link.url}>{link.label}</a>)}
     </nav>
   </header>

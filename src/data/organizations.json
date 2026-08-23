@@ -9,16 +9,36 @@
       "url": "/"
     },
     {
+      "label": "Events",
+      "url": "/#events"
+    },
+    {
       "label": "Resources",
       "url": "/#resources"
+    },
+    {
+      "label": "Field Links",
+      "url": "/organizations/"
     },
     {
       "label": "Radar",
       "url": "/opportunities/"
     },
     {
+      "label": "Officers",
+      "url": "/#officers"
+    },
+    {
+      "label": "About",
+      "url": "/#about"
+    },
+    {
       "label": "Archive",
       "url": "/archive/"
+    },
+    {
+      "label": "Contact",
+      "url": "/#contact"
     }
   ],
   "hero": {

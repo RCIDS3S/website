@@ -36,6 +36,7 @@ collections:
         fields:
           - { label: "Events Link Text", name: "eventsText", widget: "string" }
           - { label: "Resources Link Text", name: "resourcesText", widget: "string" }
+          - { label: "Field Links Text", name: "fieldLinksText", widget: "string" }
           - { label: "Opportunity Radar Link Text", name: "opportunitiesText", widget: "string" }
           - { label: "Officers Link Text", name: "officersText", widget: "string" }
           - { label: "About Link Text", name: "aboutText", widget: "string" }

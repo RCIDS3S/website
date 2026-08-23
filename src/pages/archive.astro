@@ -20,7 +20,12 @@ const years = Array.from(new Set(posts.map((post) => post.year))).sort((a, b) =>
         <small>{identity.subtitle}</small>
       </span>
     </a>
-    <nav class="site-nav" aria-label={archiveSettings.navigationLabel}>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label={archiveSettings.navigationLabel}>
       {archiveSettings.navLinks.map((link) => <a href={link.url}>{link.label}</a>)}
     </nav>
   </header>
