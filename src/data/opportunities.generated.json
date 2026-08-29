@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -24,7 +24,7 @@
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 20
+      "count": 21
     },
     {
       "source": "UPenn CFP: Theory",
@@ -63,6 +63,10 @@
       "count": 10
     },
     {
+      "source": "UPenn CFP: Translation Studies",
+      "count": 9
+    },
+    {
       "source": "UPenn CFP: Gender and Sexuality",
       "count": 8
     },
@@ -72,10 +76,6 @@
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
-      "count": 8
-    },
-    {
-      "source": "UPenn CFP: Translation Studies",
       "count": 8
     },
     {
@@ -159,7 +159,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -177,38 +177,13 @@
       "publish": true
     },
     {
-      "title": "Human-Machine interfacing in Western and Global Literature, Media and Culture (abstracts and proposals only)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/10/human-machine-interfacing-in-western-and-global-literature-media-and-culture",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-08-28",
-      "eventDate": "",
-      "location": "Nizar Zouidi/University of Gafsa",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "AI",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started...",
-      "fullDescription": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started long before the invention of these technologies. Machines did communicate with us and tell us about themselves even before chatbots were invented. The clanking of a hammer on the anvil tells us that it is old and dull. The whistle of a microwave tells us that dinner is ready. The process of interfacing is not a one-way process. Through it, humans also communicate with the machine.",
-      "relevance": "Automatically surfaced as a likely RCID fit across AI, Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Tentative Title- Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2027-07-31",
       "location": "CFPList",
       "status": "open",
@@ -232,7 +207,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -255,7 +230,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -279,7 +254,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -303,7 +278,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -328,7 +303,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -352,7 +327,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -375,7 +350,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -398,7 +373,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -422,7 +397,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -445,7 +420,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -468,7 +443,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -491,7 +466,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -514,7 +489,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-08-28",
+      "deadline": "2026-08-29",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -2512,6 +2487,31 @@
       "publish": true
     },
     {
+      "title": "Human-Machine interfacing in Western and Global Literature, Media and Culture (abstracts and proposals only)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/10/human-machine-interfacing-in-western-and-global-literature-media-and-culture",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-17",
+      "eventDate": "",
+      "location": "Nizar Zouidi/University of Gafsa",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "AI",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started...",
+      "fullDescription": "Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started long before the invention of these technologies. Machines did communicate with us and tell us about themselves even before chatbots were invented. The clanking of a hammer on the anvil tells us that it is old and dull. The whistle of a microwave tells us that dinner is ready. The process of interfacing is not a one-way process. Through it, humans also communicate with the machine.",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Fellowship & Grant Deadlines Name Type Due ACLS Fellowships",
       "source": "ACLS",
       "sourceName": "ACLS Competitions and Deadlines",
@@ -2797,6 +2797,30 @@
       "excerpt": "Although internet culture may have brought about the hashtag #WeirdGirlLit,” women authors have long used writing to explore taboo and forbidden topics deemed beyond the purview of polite/patriarchal society. While Heather Colley of Writers Digest has noted that “Women in literary fiction are becoming murderers, cannibals, psychopaths, and stalkers,” we c...",
       "fullDescription": "Although internet culture may have brought about the hashtag #WeirdGirlLit,” women authors have long used writing to explore taboo and forbidden topics deemed beyond the purview of polite/patriarchal society. While Heather Colley of Writers Digest has noted that “Women in literary fiction are becoming murderers, cannibals, psychopaths, and stalkers,” we contend that female protagonists have long been unhinged both across time and space. Historically, freaky (anti)heroines have served as a release through which women readers could escape the restrictive confines of ideal femininity and instead probe hidden desires and other illicit aspects of their identities.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
+      "title": "ACLA 2027 : Digital Visibility: Resistance, Marginalization and Platform Power",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106871",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-22",
+      "eventDate": "",
+      "location": "Atousa Kaviani Binghamton University",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Digital Humanities / Design",
+        "Art / Media Practice"
+      ],
+      "excerpt": "In the present digital era, the public sphere, as defined by Jürgen Habermas—a space where citizens negotiate power through collective discussion and political participation—has shifted on digital platforms.",
+      "fullDescription": "In the present digital era, the public sphere, as defined by Jürgen Habermas—a space where citizens negotiate power through collective discussion and political participation—has shifted on digital platforms.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
       "publish": true
     },
     {
@@ -8431,6 +8455,29 @@
       "fullDescription": "XXXIV Congreso Internacional sobre Aprendizaje, Universidad Arist&oacute;teles de Tesal&oacute;nica, Grecia, 7-9 de julio de 2027. Fundada en 1989, la Red de Investigaci&oacute;n de Aprendizaje se re&uacute;ne en torno a un interés com&uacute;n por el aprendizaje ?en sus vertientes tanto formal como informal? abarcando todos sus niveles: desde el aprendizaje durante la primera infancia, pasando por el periodo escolar, ense&ntilde;anza secundaria y universitaria, hasta la educaci&oacute;n para adultos que se desarrolla en las diferentes poblaciones y &aacute;mbitos laborales. El XXXIV Congreso Internacional sobre Aprendizaje invita a presentar investigaciones que abordan los siguientes temas anuales y el tema destacado de 2027: Tema destacado 2027 - Educaci&oacute;n democr&aacute;tica en la era de la IA: Diversidad y alfabetizaci&oacute;n para la IA Tema 1: Futuros democr&aacute;ticos del aprendizaje Tema 2: Diversidad cr&iacute;tica e inclusi&oacute;n Tema 3: Aprendizaje pr&aacute;ctico de la IA Tema 4: Gobernanza y ética en la educaci&oacute;n",
       "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
       "publish": false
+    },
+    {
+      "title": "Twelfth International Conference on Communication & Media Studies",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Translation Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twelfth-international-conference-on-communication-media-studies",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-09-13",
+      "eventDate": "2027-10-13",
+      "location": "Common Ground Research Networks",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Twelfth International Conference on Communication & Media Studies, Toronto Metropolitan University, Toronto, Canada, 13-15 October 2027 Founded in 2015, the Communication & Media Studies Research Network offers an interdisciplinary forum for the discussion of the role of the media and communications in society. We seek to build an epistemic community wher...",
+      "fullDescription": "Twelfth International Conference on Communication & Media Studies, Toronto Metropolitan University, Toronto, Canada, 13-15 October 2027 Founded in 2015, the Communication & Media Studies Research Network offers an interdisciplinary forum for the discussion of the role of the media and communications in society. We seek to build an epistemic community where we can make linkages across disciplinary, geographic, and cultural boundaries. As a Research Network, we are defined by our scope and concerns and motivated to build strategies for action framed by our shared themes and tensions. The Twelfth International Conference on Communication & Media Studies will address the following annual themes and special focus:",
+      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
+      "publish": true
     },
     {
       "title": "Eighteenth International Conference on The Image",
