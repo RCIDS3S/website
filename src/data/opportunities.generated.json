@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,14 +8,10 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Film and Television",
-      "count": 40
+      "count": 36
     },
     {
       "source": "UPenn CFP: Journals and Collections",
-      "count": 27
-    },
-    {
-      "source": "UPenn CFP: Rhetoric and Composition",
       "count": 23
     },
     {
@@ -24,19 +20,23 @@
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 20
+      "count": 21
     },
     {
-      "source": "CFPList: Film, TV & Media",
-      "count": 18
+      "source": "UPenn CFP: Rhetoric and Composition",
+      "count": 21
     },
     {
       "source": "CFPList: Graduate Conferences",
       "count": 18
     },
     {
-      "source": "UPenn CFP: Theory",
+      "source": "CFPList: Film, TV & Media",
       "count": 18
+    },
+    {
+      "source": "UPenn CFP: Theory",
+      "count": 17
     },
     {
       "source": "ACLS Competitions and Deadlines",
@@ -44,19 +44,11 @@
     },
     {
       "source": "UPenn CFP: Cultural Studies",
-      "count": 13
-    },
-    {
-      "source": "UPenn CFP: Pedagogy",
-      "count": 11
+      "count": 14
     },
     {
       "source": "CFPList: Rhetoric & Composition",
       "count": 11
-    },
-    {
-      "source": "UPenn CFP: Ethnicity and National Identity",
-      "count": 10
     },
     {
       "source": "CFPList: Pedagogy",
@@ -67,19 +59,27 @@
       "count": 9
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 8
+      "source": "UPenn CFP: Ethnicity and National Identity",
+      "count": 9
     },
     {
-      "source": "UPenn CFP: Gender and Sexuality",
+      "source": "UPenn CFP: Pedagogy",
+      "count": 9
+    },
+    {
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 7
+    },
+    {
+      "source": "CFPList: Philosophy",
+      "count": 6
     },
     {
       "source": "UPenn CFP: African American",
-      "count": 7
+      "count": 6
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
+      "source": "UPenn CFP: Gender and Sexuality",
       "count": 5
     },
     {
@@ -87,28 +87,16 @@
       "count": 5
     },
     {
-      "source": "CFPList: Professional Communication Search",
-      "count": 4
-    },
-    {
       "source": "CFPList: Communication Studies Search",
-      "count": 4
+      "count": 5
     },
     {
-      "source": "CFPList: Philosophy",
+      "source": "CFPList: Professional Communication Search",
       "count": 4
     },
     {
       "source": "CLIR Programs and Grants",
       "count": 4
-    },
-    {
-      "source": "UPenn CFP: Fan Studies and Fandom",
-      "count": 3
-    },
-    {
-      "source": "UPenn CFP: Interdisciplinary",
-      "count": 3
     },
     {
       "source": "UPenn CFP: Professional Topics",
@@ -117,6 +105,10 @@
     {
       "source": "National Endowment for the Humanities Grants",
       "count": 3
+    },
+    {
+      "source": "UPenn CFP: Interdisciplinary",
+      "count": 2
     },
     {
       "source": "UPenn CFP: Popular Culture",
@@ -143,93 +135,31 @@
       "count": 2
     },
     {
+      "source": "UPenn CFP: Fan Studies and Fandom",
+      "count": 2
+    },
+    {
+      "source": "CFPList",
+      "count": 1
+    },
+    {
       "source": "UPenn CFP: Twentieth Century and Beyond",
+      "count": 1
+    },
+    {
+      "source": "UPenn CFP: Modernist Studies",
       "count": 1
     }
   ],
   "items": [
     {
-      "title": "CFP - SAMLA Panel: \"Something to Know about Me\": First-Person Perspective in College Essays",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/cfp-samla-panel-something-to-know-about-me-first-person-perspective-in-college-essays",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "South Atlantic Modern Language Association",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 66,
-      "fields": [
-        "Rhetoric",
-        "Digital Humanities / Design",
-        "Pedagogy"
-      ],
-      "excerpt": "Abstract Demanding that student writers maintain an objective, third-person stance when writing academic essays persists in the academy. However, we hold that providing students with strategies that help them develop a hospitable mindset in the writing process, one in which they aim to make a meaningful connection with their readers through the use of bot...",
-      "fullDescription": "Abstract Demanding that student writers maintain an objective, third-person stance when writing academic essays persists in the academy. However, we hold that providing students with strategies that help them develop a hospitable mindset in the writing process, one in which they aim to make a meaningful connection with their readers through the use of both first person and personal experience, does not diminish the scholarly rigor of college-level work. Moreover, by adopting the attitude that student writing is not immediately designed for publication, educators can focus on helping students find ways to connect with readers while cultivating their own writing styles. Description",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "SAMLA 98: Tastes Like Home: Immigrant and Diasporic Food Sites as Hospitality",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106820",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "South Atlantic Modern Language Association",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Rhetoric",
-        "Funding",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Through an interdisciplinary approach drawing from rhetorical, gender, and literary studies, this panel explores how immigrant and diasporic communities, who are often socially marginalized in the West, create hospitality for each other. In particular, food sites and practices make belonging possible in otherwise displaced circumstances. For example, Mich...",
-      "fullDescription": "Through an interdisciplinary approach drawing from rhetorical, gender, and literary studies, this panel explores how immigrant and diasporic communities, who are often socially marginalized in the West, create hospitality for each other. In particular, food sites and practices make belonging possible in otherwise displaced circumstances. For example, Michelle Zauner’s memoir Crying in H Mart (2021) shows how ethnic grocery stores and restaurants are material spaces in which cultural memory is archived especially across generations. Similarly, Chithra Banerjee Divakaruni’s novel The Mistress of Spices (1997) showcases how food stores can offer healing and sanctuary for a community.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Funding, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Identity in Popular Culture (SAMLA)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/24/identity-in-popular-culture-samla",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "South Atlantic Modern Language Association",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Film / Media",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Hosting Identity: Boundaries, Bodies, and Belonging in Popular Culture Who—or what—do we let in? This panel invites papers that examine how identity in popular culture is shaped through the logics of hospitality: encounters structured by thresholds, boundaries, and negotiations of belonging. From the body to the home to the platform, popular media repeate...",
-      "fullDescription": "Hosting Identity: Boundaries, Bodies, and Belonging in Popular Culture Who—or what—do we let in? This panel invites papers that examine how identity in popular culture is shaped through the logics of hospitality: encounters structured by thresholds, boundaries, and negotiations of belonging. From the body to the home to the platform, popular media repeatedly stages identity as something that must be received, managed, or refused.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "The AI Knowledge Society: Mapping Digital Hospitality and Hostility (Panel: traditional / In-Person)",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
+      "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/49834",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-05",
       "location": "Wyndham Atlanta Buckhead Hotel and Conference Center * Atlanta, GA · South Atlantic Modern Language Association (SAMLA)",
       "status": "open",
@@ -238,15 +168,14 @@
       "publishMode": "auto",
       "score": 54,
       "fields": [
-        "Film / Media",
         "AI",
         "Digital Humanities / Design",
-        "Art / Media Practice",
-        "Theory"
+        "Theory",
+        "Art / Media Practice"
       ],
       "excerpt": "Abstract Artificial Intelligence (AI) systems, in contemporary digital society, have drastically evolved from statistical tools to principal instruments of knowledge production, validation and dissemination. Large language models (LLMs), automated search systems, and predictive algorithms increasingly dictate what society knows, how knowledge is validated...",
       "fullDescription": "Abstract Artificial Intelligence (AI) systems, in contemporary digital society, have drastically evolved from statistical tools to principal instruments of knowledge production, validation and dissemination. Large language models (LLMs), automated search systems, and predictive algorithms increasingly dictate what society knows, how knowledge is validated, and who is recognized as an expert/authority. This shift demands a rigorous critique from the perspective of the sociology of knowledge to evaluate how power, inequality, and social structures are embedded within these automated epistemic tools. The panel invites contributions that explore this socio-epistemic duality of AI through conflicting dynamics: Societal Hospitality and Structural Hostility. Detailed Description On the surface, consumer-facing AI presents a welcoming, democratic frontier. It offers immediate information access, bridges linguistic barriers, lowers technical entry requirements, and serves as an affordable intellectual assistant. This interface-level hospitality suggests an era of information democratization, flattening historical institutional gatekeeping. Beneath this user-friendly disguise lies an aggressive political economy of knowledge. This infrastructure relies on the extraction of human cognitive labor, the enclosure of the global intellectual commons, and the automated erasure of marginalized ways of knowing. The back end of AI systems enforces a rigid epistemology that encodes historical social biases, presenting them as neutral, objective, mathematical truths. This panel seeks to bring together scholars, theorists, and empirical researchers to map this friction. The panel aims to explore how AI acts simultaneously as an infrastructure of social integration and a vector of epistemic alienation. The panel invites abstracts from scholars at all career stages, encouraging contributions from digital sociology, science and technology studies (STS), critical race studies, media studies, political economy and other interdisciplinary fields. The panel welcomes empirical, theoretical, and methodological papers that address questions including, but not limited to: The Political Economy of Algorithmic Expertise The Erasure of Tacit and Indigenous Knowledge The Deskilling and Alienation of Cognitive Labor Conversational AI as a Trojan Horse Digital Colonialism and Epistemic Homogenization Algorithmic Stratification and Epistemic Class Divides Epistemic Resistance, Subversion, and Counter-Publics The Techno-Religious Frame: AI as the Modern Oracle Reference Benjamin, R. (2019). Race After Technology: Abolitionist Tools for the New Jim Code. Polity. Collins, H. (2024). Why Artificial Intelligence Needs Sociology of Knowledge. Cambridge University Press. Crawford, K. (2021). Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press. Fricker, M. (2007). Epistemic Injustice: Power and the Ethics of Knowing. Oxford University Press. Liu, C. (2026). The Sociology of AI as an Emerging Field: Mapping Tensions and Boundaries. Sociology Compass. Zuboff, S. (2019). The Age of Surveillance Capitalism. Public Affairs. Submission Requirements Abstracts: 300-500 words, clearly stating the research problem, theoretical framework, methodology (if empirical), and core argument along with A/V requirements Keywords: 3-5 keywords Biography: A brief biography (100 words) of the author(s)Please send queries, suggestions and scheduling requests to Dr. Amrita Basu Roy Chowdhury (Lady Brabourne College, India) at basuroyamrita1983@gmail.com and/or through the Ballast platform by 31 August 2026. [Please note that all submissions will eventually have to be uploaded through Ballast.]",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, AI, Digital Humanities / Design, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Theory, Art / Media Practice.",
       "publish": true
     },
     {
@@ -256,7 +185,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -274,296 +203,13 @@
       "publish": true
     },
     {
-      "title": "Before the Renaissance: Hollywood Art Cinema Under the Studio System",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/08/before-the-renaissance-hollywood-art-cinema-under-the-studio-system",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Mark McKenna / University of Sheffield",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice"
-      ],
-      "excerpt": "At its most ambitious, the New Hollywood was a movement intended to cut film free of its evil twin, commerce, enabling it to fly high through the thin air of art. The filmmakers of the '70s hoped to overthrow the studio system, or at least render it irrelevant, by democratizing filmmaking, putting it into the hands of anyone with talent and determination.",
-      "fullDescription": "At its most ambitious, the New Hollywood was a movement intended to cut film free of its evil twin, commerce, enabling it to fly high through the thin air of art. The filmmakers of the '70s hoped to overthrow the studio system, or at least render it irrelevant, by democratizing filmmaking, putting it into the hands of anyone with talent and determination.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Postcolonial Hospitality",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/20/postcolonial-hospitality",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2026-11-05",
-      "location": "SAMLA conference 2026",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "This panel at the SAMLA 97 conference (Nov. 5-7, 2026) examines hospitality as a critical framework within postcolonial studies, attending to the ways literary and cultural texts negotiate welcome, refusal, obligation, and exposure in the aftermath of empire. Within empire studies, hospitality emerges as a fraught ethical and aesthetic relation shaped by...",
-      "fullDescription": "This panel at the SAMLA 97 conference (Nov. 5-7, 2026) examines hospitality as a critical framework within postcolonial studies, attending to the ways literary and cultural texts negotiate welcome, refusal, obligation, and exposure in the aftermath of empire. Within empire studies, hospitality emerges as a fraught ethical and aesthetic relation shaped by colonial histories, uneven mobility, and asymmetrical power. We consider how such texts register these dynamics across postcolonial contexts. Readings across genres and media—including novels, graphic novels, life writing, film, poetry, and theory—deploy hospitality as a vital lens for understanding postcolonial subjectivity, relationality, and the ongoing legacies of colonial governance.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Theory.",
-      "publish": true
-    },
-    {
-      "title": "The Routledge Companion to Octavia E. Butler",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/08/the-routledge-companion-to-octavia-e-butler",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2006-02-24",
-      "location": "Gerry Canavan, Susana M. Morris, and Kendra R. Parker",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "2026 marks multiple milestones for the legacy of legendary Afrofuturist author Octavia E. Butler: fifty years since the publication of her first novel, Patternmaster (1976), and the twentieth anniversary of her passing, on February 24, 2006. It also marks the announcement of a film version of one of her most famous and most prophetic works, Parable of the...",
-      "fullDescription": "2026 marks multiple milestones for the legacy of legendary Afrofuturist author Octavia E. Butler: fifty years since the publication of her first novel, Patternmaster (1976), and the twentieth anniversary of her passing, on February 24, 2006. It also marks the announcement of a film version of one of her most famous and most prophetic works, Parable of the Sower (1993), as well as the surprise republishing of her disavowed novel, Survivor (1978), for the first time since the 1980s. These anniversaries arrive at a moment when Butler’s work continues to gain public attention for its prescience and political relevance, and as she continues to amass scholarly attention across scholarly disciplines.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "Motherhood in the American Imagination",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/03/motherhood-in-the-american-imagination",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Amanda Konkle",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice"
-      ],
-      "excerpt": "I seek proposals for brief scholarly essays (3500-5000 words) that provide an overview of a chosen aspect of motherhood in the American imagination for a volume under contract with a new Bloomsbury series called Exploring the American Imagination: Ideals, Values, and Myths in Popular Culture. These overview essays should cite a number of popular culture t...",
-      "fullDescription": "I seek proposals for brief scholarly essays (3500-5000 words) that provide an overview of a chosen aspect of motherhood in the American imagination for a volume under contract with a new Bloomsbury series called Exploring the American Imagination: Ideals, Values, and Myths in Popular Culture. These overview essays should cite a number of popular culture texts to provide an overview of the tensions and contradictions as well as the foundational beliefs inherent in various aspects of American motherhood. Essays should cover multiple genres (film, fiction, television, graphic novels, music) and a broad time period. These are overviews or research starters rather than narrow analyses.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "SAMLA 2026 Panel: Post-American Hospitalities",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/04/samla-2026-panel-post-american-hospitalities",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "SAMLA - South Atlantic Modern Language Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "The 98th annual SAMLA Conference is taking place Thursday, November, 5, through Saturday, November, 7, 2026, at the Wyndham Atlanta Buckhead Hotel & Conference Center in Atlanta, GA. For more information, see https://southatlanticmla.org/ .",
-      "fullDescription": "The 98th annual SAMLA Conference is taking place Thursday, November, 5, through Saturday, November, 7, 2026, at the Wyndham Atlanta Buckhead Hotel & Conference Center in Atlanta, GA. For more information, see https://southatlanticmla.org/ .",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "UPDATE--Football and Performance",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/04/football-and-performance",
-      "type": "Edited Collection",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Eero Laine",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CFP: Football and Performance Editors: Eero Laine, Noe Montez, and Shannon Walsh We are currently seeking chapter abstracts for an edited volume on football and performance. Theatre and performance studies allow us a unique view towards the ways that sports extend into civic space, politics, and daily life. How can the disciplines of theatre, dance, and p...",
-      "fullDescription": "CFP: Football and Performance Editors: Eero Laine, Noe Montez, and Shannon Walsh We are currently seeking chapter abstracts for an edited volume on football and performance. Theatre and performance studies allow us a unique view towards the ways that sports extend into civic space, politics, and daily life. How can the disciplines of theatre, dance, and performance studies serve as an analytic for sport, generally, and American football, in particular?",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "CALL FOR PAPERS AS CHAPTERS IN AN EDITED BOOK",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/14/call-for-papers-as-chapters-in-an-edited-book",
-      "type": "Edited Collection",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Prof. Jaydeep Chakrabarty and Arnab Bhattacharjee",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Virginia Woolf’s Mrs Dalloway (1925) remains a cornerstone of the modernist literary canon. Often celebrated as Woolf’s greatest novel, the plot is set in post-World War I London and revolves around a single day in the life of its protagonist, Mrs Clarissa Dalloway, as she prepares to host an evening party. Beneath its seemingly simple plot, the novel exe...",
-      "fullDescription": "Virginia Woolf’s Mrs Dalloway (1925) remains a cornerstone of the modernist literary canon. Often celebrated as Woolf’s greatest novel, the plot is set in post-World War I London and revolves around a single day in the life of its protagonist, Mrs Clarissa Dalloway, as she prepares to host an evening party. Beneath its seemingly simple plot, the novel exemplifies a profound exploration of consciousness, time, and the inner lives of characters through its extensive use of the stream-of-consciousness technique. Although narrated in a third-person omniscient voice, the narrative primarily focuses on the inner consciousness of the characters.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "National Narratives of the Far Right: (mis) Representing Culture",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Ethnicity and National Identity",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/26/national-narratives-of-the-far-right-mis-representing-culture",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Laura Jeffries / South Atlantic MLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Public understanding of American cultures—peoples, neighborhoods, languages, foods, histories, arts, religions—has always been vulnerable to myth and misinformation, in particular from the far right. Collectively the humanities work to establish an ever-more accurate/inclusive lens on culture, but the (re)mainstreaming of far-right voices has dangerously...",
-      "fullDescription": "Public understanding of American cultures—peoples, neighborhoods, languages, foods, histories, arts, religions—has always been vulnerable to myth and misinformation, in particular from the far right. Collectively the humanities work to establish an ever-more accurate/inclusive lens on culture, but the (re)mainstreaming of far-right voices has dangerously distorted the diverse American story.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "CITIES IN LITERATURE / LA VILLE DANS LA LITTÉRATURE / ORAŞUL ÎN LITERATURĂ",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Modernist Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/01/cities-in-literature-la-ville-dans-la-litt%C3%A9rature-ora%C5%9Ful-%C3%AEn-literatur%C4%83",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Acta Iassyensia Comparationis",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Invitation to Publish in ACTA IASSYENSIA COMPARATIONIS no. 37 (2026) Thematic issue: CITIES IN LITERATURE / LA VILLE DANS LA LITT ÉRATURE / ORAŞUL ÎN LITERATURĂ The deadline for the submission of articles and book reviews (in Romanian, English, French, German, Spanish or Italian) is September 01, 2026. The final decision of the AIC Editorial Board will be...",
-      "fullDescription": "Invitation to Publish in ACTA IASSYENSIA COMPARATIONIS no. 37 (2026) Thematic issue: CITIES IN LITERATURE / LA VILLE DANS LA LITT ÉRATURE / ORAŞUL ÎN LITERATURĂ The deadline for the submission of articles and book reviews (in Romanian, English, French, German, Spanish or Italian) is September 01, 2026. The final decision of the AIC Editorial Board will be passed on before December 15, 2026. Corrections (if required) and comments by the authors expected between December 15, 2026 and January 15, 2027.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "CFP: European Journal of Media, Art & Photography - 2/2026",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Fan Studies and Fandom",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/16/cfp-european-journal-of-media-art-photography-22026",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "European Journal of Media, Art & Photography",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "European Journal of Media, Art & Photography ejmap.sk | Indexed in WoS Emerging Sources Citation Index (ESCI) | Q1 in art journals category",
-      "fullDescription": "European Journal of Media, Art & Photography ejmap.sk | Indexed in WoS Emerging Sources Citation Index (ESCI) | Q1 in art journals category",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "(In)Hospitable Earth: Entertaining the World Beyond Ecopessimism - Deadline Extended",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/49495",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
-      "eventDate": "2026-11-05",
-      "location": "Atlanta, GA · SAMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "\"It is worse, much worse, than you think\" states David Wallace-Wells at the opening of his The Uninhabitable Earth: Life After Warming (2019). \"When do we start physically attacking the things that consume our planet and destroy them with our own hands?\" asks Andreas Malm in How to Blow Up a Pipeline (2021). \"I don't think about hope much anymore. But I d...",
-      "fullDescription": "\"It is worse, much worse, than you think\" states David Wallace-Wells at the opening of his The Uninhabitable Earth: Life After Warming (2019). \"When do we start physically attacking the things that consume our planet and destroy them with our own hands?\" asks Andreas Malm in How to Blow Up a Pipeline (2021). \"I don't think about hope much anymore. But I do think about imagination,\" writes Terry Tempest Williams in an interview contained in A voice in the Wilderness: Conversations with Terry Tempest Williams (2006). In the spaces between these statements we encounter a range of reactions to our warming condition, from blunt pessimism, to righteous anger, to nuanced reframing. Triangulating these sentiments, we arrive at an undeniable point of ecopessimism, an overwhelming feeling that everything is speeding toward destruction, the painful realization that perhaps Earth, \"the only home we've ever known\" to quote Carl Sagan, is no longer so welcoming. Counterintuitively, the narrative trope of the looming threat of an \"inhospitable earth\" may facilitate a denial of the reality of climate crisis. The narrative ubiquity of natural disasters, futures of scarcity, and apocalyptic hellscapes results in a figuring of an Earth incompatible with human life as an easily dispelled bogeyman looming familiarly, and therefore toothlessly, over future climate scenarios. What happens, however, if we read the \"end of the world\" instead as an ego death of the anthropocene? If the idea of an \"inhospitable earth\" no longer gains imaginative traction in advocacy or art, then we are tasked with imagining an afterlife for Earth as informed by an ethic of hospitality. The opposite of an \"inhospitable earth\" is not merely one that is conducive to human survival; being \"hospitable\" is defined as \"affording welcome and entertainment to strangers.\" How can an ethic of hospitality bend ecopessimism into something worth, as it were, entertaining? If the \"end of the world\" is certain, what might it look like, as Wendell Berry poetically urges us, to \"practice resurrection\"? This ASLE affiliated panel welcomes proposals that address the question of how to live (and entertain) in a world on fire. We are especially interested in work that moves beyond abstract hope and optimism to address the complex and overwhelming force of the overlapping crises of our time. If the worst must be assumed, where does that leave us? And what imaginings should we entertain while here? Possible topics may include: -The roles and limits of art and literature in addressing world crises. -Climate realism, doomerism, ecofascism, abundance and other ideologies that address the realities of an inhospitable Earth. -The uses/abuses of hope in understanding and planning for possible inhospitable futures. -The place of imagination in creating more hospitable futures. -Successes/Failures of environmental/climate justice in creating more equitable futures. -The image of technology such as A.I. or space travel as solutions to or escapes from climate collapse. -Treatment of the Other, broadly conceived, in light of environmental/climate crisis. -Any other topic that considers the overbearing presence of climate collapse, open subject area and time period. Please send abstracts of 250-500 words, along with A/V requirements and a brief bio, to Jency Wilson (jwilson17@una.edu) and Matt Spencer (mls0142@auburn.edu) by 24 August 2026.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "SAMLA November 2026: Innovative Approaches to Teaching Creative Writing",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Pedagogy",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/02/samla-november-2026-innovative-approaches-to-teaching-creative-writing",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2026-11-05",
-      "location": "Julie Boutwell-Peterson / University of Kentucky",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 40,
-      "fields": [
-        "Pedagogy"
-      ],
-      "excerpt": "Please note: This CFP is for the SAMLA Conference in Atlanta, Georgia Nov. 5-7, 2026.",
-      "fullDescription": "Please note: This CFP is for the SAMLA Conference in Atlanta, Georgia Nov. 5-7, 2026.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy.",
-      "publish": true
-    },
-    {
       "title": "Tentative Title- Beyond the Ocean: Maritime Infrastructure and Hydro-Narratives of Indians under the Raj",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2027-07-31",
       "location": "CFPList",
       "status": "open",
@@ -587,7 +233,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49640",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-10-05",
       "location": "Online · Durham University",
       "status": "open",
@@ -610,7 +256,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -633,7 +279,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -657,7 +303,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -675,37 +321,13 @@
       "publish": true
     },
     {
-      "title": "Unsettling the Threshold: Asian American Literature, Culture, and Politics of Hospitality",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Pedagogy",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/unsettling-the-threshold-asian-american-literature-culture-and-politics-of",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "South Atlantic Modern Language Association (SAMLA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Pedagogy",
-        "Funding"
-      ],
-      "excerpt": "In her foundational text Immigrant Acts , cultural theorist Lisa Lowe argues that the Asian immigrant exists as a “perpetual foreigner within the body politic,” a figure through whom the nation-state defines its own boundaries and citizenship. For Lowe, Asian American cultural production emerges precisely from this “distance from the national culture,” se...",
-      "fullDescription": "In her foundational text Immigrant Acts , cultural theorist Lisa Lowe argues that the Asian immigrant exists as a “perpetual foreigner within the body politic,” a figure through whom the nation-state defines its own boundaries and citizenship. For Lowe, Asian American cultural production emerges precisely from this “distance from the national culture,” serving as a site that critiques the state’s false promises of universal inclusion.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy, Funding.",
-      "publish": true
-    },
-    {
       "title": "Engaging Research Across Humanities (ERAH) Graduate Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -730,7 +352,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -747,129 +369,13 @@
       "publish": true
     },
     {
-      "title": "Italian Ecofeminism and Literature",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/09/italian-ecofeminism-and-literature",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Nicole C. (Civitano) Dittmer, PhD",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Publication",
-        "Interdisciplinary"
-      ],
-      "excerpt": "Call For Papers for Italian Ecofeminism and Literature Deadline for Submissions: September 1, 2026 Notification date: October 1, 2026 Full name / Name of organization: Nicole C. (Civitano) Dittmer, PhD Contact email: ncdittmer@gmail.com",
-      "fullDescription": "Call For Papers for Italian Ecofeminism and Literature Deadline for Submissions: September 1, 2026 Notification date: October 1, 2026 Full name / Name of organization: Nicole C. (Civitano) Dittmer, PhD Contact email: ncdittmer@gmail.com",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
-      "publish": true
-    },
-    {
-      "title": "Reminder — Setting the stage: a theatre and performance dissertation writing group",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/08/setting-the-stage-a-theatre-and-performance-dissertation-writing-group",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "Program in Theatre and Performance, Columbia University",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Setting the stage: a theatre and performance dissertation writing group Writing a dissertation can be lonely: we want to change that. Many of us first fell in love with theater because — through exploratory rehearsals, late-night tech runs, and joyful opening nights — we found camaraderie and connection, both of which can feel distant in graduate school....",
-      "fullDescription": "Setting the stage: a theatre and performance dissertation writing group Writing a dissertation can be lonely: we want to change that. Many of us first fell in love with theater because — through exploratory rehearsals, late-night tech runs, and joyful opening nights — we found camaraderie and connection, both of which can feel distant in graduate school. If theater is best practiced with others, how can our research and writing processes be shaped by the same commitment to community-building?",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Erasing Jewish Community in Christian Time",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Interdisciplinary",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/erasing-jewish-community-in-christian-time",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2027-07-05",
-      "location": "David G. Pedersen/ College of the Ozarks",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Theory"
-      ],
-      "excerpt": "Call for Papers: Erasing Jewish Community in Christian Time (or Replacement Theory Gets Medieval) International Medieval Conference, Leeds (UK), 5-8 July 2027",
-      "fullDescription": "Call for Papers: Erasing Jewish Community in Christian Time (or Replacement Theory Gets Medieval) International Medieval Conference, Leeds (UK), 5-8 July 2027",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
-      "publish": true
-    },
-    {
-      "title": "Marianne Moore: An International Conference (15-17 April 2027)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Modernist Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/marianne-moore-an-international-conference-15-17-april-2027",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2027-04-15",
-      "location": "Faculty of English, University of Cambridge",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Marianne Moore 2027, hosted by the Faculty of English at the University of Cambridge, will follow the highly successful formats of previous Moore conferences (Penn State 2003, Houston 2015, Buffalo 2020, Stanford 2025) with a schedule of panels, round tables and Q&As for a single audience over two and a half days. Exactly 100 years after Moore herself vis...",
-      "fullDescription": "Marianne Moore 2027, hosted by the Faculty of English at the University of Cambridge, will follow the highly successful formats of previous Moore conferences (Penn State 2003, Houston 2015, Buffalo 2020, Stanford 2025) with a schedule of panels, round tables and Q&As for a single audience over two and a half days. Exactly 100 years after Moore herself visited Cambridge, the purpose of the conference is to bring together an international and various group of readers with a strong predilection for thinking and writing about poetry, and put them to work newly and again on this singular, difficult, and discriminating poet. The schedule will take shape around readings between Marianne Moore and other writers.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Hospitable Conrad: Friendship and Collaboration in Joseph Conrad's Literary Career",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Modernist Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/12/hospitable-conrad-friendship-and-collaboration-in-joseph-conrads-literary-career",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2026-11-05",
-      "location": "Chris Cairney / Middle Georgia State University",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Abstracts are invited for a traditional panel session to be held at the annual meeting of the South Atlantic Modern Language Association, scheduled for 5-7 November 2026 at the Wyndham Atlanta Buckhead Hotel and Conference Center, Atlanta, GA, USA. This session intends to explore the theme of “hospitality” in the works of Joseph Conrad in order to highlig...",
-      "fullDescription": "Abstracts are invited for a traditional panel session to be held at the annual meeting of the South Atlantic Modern Language Association, scheduled for 5-7 November 2026 at the Wyndham Atlanta Buckhead Hotel and Conference Center, Atlanta, GA, USA. This session intends to explore the theme of “hospitality” in the works of Joseph Conrad in order to highlight how Conrad’s relationships both reflected and influenced his literary output throughout his career. Some relationships were more enduring than others, but all had an impact, often a profound impact, on his life and writing.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Ecocriticism and Representations of the Sea in the Arts in Portugal",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -893,7 +399,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -916,7 +422,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -933,82 +439,13 @@
       "publish": true
     },
     {
-      "title": "Inhospitable America: The Confounding Position of African American",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Gender and Sexuality",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/19/inhospitable-america-the-confounding-position-of-african-american",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "",
-      "location": "LaRonda Sanders-Senu/ SAMLA 98",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "The idea of home is curious concept for African Americans. Though integral to the development and sustainability of the United States, the social death and cultural trauma of slavery render this country inhospitable to Black bodies and the psyches that inhabit them. African Americans are both at home and homeless. This tenuousness places them in a liminal...",
-      "fullDescription": "The idea of home is curious concept for African Americans. Though integral to the development and sustainability of the United States, the social death and cultural trauma of slavery render this country inhospitable to Black bodies and the psyches that inhabit them. African Americans are both at home and homeless. This tenuousness places them in a liminal space in which identity is simultaneously self-asserted and assigned, multifaceted, while limited, a fount of agency and a tool for impotence. The intersectional nature of Black femininity further complicates notions of identity and American hospitality. Black men have unsuccessfully employed patriarchy as an intraracial tool to combat the aforementioned social death.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Haunted Thresholds: The Southern Gothic in Comparative Perspective",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Gender and Sexuality",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/09/haunted-thresholds-the-southern-gothic-in-comparative-perspective",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2026-11-05",
-      "location": "SAMLA/South Atlantic Modern Language Association",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Haunted Thresholds: The Southern Gothic in Comparative Perspective South Atlantic Modern Language Association (SAMLA) 2026 Conference Dates: November 5–7, 2026 Location: Wyndham Atlanta Buckhead Hotel and Conference Center, Atlanta, Georgia Contact: stacy.stingle@gmail.com Haunted Thresholds: The Southern Gothic in Comparative Perspective",
-      "fullDescription": "Haunted Thresholds: The Southern Gothic in Comparative Perspective South Atlantic Modern Language Association (SAMLA) 2026 Conference Dates: November 5–7, 2026 Location: Wyndham Atlanta Buckhead Hotel and Conference Center, Atlanta, Georgia Contact: stacy.stingle@gmail.com Haunted Thresholds: The Southern Gothic in Comparative Perspective",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "“The Grandeur That Was Rome”: The 18th International F. Scott Fitzgerald Society Conference, June 21-28, 2027",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Modernist Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/25/%E2%80%9Cthe-grandeur-that-was-rome%E2%80%9D-the-18th-international-f-scott-fitzgerald-society",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-01",
-      "eventDate": "2027-06-21",
-      "location": "F. Scott Fitzgerald Society",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Rome and Capri, 21–28 June, 2027 F. Scott Fitzgerald visited Italy on two distinct occasions: first in the spring of 1921 during his and Zelda’s long-deferred honeymoon trip, and again from late 1924 to early 1925 during his unsuccessful attempt to economize. While the Fitzgeralds made brief stops in Venice, San Remo, Portofino, Savona, Pisa, Fiesole, Flo...",
-      "fullDescription": "Rome and Capri, 21–28 June, 2027 F. Scott Fitzgerald visited Italy on two distinct occasions: first in the spring of 1921 during his and Zelda’s long-deferred honeymoon trip, and again from late 1924 to early 1925 during his unsuccessful attempt to economize. While the Fitzgeralds made brief stops in Venice, San Remo, Portofino, Savona, Pisa, Fiesole, Florence, and Naples, it was in the two host sites of this conference—Rome and Capri—that he spent the most time. It was here that he found inspiration for some of his most celebrated works, as well as several others that remain underexplored.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "28TH METU BRITISH NOVELISTS INTERNATIONAL CONFERENCE:",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -1031,7 +468,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -1055,7 +492,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49475",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-05",
       "location": "Atlanta",
       "status": "open",
@@ -1078,7 +515,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -1101,7 +538,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48666",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-10-22",
       "location": "N/A",
       "status": "open",
@@ -1124,7 +561,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49504",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-04",
       "location": "· INVALSI",
       "status": "open",
@@ -1148,7 +585,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49446",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2027-02-03",
       "location": "New York, NY · College Art Association",
       "status": "open",
@@ -1172,7 +609,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -1195,7 +632,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -1218,7 +655,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -1241,7 +678,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -1264,7 +701,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-01",
+      "deadline": "2026-09-02",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -1442,6 +879,31 @@
       "excerpt": "Charter 77 at 50: Transnational Human Rights, Social Imagination, and Civic Resistance in the (Post-)Global Age 18–19 February 2027 | Vila Lanna, Prague The Institute of Contemporary History and the Institute of Philosophy of the Czech Academy of Sciences invite proposals for a two-day international conference bringing together historical scholarship and...",
       "fullDescription": "Charter 77 at 50: Transnational Human Rights, Social Imagination, and Civic Resistance in the (Post-)Global Age 18–19 February 2027 | Vila Lanna, Prague The Institute of Contemporary History and the Institute of Philosophy of the Czech Academy of Sciences invite proposals for a two-day international conference bringing together historical scholarship and contemporary reflections on civic activism and democratic resistance.",
       "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Translating Indian Languages in 21st Century: Challenges & Oppurtunities (Hybrid Mode)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/49970",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-06",
+      "eventDate": "2026-10-14",
+      "location": "Ludhiana (Punjab) · SCD Govt. College",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "India's civilizational ethos is deeply rooted in its multilingual and multicultural fabric, where translation has enabled the circulation of ideas, texts, and knowledge across regions and traditions. Etymologically understood as \"carrying across,\" translation in the 21st century extends beyond linguistic transfer to become a critical and interpretive prac...",
+      "fullDescription": "India's civilizational ethos is deeply rooted in its multilingual and multicultural fabric, where translation has enabled the circulation of ideas, texts, and knowledge across regions and traditions. Etymologically understood as \"carrying across,\" translation in the 21st century extends beyond linguistic transfer to become a critical and interpretive practice. A. K. Ramanujan, in his writings, draws attention to translation's context-sensitive nature, while G. N. Devy highlights the complex linguistic and cultural histories within which translation operates in India. Seen in this light, translation involves negotiation, re-articulation, and the making of new meanings within specific cultural settings. Practices such as transcreation, adaptation, and interpretation highlight the creative potential of translation. At the same time, the increasing use of machine translation and AI-based tools has introduced another dimension, making translation faster and more accessible, while also raising questions about accuracy and interpretation. In view of these varied contexts, practices, and concerns, this seminar aims to provide a platform for students, teachers, and researchers to reflect on the evolving role of translation in contemporary India across literary, academic, and everyday contexts. It seeks to bring together diverse perspectives on both the challenges and possibilities of translating Indian languages in the present day. Submissions are invited on the following themes: Translation in the classroom: pedagogy and practice Translation and cultural contexts: negotiation and interpretation Translating literary and non-literary texts Translation and cultural pluralism Translation across media: cinema, OTT, and digital platforms AI in translation: possibilities and challenges Translation, representation, and questions of voice Adaptation, transcreation, and rewriting Ethics and responsibilities in translation Emerging trends and research in translation studies The seminar is being held in Hybrid Mode. Register here: https://forms.gle/zYjXGehoDCu85UNm7",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -2576,6 +2038,29 @@
       "publish": true
     },
     {
+      "title": "Poetry in the Shadows: Socialist Noir and Aesthetic Freedom in 1980s Eastern Europe, the Soviet Union, and China",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/49987",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-22",
+      "eventDate": "2027-05-20",
+      "location": "Houston · ACLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 34,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "The 1980s represent a critical, yet highly under-researched decade in film studies. Frequently obscured by the towering grandeur of earlier revolutionary eras or the subsequent post-socialist New Waves of the 2000s, 1980s cinema across the socialist bloc suffers from low historical visibility, trapped in a volatile limbo of stagnant bureaucracy and early,...",
+      "fullDescription": "The 1980s represent a critical, yet highly under-researched decade in film studies. Frequently obscured by the towering grandeur of earlier revolutionary eras or the subsequent post-socialist New Waves of the 2000s, 1980s cinema across the socialist bloc suffers from low historical visibility, trapped in a volatile limbo of stagnant bureaucracy and early, destabilizing marketization. Rather than analyzing this transitional decade through Eurocentric binaries or looking outward toward Western postmodernism, this seminar investigates a distinct aesthetic phenomenon emerging along an East-East axis: the rise of late Socialist Noir within the confines of a vast, inescapable, and indifferent administrative state apparatus across Eastern Europe, the Soviet bloc, and post-Maoist China. Rather than reinforcing dichotomies between Western democracy and Eastern authoritarianism, this panel seeks to investigate the ways in which filmmakers increasingly turned to the cynical, atmospheric tropes of noir-moral ambiguity, claustrophobic urban paralysis, and alienation-to capture the unique psychological affect of late socialism. Moving beyond standard socialist realism, these directors used the neo-noir genre to expose structural decay and institutional paralysis while not necessarily attacking the workers' state or other positive aspects of welfare socialism. In this context, films as geographically distinct as Huang Jianxin's The Black Cannon Incident (1985) or Xie Fei's Black Snow (1990) in China, the musical dreamscapes of Rashid Nugmanov's The Needle (1988) or Sergei Solovyov's Assa (1987) in the Soviet Union, as well as the early, bleak urban landscapes of Béla Tarr and Péter Goth&aacute;r in Hungary, alongside the gritty subversiveness of Romanian social realism, the state-critical works of late-communist Poland, and the absurdist pseudo-comedies of Slobodan &Scaron;ijan or Goran Markovi? in post-Tito Yugoslavia, among many others, operate on a highly complex, dual affective code. On one hand, these narratives emit a distinct aura of communal warmth and socio-cultural nostalgia for the secure, familiar infrastructures of the socialist everyday; on the other hand, they are deeply shot through with systemic anxiety, disillusionment, and visceral stagnation. To dissect this friction, the panel references the theoretical work of Alexei Yurchak, Wang Hui, and Chris Berry, alongside the paradigm of chernukha cinema. Drawing on Andrew Horton and Michael Brashinsky's foundational text The Zero Hour, among many others, we discuss how this bleak, poetic, and raw aesthetic mode did not function as an ideological attack, operating instead as a transnational \"socialist affect\" or a shared \"structure of feeling\" within non-capitalist contexts. We explore how these films opened up polysemic spaces where directors retained creative leverage, while laying the structural groundwork for the dystopian \"miserabilism\" of later New Wave cinemas across the vast post-socialist landscape. This is an ACLA seminar. To submit a paper, please navigate to https://www.acla.org/seminar/66ca23ab-8b47-45b8-b2f8-fa96f972b088, click the \"Propose a paper\" button, and fill the registration. The submission deadline is September 22. The ACLA conference will take place in person in at the University of Huston, Texas, on May 20-23, 2027. Please refer any questions to lucian.tzion@gmail.com.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": false
+    },
+    {
       "title": "William S. Burroughs as a Problem, Not a Subject",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
@@ -2592,8 +2077,7 @@
       "score": 34,
       "fields": [
         "Rhetoric",
-        "Digital Humanities / Design",
-        "Theory"
+        "Digital Humanities / Design"
       ],
       "excerpt": "This seminar proposes to approach William S. Burroughs not simply as a subject of study, but as a problem. We invite provocative papers grounded in comparative methodologies and attentive to less-travelled texts, episodes, affiliations, and cultural encounters. Rather than asking what Burroughs \"was,\" we want to ask what his work does-and to pause over th...",
       "fullDescription": "This seminar proposes to approach William S. Burroughs not simply as a subject of study, but as a problem. We invite provocative papers grounded in comparative methodologies and attentive to less-travelled texts, episodes, affiliations, and cultural encounters. Rather than asking what Burroughs \"was,\" we want to ask what his work does-and to pause over the categories through which we have learned to understand his oeuvre, asking what they illuminate and, perhaps more importantly, what they conceal. What notions of authorship, originality, literary value, sexuality, politics, nationality, identity, language, media, knowledge, or artistic production did Burroughs put under pressure? What happens when his writing is read alongside figures, traditions, media, or intellectual histories with which it is not usually associated? Can Burroughs's experiments still unsettle us? And what do we make of his political views today? We are interested in archival work, but not simply in the recovery of origins or the reconstruction of authorial intention. Archives can instead be approached as contested sites of selection, mediation, myth-making, and afterlife. We are equally interested in familiar Burroughsian techniques-cut-up, collage, montage, sampling, recording-when they are placed in unexpected comparative contexts. What do these techniques actually do? How have they travelled beyond Burroughs? How are they being used today, and by whom? We also welcome papers willing to be unfriendly to their subject. Is Burroughs overrated? Is he politically embarrassing, historically compromised, or aesthetically exhausted? Is he already \"cancelled\"-or has cancellation itself become another way of making cultural icons safe? Can Burroughs be restored, and if so, to what? Or is he damaged beyond repair? What might we gain by taking seriously the possibility that some of his work should be rejected rather than rescued? Possible approaches include, but are not limited to: Burroughs and writers, artists, or intellectual traditions with which he is rarely compared Burroughs and competing theories of authorship, originality, and literary value Archives, censorship, canonization, and the production of literary authority Burroughs and the politics of race, gender, sexuality, class, empire, and nationality Burroughs's relationship to religion, esotericism, anthropology, science, medicine, and alternative forms of knowledge Literary and non-literary media: sound, film, photography, visual art, performance, television, and digital culture Adaptation, appropriation, influence, imitation, and misreading The contemporary uses and abuses of Burroughs Critical reception, including hostile, skeptical, and revisionist readings We especially welcome proposals that are comparative in more than name: papers that put Burroughs into genuine friction with another author, tradition, medium, language, archive, or conceptual framework. We are less interested in proving that Burroughs anticipated everything than in discovering where he fails, contradicts himself, becomes strange, becomes ordinary, or becomes impossible to classify.",
@@ -3572,7 +3056,7 @@
       "type": "Conference CFP",
       "deadlineType": "Submission",
       "deadline": "2026-09-30",
-      "eventDate": "",
+      "eventDate": "2027-03-06",
       "location": "Azadeh Eriss",
       "status": "open",
       "priority": "high",
@@ -3580,7 +3064,9 @@
       "publishMode": "auto",
       "score": 50,
       "fields": [
-        "Digital Humanities / Design"
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
       ],
       "excerpt": "Rethinking Cultural Mediation in Global Media NeMLA 2027 – Panel How does culture change as it travels across languages, media, technologies, and national borders? What roles do translators, audiences, institutions, platforms, and emerging technologies play in shaping how cultural meanings are represented, circulated, and received?",
       "fullDescription": "Rethinking Cultural Mediation in Global Media NeMLA 2027 – Panel How does culture change as it travels across languages, media, technologies, and national borders? What roles do translators, audiences, institutions, platforms, and emerging technologies play in shaping how cultural meanings are represented, circulated, and received?",
@@ -3895,29 +3381,6 @@
       ],
       "excerpt": "Call for Papers NeMLA’s 58th Annual Convention – “Empowering Communities” March 6–9, 2027 | Salve Regina University, Newport, Rhode Island (Hybrid Conference) Panel Title: Tracing Female Body, Art & Economy in the Global South Primary Area / Secondary Area: Women’s and Gender Studies / Interdisciplinary Humanities Modality: Hybrid Chair: Maryam Raza (Univ...",
       "fullDescription": "Call for Papers NeMLA’s 58th Annual Convention – “Empowering Communities” March 6–9, 2027 | Salve Regina University, Newport, Rhode Island (Hybrid Conference) Panel Title: Tracing Female Body, Art & Economy in the Global South Primary Area / Secondary Area: Women’s and Gender Studies / Interdisciplinary Humanities Modality: Hybrid Chair: Maryam Raza (University of Auckland, New Zealand)",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "History and the Black Renaissance",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: African American",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/16/history-and-the-black-renaissance",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "As its title indicates, this seminar will take a broad geographic and temporal view of the Harlem or New Negro Renaissance to invite considerations of the historicity and historiography of Black writing at the turn of the twentieth century. Seminar participants will be invited to consider how history shaped and was shaped by Black art, literature, and tho...",
-      "fullDescription": "As its title indicates, this seminar will take a broad geographic and temporal view of the Harlem or New Negro Renaissance to invite considerations of the historicity and historiography of Black writing at the turn of the twentieth century. Seminar participants will be invited to consider how history shaped and was shaped by Black art, literature, and thought in the period stretching from approximately the end of Reconstruction through the Civil Rights era. How did Black writers, artists, and thinkers use historical concepts, forms, narratives, figures, events, philosophies, discourses, and other materials to craft original works of art and literature?",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
       "publish": true
     },
@@ -4606,8 +4069,7 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Digital Humanities / Design",
-        "Theory"
+        "Digital Humanities / Design"
       ],
       "excerpt": "In what ways can literary mobilities provoke questions about social movements and forms of resistance in the current global order? Mobility is not simply the physical navigation of spaces, but an embodied and affective act with deep socio-cultural and political significance. Literary and cultural work that represents varied forms of mobility can reveal co...",
       "fullDescription": "In what ways can literary mobilities provoke questions about social movements and forms of resistance in the current global order? Mobility is not simply the physical navigation of spaces, but an embodied and affective act with deep socio-cultural and political significance. Literary and cultural work that represents varied forms of mobility can reveal contradictions between the exercise and assumption of agency and uneven historical and social conditions of restriction. Whether mobilities are framed as environmental, diasporic, colonial, or decolonial, they pose questions about material and symbolic conditions of power that dictate who can move and in what ways. This session welcomes proposals on subversive mobilities in cultural production to interrogate the connections between mobile subjects and wider mobilization efforts, resistance movements, protest cultures, and expressions of dissent. In investigating the links between mobility and mobilization, this session seeks to engage a wider conversation about the relationship between movement and resistance. Central questions this session will address include: How do different narratives-literature, film, graphic and visual arts, or other forms of storytelling-connect mobilities to activism and resistance movements? How do narrative forms participate in protest cultures? How do mobilities articulate political claims? This session welcomes papers with interdisciplinary approaches to narrative forms and textual cultures.",
@@ -4871,6 +4333,53 @@
       "publish": true
     },
     {
+      "title": "NeMLA Virtual Panel/Narrative Medicine and Community Empowerment in Asian and Arab Graphic Narratives",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49969",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, Rhode Island, USA · Northeast Modern Language Association/NeMLA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "This VIRTUAL panel invites papers on \"Narrative Medicine and Community Empowerment in Asian and Arab Graphic Narratives\" for NeMLA 58th Annual Convention to be held on March 6-9, 2027. \"Recent scholarship on increasing global conflicts and ensuing health crises urgently demands an intercultural and interdisciplinary re-inscription of the the intersection...",
+      "fullDescription": "This VIRTUAL panel invites papers on \"Narrative Medicine and Community Empowerment in Asian and Arab Graphic Narratives\" for NeMLA 58th Annual Convention to be held on March 6-9, 2027. \"Recent scholarship on increasing global conflicts and ensuing health crises urgently demands an intercultural and interdisciplinary re-inscription of the the intersection of medical humanities with arts and cultures. Such growing interest evinces how artistic and cultural forms reshape the diagnosis of traumas and pathologies and propel new forms of narrative engagement that fosters deeper connections, communal care, and collective empowerment\" (Atieh 2026). As a pertinent example, graphic and narrative medicine \"diverts from the standardized language of established medicine discourse and clinical frameworks whose limitation eclipses\" (Atieh 2026) the \"collective experience\" and \"mutual recognition\" (Charon et al., 2016) of pathologies, whether psychological, physical, social, cultural, or ecological. Graphic narratives are \"exceptionally committed to the reconceptualization of accessibility and care as communal practices that depart from individualized framings of clinical guidance or neutralized or centralized resilience. In particular, the implementation of visual narration moves beyond the abstraction or exclusive rhetoric of clinical diagnosis to develop the aesthetics of somatic-experiential embodiment that aligns with a decentralized experience\" (Atieh 2026) Graphic medicine then \"corroborates a multimodal intervention in clinical medicine narrative that anchors categorization and measurement as standardized indicators for the diagnosis of illness or its remission. Ultimately, graphic narration unsettles the opacity of biomedical discourse and its exclusive language, and reclaims an experiential or relational language that fosters deeper connections, promotes care, and advances responsibility toward whole and multispecies communities\" (Atieh 2026). In this regard, we invite papers that particularly address the perspectives of Asian and Arab graphic narratives on \"decentering healthcare discourse and transferring authority to embodied and collective experiences of pathology\" (Atieh 2026). The invited papers may illustrate how the shared experiences that underpin Asian and Arab graphic medicine mobilize an inclusive healthcare culture that advocates the agency of decentralized access and collective production of knowledge, and contribute to future formation. Possible topics can include, but are not limited to: - Breaking collective stigma and silence around pathology - Promoting affinities around pathology - Posthuman graphic narration and multispecies cooperation and survival - Graphic narration and multilingual accessibility - Graphic narratives on ecological precarity and possibility - Comics and climate change traumas - Graphic narratives and war traumas - Graphic access and medical education - Empathy Building -Clinicians/caregivers and patients' solidarity -Graphic narration and remission societies - Visual storytelling and health literacy - Recuperating patients' voices as story-tellers and story-listeners - Visibility and inclusion of migrant storytelling of trauma -Solarpunk graphic narratives Interested individuals are asked to submit an abstract of no more than 300 words (excluding abstract title) and a 100-word mini-biography. Submissions will only be accepted through the CFP address https://cfplist.com/nemla/Home/S/22530 Submission Deadline: September 30, 2026; Modality: Remote only Panel Chair: Majda R. Atieh; Sultan Qaboos University",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
+      "title": "\"Empowering Communities: Indigeneity, Colonial Power, and Agency\"",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49964",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "· The Northeast Modern Language Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "DESCRIPTION : This panel examines how colonial regimes constructed, managed, and contested the category of \"indigeneity\" as a shifting site of power, governance, and resistance. Focusing on the Spanish colonial presence in Morocco (1859-1956) as a primary case, the panel situates indigeneity within broader imperial frameworks in which racial, legal, and c...",
+      "fullDescription": "DESCRIPTION : This panel examines how colonial regimes constructed, managed, and contested the category of \"indigeneity\" as a shifting site of power, governance, and resistance. Focusing on the Spanish colonial presence in Morocco (1859-1956) as a primary case, the panel situates indigeneity within broader imperial frameworks in which racial, legal, and cultural categories were continually redefined through encounters between colonial authority and local agency. ABSTRACT : This panel examines how colonial regimes constructed, managed, and contested the category of \"indigeneity\" as a shifting site of power, governance, and resistance. In alignment with NeMLA's 2027 theme, \"Empowering Communities,\" the session explores how colonial and postcolonial communities are not passive subjects of imperial classification but active agents who negotiate, appropriate, and transform imposed identities. Focusing on the Spanish colonial presence in Morocco (1859-1956) as a primary case, the panel situates indigeneity within broader imperial frameworks in which racial, legal, and cultural categories were continually redefined through encounters between colonial authority and local agency. Drawing on approaches from colonial studies, postcolonial theory, and cultural history, the panel also invites comparative and interdisciplinary perspectives on how indigenous and marginalized communities engage with structures of power through resistance, collaboration, and strategic adaptation. Particular attention is given to the role of bodies, knowledge systems, and cultural representations-including medical, military, literary, and visual archives-in shaping colonial governance and indigenous responses. Rather than treating colonial categories as fixed, the panel foregrounds their instability and the ways in which communities actively participated in their transformation. Possible topics include colonial constructions of indigeneity; indigenous agency and resistance; community formation under colonial rule; colonial medicine, biopolitics, and governance; race, legal identity, and cultural categorization; archives and historical representation; decolonial and postcolonial approaches to indigeneity; gender and colonial power; nationalism and anti-colonial movements; comparative imperial frameworks; and contemporary reconfigurations of indigeneity and belonging. Interdisciplinary and comparative contributions are especially welcome.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "Leadership in Africa",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
@@ -5008,6 +4517,29 @@
       ],
       "excerpt": "Panel Chair: Noah Gallego, M.A. Contact: noahrgallego@gmail.com Dates: March 6 - 9, 2027 Location: Salve Regina University, Newport, Rhode Island While the exact calendrical origin of punk rock is nebulous, many credit 1977 as year zero. 1977 saw the release of the eponymous debut album of “the only band that matters,” The Clash, among several other iconi...",
       "fullDescription": "Panel Chair: Noah Gallego, M.A. Contact: noahrgallego@gmail.com Dates: March 6 - 9, 2027 Location: Salve Regina University, Newport, Rhode Island While the exact calendrical origin of punk rock is nebulous, many credit 1977 as year zero. 1977 saw the release of the eponymous debut album of “the only band that matters,” The Clash, among several other iconic releases, including but not limited to: The Sex Pistols’ Never Mind the Bollocks, Here’s the Sex Pistols , The Ramones’ Rocket to Russia , Talking Heads' Talking Heads: 77 , The Damned’s Damned Damned Damned , and The Runaways’ Queens of Noise .",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
+      "title": "History and the Black Renaissance",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Cultural Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/16/history-and-the-black-renaissance",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "NeMLA",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "March 6-9, 2027 Newport, RI Convention Site: Salve Regina University",
+      "fullDescription": "March 6-9, 2027 Newport, RI Convention Site: Salve Regina University",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
@@ -5239,6 +4771,31 @@
       "excerpt": "Palestine and the Challenge to German Studies Northeast Modern Language Association (NeMLA) annual convention Newport, Rhode Island March 6-9, 2027 Submission Deadline: 30 September 2026 through the NeMLA portal: https://cfplist.com/nemla/Home/S/22528 Recent work in and around German Studies (Younes and Al-Taher; El Bulbeisi; &Ouml;zyürek; Moses; Salehi)...",
       "fullDescription": "Palestine and the Challenge to German Studies Northeast Modern Language Association (NeMLA) annual convention Newport, Rhode Island March 6-9, 2027 Submission Deadline: 30 September 2026 through the NeMLA portal: https://cfplist.com/nemla/Home/S/22528 Recent work in and around German Studies (Younes and Al-Taher; El Bulbeisi; &Ouml;zyürek; Moses; Salehi) argues that the erasure of Palestinian identity in Germany is tied to deeper national tensions: How the country remembers its past, how it talks or avoids talking about race, what kinds of political speech are treated as acceptable, and how it confronts histories of imperialism and genocide. Moreover, scholars (Thompson and Tuzcu; Ragab; Daher) have documented how major institutions in Germany have been engaged in a wave of repression of ethnic minority communities, targeting Palestinians, other people of color, and Jewish anti-Zionists. This scholarship demonstrates how such pressures influence which voices, histories, and political positions are treated as legitimate within the field of German Studies, and which ones are marginalized. This panel invites contributions that explore how German Studies has begun or has struggled to engage with the significance of Palestine and Palestinian life, not only in contemporary German culture, politics, and literature, but within the discipline's own structures. While scholarship on Holocaust memory culture, as well as on multidirectional memory and migrant memory archives, has broadened the field's understanding of how Holocaust memory circulates and how migrant communities navigate its demands, recent work, such as articles by Catlin, Kundnani, and Rosenbrück in the New German Critique special issue \"German Memory Politics at a Crossroads\" (2026) provides evidence of the limits of these frameworks and the political pressures that shape them. Rather than challenge the centrality of Holocaust memory itself, this panel aims to examine how it is mobilized to foreclose other histories of violence, displacement, and coloniality, and how this foreclosing makes it difficult to integrate anti-imperialist, antiracist, and decolonial approaches that would situate Germany within broader histories of imperialism, colonial violence, and genocide. Palestine makes these dynamics visible by revealing how debates about memory shape disciplinary boundaries, how racialization and political speech determine scholarly legitimacy, and how exclusions are reproduced even within critical frameworks. This panel welcomes contributions that examine where Palestine appears, where it is actively excluded, and how these patterns expose German Studies' unresolved tensions around race, German colonial histories, and the politics of knowledge production. The goal of this panel is to open a conversation about how German Studies might expand beyond memory-centered approaches toward more globally attuned, anti?imperialist, and decolonial analytical frameworks. Topics include but are not limited to: · Intersectional decolonial feminist frameworks and praxes · Critiques of white Western imperial feminism · \"Pinkwashing\" and \"homonationalism\" to justify colonial violence and dehumanize Indigenous communities · The role of anti-Palestinian racism in mainstream anti-immigrant backlash and far-right political actors · Scapegoating of Muslims as the new Nazis in the theory of \"imported anti-Semitism\" (&Ouml;zyürek) · Germany's colonial and neocolonial relationships to the broader region of West Asia · Integrating Palestinian perspectives into pedagogy, curriculum, and study abroad advising · Courses and lesson plans that include the Nakba and its continuity · German Studies and BDS/academic boycott · The \"Historikerstreit 2.0\" and attacks on \"postcolonialism\" · The history of East German solidarity with Palestinians · Student and faculty support in campus organizing for Palestine solidarity, and institutional and departmental barriers Abstracts: Please submit 300-word abstracts by 30 September 2026 though the NeMLA portal: https://cfplist.com/nemla/Home/S/22528 For questions, please contact the panel organizer Maria Grewe (mgrewe@jjay.cuny.edu).",
       "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
+      "publish": false
+    },
+    {
+      "title": "Language, Literature, and Learning: Interdisciplinary Perspectives",
+      "source": "CFPList",
+      "sourceName": "CFPList: Communication Studies Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/49235",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-09-30",
+      "location": "https://sites.google.com/view/call-for-book-chapters/home · KY Publications",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Communication",
+        "Pedagogy",
+        "Publication"
+      ],
+      "excerpt": "Invitation for Chapter Contributions Book Title: Language, Literature, and Learning: Interdisciplinary Perspectives Edited By Dr. R. Saraswathi Dr. Sumalatha Donipati ISBN: 978-93-92760-14-3 Publisher: KY Publications, India KY Publications cordially invites academicians, researchers, faculty members, research scholars, and postgraduate students to contri...",
+      "fullDescription": "Invitation for Chapter Contributions Book Title: Language, Literature, and Learning: Interdisciplinary Perspectives Edited By Dr. R. Saraswathi Dr. Sumalatha Donipati ISBN: 978-93-92760-14-3 Publisher: KY Publications, India KY Publications cordially invites academicians, researchers, faculty members, research scholars, and postgraduate students to contribute original and unpublished book chapters for the forthcoming edited volume, Language, Literature, and Learning: Interdisciplinary Perspectives. This volume aims to provide an interdisciplinary platform for innovative research exploring the intersections of language, literature, education, linguistics, communication, translation, cultural studies, pedagogy, and contemporary learning practices. High-quality theoretical, empirical, and review-based chapters are welcome. Submission Status: Open Publication Fee:2,000 INR / 75US$ per accepted chapter The publication fee includes: Publication of one accepted book chapter One complimentary printed paperback copy of the book Chapter publication certificate (E-Certificate) ISBN-assigned edited book E-chapter publication within 3 days after successful peer review, acceptance, and completion of publication formalities How to Submit Authors are requested to submit their manuscripts as a Microsoft Word (.doc/.docx) attachment via email to: Email: submissiontokypub@gmail.com For Queries and Communication WhatsApp (Text Messages Only): +91 88858 48005 Please Note: Voice calls are not accepted. Kindly communicate only through WhatsApp text messages for submission-related queries and updates. Suggested Themes Authors may submit chapters related to, but not limited to, the following areas: English Language Teaching (ELT) English Literature Comparative Literature Literary Theory and Criticism Linguistics Applied Linguistics Translation Studies Cultural Studies Postcolonial Literature Gender Studies Digital Humanities Discourse Analysis Language and Society Communication Studies Educational Technology Curriculum Development Language Assessment Second Language Acquisition Creative Writing Interdisciplinary Learning Artificial Intelligence in Language Education Digital Learning and Online Education Contemporary Literary Studies Inclusive Education Multilingual Education Language Policy Any other topic relevant to the theme of the book Submission Guidelines Authors should prepare their manuscript according to the following structure: Title Author(s) Name(s) Institutional Affiliation(s) Email Address(es) Abstract (Maximum 200 words) Keywords (3-5) Introduction Methodology (where applicable) Results/Analysis (if applicable) Discussion Conclusion References (APA 7th Edition) Formatting Guidelines Paper Size: A4 Length: Minimum 5 pages - Maximum 15 pages (including references) Font: Times New Roman Font Size: 12 pt Line Spacing: Double Citation Style: APA 7th Edition File Format: Microsoft Word (.doc/.docx) Review and Publication Double-blind peer review process Editorial decision communicated promptly E-Chapter publication within 3 days after successful review, acceptance, and completion of publication formalities Printed book published subsequently Originality Submitted chapters must be original, unpublished, and should not be under consideration for publication elsewhere. All submissions will be screened for plagiarism. Manuscripts with significant plagiarism will be rejected without review. Who Can Submit? We welcome contributions from: Faculty Members Professors Researchers Research Scholars Postgraduate Students Independent Scholars Professionals working in language, literature, education, and related interdisciplinary fields We warmly invite scholars and researchers to contribute to this interdisciplinary volume and become part of a collaborative academic initiative that promotes excellence in language, literature, and learning research.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Communication, Pedagogy, Publication.",
       "publish": false
     },
     {
@@ -5534,6 +5091,31 @@
       "publish": true
     },
     {
+      "title": "Graduate Journal aspeers Calls for Papers on \"Individualism in Community\" by Oct 11, 2026",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Film and Television",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/20/graduate-journal-aspeers-calls-for-papers-on-individualism-in-community-by-oct-11",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-11",
+      "eventDate": "",
+      "location": "aspeers: emerging voices in american studies",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Film / Media",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect...",
+      "fullDescription": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect union. As such, the United States has been established on a seeming paradox, forming ‘out of many, one.’ More recently, this previous consensus has become increasingly brittle, with fragmentation, polarization, hyper-individualism, and loneliness on the rise—as some would argue: again.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "2026 Imagining Creative Worlds Online Symposium, 11–12 November 2026",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Online Conferences",
@@ -5555,30 +5137,6 @@
       "excerpt": "2026 Imagining Creative Worlds Online Symposium, 11–12 November 2026 We invite proposals for 2026 Imagining Creative Worlds, an annual online symposium in the Common Ground Imagining Futures Series, taking place 11–12 November 2026. The symposium brings together scholars, researchers, artists, designers, educators, publishers, museum professionals, media...",
       "fullDescription": "2026 Imagining Creative Worlds Online Symposium, 11–12 November 2026 We invite proposals for 2026 Imagining Creative Worlds, an annual online symposium in the Common Ground Imagining Futures Series, taking place 11–12 November 2026. The symposium brings together scholars, researchers, artists, designers, educators, publishers, museum professionals, media makers, and cultural practitioners working across creative fields and practices. We welcome proposals that explore how creative worlds are made, shared, interpreted, circulated, and transformed. For 2026, The Arts in Society Research Network serves as the host Network, helping shape the symposium’s emphasis within the wider theme of Imagining Creative Worlds.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Graduate Journal aspeers Calls for Papers on \"Individualism in Community\" by Oct 11, 2026",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/20/graduate-journal-aspeers-calls-for-papers-on-individualism-in-community-by-oct-11",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-11",
-      "eventDate": "",
-      "location": "aspeers: emerging voices in american studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect...",
-      "fullDescription": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect union. As such, the United States has been established on a seeming paradox, forming ‘out of many, one.’ More recently, this previous consensus has become increasingly brittle, with fragmentation, polarization, hyper-individualism, and loneliness on the rise—as some would argue: again.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -6583,6 +6141,32 @@
       "publish": true
     },
     {
+      "title": "AIYA: Artificial Intelligence and Young Adult Studies [working title]",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106468",
+      "type": "Edited Collection",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-01",
+      "eventDate": "",
+      "location": "Sid Dobrin and Kenneth Kidd, University of Florida",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 58,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "AIYA: Artificial Intelligence and Young Adult Studies [working title] Edited by Sidney I. Dobrin and Kenneth B. Kidd, University of Florida Deadline for proposals: November 1, 2026 CALL FOR CHAPTER PROPOSALS",
+      "fullDescription": "AIYA: Artificial Intelligence and Young Adult Studies [working title] Edited by Sidney I. Dobrin and Kenneth B. Kidd, University of Florida Deadline for proposals: November 1, 2026 CALL FOR CHAPTER PROPOSALS",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Call for Papers: ‘Konpa Dirèk: Popular Music and Social Relations in Haiti and the Haitian Diaspora’",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Journals and Collections",
@@ -6609,7 +6193,7 @@
     {
       "title": "CFP Virtual Conference | Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
+      "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/49840",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
@@ -6624,12 +6208,11 @@
       "fields": [
         "Digital Humanities / Design",
         "Art / Media Practice",
-        "Film / Media",
         "Theory"
       ],
       "excerpt": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27-28 November 2026 The consumption of popular culture and media, particularly through platforms and social networks, has become one of the most common leisure time activities worldwide, and US productions are one of the most circulated. Television series, films, vide...",
       "fullDescription": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27-28 November 2026 The consumption of popular culture and media, particularly through platforms and social networks, has become one of the most common leisure time activities worldwide, and US productions are one of the most circulated. Television series, films, videogames, TikTokers, podcasters, memes and other forms of digital culture reach global audiences and shape political identities and cultural imaginaries. Far from being mere entertainment, these texts have consequently become intertwined and virtually inseparable from the daily practices through which individuals get their news input and even their education. The purpose of this year's virtual conference is to open a space for the analysis of the ethical principles (or lack thereof) that seem to guide the construction, circulation and reception of public discourses within the popular culture ecosystem, including both more traditional mediums such as television and comics, but also the products that emerge from generative AI. Popular media content exists as a key source of information in public discourse and influences how we interpret contemporary political issues, how we teach and learn, and even how we exist and behave in society. Although media effects have long been proven to be negotiated rather than direct, the understanding of desirable aesthetics, mindless entertainment and the rhetoric used in political discussions have been hugely impacted by AI generated content. With this cultural media environment in mind, this virtual conference invites explorations of US popular culture through the perspective of media ethics, media literacy and aesthetics. We aim at establishing a space of discussion on the political, educational, ethical and social implications of contemporary media consumption through the analysis of US popular culture. The conference welcomes contributions that tackle the ethical dimensions and societal impact of US popular culture across a wide range of media forms and how they operate within the fragmented and algorithmically curated media ecosystem that we inhabit. We welcome analysis of both mainstream and independent productions, historical and contemporary texts, as well as emerging digital practices. Possible topics include, but are not limited to: &times; Media ethics and the social responsibilities of producers, platforms and audiences &times; Media literacy as a framework for analyzing contemporary popular culture &times; Popular culture as a case study for developing media literacy, ethical reasoning and critical thinking in education &times; The teaching potential behind popular media texts &times; Media effects and audience reception of US popular culture &times; Social media trends, influencers and memes &times; AI aesthetics in popular media &times; Polarization, misinformation, conspiracy narratives, and the circulation of disinformation through popular media &times; (Un)ethical representation of minorities &times; Political communication, civic engagement, and democratic participation through entertainment media &times; Representation of political and social problems in US popular culture Deadline for proposals: 1 November 2026 We accept abstract proposals for individual presentations (&asymp; 250 words), as well as full panels (3 presenters, &asymp; 250-word description of the panel plus brief abstracts of all papers). Please, submit your abstract proposal via email at popmec.media@gmail.com as a single attachment (.doc, .docx, .odt) including name, affiliation (if any), and contact email.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory, Art / Media Practice.",
       "publish": true
     },
     {
@@ -6884,7 +6467,6 @@
       "fields": [
         "Rhetoric",
         "Digital Humanities / Design",
-        "Film / Media",
         "Theory",
         "Pedagogy",
         "Technical Communication"
@@ -7078,8 +6660,7 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Digital Humanities / Design",
-        "Theory"
+        "Digital Humanities / Design"
       ],
       "excerpt": "The Marilynne Robinson Society will be hosting a panel at the annual American Literature Association Conference (May 26-29, 2027; Boston, MA). The panel will focus on a wide variety of topics connected to Robinson's essays and novels. Please submit a 350-word proposal and short bio to haein.park@biola.edu by December 1, 2026.",
       "fullDescription": "The Marilynne Robinson Society will be hosting a panel at the annual American Literature Association Conference (May 26-29, 2027; Boston, MA). The panel will focus on a wide variety of topics connected to Robinson's essays and novels. Please submit a 350-word proposal and short bio to haein.park@biola.edu by December 1, 2026.",
@@ -7609,8 +7190,8 @@
       "score": 42,
       "fields": [
         "Film / Media",
-        "Art / Media Practice",
-        "Theory"
+        "Theory",
+        "Art / Media Practice"
       ],
       "excerpt": "In his seminal and final film Black Is&hellip;Black Ain't , the documentarian Marlon Riggs utilizes a pot of gumbo to articulate his thesis that Blackness necessitates an identity built on multiplicity, complication, and depth, a production requiring expansiveness in its sustained attention (Riggs 1995). Such a vision contests and destabilizes narratives...",
       "fullDescription": "In his seminal and final film Black Is&hellip;Black Ain't , the documentarian Marlon Riggs utilizes a pot of gumbo to articulate his thesis that Blackness necessitates an identity built on multiplicity, complication, and depth, a production requiring expansiveness in its sustained attention (Riggs 1995). Such a vision contests and destabilizes narratives depicted within the film that sought to limit Black identities and identifications, and it cuts against the second half of his title, which suggests Blackness in terms of negation, evasion, and minimization. The title to this conference continues a conversation with Riggs and also with Ralph Ellison, Ama Ata Aidoo, Toni Morrison, Stuart Hall, and centuries of international Black thought. By doubling down on the \"is\" and considering contradictory, harmonious, and contrapuntal accounts of the many ways Blackness is and can be, the Gregory J. Hampton Graduate English Student Association hopes to encourage a maximalist exchange with its conference, being held March 25-26, 2027, as a contemplation of storytelling and its connections to productions and identities of Blackness. We also seek to do commemorative work as we honor the career of Dr. Jimisha Relerford, a graduate of our program and member of the Howard community who passed recently. Her dissertation broke critical ground in its study of Black women's satire. We thus encourage the submission of papers about Black satire, especially Black women's work in the genre. Writers such as Leone Ross, Danzy Senna, Fran Ross, and Zadie Smith, all of whom were discussed in Dr. Relerford's dissertation, utilize satire to comment on and transform notions of Blackness. We hope to continue Dr. Relerford's work by contemplating how storytellers work within this genre to talk about identity. We additionally encourage work on Afrofuturism and speculative Black texts in reference to our organization's namesake, a pillar in Afrofuturist study. In addition to recognizing the intellectual impacts of Drs. Relerford and Hampton, this conference serves as a milestone, marking the tenth conference our organization has hosted in honor of Black literary study. Given Black academia and HBCUs's influence on identity and storytelling around it, we also welcome papers grounded in studies of scholarly impacts on identity as seen in multimodal narratives, productions, protests, and criticism. We additionally invite papers in the following areas that intersect with identity and identification study in story: African Studies African-American Studies Caribbean Studies Disability Studies Ecocriticism and Ecopoetics Diaspora, Ethnicity, and Migration Studies Food Studies Hip Hop Humor Literary History Protest and Rhetoric Queer Studies Television and Film To submit a paper or panel to our conference, please email an abstract of 250-300 words to gesasecretary@gmail.com no later than January 15, 2027. Include in your email, your name, affiliation, contact information, and a brief biographical blurb.",
@@ -7661,7 +7242,7 @@
         "Pedagogy"
       ],
       "excerpt": "CALL FOR PAPERS The Politics of Care in Higher Education: Pedagogies, Communities, and Institutional Tensions Eds. Gretta Sayers, Dominique Hétu, and Mousumi Majumder This edited collection offers a timely contribution to the growing body of scholarship on care in higher education (Child & Marvel, 2023; Johnston, 2024; Evans, 2025; Boden et al., 2026). Mo...",
-      "fullDescription": "CALL FOR PAPERS The Politics of Care in Higher Education: Pedagogies, Communities, and Institutional Tensions Eds. Gretta Sayers, Dominique Hétu, and Mousumi Majumder This edited collection offers a timely contribution to the growing body of scholarship on care in higher education (Child & Marvel, 2023; Johnston, 2024; Evans, 2025; Boden et al., 2026). Moving beyond celebratory narratives that romanticize care, treat it as inherently benevolent, or present it as a natural and uncomplicated good, this volume approaches care as a complex and contested practice shaped by institutional structures, power relations, material conditions, and unequal distributions of labour. It examines how care operates simultaneously as a pedagogical ethic, relational practice, and institutional discourse, while foregrounding the tensions and contradictions that emerge in its enactment in higher education. We seek contributions that examine both the transformative possibilities and the political contradictions of care in academic life, engaging urgent concerns surrounding precarity, burnout, institutional rhetoric, and collective responsibility while offering grounded and theoretically rigorous pathways for reimagining academic communities. Guided by an editorial team working across science, arts, and music, the volume approaches care as a question that exceeds disciplinary boundaries and conventional academic forms. We welcome interdisciplinary contributions exploring pedagogies of care in academia as relational, political, ethical, and institutional practices, and particularly encourage critical perspectives attentive to the tensions between care as transformative praxis and care as institutional discourse. In keeping with this interdisciplinary and expansive orientation, we welcome not only scholarly analysis but also contributions that engage pedagogical and institutional questions through research-creation, creative and arts-based methodologies, embodied and relational inquiry, and other forms of knowledge-making attentive to care, reciprocity, and collective responsibility. Possible topics may include, but are not limited to: Communities of Practice, Solidarity, and Collective Care Focus on the relationships, networks, and collective structures through which care is enacted, sustained, and negotiated within and beyond academic institutions. Contributions may critically examine communities of practice, mentorship, solidarity, belonging, and collective responses to precarity, exclusion, and institutional change. Communities of practice as spaces of relational learning and mutual support Collective care and solidarity within academic communities Faculty, staff, student, and intergenerational communities of care Mentorship, sponsorship, and peer-support networks Community-based and grassroots care practices Communities of resistance and alternative academic cultures Care infrastructures within and beyond institutions Transnational, intercultural, and multilingual communities of practice Critical and Decolonial Theorizations of Care Feminist, decolonial, anti-racist, Indigenous, disability, queer, and intersectional approaches to care Care as relational, political, ethical, and collective practice Relational accountability, reciprocity, and responsibility Distinctions and tensions between care, compassion, empathy, wellness, and support Decolonizing care and questioning dominant or universalized understandings of care Care, power, and the politics of recognition and belonging Care, Institutions, and Structural Conditions Who is responsible for care? Institutional accountability and the challenges of \"walking the talk\" The instrumentalization, depoliticization, or weaponization of care \"Care-washing,\" compassionate governance, and institutional contradictions Structural inequities and institutional barriers to caring practices Equity, accessibility, and accountability in institutional approaches to care Care as institutional discourse, managerial language, or policy framework Labour, Power, and Unequal Expectations of Care Gendered, racialized, colonial, and ableist distributions of care labour Emotional, affective, and relational labour in academia Invisible, undervalued, and uncompensated care work Faculty, staff, and student wellbeing beyond individualized frameworks Burnout, exhaustion, and care fatigue Boundaries, refusal, and care without self-erasure Institutional responsibility and the redistribution of care work Care, academic precarity, workload, and cultures of overextension Precarious labour and the politics of academic support Research, Knowledge Production, and Ethical Scholarship Focus on care as an epistemological, methodological, and ethical framework for research and knowledge production. Contributions may explore how care shapes scholarly inquiry, research relationships, academic publishing, and the production, circulation, and validation of knowledge. Collaborative, participatory, and community-engaged research methodologies Communities of practice as sites of collective knowledge production Decolonial, Indigenous, and community-accountable research practices Knowledge production, epistemic justice, and the ethics of listening Care as a research methodology and analytical framework The production, negotiation, and contestation of safe spaces in research and educational contexts Slow scholarship and alternative temporalities of knowledge production Critical and Creative Interventions Arts-based and creative approaches to care Case studies of care-based initiatives and institutional tensions Failures, ambivalences, and unintended consequences of care Pedagogies of refusal, repair, and institutional critique Reimagining academic cultures through justice-oriented and decolonial care Futures of care in higher education We particularly welcome contributions that critically and creatively engage the possibilities and limits of care, foreground questions of equity and justice, and explore the conditions under which pedagogies and communities of practice may foster, constrain, or complicate more accountable, inclusive, and transformative academic cultures. Please submit your detailed abstract (max 500 words, in a .docx or PDF file) to carecommunity@brandonu.ca by Jan. 15, 2027 , along with a bio (250 words). Detailed Abstract Requirements Submissions should include a detailed abstract of up to 500 words outlining the proposed contribution. The abstract should present: its central argument, question, or inquiry; its conceptual or theoretical grounding; its methodological and/or creative approach; the texts, creative works, practices, or other materials on which the contribution will draws. Proposals may also take the form of research-creation projects or involve alternative, multimodal, or community-engaged approaches to knowledge production and dissemination. In such cases, the abstract should clearly describe the proposed form and its relevance to the contribution. Contributions should normally range between 4,000 and 8,000 words. Creative and hybrid contributions that take forms for which word count is not the most appropriate measure are invited to discuss format and length with the editors. Tentative Timeline: Call for chapter proposals: Sept. 1, 2026 Chapter proposals due: Jan. 15, 2027 Initial proposal decisions: Early Feb. 2027 Full chapters due: Sept. 2027 Editorial feedback: Nov. 2027 Revised chapters due: May 2028 Manuscript submitted to the publisher: June 2028 Works Cited Boden, C., et al. (2026), \"The Hidden Curriculum of Care: Emotional Labor, Burnout, and Compassion Fatigue in Higher Education,\" Innovative Higher Education . Child, S., & Marvell, R. (2023). \"Care-experienced students in higher education: A case for re-figuring higher education worlds to widen access and further social justice.\" British Educational Research Journal , 50(2),474-494. Ellis, K., & Johnston, C. (2024). \"Resilience, higher education and widening participation: Generating change for care experienced students.\" Higher Education , 87(1), 1-16. Evans, C. (2025). \"The ethics of love and care in higher education: Perspectives of students with care experience.\" Higher Education . doi.org/10.1007/s10734-025-01563-4",
+      "fullDescription": "CALL FOR PAPERS The Politics of Care in Higher Education: Pedagogies, Communities, and Institutional Tensions Eds. Gretta Sayers, Dominique Hétu, and Mousumi Majumder This edited collection offers a timely contribution to the growing body of scholarship on care in higher education (Child & Marvel, 2023; Johnston, 2024; Evans, 2025; Boden et al., 2026). Moving beyond celebratory narratives that romanticize care, treat it as inherently benevolent, or present it as a natural and uncomplicated good, this volume approaches care as a complex and contested practice shaped by institutional structures, power relations, material conditions, and unequal distributions of labour. It examines how care operates simultaneously as a pedagogical ethic, relational practice, and institutional discourse, while foregrounding the tensions and contradictions that emerge in its enactment in higher education. We seek contributions that examine both the transformative possibilities and the political contradictions of care in academic life, engaging urgent concerns surrounding precarity, burnout, institutional rhetoric, and collective responsibility while offering grounded and theoretically rigorous pathways for reimagining academic communities. Guided by an editorial team working across science, arts, and music, the volume approaches care as a question that exceeds disciplinary boundaries and conventional academic forms. We welcome interdisciplinary contributions exploring pedagogies of care in academia as relational, political, ethical, and institutional practices, and particularly encourage critical perspectives attentive to the tensions between care as transformative praxis and care as institutional discourse. In keeping with this interdisciplinary and expansive orientation, we welcome not only scholarly analysis but also contributions that engage pedagogical and institutional questions through research-creation, creative and arts-based methodologies, embodied and relational inquiry, and other forms of knowledge-making attentive to care, reciprocity, and collective responsibility. Possible topics may include, but are not limited to: Communities of Practice, Solidarity, and Collective Care Focus on the relationships, networks, and collective structures through which care is enacted, sustained, and negotiated within and beyond academic institutions. Contributions may critically examine communities of practice, mentorship, solidarity, belonging, and collective responses to precarity, exclusion, and institutional change. Communities of practice as spaces of relational learning and mutual support Collective care and solidarity within academic communities Faculty, staff, student, and intergenerational communities of care Mentorship, sponsorship, and peer-support networks Community-based and grassroots care practices Communities of resistance and alternative academic cultures Care infrastructures within and beyond institutions Transnational, intercultural, and multilingual communities of practice Critical and Decolonial Theorizations of Care Feminist, decolonial, anti-racist, Indigenous, disability, queer, and intersectional approaches to care Care as relational, political, ethical, and collective practice Relational accountability, reciprocity, and responsibility Distinctions and tensions between care, compassion, empathy, wellness, and support Decolonizing care and questioning dominant or universalized understandings of care Care, power, and the politics of recognition and belonging Care, Institutions, and Structural Conditions Who is responsible for care? Institutional accountability and the challenges of \"walking the talk\" The instrumentalization, depoliticization, or weaponization of care \"Care-washing,\" compassionate governance, and institutional contradictions Structural inequities and institutional barriers to caring practices Equity, accessibility, and accountability in institutional approaches to care Care as institutional discourse, managerial language, or policy framework Labour, Power, and Unequal Expectations of Care Gendered, racialized, colonial, and ableist distributions of care labour Emotional, affective, and relational labour in academia Invisible, undervalued, and uncompensated care work Faculty, staff, and student wellbeing beyond individualized frameworks Burnout, exhaustion, and care fatigue Boundaries, refusal, and care without self-erasure Institutional responsibility and the redistribution of care work Care, academic precarity, workload, and cultures of overextension Precarious labour and the politics of academic support Educational Leadership, Governance, and Institutional Contradictions Focus on educational leadership, governance, and institutional decision-making as sites where commitments to care encounter institutional hierarchies, competing responsibilities, material constraints, and unequal relations of power. The tensions between relational leadership and hierarchical authority Who is expected, authorized, or positioned to make decisions about what counts as care and for whom. Institutional commitments to care alongside austerity, restructuring, precarity, workload intensification, and performance management The contradictions of leaders being asked to enact care while administering policies or decisions that may produce harm Care as institutional responsibility versus the individualization or downward delegation of caring labour Governance, consultation, and participation: whose voices are heard, recognized, or excluded in institutional decisions about care Care, accountability, and evaluation: the challenges of recognizing caring practices without rendering care measurable, performative, or managerial Leadership, refusal, and complicity: the limits of care within institutions whose structures may themselves reproduce inequity Research, Knowledge Production, and Ethical Scholarship Focus on care as an epistemological, methodological, and ethical framework for research and knowledge production. Contributions may explore how care shapes scholarly inquiry, research relationships, academic publishing, and the production, circulation, and validation of knowledge. Collaborative, participatory, and community-engaged research methodologies Communities of practice as sites of collective knowledge production Decolonial, Indigenous, and community-accountable research practices Knowledge production, epistemic justice, and the ethics of listening Care as a research methodology and analytical framework The production, negotiation, and contestation of safe spaces in research and educational contexts Slow scholarship and alternative temporalities of knowledge production Critical and Creative Interventions Arts-based and creative approaches to care Case studies of care-based initiatives and institutional tensions Failures, ambivalences, and unintended consequences of care Pedagogies of refusal, repair, and institutional critique Reimagining academic cultures through justice-oriented and decolonial care Futures of care in higher education We particularly welcome contributions that critically and creatively engage the possibilities and limits of care, foreground questions of equity and justice, and explore the conditions under which pedagogies and communities of practice may foster, constrain, or complicate more accountable, inclusive, and transformative academic cultures. Please submit your detailed abstract (max 500 words, in a .docx or PDF file) to carecommunity@brandonu.ca by Jan. 15, 2027 , along with a bio (250 words). Detailed Abstract Requirements Submissions should include a detailed abstract of up to 500 words outlining the proposed contribution. The abstract should present: its central argument, question, or inquiry; its conceptual or theoretical grounding; its methodological and/or creative approach; the texts, creative works, practices, or other materials on which the contribution will draws. Proposals may also take the form of research-creation projects or involve alternative, multimodal, or community-engaged approaches to knowledge production and dissemination. In such cases, the abstract should clearly describe the proposed form and its relevance to the contribution. Contributions should normally range between 4,000 and 8,000 words. Creative and hybrid contributions that take forms for which word count is not the most appropriate measure are invited to discuss format and length with the editors. Tentative Timeline: Call for chapter proposals: Sept. 1, 2026 Chapter proposals due: Jan. 15, 2027 Initial proposal decisions: Early Feb. 2027 Full chapters due: Sept. 2027 Editorial feedback: Nov. 2027 Revised chapters due: May 2028 Manuscript submitted to the publisher: June 2028 Works Cited Boden, C., et al. (2026), \"The Hidden Curriculum of Care: Emotional Labor, Burnout, and Compassion Fatigue in Higher Education,\" Innovative Higher Education . Child, S., & Marvell, R. (2023). \"Care-experienced students in higher education: A case for re-figuring higher education worlds to widen access and further social justice.\" British Educational Research Journal , 50(2),474-494. Ellis, K., & Johnston, C. (2024). \"Resilience, higher education and widening participation: Generating change for care experienced students.\" Higher Education , 87(1), 1-16. Evans, C. (2025). \"The ethics of love and care in higher education: Perspectives of students with care experience.\" Higher Education . doi.org/10.1007/s10734-025-01563-4",
       "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
       "publish": false
     },
@@ -8038,7 +7619,6 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Interdisciplinary",
         "Film / Media",
         "Theory"
       ],
