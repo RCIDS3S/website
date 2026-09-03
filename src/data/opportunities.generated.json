@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,10 +8,14 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Film and Television",
-      "count": 36
+      "count": 35
     },
     {
       "source": "UPenn CFP: Journals and Collections",
+      "count": 25
+    },
+    {
+      "source": "UPenn CFP: Rhetoric and Composition",
       "count": 23
     },
     {
@@ -23,20 +27,16 @@
       "count": 21
     },
     {
-      "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 21
+      "source": "CFPList: Graduate Conferences",
+      "count": 18
     },
     {
-      "source": "CFPList: Graduate Conferences",
+      "source": "UPenn CFP: Theory",
       "count": 18
     },
     {
       "source": "CFPList: Film, TV & Media",
       "count": 18
-    },
-    {
-      "source": "UPenn CFP: Theory",
-      "count": 17
     },
     {
       "source": "ACLS Competitions and Deadlines",
@@ -56,7 +56,7 @@
     },
     {
       "source": "UPenn CFP: Translation Studies",
-      "count": 9
+      "count": 10
     },
     {
       "source": "UPenn CFP: Ethnicity and National Identity",
@@ -71,12 +71,16 @@
       "count": 7
     },
     {
+      "source": "UPenn CFP: African American",
+      "count": 7
+    },
+    {
       "source": "CFPList: Philosophy",
       "count": 6
     },
     {
-      "source": "UPenn CFP: African American",
-      "count": 6
+      "source": "UPenn CFP: Professional Topics",
+      "count": 5
     },
     {
       "source": "UPenn CFP: Gender and Sexuality",
@@ -99,16 +103,12 @@
       "count": 4
     },
     {
-      "source": "UPenn CFP: Professional Topics",
-      "count": 3
-    },
-    {
       "source": "National Endowment for the Humanities Grants",
       "count": 3
     },
     {
-      "source": "UPenn CFP: Interdisciplinary",
-      "count": 2
+      "source": "UPenn CFP: Theatre and Performance Studies",
+      "count": 3
     },
     {
       "source": "UPenn CFP: Popular Culture",
@@ -127,11 +127,11 @@
       "count": 2
     },
     {
-      "source": "UPenn CFP: Online Conferences",
+      "source": "UPenn CFP: Modernist Studies",
       "count": 2
     },
     {
-      "source": "UPenn CFP: Theatre and Performance Studies",
+      "source": "UPenn CFP: Online Conferences",
       "count": 2
     },
     {
@@ -139,15 +139,15 @@
       "count": 2
     },
     {
+      "source": "UPenn CFP: Interdisciplinary",
+      "count": 1
+    },
+    {
       "source": "CFPList",
       "count": 1
     },
     {
       "source": "UPenn CFP: Twentieth Century and Beyond",
-      "count": 1
-    },
-    {
-      "source": "UPenn CFP: Modernist Studies",
       "count": 1
     }
   ],
@@ -159,7 +159,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49834",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-05",
       "location": "Wyndham Atlanta Buckhead Hotel and Conference Center * Atlanta, GA · South Atlantic Modern Language Association (SAMLA)",
       "status": "open",
@@ -185,7 +185,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -209,7 +209,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2027-07-31",
       "location": "CFPList",
       "status": "open",
@@ -233,7 +233,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49640",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-10-05",
       "location": "Online · Durham University",
       "status": "open",
@@ -256,7 +256,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -279,7 +279,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -303,7 +303,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -327,7 +327,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -352,7 +352,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -375,7 +375,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -399,7 +399,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -422,7 +422,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -445,7 +445,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -468,7 +468,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -492,7 +492,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49475",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-05",
       "location": "Atlanta",
       "status": "open",
@@ -515,7 +515,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -538,7 +538,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48666",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-10-22",
       "location": "N/A",
       "status": "open",
@@ -561,7 +561,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49504",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-04",
       "location": "· INVALSI",
       "status": "open",
@@ -585,7 +585,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49446",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2027-02-03",
       "location": "New York, NY · College Art Association",
       "status": "open",
@@ -609,7 +609,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -632,7 +632,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -655,7 +655,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -678,7 +678,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -701,7 +701,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-02",
+      "deadline": "2026-09-03",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -860,7 +860,7 @@
     {
       "title": "Charter 77 at 50: Transnational Human Rights, Social Imagination, and Civic Resistance in the (Post-)Global Age",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Interdisciplinary",
+      "sourceName": "UPenn CFP: International Conferences",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/charter-77-at-50-transnational-human-rights-social-imagination-and-civic-resistance",
       "type": "Conference CFP",
       "deadlineType": "Submission",
@@ -1253,31 +1253,6 @@
       "publish": true
     },
     {
-      "title": "BOOK REVIEWS ON ASIA FOR RISING ASIA JOURNAL",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/25/book-reviews-on-asia-for-rising-asia-journal",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Rising Asia Journal",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "RISING ASIA JOURNAL is a peer reviewed journal published three times a year in January, May, and September. Reviewers are welcome to submit book reviews on any aspect of Asia, covering India's Northeast, Southeast Asia, and East Asia (China, Japan, the Koreas, and Taiwan). For details on our book reviews and manuscript preparation guidelines, please go to...",
-      "fullDescription": "RISING ASIA JOURNAL is a peer reviewed journal published three times a year in January, May, and September. Reviewers are welcome to submit book reviews on any aspect of Asia, covering India's Northeast, Southeast Asia, and East Asia (China, Japan, the Koreas, and Taiwan). For details on our book reviews and manuscript preparation guidelines, please go to SUBMIT ARTICLES in our website www.rajraf.org Send your reviews to Professor Tuan Hoang at tuan.hoang@pepperdine.edu and to the Editor Dr. Harish Mehta at hmehta76@yahoo.ca",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "History, Myth and Orality: Reconceptualizing the Past through the lens of Literary and Cultural Texts",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theory",
@@ -1486,30 +1461,6 @@
       "excerpt": "American Conference for Irish Studies Mid-Atlantic and New England Regional Conference November 6th and 7th 2026 Seton Hall University, South Orange, NJ CFP Proposal Extension: The Call for Papers deadline for the Mid-Atlantic and New England American Conference for Irish Studies at Seton Hall University has been extended until September 15th, 2026. We en...",
       "fullDescription": "American Conference for Irish Studies Mid-Atlantic and New England Regional Conference November 6th and 7th 2026 Seton Hall University, South Orange, NJ CFP Proposal Extension: The Call for Papers deadline for the Mid-Atlantic and New England American Conference for Irish Studies at Seton Hall University has been extended until September 15th, 2026. We encourage both established scholars and those new to the field to submit abstracts. We welcome graduate student abstracts and will hold an undergraduate poster session. Interested undergraduates should submit their poster ideas as an abstract. Keynote:",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Er(r)go journal next issue – 55 (2/2027) – game/play/idleness",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/errgo-journal-next-issue-%E2%80%93-55-22027-%E2%80%93-gameplayidleness",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Er(r)go. Theory – Literature – Culture",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Theory",
-        "Publication"
-      ],
-      "excerpt": "Er(r)go. Theory – Literature – Culture Next Issue – 55 (2/2027) – game/play/idleness submission deadline: 15 September 2026",
-      "fullDescription": "Er(r)go. Theory – Literature – Culture Next Issue – 55 (2/2027) – game/play/idleness submission deadline: 15 September 2026",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
       "publish": true
     },
     {
@@ -1798,7 +1749,7 @@
       "publish": true
     },
     {
-      "title": "The Chorus: Blackness, Visitation, and the Poetics of Enclosure (ACLA '27)",
+      "title": "The Chorus: Blackness, Visitation, and the Poetics of Enclosure (ACLA '27; May 16-17)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theory",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/04/the-chorus-blackness-visitation-and-the-poetics-of-enclosure-acla-27",
@@ -1914,6 +1865,52 @@
       ],
       "excerpt": "Event: This seminar is planned as part of the 2027 American Comparative Literature Association Annual Meet. Mode: VIRTUAL Event Dates: May 15 & 16, 2027 Seminar Title: Narrative Futures and the Politics of World-Making All paper proposals are due by September 22,2026. Final Decision: Status will be available after December 1, 2026 Concept Note:",
       "fullDescription": "Event: This seminar is planned as part of the 2027 American Comparative Literature Association Annual Meet. Mode: VIRTUAL Event Dates: May 15 & 16, 2027 Seminar Title: Narrative Futures and the Politics of World-Making All paper proposals are due by September 22,2026. Final Decision: Status will be available after December 1, 2026 Concept Note:",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "ICLA Translation Studies Committee Seminar Proposal at 2027 ACLA Houston",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Translation Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107408",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-22",
+      "eventDate": "2027-05-15",
+      "location": "ICLA Translation Committee",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "\"Digital Memory and the Translation of World Literature\" Conference organized by the American Comparative Literature Association Official Seminar organized by The ICLA Translation Committee To submit a proposal, please follow the link: https://www.acla.org/seminar/fde38874-a710-4e69-b62e-f169ab7f722e Venue: VIRTUAL 2027 Annual Meeting 15-16 May 2027, Virtual",
+      "fullDescription": "\"Digital Memory and the Translation of World Literature\" Conference organized by the American Comparative Literature Association Official Seminar organized by The ICLA Translation Committee To submit a proposal, please follow the link: https://www.acla.org/seminar/fde38874-a710-4e69-b62e-f169ab7f722e Venue: VIRTUAL 2027 Annual Meeting 15-16 May 2027, Virtual",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
+      "title": "ACLA Virtual 2027 Annual Meeting: Environmental Racism in African American Literature",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: African American",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107194",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-22",
+      "eventDate": "",
+      "location": "Dr Shubhanku Kochar, Dr Rananjayaa Singh, in collaboration with American Comparative Literature Association (ACLA)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Art / Media Practice"
+      ],
+      "excerpt": "Environmental racism predates its own name. The term entered public discourse in 1982, but the conditions behind it, namely exposure to hazard and unequal claim to safety, go back to slavery itself. Historian Carl Zimring traces this to a basic split in American thought: white meant clean, Black meant dirty. That split decided who did the dirtiest, most d...",
+      "fullDescription": "Environmental racism predates its own name. The term entered public discourse in 1982, but the conditions behind it, namely exposure to hazard and unequal claim to safety, go back to slavery itself. Historian Carl Zimring traces this to a basic split in American thought: white meant clean, Black meant dirty. That split decided who did the dirtiest, most dangerous work, and who lived closest to pollution, for generations. In 1968, Memphis sanitation workers went on strike over exactly that: unsafe, degrading labour shaped by the same racial split. Martin Luther King Jr. was assassinated in Memphis while there in support of the very strike. That split still operates today.",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
       "publish": true
     },
@@ -2381,6 +2378,32 @@
       "publish": true
     },
     {
+      "title": "NeMLA 2027 roundtable - Creating Community in the AI Age: Empowerment in English Classrooms",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107305",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "",
+      "location": "The Northeast Modern Language Association",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 62,
+      "fields": [
+        "Rhetoric",
+        "AI",
+        "Pedagogy",
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "We are excited to share a CFP for a roundtable we are chairing at NeMLA 2027: “Creating Community in the AI Age: Empowerment in English Classrooms.”The more we talk about AI in education, the more I find myself thinking about what we don’t want to lose. What happens to connection and a sense of belonging in our classrooms? How can literature and writing s...",
+      "fullDescription": "We are excited to share a CFP for a roundtable we are chairing at NeMLA 2027: “Creating Community in the AI Age: Empowerment in English Classrooms.”The more we talk about AI in education, the more I find myself thinking about what we don’t want to lose. What happens to connection and a sense of belonging in our classrooms? How can literature and writing still bring people together, encourage empathy where students feel that their voices matter?",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Pedagogy.",
+      "publish": true
+    },
+    {
       "title": "Jokes in Dark Times: Humor, Crisis, and the Postdigital Public Sphere",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -2780,30 +2803,6 @@
       "publish": true
     },
     {
-      "title": "CFP: German Romantic Humor across the Disciplines (9/30/2026; NeMLA; Sat March 6 - Tuesday March 9, 2027)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/cfp-german-romantic-humor-across-the-disciplines-9302026-nemla-sat-march-6-tuesday",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-09",
-      "location": "Pascale LaFountain",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Theory",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CFP: German Romantic Humor across the Disciplines (9/30/2026; NeMLA; Sat March 6 - Tuesday March 9, 2027) To be held at the 2027 Northeastern Modern Language Association (NeMLA) convention in Newport, Rhode Island. This panel seeks to bring together scholars of literature, philosophy, history, art history, theology, musicology and/or related humanistic di...",
-      "fullDescription": "CFP: German Romantic Humor across the Disciplines (9/30/2026; NeMLA; Sat March 6 - Tuesday March 9, 2027) To be held at the 2027 Northeastern Modern Language Association (NeMLA) convention in Newport, Rhode Island. This panel seeks to bring together scholars of literature, philosophy, history, art history, theology, musicology and/or related humanistic disciplines to discuss how humor shaped, and was shaped by, German Romanticism.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "From Experience to Insight: Advancing Critical Reflective Practice in Community Engaged Learning",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Pedagogy",
@@ -2850,6 +2849,55 @@
       "excerpt": "Recent scholarship in autobiography and life writing has expanded beyond traditional literary forms to encompass a wide range of practices through which individuals narrate, perform, and negotiate their identities. As scholars such as Sidonie Smith and Julia Watson have argued, life writing constitutes not merely the representation of a life but a dynamic...",
       "fullDescription": "Recent scholarship in autobiography and life writing has expanded beyond traditional literary forms to encompass a wide range of practices through which individuals narrate, perform, and negotiate their identities. As scholars such as Sidonie Smith and Julia Watson have argued, life writing constitutes not merely the representation of a life but a dynamic process through which identities are constructed, mediated, and made visible within specific social and cultural contexts. Consequently, autobiography has evolved into an interdisciplinary field of inquiry encompassing visual art, graphic narratives, performance, body art, digital media, and other forms of self-representation.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "CFP: German Romantic Humor across the Disciplines (9/30/2026; NeMLA; Sat March 6 - Tuesday March 9, 2027)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/cfp-german-romantic-humor-across-the-disciplines-9302026-nemla-sat-march-6-tuesday",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-09",
+      "location": "Pascale LaFountain",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "Theory",
+        "Art / Media Practice"
+      ],
+      "excerpt": "CFP: German Romantic Humor across the Disciplines (9/30/2026; NeMLA; Sat March 6 - Tuesday March 9, 2027) To be held at the 2027 Northeastern Modern Language Association (NeMLA) convention in Newport, Rhode Island. This panel seeks to bring together scholars of literature, philosophy, history, art history, theology, musicology and/or related humanistic di...",
+      "fullDescription": "CFP: German Romantic Humor across the Disciplines (9/30/2026; NeMLA; Sat March 6 - Tuesday March 9, 2027) To be held at the 2027 Northeastern Modern Language Association (NeMLA) convention in Newport, Rhode Island. This panel seeks to bring together scholars of literature, philosophy, history, art history, theology, musicology and/or related humanistic disciplines to discuss how humor shaped, and was shaped by, German Romanticism.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Reading the Visual: Multimodal Literacy and Empowered Communities",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Rhetoric and Composition",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107296",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Dr. Amy Leshinsky and Camille Marie Fillioux, NeMLA",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Rhetoric",
+        "Technical Communication",
+        "Pedagogy"
+      ],
+      "excerpt": "NeMLA: March 6-9, 2027 Location: Newport, RI Session Type: Roundtable (this is a hybrid roundtable with in-person and virtual presentations allowed) Full Call and Submission: https://cfplist.com/nemla/Home/S/22319",
+      "fullDescription": "NeMLA: March 6-9, 2027 Location: Newport, RI Session Type: Roundtable (this is a hybrid roundtable with in-person and virtual presentations allowed) Full Call and Submission: https://cfplist.com/nemla/Home/S/22319",
+      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Technical Communication.",
       "publish": true
     },
     {
@@ -4289,7 +4337,7 @@
     {
       "title": "[NeMLA 2027 Panel] Kafka Studies",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: International Conferences",
+      "sourceName": "UPenn CFP: Modernist Studies",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/08/nemla-2027-panel-kafka-studies",
       "type": "Conference CFP",
       "deadlineType": "Submission",
@@ -4521,11 +4569,11 @@
       "publish": true
     },
     {
-      "title": "History and the Black Renaissance",
+      "title": "REMINDER: History and the Black Renaissance Seminar at NeMLA",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/16/history-and-the-black-renaissance",
-      "type": "CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107409",
+      "type": "Conference CFP",
       "deadlineType": "Submission",
       "deadline": "2026-09-30",
       "eventDate": "2027-03-06",
@@ -5091,28 +5139,53 @@
       "publish": true
     },
     {
-      "title": "Graduate Journal aspeers Calls for Papers on \"Individualism in Community\" by Oct 11, 2026",
+      "title": "Decay: The Architecture of Collapse",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/20/graduate-journal-aspeers-calls-for-papers-on-individualism-in-community-by-oct-11",
-      "type": "Journal CFP",
+      "sourceName": "UPenn CFP: Theory",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107218",
+      "type": "Conference CFP",
       "deadlineType": "Submission",
-      "deadline": "2026-10-11",
+      "deadline": "2026-10-04",
       "eventDate": "",
-      "location": "aspeers: emerging voices in american studies",
+      "location": "Georgetown University",
       "status": "open",
       "priority": "high",
       "confidence": "high",
       "publishMode": "auto",
       "score": 50,
       "fields": [
+        "Rhetoric",
+        "Theory",
+        "Art / Media Practice"
+      ],
+      "excerpt": "This conference explores decay as a transformative, liminal state that bridges the physical, the political, and the conceptual. During the process of decomposition, systems and objects start to break down, existing in a precarious limbo that simultaneously signals contamination to the surrounding environment. As theorized by Julia Kristeva in Powers of Ho...",
+      "fullDescription": "This conference explores decay as a transformative, liminal state that bridges the physical, the political, and the conceptual. During the process of decomposition, systems and objects start to break down, existing in a precarious limbo that simultaneously signals contamination to the surrounding environment. As theorized by Julia Kristeva in Powers of Horror, the abject corpse and the decaying material remind us of the fragility of our own boundaries, confronting us with what must be cast off to constitute a stable self. This fear of bodily disintegration and abjection mirrors the anxieties we project onto broader cultural and institutional structures.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "BOOK REVIEWS ON ASIA FOR RISING ASIA JOURNAL",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Film and Television",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/25/book-reviews-on-asia-for-rising-asia-journal",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-05",
+      "eventDate": "",
+      "location": "Rising Asia Journal",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
         "Film / Media",
         "Publication",
         "Art / Media Practice"
       ],
-      "excerpt": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect...",
-      "fullDescription": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect union. As such, the United States has been established on a seeming paradox, forming ‘out of many, one.’ More recently, this previous consensus has become increasingly brittle, with fragmentation, polarization, hyper-individualism, and loneliness on the rise—as some would argue: again.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Publication, Art / Media Practice.",
+      "excerpt": "RISING ASIA JOURNAL is a peer reviewed journal published three times a year in January, May, and September. Reviewers are welcome to submit book reviews on any aspect of Asia, covering India's Northeast, Southeast Asia, and East Asia (China, Japan, the Koreas, and Taiwan). For details on our book reviews and manuscript preparation guidelines, please go to...",
+      "fullDescription": "RISING ASIA JOURNAL is a peer reviewed journal published three times a year in January, May, and September. Reviewers are welcome to submit book reviews on any aspect of Asia, covering India's Northeast, Southeast Asia, and East Asia (China, Japan, the Koreas, and Taiwan). For details on our book reviews and manuscript preparation guidelines, please go to SUBMIT ARTICLES in our website www.rajraf.org Send your reviews to Professor Tuan Hoang at tuan.hoang@pepperdine.edu and to the Editor Dr. Harish Mehta at hmehta76@yahoo.ca",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -5137,6 +5210,30 @@
       "excerpt": "2026 Imagining Creative Worlds Online Symposium, 11–12 November 2026 We invite proposals for 2026 Imagining Creative Worlds, an annual online symposium in the Common Ground Imagining Futures Series, taking place 11–12 November 2026. The symposium brings together scholars, researchers, artists, designers, educators, publishers, museum professionals, media...",
       "fullDescription": "2026 Imagining Creative Worlds Online Symposium, 11–12 November 2026 We invite proposals for 2026 Imagining Creative Worlds, an annual online symposium in the Common Ground Imagining Futures Series, taking place 11–12 November 2026. The symposium brings together scholars, researchers, artists, designers, educators, publishers, museum professionals, media makers, and cultural practitioners working across creative fields and practices. We welcome proposals that explore how creative worlds are made, shared, interpreted, circulated, and transformed. For 2026, The Arts in Society Research Network serves as the host Network, helping shape the symposium’s emphasis within the wider theme of Imagining Creative Worlds.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Graduate Journal aspeers Calls for Papers on \"Individualism in Community\" by Oct 11, 2026",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/20/graduate-journal-aspeers-calls-for-papers-on-individualism-in-community-by-oct-11",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-11",
+      "eventDate": "",
+      "location": "aspeers: emerging voices in american studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect...",
+      "fullDescription": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect union. As such, the United States has been established on a seeming paradox, forming ‘out of many, one.’ More recently, this previous consensus has become increasingly brittle, with fragmentation, polarization, hyper-individualism, and loneliness on the rise—as some would argue: again.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -5736,6 +5833,31 @@
       "publish": true
     },
     {
+      "title": "The W. Franklin Evans Review: Peer-Reviewed Global Call for Student Submissions—Fall 2026",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Professional Topics",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107486",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-30",
+      "eventDate": "",
+      "location": "W. Franklin Evans Honors College /Voorhees University",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "CALL FOR SUBMISSIONS THE W. FRANKLIN EVANS REVIEW Inaugural Fall 2026 Issue Theme: Leadership, Legacy, and Transformation The W. Franklin Evans Honors College at Voorhees University invites undergraduate and graduate students from colleges and universities worldwide to submit original work for the inaugural Fall 2026 issue of The W. Franklin Evans Review:...",
+      "fullDescription": "CALL FOR SUBMISSIONS THE W. FRANKLIN EVANS REVIEW Inaugural Fall 2026 Issue Theme: Leadership, Legacy, and Transformation The W. Franklin Evans Honors College at Voorhees University invites undergraduate and graduate students from colleges and universities worldwide to submit original work for the inaugural Fall 2026 issue of The W. Franklin Evans Review: A Peer-Reviewed, Refereed Journal of Student Leadership, Scholarship, and Creative Expression. The journal provides an international platform for emerging scholars, leaders, writers, artists, and creators whose work examines leadership, service, innovation, identity, resilience, ethical decision-making, legacy, and positive social transformation.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "ILL 2026 | Innovation in Language Learning 19th Edition - International Conference",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: International Conferences",
@@ -5806,6 +5928,30 @@
       "excerpt": "The Passage of Time and Generational Conflict: Theory, Narrative, Thought Submission deadline : Friday, 30th October 2026. We kindly invite prospective authors to register on the journal website some days ahead of the deadline . Peer-review (est.) : March 2027. Publication date : 30 May 2027. Editors : Alessandro Cifariello (University of Tuscia), Emanuel...",
       "fullDescription": "The Passage of Time and Generational Conflict: Theory, Narrative, Thought Submission deadline : Friday, 30th October 2026. We kindly invite prospective authors to register on the journal website some days ahead of the deadline . Peer-review (est.) : March 2027. Publication date : 30 May 2027. Editors : Alessandro Cifariello (University of Tuscia), Emanuela De Blasio (University of Tuscia), Giovanni Palilla (University of Tuscia), Roberto Romagnino (University of Tuscia), Victoria Almonte (University of Tuscia)",
       "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
+      "publish": true
+    },
+    {
+      "title": "CFP: TLA Magazine Inaugural Issue—Literature, Memory, and Culture (10/31/2026)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107322",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-31",
+      "eventDate": "",
+      "location": "The Literary Archive, ILLCR (Private) Limited",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Digital Humanities / Design",
+        "Publication"
+      ],
+      "excerpt": "TLA Magazine : Inaugural Issue — December 2026 Submission Deadline: 31 October 2026 Expected Publication Date: 31 December 2026 Publication Format: Digital Editorial Review: Internal editorial review Submission Portal: https://illcr.com/tla/tla-magazine/#submit-your-work Magazine Website: https://illcr.com/tla/tla-magazine/ Contact: tla@illcr.com",
+      "fullDescription": "TLA Magazine : Inaugural Issue — December 2026 Submission Deadline: 31 October 2026 Expected Publication Date: 31 December 2026 Publication Format: Digital Editorial Review: Internal editorial review Submission Portal: https://illcr.com/tla/tla-magazine/#submit-your-work Magazine Website: https://illcr.com/tla/tla-magazine/ Contact: tla@illcr.com",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication.",
       "publish": true
     },
     {
@@ -6141,29 +6287,27 @@
       "publish": true
     },
     {
-      "title": "AIYA: Artificial Intelligence and Young Adult Studies [working title]",
+      "title": "PROPOSED EDITED VOLUME: Women Who Wander: Gender, Mobility, and the Cultural Imagination",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106468",
-      "type": "Edited Collection",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107499",
+      "type": "Journal CFP",
       "deadlineType": "Submission",
       "deadline": "2026-11-01",
       "eventDate": "",
-      "location": "Sid Dobrin and Kenneth Kidd, University of Florida",
+      "location": "Editors: Sara Rutkowski, City University of New York and Sara Steinert Borella, Virginia Tech Steger Center for International Scholarship",
       "status": "open",
-      "priority": "high",
+      "priority": "medium",
       "confidence": "high",
       "publishMode": "auto",
-      "score": 58,
+      "score": 46,
       "fields": [
-        "AI",
-        "Digital Humanities / Design",
-        "Publication",
-        "Art / Media Practice"
+        "Film / Media",
+        "Publication"
       ],
-      "excerpt": "AIYA: Artificial Intelligence and Young Adult Studies [working title] Edited by Sidney I. Dobrin and Kenneth B. Kidd, University of Florida Deadline for proposals: November 1, 2026 CALL FOR CHAPTER PROPOSALS",
-      "fullDescription": "AIYA: Artificial Intelligence and Young Adult Studies [working title] Edited by Sidney I. Dobrin and Kenneth B. Kidd, University of Florida Deadline for proposals: November 1, 2026 CALL FOR CHAPTER PROPOSALS",
-      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "excerpt": "The figure of the woman traveler has long occupied a distinctive place in the cultural imagination. At once celebrated and contested, she has been represented as explorer, observer, adventurer, ethnographer, journalist, tourist, and pilgrim—but nearly always an antidote to feminine domesticity. We are currently seeking contributors from across the discipl...",
+      "fullDescription": "The figure of the woman traveler has long occupied a distinctive place in the cultural imagination. At once celebrated and contested, she has been represented as explorer, observer, adventurer, ethnographer, journalist, tourist, and pilgrim—but nearly always an antidote to feminine domesticity. We are currently seeking contributors from across the disciplines for a proposed collection of essays on “the woman traveler.” This volume will explore the enduring and evolving cultural figure across genres and media—from travel writing and photography to film, blogs, Instagram, and TikTok.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
       "publish": true
     },
     {
@@ -6859,6 +7003,54 @@
       "publish": true
     },
     {
+      "title": "CFP: Victorians Institute Journal, Vol 54",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107260",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-31",
+      "eventDate": "",
+      "location": "Victorians Institute Journal",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 58,
+      "fields": [
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "The Victorians Institute Journal (VIJ) is now accepting submissions for Volume 54. The VIJ is an award-winning scholarly journal of Victorian and Edwardian literary and cultural studies. We publish a variety of pieces, including articles, reviews, and rare texts. For further details, visit https://vijournal.org/ . Article submissions should be between 7K-...",
+      "fullDescription": "The Victorians Institute Journal (VIJ) is now accepting submissions for Volume 54. The VIJ is an award-winning scholarly journal of Victorian and Edwardian literary and cultural studies. We publish a variety of pieces, including articles, reviews, and rare texts. For further details, visit https://vijournal.org/ . Article submissions should be between 7K-9K words, and are welcome to address any aspect of Victorian and Edwardian literature, art, and culture. If you would like to submit a review for consideration, contact us directly through our email: victoriansinstitutejournal@gmail.com .",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Call for Contributors: Paid Research & Analysis Writing (Remote, Freelance)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Professional Topics",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107279",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-31",
+      "eventDate": "",
+      "location": "The Pivot Academic",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 58,
+      "fields": [
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "Call for Contributors: Paid Research & Analysis Writing (Remote, Freelance) The Pivot Academic — an independent research and analysis platform based in Hong Kong — invites undergraduate and postgraduate students, recent graduates, and independent scholars to join our global contributor network. WHO WE ARE The Pivot Academic is a decentralized intellectual...",
+      "fullDescription": "Call for Contributors: Paid Research & Analysis Writing (Remote, Freelance) The Pivot Academic — an independent research and analysis platform based in Hong Kong — invites undergraduate and postgraduate students, recent graduates, and independent scholars to join our global contributor network. WHO WE ARE The Pivot Academic is a decentralized intellectual hub founded by a team of European scholars. We publish rigorous, evidence-based analysis on the forces reshaping our world, and we connect independent researchers with a global audience. No institutional affiliation or prior publication record is required — what matters is the rigor of your argument, the originality of your perspective, and the integrity of your evidence.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
       "title": "FEMSPEC - Call for Website Editor and Social Media Manager",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -6904,31 +7096,6 @@
       "excerpt": "FEMSPEC, an interdisciplinary peer-reviewed journal dedicated to challenging gender through speculative means in any genre, seeks submissions to our blog, available at BLOG | Femspec Those interested in publishing on the Femspec blog do NOT need to be subscribed to the journal.",
       "fullDescription": "FEMSPEC, an interdisciplinary peer-reviewed journal dedicated to challenging gender through speculative means in any genre, seeks submissions to our blog, available at BLOG | Femspec Those interested in publishing on the Femspec blog do NOT need to be subscribed to the journal.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication.",
-      "publish": true
-    },
-    {
-      "title": "FEMSPEC - Call for Proofreader",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/03/05/femspec-call-for-proofreader",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-12-31",
-      "eventDate": "",
-      "location": "Femspec",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Digital Humanities / Design",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "FEMSPEC, an interdisciplinary peer-reviewed journal dedicated to challenging gender through speculative means in any genre, seeks volunteers to fill the following role: Proofreader Duties include: Proofreading all material to be published in the journal. This includes scholarly articles, book and media reviews, event coverage, and other material. Note tha...",
-      "fullDescription": "FEMSPEC, an interdisciplinary peer-reviewed journal dedicated to challenging gender through speculative means in any genre, seeks volunteers to fill the following role: Proofreader Duties include: Proofreading all material to be published in the journal. This includes scholarly articles, book and media reviews, event coverage, and other material. Note that proofreading is restricted to correcting errors of grammar, punctuation, citation, and phrasing - the Proofreader will not be reviewing or altering the content of the submitted material (this is covered in the peer review process).",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -7174,6 +7341,30 @@
       "publish": true
     },
     {
+      "title": "Scraps… Reading Residuality. International Conference | Kraków | 13–15 April 2027",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theory",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107471",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-15",
+      "eventDate": "2027-04-13",
+      "location": "Doctoral School in Humanities, Faculty of Polish Studies Jagiellonian Univeristy",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Theory",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Scraps… Reading Residuality 13-15th April 2027 Krapp: Past midnight. Never knew such silence. The earth might be uninhabited. Pause. Krapp: Here I end. Krapp switches off, winds tabe back, switches on again . “Here I end” declares Krapp, the titular protagonist of Samuel Beckett’s 1958 play Krapp’s Last Tape . Yet an ending is impossible. Why?",
+      "fullDescription": "Scraps… Reading Residuality 13-15th April 2027 Krapp: Past midnight. Never knew such silence. The earth might be uninhabited. Pause. Krapp: Here I end. Krapp switches off, winds tabe back, switches on again . “Here I end” declares Krapp, the titular protagonist of Samuel Beckett’s 1958 play Krapp’s Last Tape . Yet an ending is impossible. Why?",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Black Is...Black Is: Study as Celebration of Stories of Identity",
       "source": "CFPList",
       "sourceName": "CFPList: Philosophy",
@@ -7245,6 +7436,30 @@
       "fullDescription": "CALL FOR PAPERS The Politics of Care in Higher Education: Pedagogies, Communities, and Institutional Tensions Eds. Gretta Sayers, Dominique Hétu, and Mousumi Majumder This edited collection offers a timely contribution to the growing body of scholarship on care in higher education (Child & Marvel, 2023; Johnston, 2024; Evans, 2025; Boden et al., 2026). Moving beyond celebratory narratives that romanticize care, treat it as inherently benevolent, or present it as a natural and uncomplicated good, this volume approaches care as a complex and contested practice shaped by institutional structures, power relations, material conditions, and unequal distributions of labour. It examines how care operates simultaneously as a pedagogical ethic, relational practice, and institutional discourse, while foregrounding the tensions and contradictions that emerge in its enactment in higher education. We seek contributions that examine both the transformative possibilities and the political contradictions of care in academic life, engaging urgent concerns surrounding precarity, burnout, institutional rhetoric, and collective responsibility while offering grounded and theoretically rigorous pathways for reimagining academic communities. Guided by an editorial team working across science, arts, and music, the volume approaches care as a question that exceeds disciplinary boundaries and conventional academic forms. We welcome interdisciplinary contributions exploring pedagogies of care in academia as relational, political, ethical, and institutional practices, and particularly encourage critical perspectives attentive to the tensions between care as transformative praxis and care as institutional discourse. In keeping with this interdisciplinary and expansive orientation, we welcome not only scholarly analysis but also contributions that engage pedagogical and institutional questions through research-creation, creative and arts-based methodologies, embodied and relational inquiry, and other forms of knowledge-making attentive to care, reciprocity, and collective responsibility. Possible topics may include, but are not limited to: Communities of Practice, Solidarity, and Collective Care Focus on the relationships, networks, and collective structures through which care is enacted, sustained, and negotiated within and beyond academic institutions. Contributions may critically examine communities of practice, mentorship, solidarity, belonging, and collective responses to precarity, exclusion, and institutional change. Communities of practice as spaces of relational learning and mutual support Collective care and solidarity within academic communities Faculty, staff, student, and intergenerational communities of care Mentorship, sponsorship, and peer-support networks Community-based and grassroots care practices Communities of resistance and alternative academic cultures Care infrastructures within and beyond institutions Transnational, intercultural, and multilingual communities of practice Critical and Decolonial Theorizations of Care Feminist, decolonial, anti-racist, Indigenous, disability, queer, and intersectional approaches to care Care as relational, political, ethical, and collective practice Relational accountability, reciprocity, and responsibility Distinctions and tensions between care, compassion, empathy, wellness, and support Decolonizing care and questioning dominant or universalized understandings of care Care, power, and the politics of recognition and belonging Care, Institutions, and Structural Conditions Who is responsible for care? Institutional accountability and the challenges of \"walking the talk\" The instrumentalization, depoliticization, or weaponization of care \"Care-washing,\" compassionate governance, and institutional contradictions Structural inequities and institutional barriers to caring practices Equity, accessibility, and accountability in institutional approaches to care Care as institutional discourse, managerial language, or policy framework Labour, Power, and Unequal Expectations of Care Gendered, racialized, colonial, and ableist distributions of care labour Emotional, affective, and relational labour in academia Invisible, undervalued, and uncompensated care work Faculty, staff, and student wellbeing beyond individualized frameworks Burnout, exhaustion, and care fatigue Boundaries, refusal, and care without self-erasure Institutional responsibility and the redistribution of care work Care, academic precarity, workload, and cultures of overextension Precarious labour and the politics of academic support Educational Leadership, Governance, and Institutional Contradictions Focus on educational leadership, governance, and institutional decision-making as sites where commitments to care encounter institutional hierarchies, competing responsibilities, material constraints, and unequal relations of power. The tensions between relational leadership and hierarchical authority Who is expected, authorized, or positioned to make decisions about what counts as care and for whom. Institutional commitments to care alongside austerity, restructuring, precarity, workload intensification, and performance management The contradictions of leaders being asked to enact care while administering policies or decisions that may produce harm Care as institutional responsibility versus the individualization or downward delegation of caring labour Governance, consultation, and participation: whose voices are heard, recognized, or excluded in institutional decisions about care Care, accountability, and evaluation: the challenges of recognizing caring practices without rendering care measurable, performative, or managerial Leadership, refusal, and complicity: the limits of care within institutions whose structures may themselves reproduce inequity Research, Knowledge Production, and Ethical Scholarship Focus on care as an epistemological, methodological, and ethical framework for research and knowledge production. Contributions may explore how care shapes scholarly inquiry, research relationships, academic publishing, and the production, circulation, and validation of knowledge. Collaborative, participatory, and community-engaged research methodologies Communities of practice as sites of collective knowledge production Decolonial, Indigenous, and community-accountable research practices Knowledge production, epistemic justice, and the ethics of listening Care as a research methodology and analytical framework The production, negotiation, and contestation of safe spaces in research and educational contexts Slow scholarship and alternative temporalities of knowledge production Critical and Creative Interventions Arts-based and creative approaches to care Case studies of care-based initiatives and institutional tensions Failures, ambivalences, and unintended consequences of care Pedagogies of refusal, repair, and institutional critique Reimagining academic cultures through justice-oriented and decolonial care Futures of care in higher education We particularly welcome contributions that critically and creatively engage the possibilities and limits of care, foreground questions of equity and justice, and explore the conditions under which pedagogies and communities of practice may foster, constrain, or complicate more accountable, inclusive, and transformative academic cultures. Please submit your detailed abstract (max 500 words, in a .docx or PDF file) to carecommunity@brandonu.ca by Jan. 15, 2027 , along with a bio (250 words). Detailed Abstract Requirements Submissions should include a detailed abstract of up to 500 words outlining the proposed contribution. The abstract should present: its central argument, question, or inquiry; its conceptual or theoretical grounding; its methodological and/or creative approach; the texts, creative works, practices, or other materials on which the contribution will draws. Proposals may also take the form of research-creation projects or involve alternative, multimodal, or community-engaged approaches to knowledge production and dissemination. In such cases, the abstract should clearly describe the proposed form and its relevance to the contribution. Contributions should normally range between 4,000 and 8,000 words. Creative and hybrid contributions that take forms for which word count is not the most appropriate measure are invited to discuss format and length with the editors. Tentative Timeline: Call for chapter proposals: Sept. 1, 2026 Chapter proposals due: Jan. 15, 2027 Initial proposal decisions: Early Feb. 2027 Full chapters due: Sept. 2027 Editorial feedback: Nov. 2027 Revised chapters due: May 2028 Manuscript submitted to the publisher: June 2028 Works Cited Boden, C., et al. (2026), \"The Hidden Curriculum of Care: Emotional Labor, Burnout, and Compassion Fatigue in Higher Education,\" Innovative Higher Education . Child, S., & Marvell, R. (2023). \"Care-experienced students in higher education: A case for re-figuring higher education worlds to widen access and further social justice.\" British Educational Research Journal , 50(2),474-494. Ellis, K., & Johnston, C. (2024). \"Resilience, higher education and widening participation: Generating change for care experienced students.\" Higher Education , 87(1), 1-16. Evans, C. (2025). \"The ethics of love and care in higher education: Perspectives of students with care experience.\" Higher Education . doi.org/10.1007/s10734-025-01563-4",
       "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
       "publish": false
+    },
+    {
+      "title": "Call for Chapters: Some of You May Die: Rhetorics of Dispensability in Our Authoritarian Age",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Rhetoric and Composition",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107436",
+      "type": "Edited Collection",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-31",
+      "eventDate": "",
+      "location": "Tyler Sehnal",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Rhetoric",
+        "Publication"
+      ],
+      "excerpt": "Overview",
+      "fullDescription": "Overview",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Publication.",
+      "publish": true
     },
     {
       "title": "Musical Commemorations and Contestations in Postcolonial Contexts",
