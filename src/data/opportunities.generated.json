@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -12,7 +12,7 @@
     },
     {
       "source": "UPenn CFP: Journals and Collections",
-      "count": 25
+      "count": 26
     },
     {
       "source": "UPenn CFP: Rhetoric and Composition",
@@ -31,12 +31,12 @@
       "count": 18
     },
     {
-      "source": "UPenn CFP: Theory",
+      "source": "CFPList: Film, TV & Media",
       "count": 18
     },
     {
-      "source": "CFPList: Film, TV & Media",
-      "count": 18
+      "source": "UPenn CFP: Theory",
+      "count": 17
     },
     {
       "source": "ACLS Competitions and Deadlines",
@@ -51,11 +51,11 @@
       "count": 11
     },
     {
-      "source": "CFPList: Pedagogy",
+      "source": "UPenn CFP: Translation Studies",
       "count": 10
     },
     {
-      "source": "UPenn CFP: Translation Studies",
+      "source": "CFPList: Pedagogy",
       "count": 10
     },
     {
@@ -67,10 +67,6 @@
       "count": 9
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 7
-    },
-    {
       "source": "UPenn CFP: African American",
       "count": 7
     },
@@ -79,16 +75,8 @@
       "count": 6
     },
     {
-      "source": "UPenn CFP: Professional Topics",
-      "count": 5
-    },
-    {
-      "source": "UPenn CFP: Gender and Sexuality",
-      "count": 5
-    },
-    {
-      "source": "UPenn CFP: International Conferences",
-      "count": 5
+      "source": "UPenn CFP: Graduate Conferences",
+      "count": 6
     },
     {
       "source": "CFPList: Communication Studies Search",
@@ -96,6 +84,18 @@
     },
     {
       "source": "CFPList: Professional Communication Search",
+      "count": 4
+    },
+    {
+      "source": "UPenn CFP: International Conferences",
+      "count": 4
+    },
+    {
+      "source": "UPenn CFP: Gender and Sexuality",
+      "count": 4
+    },
+    {
+      "source": "UPenn CFP: Professional Topics",
       "count": 4
     },
     {
@@ -153,37 +153,13 @@
   ],
   "items": [
     {
-      "title": "Global Koreas Early Career Mentoring Project",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Professional Topics",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/global-koreas-early-career-mentoring-project",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-04",
-      "eventDate": "",
-      "location": "Global Asias Initiative",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Global Asias Initiative (GAI) and Institute for Korean Studies (IKS) at the Pennsylvania State University (PSU), in partnership with UC-Irvine’s Center for Critical Korean Studies (CCKS), are conducting a mentoring project designed to foster a network of scholars working on Korean and Korean diasporic topics under the conceptual rubric of Global Asias...",
-      "fullDescription": "The Global Asias Initiative (GAI) and Institute for Korean Studies (IKS) at the Pennsylvania State University (PSU), in partnership with UC-Irvine’s Center for Critical Korean Studies (CCKS), are conducting a mentoring project designed to foster a network of scholars working on Korean and Korean diasporic topics under the conceptual rubric of Global Asias. The goal of this project is to build a community of early-career scholars who are working at the intersections of Korean studies and Global Asias approaches; and to encourage intellectual exchange, collaboration, and the development of new critical approaches to Korean studies, Korean American studies, and Korean diaspora studies.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "The AI Knowledge Society: Mapping Digital Hospitality and Hostility (Panel: traditional / In-Person)",
       "source": "CFPList",
       "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/49834",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-05",
       "location": "Wyndham Atlanta Buckhead Hotel and Conference Center * Atlanta, GA · South Atlantic Modern Language Association (SAMLA)",
       "status": "open",
@@ -209,7 +185,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -227,27 +203,26 @@
       "publish": true
     },
     {
-      "title": "LIFE at its Limits: Medicine, Literature, Philosophy",
+      "title": "Human Creativity in the AI Era: New Horizons for Literature, Translation, and Linguistics",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/25/life-at-its-limits-medicine-literature-philosophy",
-      "type": "CFP",
+      "sourceName": "UPenn CFP: Translation Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106462",
+      "type": "Conference CFP",
       "deadlineType": "Submission",
-      "deadline": "2026-09-04",
-      "eventDate": "2026-12-10",
-      "location": "Department of English Studies, Eötvös Loránd University, Budapest, Hungary",
+      "deadline": "2026-09-05",
+      "eventDate": "2026-10-26",
+      "location": "Faculty of Aslun, Fayoum University",
       "status": "open",
       "priority": "medium",
       "confidence": "high",
       "publishMode": "auto",
-      "score": 46,
+      "score": 38,
       "fields": [
-        "Theory",
-        "Art / Media Practice"
+        "AI"
       ],
-      "excerpt": "LIFE at its Limits: Medicine, Literature, Philosophy Department of English Studies, Eötvös Loránd University, Budapest, Hungary 10–12 December 2026",
-      "fullDescription": "LIFE at its Limits: Medicine, Literature, Philosophy Department of English Studies, Eötvös Loránd University, Budapest, Hungary 10–12 December 2026",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "excerpt": "Human Creativity in the AI Era: New Horizons for Literature, Translation, and Linguistics Faculty of Alsun – Fayoum University – Egypt 26–27 October 2026 Hybrid Conference (In-person & Online) Conference Theme",
+      "fullDescription": "Human Creativity in the AI Era: New Horizons for Literature, Translation, and Linguistics Faculty of Alsun – Fayoum University – Egypt 26–27 October 2026 Hybrid Conference (In-person & Online) Conference Theme",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI.",
       "publish": true
     },
     {
@@ -257,7 +232,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49117",
       "type": "Grant / Fellowship",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2027-07-31",
       "location": "CFPList",
       "status": "open",
@@ -281,7 +256,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49640",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-10-05",
       "location": "Online · Durham University",
       "status": "open",
@@ -304,7 +279,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -327,7 +302,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48084",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-20",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -351,7 +326,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -369,36 +344,13 @@
       "publish": true
     },
     {
-      "title": "Seminars Available: 47th Annual Meeting of the International T. S. Eliot Society",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/24/seminars-available-47th-annual-meeting-of-the-international-t-s-eliot-society",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-04",
-      "eventDate": "",
-      "location": "International T. S. Eliot Society",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Pedagogy"
-      ],
-      "excerpt": "Three peer seminars are lined up for the 2026 meeting of the International T. S. Eliot Society in St. Louis, from 25-27 September. They are: Teaching Eliot , led by Charles Andrews",
-      "fullDescription": "Three peer seminars are lined up for the 2026 meeting of the International T. S. Eliot Society in St. Louis, from 25-27 September. They are: Teaching Eliot , led by Charles Andrews",
-      "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy.",
-      "publish": true
-    },
-    {
       "title": "Engaging Research Across Humanities (ERAH) Graduate Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -423,7 +375,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -446,7 +398,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -470,7 +422,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -493,7 +445,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -510,59 +462,13 @@
       "publish": true
     },
     {
-      "title": "Yesteryear: Cultural and Literary Possibilities - MLA just in time session",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Gender and Sexuality",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/08/yesteryear-cultural-and-literary-possibilities-mla-just-in-time-session",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-04",
-      "eventDate": "",
-      "location": "Quinn Moyer/ Duquesne University Sarah Pobuda/Duquesne University",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "We invite you to submit an abstract and bio for the panel “ Yesteryear: Cultural and Literary Possibilities”. We are seeking papers that address Caro Claire Burke’s breakout debut novel Yesteryear and its implications on literature and current American culture. How does Burke address established literary conventions? How might one conceive of the evocativ...",
-      "fullDescription": "We invite you to submit an abstract and bio for the panel “ Yesteryear: Cultural and Literary Possibilities”. We are seeking papers that address Caro Claire Burke’s breakout debut novel Yesteryear and its implications on literature and current American culture. How does Burke address established literary conventions? How might one conceive of the evocative narrative style of this novel? How does Burke conceptualize the conscription of motherhood, suppressed queerness, and conservative Christianity? How might the work fit into literary genealogies of sanity, purity, racial prejudice, and womanhood? Proposals should include a title, abstract, your name, and affiliation.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Constructing the Self in Romance-Language Epic",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: International Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/constructing-the-self-in-romance-language-epic",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-04",
-      "eventDate": "",
-      "location": "62nd International Congress on Medieval Studies (May 13 - 15, 2027)",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "The Société Rencesvals, Pan-American Branch, invites proposals from scholars whose research examines Romance-language epics as sites of social discourse. Far from being merely “songs of deeds,” these texts were critical commentaries on contemporary ideologies. They thus speak profoundly to processes of self-conceptualization in far-ranging topics includin...",
-      "fullDescription": "The Société Rencesvals, Pan-American Branch, invites proposals from scholars whose research examines Romance-language epics as sites of social discourse. Far from being merely “songs of deeds,” these texts were critical commentaries on contemporary ideologies. They thus speak profoundly to processes of self-conceptualization in far-ranging topics including –but not limited to– regional/national identity, faith, gender, and race. We are interested in the examination of how Romance-language epics use discourse to construct value systems that contribute to conceptions of the self, situating this literature in the larger study of the production of ideologies in the Middle Ages.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "28TH METU BRITISH NOVELISTS INTERNATIONAL CONFERENCE:",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -585,7 +491,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -609,7 +515,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49475",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-05",
       "location": "Atlanta",
       "status": "open",
@@ -632,7 +538,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -655,7 +561,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48666",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-10-22",
       "location": "N/A",
       "status": "open",
@@ -678,7 +584,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49504",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-04",
       "location": "· INVALSI",
       "status": "open",
@@ -702,7 +608,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49446",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2027-02-03",
       "location": "New York, NY · College Art Association",
       "status": "open",
@@ -726,7 +632,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47826",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-09-18",
       "location": "In-person at UPRRP and online, Friday, September 18th, 2026 · University of Puerto Rico-Río Piedras",
       "status": "open",
@@ -749,7 +655,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47740",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-10-09",
       "location": "Muncie, Indiana · Midwest Popular Culture Association",
       "status": "open",
@@ -772,7 +678,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -795,7 +701,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -818,7 +724,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48073",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-04",
+      "deadline": "2026-09-05",
       "eventDate": "2026-10-15",
       "location": "Online · Northeast Popular and American Culture Association (NEPCA)",
       "status": "open",
@@ -833,29 +739,6 @@
       "fullDescription": "The Northeast Popular Culture Association (NEPCA) Politics, Civic Life, and Pop Culture Area invites submissions for NEPCA's annual conference to be held online from Thursday, October 15th, to Saturday, October 17th, 2026. We encourage panel proposals as well as individual submissions. Papers are generally 15-20 minutes in length. We also encourage works in progress, and informal presentations. This area considers the intersection of politics, civic life, and popular culture. Suggested topics include, but are not limited to: Political actions that involve pop culture, including banning or attacking elements of pop culture Depictions of political people, elected officials, voting, political actions and protests, in pop culture Documentary films, television series, or podcasts that focus on politics and civic actions Music and performance that are political in nature The art of political action and protest Depictions of being a \"good\" citizen versus a \"bad\" citizen in pop culture Politics, civic life, and pop culture as they intersect with pedagogy and research The call will be open until July 31, 2026. You can submit your proposal at this link. If you have questions about this area, please reach out to the Politics, Civic Life, and Pop Culture Chair: Dana Gavin, Dutchess Community College, dana.gavin@sunydutchess.edu.",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
-    },
-    {
-      "title": "Human Creativity in the AI Era: New Horizons for Literature, Translation, and Linguistics",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106462",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-05",
-      "eventDate": "2026-10-26",
-      "location": "Faculty of Aslun, Fayoum University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "AI"
-      ],
-      "excerpt": "Human Creativity in the AI Era: New Horizons for Literature, Translation, and Linguistics Faculty of Alsun – Fayoum University – Egypt 26–27 October 2026 Hybrid Conference (In-person & Online) Conference Theme",
-      "fullDescription": "Human Creativity in the AI Era: New Horizons for Literature, Translation, and Linguistics Faculty of Alsun – Fayoum University – Egypt 26–27 October 2026 Hybrid Conference (In-person & Online) Conference Theme",
-      "relevance": "Automatically surfaced as a likely RCID fit across AI.",
-      "publish": true
     },
     {
       "title": "Charter 77 at 50: Transnational Human Rights, Social Imagination, and Civic Resistance in the (Post-)Global Age",
@@ -1461,6 +1344,30 @@
       "excerpt": "American Conference for Irish Studies Mid-Atlantic and New England Regional Conference November 6th and 7th 2026 Seton Hall University, South Orange, NJ CFP Proposal Extension: The Call for Papers deadline for the Mid-Atlantic and New England American Conference for Irish Studies at Seton Hall University has been extended until September 15th, 2026. We en...",
       "fullDescription": "American Conference for Irish Studies Mid-Atlantic and New England Regional Conference November 6th and 7th 2026 Seton Hall University, South Orange, NJ CFP Proposal Extension: The Call for Papers deadline for the Mid-Atlantic and New England American Conference for Irish Studies at Seton Hall University has been extended until September 15th, 2026. We encourage both established scholars and those new to the field to submit abstracts. We welcome graduate student abstracts and will hold an undergraduate poster session. Interested undergraduates should submit their poster ideas as an abstract. Keynote:",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
+      "title": "Er(r)go journal next issue – 55 (2/2027) – game/play/idleness",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/errgo-journal-next-issue-%E2%80%93-55-22027-%E2%80%93-gameplayidleness",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-15",
+      "eventDate": "",
+      "location": "Er(r)go. Theory – Literature – Culture",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Theory",
+        "Publication"
+      ],
+      "excerpt": "Er(r)go. Theory – Literature – Culture Next Issue – 55 (2/2027) – game/play/idleness submission deadline: 15 September 2026",
+      "fullDescription": "Er(r)go. Theory – Literature – Culture Next Issue – 55 (2/2027) – game/play/idleness submission deadline: 15 September 2026",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
       "publish": true
     },
     {
