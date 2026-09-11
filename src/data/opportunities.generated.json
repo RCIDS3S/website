@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,11 +8,11 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Film and Television",
-      "count": 37
+      "count": 36
     },
     {
       "source": "UPenn CFP: Journals and Collections",
-      "count": 25
+      "count": 24
     },
     {
       "source": "CFPList: Digital Humanities",
@@ -24,7 +24,7 @@
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 20
+      "count": 19
     },
     {
       "source": "UPenn CFP: Theory",
@@ -44,7 +44,7 @@
     },
     {
       "source": "UPenn CFP: Cultural Studies",
-      "count": 14
+      "count": 13
     },
     {
       "source": "CFPList: Rhetoric & Composition",
@@ -52,7 +52,7 @@
     },
     {
       "source": "CFPList: Pedagogy",
-      "count": 11
+      "count": 12
     },
     {
       "source": "UPenn CFP: Ethnicity and National Identity",
@@ -71,16 +71,16 @@
       "count": 7
     },
     {
-      "source": "CFPList: Philosophy",
-      "count": 6
-    },
-    {
       "source": "CFPList: Communication Studies Search",
       "count": 6
     },
     {
       "source": "UPenn CFP: Professional Topics",
       "count": 6
+    },
+    {
+      "source": "CFPList: Philosophy",
+      "count": 5
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
@@ -153,90 +153,13 @@
   ],
   "items": [
     {
-      "title": "CALL FOR PAPERS: OBSCURA - INTERNATIONAL CONFERENCE ON HORROR AND CONTEMPORARY MEDIA CULTURE (EXTENDED SUBMISSION DEADLINE NOW OPEN)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106060",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-10",
-      "eventDate": "",
-      "location": "LIGAINCOM (SEJ694) and University of Seville",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 74,
-      "fields": [
-        "Film / Media",
-        "Digital Humanities / Design",
-        "Theory",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CALL FOR PAPERS: OBSCURA - INTERNATIONAL CONFERENCE ON HORROR AND CONTEMPORARY MEDIA CULTURE (EXTENDED SUBMISSION DEADLINE NOW OPEN)Dear Colleagues,We are pleased to invite you to participate in Obscura: International Conference on Horror and Contemporary Media Culture, organized by the research group at the University of Seville.This conference aims to e...",
-      "fullDescription": "CALL FOR PAPERS: OBSCURA - INTERNATIONAL CONFERENCE ON HORROR AND CONTEMPORARY MEDIA CULTURE (EXTENDED SUBMISSION DEADLINE NOW OPEN)Dear Colleagues,We are pleased to invite you to participate in Obscura: International Conference on Horror and Contemporary Media Culture, organized by the research group at the University of Seville.This conference aims to establish an international and interdisciplinary academic forum to analyze horror as a backbone of contemporary narrative (cinema, television, video games, and digital platforms), bridging academic theory with professional practice and the media industry.We are currently in the second submission period (extended deadline).",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design, Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Decolonising the Digital: Social Justice, Inclusion, and Equitable Knowledge Production",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106794",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-10",
-      "eventDate": "2026-12-18",
-      "location": "DHARTI 2026 Biennial Conference",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 62,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CALL FOR PAPERSDHARTI 2026 Biennial Conference Decolonising the Digital: Social Justice, Inclusion, and Equitable Knowledge Production 18–20 December 2026 KIIT Deemed to be University, Bhubaneswar, Odisha, India Hosted by KIIT Deemed to be University in collaboration with the Digital Humanities Alliance for Research and Teaching Innovations (DHARTI) . Con...",
-      "fullDescription": "CALL FOR PAPERSDHARTI 2026 Biennial Conference Decolonising the Digital: Social Justice, Inclusion, and Equitable Knowledge Production 18–20 December 2026 KIIT Deemed to be University, Bhubaneswar, Odisha, India Hosted by KIIT Deemed to be University in collaboration with the Digital Humanities Alliance for Research and Teaching Innovations (DHARTI) . Conference Theme",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Pedagogy, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "The Posthuman Re-Turns: Literature, Culture, and the Futures of Being",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106991",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-10",
-      "eventDate": "",
-      "location": "Department of English, Kamala Nehru College, University of Delhi",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 62,
-      "fields": [
-        "Film / Media",
-        "AI",
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "In an era characterized by unprecedented technological advancements and escalating ecological crises, the fundamental assumptions of what it means to be human are undergoing a radical reassessment. The traditional framework of humanism, predicated on a singular, anthropocentric worldview, is increasingly challenged by the rise of artificial intelligence,...",
-      "fullDescription": "In an era characterized by unprecedented technological advancements and escalating ecological crises, the fundamental assumptions of what it means to be human are undergoing a radical reassessment. The traditional framework of humanism, predicated on a singular, anthropocentric worldview, is increasingly challenged by the rise of artificial intelligence, biotechnologies, and global ecological interdependence. This interdisciplinary conference aims to explore how various forms of cultural production, including literature, film, and digital media, function not merely as reflections of the posthuman turn but as active agents in shaping and articulating it.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, AI, Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Global Cinema Symposium: Rethinking Transnational Cinema(s)",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -254,37 +177,13 @@
       "publish": true
     },
     {
-      "title": "Plastic/Plasticity",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/16/plasticplasticity",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-10",
-      "eventDate": "",
-      "location": "University of Bielsko-Biała",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Theory",
-        "Publication"
-      ],
-      "excerpt": "Plastic / Plasticity Literature and Culture and the Material of a (Bygone?) Era Plastic is a defining material of our era. Its properties—plasticity, durability, the ability to imitate any shape, its toxicity, and indecomposability—are also properties of contemporary culture and literature. The proposed thematic issue begins with the premise that plastic...",
-      "fullDescription": "Plastic / Plasticity Literature and Culture and the Material of a (Bygone?) Era Plastic is a defining material of our era. Its properties—plasticity, durability, the ability to imitate any shape, its toxicity, and indecomposability—are also properties of contemporary culture and literature. The proposed thematic issue begins with the premise that plastic can be read simultaneously as a historical substance and as a \"theory machine\"—a tool for understanding cultural texts and the experience of contemporary times. \"My approach, in this paper, is one of thinking with plastic through its metaphoricity and materiality, its relationality and gestationality; in short, a material mediality.” [R. Gosh]",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Publication.",
-      "publish": true
-    },
-    {
       "title": "College English Association Annual Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -309,7 +208,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50138",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2027-08-26",
       "location": "Online · PopCRN - The Popular Culture Research Network",
       "status": "open",
@@ -333,7 +232,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -356,7 +255,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -380,7 +279,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -404,7 +303,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49970",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-10-14",
       "location": "Ludhiana (Punjab) · SCD Govt. College",
       "status": "open",
@@ -427,7 +326,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -450,7 +349,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -474,7 +373,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -497,7 +396,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -520,7 +419,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -546,7 +445,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -569,7 +468,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -593,7 +492,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49475",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-05",
       "location": "Atlanta",
       "status": "open",
@@ -616,7 +515,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -639,7 +538,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48666",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-10-22",
       "location": "N/A",
       "status": "open",
@@ -662,7 +561,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49504",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-04",
       "location": "· INVALSI",
       "status": "open",
@@ -686,7 +585,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -709,7 +608,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-10",
+      "deadline": "2026-09-11",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -3792,30 +3691,6 @@
       "publish": true
     },
     {
-      "title": "Linguistics, Language Attitudes, and Popular Culture (Panel)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50085",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Interdisciplinary",
-        "Film / Media"
-      ],
-      "excerpt": "The relationship of Linguistics, Language Attitudes, and Popular Culture is of paramount importance in understanding how meaning is constructed and communicated in our everyday lives. Exploring how language is used and the ideas, attitudes, and information it conveys, overtly and in more implicit ways in our popular culture allows us to better understand...",
-      "fullDescription": "The relationship of Linguistics, Language Attitudes, and Popular Culture is of paramount importance in understanding how meaning is constructed and communicated in our everyday lives. Exploring how language is used and the ideas, attitudes, and information it conveys, overtly and in more implicit ways in our popular culture allows us to better understand ourselves and the cultures we live in. Presentations may address topics in language attitudes or language-related popular culture, such as: &bull; the language attitudes of X (for example, new baby greeting cards, truck drivers, student writers, first generation immigrants, etc.) &bull; issues with prescriptivism &bull; language and advertising or other media; &bull; professional, corporate, or other industry-related language; &bull; dialect, code-switching, or historical studies of language and language attitudes; &bull; language and education, including pedagogical approaches; &bull; gendered communication or other sociolinguistic topics; &bull; language and popular literature or television/film &bull; language and censorship; &bull; first and second language acquisition; &bull; any topic that relates to popular linguistics or language attitudes.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Writing and Wellbeing: A New Urgency for Human-Centered Composition Pedagogies (NeMLA 2027 Convention)",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
@@ -3885,33 +3760,10 @@
       "publish": true
     },
     {
-      "title": "Between Mobility and Mobilization: Lessons from Cultural Production",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/49799",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Remote Session · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "In what ways can literary mobilities provoke questions about social movements and forms of resistance in the current global order? Mobility is not simply the physical navigation of spaces, but an embodied and affective act with deep socio-cultural and political significance. Literary and cultural work that represents varied forms of mobility can reveal co...",
-      "fullDescription": "In what ways can literary mobilities provoke questions about social movements and forms of resistance in the current global order? Mobility is not simply the physical navigation of spaces, but an embodied and affective act with deep socio-cultural and political significance. Literary and cultural work that represents varied forms of mobility can reveal contradictions between the exercise and assumption of agency and uneven historical and social conditions of restriction. Whether mobilities are framed as environmental, diasporic, colonial, or decolonial, they pose questions about material and symbolic conditions of power that dictate who can move and in what ways. This session welcomes proposals on subversive mobilities in cultural production to interrogate the connections between mobile subjects and wider mobilization efforts, resistance movements, protest cultures, and expressions of dissent. In investigating the links between mobility and mobilization, this session seeks to engage a wider conversation about the relationship between movement and resistance. Central questions this session will address include: How do different narratives-literature, film, graphic and visual arts, or other forms of storytelling-connect mobilities to activism and resistance movements? How do narrative forms participate in protest cultures? How do mobilities articulate political claims? This session welcomes papers with interdisciplinary approaches to narrative forms and textual cultures.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "Human Rights, Violence and Dictatorship - 9th International Interdisciplinary Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50056",
+      "sourceUrl": "https://www.cfplist.com/CFP/50117",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
       "deadline": "2026-09-30",
@@ -3926,8 +3778,31 @@
         "Film / Media",
         "Theory"
       ],
-      "excerpt": "Conference online (via Zoom) CFP: In the time when human rights are violated on a regular basis, violence triumphs, and feeble democracies ever more often back down before authoritarian rule, there obviously arises the need to reflect on the possible ways of counteracting such phenomena. Our interdisciplinary conference is intended as a fitting opportunit...",
-      "fullDescription": "Conference online (via Zoom) CFP: In the time when human rights are violated on a regular basis, violence triumphs, and feeble democracies ever more often back down before authoritarian rule, there obviously arises the need to reflect on the possible ways of counteracting such phenomena. Our interdisciplinary conference is intended as a fitting opportunity for this reflection. We would like to look at various manifestations of dictatorship, violence and human rights violation, whether historical or current. We will describe them in political, social, psychological, cultural and many other terms. We also want to devote considerable attention to how the situation of human rights and dictatorship is represented in artistic practices: in literature, film, theatre or visual arts. ?During our previous conferences on human rights, violence and dictatorship we hosted over 300 scholars representing universities and research institutions from all over the world. We invite researchers representing various academic disciplines: history, politics, psychology, sociology, anthropology, philosophy, literary studies, theatre studies, film studies, fine arts, design, memory studies, migration studies, consciousness studies, dream studies, gender studies, postcolonial studies, medical sciences, psychiatry, psychoanalysis, cognitive sciences, economics, law and other. Different forms of presentations are encouraged, including case studies, theoretical investigations, problem-oriented arguments, and comparative analyses. We will be happy to hear from both experienced scholars and young academics at the start of their careers: doctoral students. We also invite all persons interested in participating in the conference as listeners, without giving a presentation. We hope that due to its interdisciplinary nature, the conference will bring many interesting observations on and discussions about the role of human rights and dictatorship in the past and in the present-day world. Our repertoire of suggested topics includes but is not restricted to: I. Societies? Genocides and ethnic cleansing Slavery and forced labor Nationalism, chauvinism, and xenophobia Religious dictatorships The Holocaust and totalitarian regimes Apartheid and systemic segregation (Neo)Nazism and political extremism Digital surveillance states and techno-authoritarianism Ecocide and climate injustice as human rights violations II. Individuals?? Domestic and gender-based violence Mobbing and workplace harassment Bullying in schools and the military Sexual abuse and exploitation Sadomasochism and power dynamics Symbolic violence and social exclusion Economic discrimination and ageism Cyberbullying, doxxing, and online hate speech Algorithmic bias and discrimination in AI systems III. Defense of Human Rights? Human rights organizations and humanitarian missions Resistance movements and civil disobedience The ethos of the freedom fighter Conspiracies, protests, and revolts Racial equality and the performativity of race Women's, LGBTQ+, and disability rights Intersections of human rights and animal rights Digital activism, hashtags, and cyber-resistance The role of whistleblowers in exposing state violence ? IV. Fallen Dictatorships Democracies in transition and post-communist states Amnesties, pardons, and transitional justice The revenge of the oppressed versus legal accountability Criminal courts and international tribunals The \"escape from freedom\" and regime nostalgia Psychological portraits of dictators The weaponization of nostalgia in populist politics De-radicalization programs and reintegration of former oppressors V. Violence and Subjectivity The politics of trauma and collective healing Fear, despair, and utopian visions Violence, discourse, and language Dictatorship as a social symptom Dictatorship, memory, and forgetting Intergenerational trauma and epigenetic memory of violence Gaslighting and psychological manipulation in totalitarian systems ? VI. Violence in the (Post)Modern World Cultural conditioning of violence Generational dynamics: \"dictatorship\" of the young or old Conformism and compliance under pressure The regime of political correctness and censorship Democracy and the tyranny of the majority Tensions between democracy, liberalism, and the free market Violence and propaganda in digital and mass media Deepfakes, disinformation, and the death of truth in the digital age Hybrid warfare, proxy conflicts, and invisible violence ? VII. Literature and the Arts Art and literature documenting human rights violations Aesthetics and narratives of violence Artistic practices engaged in the defense of human rights Art and literature as tools of censorship or rights violations AI-generated art: authorship, censorship, and ethical boundaries Cancel culture vs. freedom of artistic expression The architecture of oppression: monuments, ruins, and political space ? Please submit abstracts (no longer than 300 words) of your proposed 20-minute presentation, together with a short biographical note, by 30 September 2026 to: inconferenceoffice@gmail.com",
+      "excerpt": "CALL FOR PAPERS: In the time when human rights are violated on a regular basis, violence triumphs, and feeble democracies ever more often back down before authoritarian rule, there obviously arises the need to reflect on the possible ways of counteracting such phenomena. Our interdisciplinary conference is intended as a fitting opportunity for this reflec...",
+      "fullDescription": "CALL FOR PAPERS: In the time when human rights are violated on a regular basis, violence triumphs, and feeble democracies ever more often back down before authoritarian rule, there obviously arises the need to reflect on the possible ways of counteracting such phenomena. Our interdisciplinary conference is intended as a fitting opportunity for this reflection. We would like to look at various manifestations of dictatorship, violence and human rights violation, whether historical or current. We will describe them in political, social, psychological, cultural and many other terms. We also want to devote considerable attention to how the situation of human rights and dictatorship is represented in artistic practices: in literature, film, theatre or visual arts. ?During our previous conferences on human rights, violence and dictatorship we hosted over 300 scholars representing universities and research institutions from all over the world. We invite researchers representing various academic disciplines: history, politics, psychology, sociology, anthropology, philosophy, literary studies, theatre studies, film studies, fine arts, design, memory studies, migration studies, consciousness studies, dream studies, gender studies, postcolonial studies, medical sciences, psychiatry, psychoanalysis, cognitive sciences, economics, law and other. Different forms of presentations are encouraged, including case studies, theoretical investigations, problem-oriented arguments, and comparative analyses. We will be happy to hear from both experienced scholars and young academics at the start of their careers: doctoral students. We also invite all persons interested in participating in the conference as listeners, without giving a presentation. We hope that due to its interdisciplinary nature, the conference will bring many interesting observations on and discussions about the role of human rights and dictatorship in the past and in the present-day world. Our repertoire of suggested topics includes but is not restricted to: I. Societies? Genocides and ethnic cleansing Slavery and forced labor Nationalism, chauvinism, and xenophobia Religious dictatorships The Holocaust and totalitarian regimes Apartheid and systemic segregation (Neo)Nazism and political extremism Digital surveillance states and techno-authoritarianism Ecocide and climate injustice as human rights violations II. Individuals?? Domestic and gender-based violence Mobbing and workplace harassment Bullying in schools and the military Sexual abuse and exploitation Sadomasochism and power dynamics Symbolic violence and social exclusion Economic discrimination and ageism Cyberbullying, doxxing, and online hate speech Algorithmic bias and discrimination in AI systems III. Defense of Human Rights? Human rights organizations and humanitarian missions Resistance movements and civil disobedience The ethos of the freedom fighter Conspiracies, protests, and revolts Racial equality and the performativity of race Women's, LGBTQ+, and disability rights Intersections of human rights and animal rights Digital activism, hashtags, and cyber-resistance The role of whistleblowers in exposing state violence ? IV. Fallen Dictatorships Democracies in transition and post-communist states Amnesties, pardons, and transitional justice The revenge of the oppressed versus legal accountability Criminal courts and international tribunals The \"escape from freedom\" and regime nostalgia Psychological portraits of dictators The weaponization of nostalgia in populist politics De-radicalization programs and reintegration of former oppressors V. Violence and Subjectivity The politics of trauma and collective healing Fear, despair, and utopian visions Violence, discourse, and language Dictatorship as a social symptom Dictatorship, memory, and forgetting Intergenerational trauma and epigenetic memory of violence Gaslighting and psychological manipulation in totalitarian systems ? ? VI. Violence in the (Post)Modern World Cultural conditioning of violence Generational dynamics: \"dictatorship\" of the young or old Conformism and compliance under pressure The regime of political correctness and censorship Democracy and the tyranny of the majority Tensions between democracy, liberalism, and the free market Violence and propaganda in digital and mass media Deepfakes, disinformation, and the death of truth in the digital age Hybrid warfare, proxy conflicts, and invisible violence ? VII. Literature and the Arts Art and literature documenting human rights violations Aesthetics and narratives of violence Artistic practices engaged in the defense of human rights Art and literature as tools of censorship or rights violations AI-generated art: authorship, censorship, and ethical boundaries Cancel culture vs. freedom of artistic expression The architecture of oppression: monuments, ruins, and political space ? Please submit abstracts (no longer than 300 words) of your proposed 20-minute presentation, together with a short biographical note, by 30 September 2026 to: inconferenceoffice@gmail.com",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
+      "title": "Linguistics, Language Attitudes, and Popular Culture (Panel)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50085",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "The relationship of Linguistics, Language Attitudes, and Popular Culture is of paramount importance in understanding how meaning is constructed and communicated in our everyday lives. Exploring how language is used and the ideas, attitudes, and information it conveys, overtly and in more implicit ways in our popular culture allows us to better understand...",
+      "fullDescription": "The relationship of Linguistics, Language Attitudes, and Popular Culture is of paramount importance in understanding how meaning is constructed and communicated in our everyday lives. Exploring how language is used and the ideas, attitudes, and information it conveys, overtly and in more implicit ways in our popular culture allows us to better understand ourselves and the cultures we live in. Presentations may address topics in language attitudes or language-related popular culture, such as: &bull; the language attitudes of X (for example, new baby greeting cards, truck drivers, student writers, first generation immigrants, etc.) &bull; issues with prescriptivism &bull; language and advertising or other media; &bull; professional, corporate, or other industry-related language; &bull; dialect, code-switching, or historical studies of language and language attitudes; &bull; language and education, including pedagogical approaches; &bull; gendered communication or other sociolinguistic topics; &bull; language and popular literature or television/film &bull; language and censorship; &bull; first and second language acquisition; &bull; any topic that relates to popular linguistics or language attitudes.",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
@@ -4920,6 +4795,31 @@
       "excerpt": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect...",
       "fullDescription": "From its founding ideals framing rights as tied to individuals to many of the ‘myths that made America,’ such as the self-made man, ideas of individualism are deeply entrenched in the culture of the United States. Yet at the same time, the US has also always understood itself as a particular community: as a city upon a hill, a melting pot, a more perfect union. As such, the United States has been established on a seeming paradox, forming ‘out of many, one.’ More recently, this previous consensus has become increasingly brittle, with fragmentation, polarization, hyper-individualism, and loneliness on the rise—as some would argue: again.",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "CALL FOR PRESENTATION PAPER ABSTRACCFP for conference session: “Are Karl Marx’s ‘Perpetuum Mobile’ and/or Max Weber’s ‘Machine State’ Dominating Labor",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/50157",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-14",
+      "eventDate": "2027-07-04",
+      "location": "Korea, Chonnam National University · XXI International Sociological Association (ISA) World Congress of Sociology,",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "CALL FOR PRESENTATION PAPER ABSTRACTS: DEADLINE 14 OCT 2026 \"Are Karl Marx's 'Perpetuum Mobile' and/or Max Weber's 'Machine State' Dominating Labor Today? Why or Why Not?\" Students, researchers, faculty members, and scholars working in sociology and related social sciences are invited to submit conference presentation paper abstracts for an open conferenc...",
+      "fullDescription": "CALL FOR PRESENTATION PAPER ABSTRACTS: DEADLINE 14 OCT 2026 \"Are Karl Marx's 'Perpetuum Mobile' and/or Max Weber's 'Machine State' Dominating Labor Today? Why or Why Not?\" Students, researchers, faculty members, and scholars working in sociology and related social sciences are invited to submit conference presentation paper abstracts for an open conference session entitled \"Are Karl Marx's 'Perpetuum Mobile' and/or Max Weber's 'Machine State' Dominating Labor Today? Why or Why Not?\" The session will part of the XXI International Sociological Association (ISA) World Congress of Sociology, from July 4-10, 2027 at Chonnam National University in Jeonnam-Gwangju Special Metropolitan City, Korea. It is jointly sponsored by the ISA Research Committee on Comparative Sociology (RC20) and the ISA Research Committee on Economy and Society (RC02) of the ISA. Karl Marx and Max Weber both thought about a time when machines would dominate labor. Marx wrote of a \"perpetuum mobile\" to describe the unceasing turnover of money by a machine of indestructible materiality, circulating a repeating and alternating flow of sale and purchase. Max Weber's \"Sociology of Domination\" theory warned that the power to coerce markets endlessly would cause endless conflicts. For Marx social change entailed communist revolution, while Weber, who was not a Marxist, worried that social change would be constricted to political coups to control the government's informational infrastructure. Social problems of alienation and rationalization, capitalist wealth and inequality, abuse of power and authority, coerced markets, money hording and social stratification are as alive today and when Marx and Weber set down theories about these social problems over a hundred years ago. What can we say about our AI dominated world using the concepts and writings of Marx and Weber today? Do their economic and historical comparative concepts help us understand our digital world? Why or why not? Submit presentation abstracts by October 14, 2026, through the ISA Congress Submission System linked below. ISA XXI World Congress of Sociology Call for Abstracts: https://www.isa-sociology.org/isa-events/xxi-world-congress-of-sociology/call-for-abstracts Watch the 2025 ISA abstract submission tutorial here: https://www.youtube.com/watch?v=p_dRzY4k_o4 Current Session Participants: Session Chair, Dr. Ece Kocabicak, The Open University Co-Chair, Dr. Pravat Ranjan Sethi, Central University of Himachal Pradesh, India Discussant, Proshant Chakraborty, University of Vienna, Austria Session Organizer, Dr. Noel Packard, Independent Scholar, USA Questions? Contact Dr. Noel Packard at npac825@aucklanduni.ac.nz. Further information available via Sociology Group interview with Dr. Noel Packard on Marx, Weber, and machines dominating labour: https://www.researchgate.net/publication/414162540_An_Interview_with_Dr_Noel_Packard_- Karl_Marx_and_Max_Weber_on_Machines_Dominating_Labour",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -7285,7 +7185,7 @@
     {
       "title": "The Politics of Care in Higher Education: Pedagogies, Communities, and Institutional Tensions",
       "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
+      "sourceName": "CFPList: Pedagogy",
       "sourceUrl": "https://www.cfplist.com/CFP/50021",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
@@ -7298,13 +7198,12 @@
       "publishMode": "auto",
       "score": 20,
       "fields": [
-        "Theory",
-        "Publication",
-        "Pedagogy"
+        "Pedagogy",
+        "Publication"
       ],
       "excerpt": "CALL FOR PAPERS The Politics of Care in Higher Education: Pedagogies, Communities, and Institutional Tensions Eds. Gretta Sayers, Dominique Hétu, and Mousumi Majumder This edited collection offers a timely contribution to the growing body of scholarship on care in higher education (Child & Marvel, 2023; Johnston, 2024; Evans, 2025; Boden et al., 2026). Mo...",
       "fullDescription": "CALL FOR PAPERS The Politics of Care in Higher Education: Pedagogies, Communities, and Institutional Tensions Eds. Gretta Sayers, Dominique Hétu, and Mousumi Majumder This edited collection offers a timely contribution to the growing body of scholarship on care in higher education (Child & Marvel, 2023; Johnston, 2024; Evans, 2025; Boden et al., 2026). Moving beyond celebratory narratives that romanticize care, treat it as inherently benevolent, or present it as a natural and uncomplicated good, this volume approaches care as a complex and contested practice shaped by institutional structures, power relations, material conditions, and unequal distributions of labour. It examines how care operates simultaneously as a pedagogical ethic, relational practice, and institutional discourse, while foregrounding the tensions and contradictions that emerge in its enactment in higher education. We seek contributions that examine both the transformative possibilities and the political contradictions of care in academic life, engaging urgent concerns surrounding precarity, burnout, institutional rhetoric, and collective responsibility while offering grounded and theoretically rigorous pathways for reimagining academic communities. Guided by an editorial team working across science, arts, and music, the volume approaches care as a question that exceeds disciplinary boundaries and conventional academic forms. We welcome interdisciplinary contributions exploring pedagogies of care in academia as relational, political, ethical, and institutional practices, and particularly encourage critical perspectives attentive to the tensions between care as transformative praxis and care as institutional discourse. In keeping with this interdisciplinary and expansive orientation, we welcome not only scholarly analysis but also contributions that engage pedagogical and institutional questions through research-creation, creative and arts-based methodologies, embodied and relational inquiry, and other forms of knowledge-making attentive to care, reciprocity, and collective responsibility. Possible topics may include, but are not limited to: Communities of Practice, Solidarity, and Collective Care Focus on the relationships, networks, and collective structures through which care is enacted, sustained, and negotiated within and beyond academic institutions. Contributions may critically examine communities of practice, mentorship, solidarity, belonging, and collective responses to precarity, exclusion, and institutional change. Communities of practice as spaces of relational learning and mutual support Collective care and solidarity within academic communities Faculty, staff, student, and intergenerational communities of care Mentorship, sponsorship, and peer-support networks Community-based and grassroots care practices Communities of resistance and alternative academic cultures Care infrastructures within and beyond institutions Transnational, intercultural, and multilingual communities of practice Critical and Decolonial Theorizations of Care Feminist, decolonial, anti-racist, Indigenous, disability, queer, and intersectional approaches to care Care as relational, political, ethical, and collective practice Relational accountability, reciprocity, and responsibility Distinctions and tensions between care, compassion, empathy, wellness, and support Decolonizing care and questioning dominant or universalized understandings of care Care, power, and the politics of recognition and belonging Care, Institutions, and Structural Conditions Who is responsible for care? Institutional accountability and the challenges of \"walking the talk\" The instrumentalization, depoliticization, or weaponization of care \"Care-washing,\" compassionate governance, and institutional contradictions Structural inequities and institutional barriers to caring practices Equity, accessibility, and accountability in institutional approaches to care Care as institutional discourse, managerial language, or policy framework Labour, Power, and Unequal Expectations of Care Gendered, racialized, colonial, and ableist distributions of care labour Emotional, affective, and relational labour in academia Invisible, undervalued, and uncompensated care work Faculty, staff, and student wellbeing beyond individualized frameworks Burnout, exhaustion, and care fatigue Boundaries, refusal, and care without self-erasure Institutional responsibility and the redistribution of care work Care, academic precarity, workload, and cultures of overextension Precarious labour and the politics of academic support Educational Leadership, Governance, and Institutional Contradictions Focus on educational leadership, governance, and institutional decision-making as sites where commitments to care encounter institutional hierarchies, competing responsibilities, material constraints, and unequal relations of power. The tensions between relational leadership and hierarchical authority Who is expected, authorized, or positioned to make decisions about what counts as care and for whom. Institutional commitments to care alongside austerity, restructuring, precarity, workload intensification, and performance management The contradictions of leaders being asked to enact care while administering policies or decisions that may produce harm Care as institutional responsibility versus the individualization or downward delegation of caring labour Governance, consultation, and participation: whose voices are heard, recognized, or excluded in institutional decisions about care Care, accountability, and evaluation: the challenges of recognizing caring practices without rendering care measurable, performative, or managerial Leadership, refusal, and complicity: the limits of care within institutions whose structures may themselves reproduce inequity Research, Knowledge Production, and Ethical Scholarship Focus on care as an epistemological, methodological, and ethical framework for research and knowledge production. Contributions may explore how care shapes scholarly inquiry, research relationships, academic publishing, and the production, circulation, and validation of knowledge. Collaborative, participatory, and community-engaged research methodologies Communities of practice as sites of collective knowledge production Decolonial, Indigenous, and community-accountable research practices Knowledge production, epistemic justice, and the ethics of listening Care as a research methodology and analytical framework The production, negotiation, and contestation of safe spaces in research and educational contexts Slow scholarship and alternative temporalities of knowledge production Critical and Creative Interventions Arts-based and creative approaches to care Case studies of care-based initiatives and institutional tensions Failures, ambivalences, and unintended consequences of care Pedagogies of refusal, repair, and institutional critique Reimagining academic cultures through justice-oriented and decolonial care Futures of care in higher education We particularly welcome contributions that critically and creatively engage the possibilities and limits of care, foreground questions of equity and justice, and explore the conditions under which pedagogies and communities of practice may foster, constrain, or complicate more accountable, inclusive, and transformative academic cultures. Please submit your detailed abstract (max 500 words, in a .docx or PDF file) to carecommunity@brandonu.ca by Jan. 15, 2027 , along with a bio (250 words). Detailed Abstract Requirements Submissions should include a detailed abstract of up to 500 words outlining the proposed contribution. The abstract should present: its central argument, question, or inquiry; its conceptual or theoretical grounding; its methodological and/or creative approach; the texts, creative works, practices, or other materials on which the contribution will draws. Proposals may also take the form of research-creation projects or involve alternative, multimodal, or community-engaged approaches to knowledge production and dissemination. In such cases, the abstract should clearly describe the proposed form and its relevance to the contribution. Contributions should normally range between 4,000 and 8,000 words. Creative and hybrid contributions that take forms for which word count is not the most appropriate measure are invited to discuss format and length with the editors. Tentative Timeline: Call for chapter proposals: Sept. 1, 2026 Chapter proposals due: Jan. 15, 2027 Initial proposal decisions: Early Feb. 2027 Full chapters due: Sept. 2027 Editorial feedback: Nov. 2027 Revised chapters due: May 2028 Manuscript submitted to the publisher: June 2028 Works Cited Boden, C., et al. (2026), \"The Hidden Curriculum of Care: Emotional Labor, Burnout, and Compassion Fatigue in Higher Education,\" Innovative Higher Education . Child, S., & Marvell, R. (2023). \"Care-experienced students in higher education: A case for re-figuring higher education worlds to widen access and further social justice.\" British Educational Research Journal , 50(2),474-494. Ellis, K., & Johnston, C. (2024). \"Resilience, higher education and widening participation: Generating change for care experienced students.\" Higher Education , 87(1), 1-16. Evans, C. (2025). \"The ethics of love and care in higher education: Perspectives of students with care experience.\" Higher Education . doi.org/10.1007/s10734-025-01563-4",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Publication.",
       "publish": false
     },
     {
