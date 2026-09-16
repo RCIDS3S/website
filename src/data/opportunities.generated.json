@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,11 +8,7 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Film and Television",
-      "count": 36
-    },
-    {
-      "source": "UPenn CFP: Journals and Collections",
-      "count": 24
+      "count": 32
     },
     {
       "source": "CFPList: Digital Humanities",
@@ -23,20 +19,20 @@
       "count": 23
     },
     {
+      "source": "UPenn CFP: Journals and Collections",
+      "count": 21
+    },
+    {
       "source": "UPenn CFP: Humanities Computing and the Internet",
       "count": 20
     },
     {
-      "source": "UPenn CFP: Theory",
-      "count": 17
+      "source": "CFPList: Graduate Conferences",
+      "count": 16
     },
     {
       "source": "ACLS Competitions and Deadlines",
       "count": 16
-    },
-    {
-      "source": "CFPList: Graduate Conferences",
-      "count": 15
     },
     {
       "source": "CFPList: Film, TV & Media",
@@ -47,16 +43,16 @@
       "count": 14
     },
     {
-      "source": "UPenn CFP: Cultural Studies",
-      "count": 13
-    },
-    {
       "source": "CFPList: Pedagogy",
       "count": 12
     },
     {
-      "source": "UPenn CFP: Ethnicity and National Identity",
-      "count": 9
+      "source": "UPenn CFP: Theory",
+      "count": 12
+    },
+    {
+      "source": "UPenn CFP: Cultural Studies",
+      "count": 12
     },
     {
       "source": "UPenn CFP: Pedagogy",
@@ -64,6 +60,10 @@
     },
     {
       "source": "UPenn CFP: Translation Studies",
+      "count": 8
+    },
+    {
+      "source": "UPenn CFP: Ethnicity and National Identity",
       "count": 8
     },
     {
@@ -83,28 +83,16 @@
       "count": 6
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 5
-    },
-    {
       "source": "CFPList: Professional Communication Search",
       "count": 4
     },
     {
-      "source": "UPenn CFP: International Conferences",
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 4
     },
     {
       "source": "CLIR Programs and Grants",
       "count": 4
-    },
-    {
-      "source": "UPenn CFP: Popular Culture",
-      "count": 3
-    },
-    {
-      "source": "National Endowment for the Humanities Grants",
-      "count": 3
     },
     {
       "source": "UPenn CFP: Gender and Sexuality",
@@ -116,6 +104,18 @@
     },
     {
       "source": "UPenn CFP: Theatre and Performance Studies",
+      "count": 3
+    },
+    {
+      "source": "UPenn CFP: Fan Studies and Fandom",
+      "count": 3
+    },
+    {
+      "source": "UPenn CFP: International Conferences",
+      "count": 3
+    },
+    {
+      "source": "National Endowment for the Humanities Grants",
       "count": 3
     },
     {
@@ -131,15 +131,15 @@
       "count": 2
     },
     {
+      "source": "UPenn CFP: Popular Culture",
+      "count": 2
+    },
+    {
       "source": "UPenn CFP: Modernist Studies",
       "count": 2
     },
     {
       "source": "UPenn CFP: Online Conferences",
-      "count": 2
-    },
-    {
-      "source": "UPenn CFP: Fan Studies and Fandom",
       "count": 2
     },
     {
@@ -153,135 +153,13 @@
   ],
   "items": [
     {
-      "title": "#CFP: Faith, Ethics, and Digital Transformation",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107125",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "2026-10-01",
-      "location": "TIDEL Scholarly Symposium",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 62,
-      "fields": [
-        "Digital Humanities / Design",
-        "Theory"
-      ],
-      "excerpt": "TIDEL Scholarly Symposium Faith, Ethics, and Digital Transformation Join TIDEL for a two-day convening exploring the ethical, theological, social, and institutional implications of technological change in an era of rapid innovation and profound social transformation. Founded in 2022, TIDEL is a Union Theological Seminary–based initiative that brings toget...",
-      "fullDescription": "TIDEL Scholarly Symposium Faith, Ethics, and Digital Transformation Join TIDEL for a two-day convening exploring the ethical, theological, social, and institutional implications of technological change in an era of rapid innovation and profound social transformation. Founded in 2022, TIDEL is a Union Theological Seminary–based initiative that brings together faith leaders, scholars, technologists, nonprofit practitioners, and public leaders to explore ethical, justice-centered, and collaborative approaches to technology, innovation, and digital engagement. Overview Thursday, October 1, 2026 Union Theological Seminary 1:45 PM -- 5:45 PM Boxed lunch available at 12:45 PM $100 until September 1 $150 after",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Theory.",
-      "publish": true
-    },
-    {
-      "title": "CFP Holy Grail, Batman? Expanding Knowledge of the Grail Legends in Popular Culture (Online) (9/15/2026; ICMS Kalamazoo/Online 5/13-15/2027)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/cfp-holy-grail-batman-expanding-knowledge-of-the-grail-legends-in-popular-culture",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Michael Torregrossa / Alliance for the Promotion of Research on the Matter of Britain",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 58,
-      "fields": [
-        "Film / Media",
-        "Pedagogy"
-      ],
-      "excerpt": "2026: 09-15-26: CFP Holy Grail, Batman? Expanding Knowledge of the Grail Legends in Popular Culture (Online) (9/15/2026; ICMS Kalamazoo/Online 5/13-15/2027) Holy Grail, Batman? Expanding Knowledge of the Grail Legends in Popular Culture (Online) 62nd International Congress on Medieval Studies, Western Michigan University (Kalamazoo, MI), Thursday, 13 May,...",
-      "fullDescription": "2026: 09-15-26: CFP Holy Grail, Batman? Expanding Knowledge of the Grail Legends in Popular Culture (Online) (9/15/2026; ICMS Kalamazoo/Online 5/13-15/2027) Holy Grail, Batman? Expanding Knowledge of the Grail Legends in Popular Culture (Online) 62nd International Congress on Medieval Studies, Western Michigan University (Kalamazoo, MI), Thursday, 13 May, through Saturday, 15 May, 2026 Co-sponsored by Alliance for the Promotion of Research on the Matter of Britain, Association for the Advancement of Scholarship and Teaching of the Medieval in Popular Culture",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Pedagogy.",
-      "publish": true
-    },
-    {
-      "title": "CFP The Lives and Legacies of Medieval Comics: A Commemoration of Ninety Years of Hal Foster's Prince Valiant (Hybrid) (9/15/2026; ICMS Kalamazoo/Onli",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/cfp-the-lives-and-legacies-of-medieval-comics-a-commemoration-of-ninety-years-of-hal",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Michael Torregrossa / Medieval Comics Project",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Film / Media",
-        "Pedagogy"
-      ],
-      "excerpt": "The Lives and Legacies of Medieval Comics: A Commemoration of Ninety Years of Hal Foster's Prince Valiant (Hybrid) 62nd International Congress on Medieval Studies, Western Michigan University (Kalamazoo, MI), Thursday, 13 May, through Saturday, 15 May, 2026 Co-sponsored by Medieval Comics Project, Association for the Advancement of Scholarship and Teachin...",
-      "fullDescription": "The Lives and Legacies of Medieval Comics: A Commemoration of Ninety Years of Hal Foster's Prince Valiant (Hybrid) 62nd International Congress on Medieval Studies, Western Michigan University (Kalamazoo, MI), Thursday, 13 May, through Saturday, 15 May, 2026 Co-sponsored by Medieval Comics Project, Association for the Advancement of Scholarship and Teaching of the Medieval in Popular Culture Co-organized by Michael A. Torregrossa, Bristol Community College, and Carl B Sell, University of Pittsburgh Rationale",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Pedagogy.",
-      "publish": true
-    },
-    {
-      "title": "Vladimir Nabokov: Contemporary Reception and Creative Legacy",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/10/vladimir-nabokov-contemporary-reception-and-creative-legacy",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "2027-04-28",
-      "location": "French Vladimir Nabokov Society",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Technical Communication",
-        "Film / Media"
-      ],
-      "excerpt": "International Conference Vladimir Nabokov: Contemporary Reception and Creative Legacy April 28-30, 2027 Bordeaux Montaigne University On the occasion of the 50th anniversary of Vladimir Nabokov’s passing, the French Vladimir Nabokov Society, in collaboration with the University of Bordeaux-Montaigne and the International Vladimir Nabokov Society, organize...",
-      "fullDescription": "International Conference Vladimir Nabokov: Contemporary Reception and Creative Legacy April 28-30, 2027 Bordeaux Montaigne University On the occasion of the 50th anniversary of Vladimir Nabokov’s passing, the French Vladimir Nabokov Society, in collaboration with the University of Bordeaux-Montaigne and the International Vladimir Nabokov Society, organizes its 10th International Conference, to be held April 28-30, 2027 in Bordeaux, France.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Technical Communication, Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "Sphaira: Journal of Arts and Humanities",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/sphaira-journal-of-arts-and-humanities",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Faculty of Arts and Humanities, Netrokona University",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Theory",
-        "Pedagogy",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Faculty of Arts and Humanities at Netrokona University, Bangladesh is delighted to inform that it is going to publish its double-blind peer-reviewed academic journal Sphaira: Journal of Arts and Humanities , volume 2, in December, 2026. Scholarly articles in English addressing contemporary issues within the fields of literature, linguistics, language...",
-      "fullDescription": "The Faculty of Arts and Humanities at Netrokona University, Bangladesh is delighted to inform that it is going to publish its double-blind peer-reviewed academic journal Sphaira: Journal of Arts and Humanities , volume 2, in December, 2026. Scholarly articles in English addressing contemporary issues within the fields of literature, linguistics, language teaching, education, fine arts, performance studies, folklore studies, cultural studies, literary theory, and history and archeology are called for publication in its second volume. Manuscript development guidelines:",
-      "relevance": "Automatically surfaced as a strong RCID fit across Theory, Pedagogy, Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Global Cinema Symposium: Rethinking Transnational Cinema(s)",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -299,61 +177,13 @@
       "publish": true
     },
     {
-      "title": "Disability in Literature and Cinema",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/21/disability-in-indian-literature-and-cinema",
-      "type": "Edited Collection",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Mahatma Gandhi Central Univeristy, India.",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media",
-        "Publication"
-      ],
-      "excerpt": "Call for Book Chapters (Scopus) Date Extended till Sep 15, 2026 We are open to all, but preference will be given to international contributors Disability in Literature and Cinema Concept Note:",
-      "fullDescription": "Call for Book Chapters (Scopus) Date Extended till Sep 15, 2026 We are open to all, but preference will be given to international contributors Disability in Literature and Cinema Concept Note:",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
-      "publish": true
-    },
-    {
-      "title": "History, Myth and Orality: Reconceptualizing the Past through the lens of Literary and Cultural Texts",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106264",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "PANCHLA MAHAVIDYALAYA IN COLLABORATION WITH ICSSR-ERC (INTERNATIONAL CONFERENCE)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Theory",
-        "Art / Media Practice"
-      ],
-      "excerpt": "How does a society remember, preserve, and narrate its past? This proposed two-day international seminar, “Myth, Orality, and History: Conceptualizing the Past through the Arts and Cultural Texts,” organised by the Department of English, Panchla Mahavidyalaya in collaboration with the IQAC, Panchla Mahavidyalaya is a scholarly expedition at exploring this...",
-      "fullDescription": "How does a society remember, preserve, and narrate its past? This proposed two-day international seminar, “Myth, Orality, and History: Conceptualizing the Past through the Arts and Cultural Texts,” organised by the Department of English, Panchla Mahavidyalaya in collaboration with the IQAC, Panchla Mahavidyalaya is a scholarly expedition at exploring this Daedalian phenomenon. As contemporary interdisciplinary studies have begun to move beyond conventional archival approaches, this international seminar emphasizes the myriad of ways in which the past of a nation, culture, group, etc. can be conceptualized, stored, and reimagined through different mediums such as myths, oral narratives, scriptures, paintings,",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -371,83 +201,13 @@
       "publish": true
     },
     {
-      "title": "“Historical Short Fiction in Britain and Ireland”",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/27/%E2%80%9Chistorical-short-fiction-in-britain-and-ireland%E2%80%9D",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Armelle Parey",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Historical fiction is generally associated with the novel (see Green [2011] and Young [2018]). Yet the historical short story was significant before WWI: “from 1901 to 1914, over 1200 works of historical fiction were issued, of which nearly a quarter were short-story collections” (Cox and Adrian 1994, xiv). We may wonder if and how the genre has been impa...",
-      "fullDescription": "Historical fiction is generally associated with the novel (see Green [2011] and Young [2018]). Yet the historical short story was significant before WWI: “from 1901 to 1914, over 1200 works of historical fiction were issued, of which nearly a quarter were short-story collections” (Cox and Adrian 1994, xiv). We may wonder if and how the genre has been impacted by the renewed interest in the past and history in fiction over the past 30 years.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Rethinking Ecotheory (1): Disentangling Ecocriticism // Rethinking Ecotheory (2): Disappointing Ecocriticisms (ICMS 2027)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/12/rethinking-ecotheory-1-disentangling-ecocriticism-rethinking-ecotheory-2",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Medieval Ecocriticisms",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 40,
-      "fields": [
-        "Theory"
-      ],
-      "excerpt": "This CfP contains two individual sessions grouped under the rubric 'Rethinking Ecotheory' for the 62nd International Congress on Medieval Studies. Please see information for both sessions and separate links to apply below! Both sessions are sponsored by Medieval Ecocriticisms. Abstracts for both sessions are due by September 15th, 2026. Please contact the...",
-      "fullDescription": "This CfP contains two individual sessions grouped under the rubric 'Rethinking Ecotheory' for the 62nd International Congress on Medieval Studies. Please see information for both sessions and separate links to apply below! Both sessions are sponsored by Medieval Ecocriticisms. Abstracts for both sessions are due by September 15th, 2026. Please contact the organizers Hunter ( hap48@cornell.edu ) and Basil ( basil.price@oneonta.edu ) with any questions. Overview",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory.",
-      "publish": true
-    },
-    {
-      "title": "Decadence: Rhetoric and Aesthetics of Decline from Ancient Empire to the Age of Polycrisis, conference to be held at the British School at Rome",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/decadence-rhetoric-and-aesthetics-of-decline-from-ancient-empire-to-the-age-of",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Ramus International, conference hosted at the British School at Rome",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "Decadence: Rhetoric and Aesthetics of Decline from Ancient Empire to the Age of Polycrisis Conference open to scholars of all stages Venue: British School at Rome, Rome Dates:21-22nd January 2027 Following a successful symposium in 2025 on the subject of civilisational origins, we are delighted to announce our next event, Decadence , a conference about wh...",
-      "fullDescription": "Decadence: Rhetoric and Aesthetics of Decline from Ancient Empire to the Age of Polycrisis Conference open to scholars of all stages Venue: British School at Rome, Rome Dates:21-22nd January 2027 Following a successful symposium in 2025 on the subject of civilisational origins, we are delighted to announce our next event, Decadence , a conference about what happens to civilisations, societies, and cultural movements when they reach and then exceed their peak.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
       "title": "Transformative Synergies",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -473,7 +233,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -498,7 +258,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50138",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2027-08-26",
       "location": "Online · PopCRN - The Popular Culture Research Network",
       "status": "open",
@@ -522,7 +282,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -545,7 +305,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -563,37 +323,13 @@
       "publish": true
     },
     {
-      "title": "Call for Papers: The Erotic Today",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/26/call-for-papers-the-erotic-today",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Flatus Vocis",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Publication",
-        "Theory"
-      ],
-      "excerpt": "The erotic is a point of infinite signification, a navel in humanity’s symbolic circuit. However, despite its resistance to formalization, it is always in the process of not being written. As Octavio Paz insists, the erotic is a metaphor indelible to the human. As such, it is unsurprising that the manifestations of the erotic in subjective embodied experi...",
-      "fullDescription": "The erotic is a point of infinite signification, a navel in humanity’s symbolic circuit. However, despite its resistance to formalization, it is always in the process of not being written. As Octavio Paz insists, the erotic is a metaphor indelible to the human. As such, it is unsurprising that the manifestations of the erotic in subjective embodied experience are variable and correspond to equally plural treatments of it across the academic panorama. This diverse archive is bound by certain distinguishable threads, in terms of the potentiality of the erotic, its singular relation to language, and to the sphere of sexuality.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory.",
-      "publish": true
-    },
-    {
       "title": "Engaging Research Across Humanities (ERAH) Graduate Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -617,7 +353,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49970",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-10-14",
       "location": "Ludhiana (Punjab) · SCD Govt. College",
       "status": "open",
@@ -640,7 +376,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -657,82 +393,13 @@
       "publish": true
     },
     {
-      "title": "CFP for Special Issue: Food as Joy",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/24/cfp-for-special-issue-food-as-joy",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Graduate Journal of Food Studies",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Publication"
-      ],
-      "excerpt": "The Graduate Journal of Food Studies invites submissions for a special issue exploring the theme Food as Joy. Food is and will always be a source of pleasure, celebration, creativity, and connection. This issue seeks contributions that examine the intersections, tensions, and possibilities of food as a source of joy. We welcome interdisciplinary perspecti...",
-      "fullDescription": "The Graduate Journal of Food Studies invites submissions for a special issue exploring the theme Food as Joy. Food is and will always be a source of pleasure, celebration, creativity, and connection. This issue seeks contributions that examine the intersections, tensions, and possibilities of food as a source of joy. We welcome interdisciplinary perspectives and encourage submissions that engage with food's social, cultural, political, environmental, and emotional dimensions.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
-      "publish": true
-    },
-    {
-      "title": "BAAS Postgraduate Symposium at the V&A: Transatlantic Connections and the ‘Special Relationship[s]’",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/10/baas-postgraduate-symposium-at-the-va-transatlantic-connections-and-the-%E2%80%98special",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "2026-11-09",
-      "location": "British Association for American Studies",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Transatlantic Connections and the ‘Special Relationship[s]’: BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a “special relationship between the British Commonwealth and Empire and the United States” in order to maintain world diplomacy, citing our shared language and cultural val...",
-      "fullDescription": "Transatlantic Connections and the ‘Special Relationship[s]’: BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a “special relationship between the British Commonwealth and Empire and the United States” in order to maintain world diplomacy, citing our shared language and cultural values as connecting the two countries. Although this ‘special relationship’ has continually been called into question by scholars, there is undoubtedly a channel of cultural and political exchange between the US and the UK, as well as with other countries, which has become even more urgent for discussion in recent years.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "“Not a Monoculture”: Ideas of Irishness",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Ethnicity and National Identity",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/%E2%80%9Cnot-a-monoculture%E2%80%9D-ideas-of-irishness-%E2%80%A8",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "American Conference for Irish Studies Mid-Atlantic/ New England Conference",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "American Conference for Irish Studies Mid-Atlantic and New England Regional Conference November 6th and 7th 2026 Seton Hall University, South Orange, NJ CFP Proposal Extension: The Call for Papers deadline for the Mid-Atlantic and New England American Conference for Irish Studies at Seton Hall University has been extended until September 15th, 2026. We en...",
-      "fullDescription": "American Conference for Irish Studies Mid-Atlantic and New England Regional Conference November 6th and 7th 2026 Seton Hall University, South Orange, NJ CFP Proposal Extension: The Call for Papers deadline for the Mid-Atlantic and New England American Conference for Irish Studies at Seton Hall University has been extended until September 15th, 2026. We encourage both established scholars and those new to the field to submit abstracts. We welcome graduate student abstracts and will hold an undergraduate poster session. Interested undergraduates should submit their poster ideas as an abstract. Keynote:",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Ecocriticism and Representations of the Sea in the Arts in Portugal",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -756,7 +423,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -779,7 +446,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -802,7 +469,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -822,83 +489,13 @@
       "publish": true
     },
     {
-      "title": "Er(r)go journal next issue – 55 (2/2027) – game/play/idleness",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/17/errgo-journal-next-issue-%E2%80%93-55-22027-%E2%80%93-gameplayidleness",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "Er(r)go. Theory – Literature – Culture",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Theory",
-        "Publication"
-      ],
-      "excerpt": "Er(r)go. Theory – Literature – Culture Next Issue – 55 (2/2027) – game/play/idleness submission deadline: 15 September 2026",
-      "fullDescription": "Er(r)go. Theory – Literature – Culture Next Issue – 55 (2/2027) – game/play/idleness submission deadline: 15 September 2026",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
-      "publish": true
-    },
-    {
-      "title": "The Inked Body: Medieval Tattoos, Tattoo Archaeology, and Cultures of Body Modification",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Popular Culture",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/12/the-inked-body-medieval-tattoos-tattoo-archaeology-and-cultures-of-body-modification",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "ICMS - 62nd International Congress on Medieval Studies (May 13 - 15, 2027)",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Tattooing, a form of bodily modification, has existed as a global phenomenon for centuries, persevering within the distant and near past alike. Yet, only recently have these images embedded in flesh been subjected to thorough scholarly inquiry. This panel invites papers that examine a wide range of issues pertaining to medieval tattoos, including practice...",
-      "fullDescription": "Tattooing, a form of bodily modification, has existed as a global phenomenon for centuries, persevering within the distant and near past alike. Yet, only recently have these images embedded in flesh been subjected to thorough scholarly inquiry. This panel invites papers that examine a wide range of issues pertaining to medieval tattoos, including practices of tattooing during the global Middle Ages, recent advances in tattoo archaeology, and modern tattoos portraying medieval themes. Scholars exploring the misuse (and abuse) of medieval images and symbols for contemporary tattoos are especially encouraged to apply. This session allows for both in-person and virtual presentations.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Constructing the Self in Romance-Language Epic",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: International Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/constructing-the-self-in-romance-language-epic",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-15",
-      "eventDate": "",
-      "location": "62nd International Congress on Medieval Studies (May 13 - 15, 2027)",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "The Société Rencesvals, Pan-American Branch, invites proposals from scholars whose research examines Romance-language epics as sites of social discourse. Far from being merely “songs of deeds,” these texts were critical commentaries on contemporary ideologies. They thus speak profoundly to processes of self-conceptualization in far-ranging topics includin...",
-      "fullDescription": "The Société Rencesvals, Pan-American Branch, invites proposals from scholars whose research examines Romance-language epics as sites of social discourse. Far from being merely “songs of deeds,” these texts were critical commentaries on contemporary ideologies. They thus speak profoundly to processes of self-conceptualization in far-ranging topics including –but not limited to– regional/national identity, faith, gender, and race. We are interested in the examination of how Romance-language epics use discourse to construct value systems that contribute to conceptions of the self, situating this literature in the larger study of the production of ideologies in the Middle Ages.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "28TH METU BRITISH NOVELISTS INTERNATIONAL CONFERENCE:",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -921,7 +518,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -945,7 +542,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49475",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-05",
       "location": "Atlanta",
       "status": "open",
@@ -968,7 +565,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -991,7 +588,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48666",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-10-22",
       "location": "N/A",
       "status": "open",
@@ -1014,7 +611,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49504",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-04",
       "location": "· INVALSI",
       "status": "open",
@@ -1038,7 +635,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49446",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2027-02-03",
       "location": "New York, NY · College Art Association",
       "status": "open",
@@ -1056,13 +653,36 @@
       "publish": false
     },
     {
+      "title": "BAAS Postgraduate Symposium at the V&A: Transatlantic Connections and the ‘Special Relationship[s]’",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/49340",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-16",
+      "eventDate": "2026-11-09",
+      "location": "V&A East Storehouse · British Association for American Studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a \"special relationship between the British Commonwealth and Empire and the United States\" in order to maintain world diplomacy, citing our shared language and cultural val...",
+      "fullDescription": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a \"special relationship between the British Commonwealth and Empire and the United States\" in order to maintain world diplomacy, citing our shared language and cultural values as connecting the two countries. Although this 'special relationship' has continually been called into question by scholars, there is undoubtedly a channel of cultural and political exchange between the US and the UK, as well as with other countries, which has become even more urgent for discussion in recent years. The 2026 BAAS Postgraduate Symposium invites proposals from postgraduate researchers at all levels and across all disciplines on the topic of Transatlantic Connections and the 'Special Relationship[s]'. By using the term 'Special Relationship[s]', we intend to explore the relationship between not only the US and the UK, but also between the US and other countries. We invite panels and individual papers on this theme and encourage you to interpret it as broadly as you wish, including any aspect of the US's transnational cultural, political and literary connections, influences or contrasts. We welcome contributions from all realms of American Studies, including, but not limited to: literature and film studies, postcolonial and decolonial analysis, science and visual culture, and urban and environmental history. As this year's symposium will be held at V&A East Storehouse, the site of the David Bowie Archive, we are particularly keen on hearing from scholars exploring the etymologically and culturally rich prefix of the term 'Transatlantic' itself. This one-day symposium will involve not only academic panel discussions, but other activities such as a career development session, an introduction to the archives at the Victoria and Albert Museum, and a keynote address by Professor Mark Ford. The intention is to foster a strong postgraduate community in American Studies and to learn from both our peers and from leaders in our field. The symposium will be catered, hosted primarily in-person at V&A East Storehouse, but with a digital attendance option for those only able to join online. There will be time in the day to explore V&A East Storehouse and the David Bowie Centre. V&A East Storehouse is a working museum store with a rich archive for students to use in their research. The building is designed to allow visitors to get closer to objects held in the V&A collections and to the work of the museum itself. We welcome the submission of individual papers as well as proposals for complete panels of three researchers. Applications from groups of three or four researchers for roundtable discussions are also welcome. For panel and roundtable proposals, please also include a statement of up to 200 words on the aims of the collective submission, alongside the individual papers. Papers should be around 15-20 minutes long , and roundtables will consist of five-minute introductions by each researcher followed by 45 minutes of discussion. Interdisciplinary paper, panel and roundtable proposals are encouraged. Suggested paper and roundtable topics include, but are not limited to: - Case studies or broader comparisons between literary texts from the US and other nations - Case studies or broader comparisons between films from the US and other nations - Comparative political or historical analyses concerning the US and other nations - Comparative economic, scientific or environmental analyses concerning the US and other nations. Although the symposium will centre on 'Transatlantic Connections', we welcome proposals making any transnational comparisons rooted in American Studies. We especially encourage researchers from across Europe and beyond to submit and attend, as part of ongoing efforts to expand the EAAS community of postgraduates. We want to make this symposium as accessible as possible; we will be working to ensure a relaxed academic environment and we encourage anyone attending to email us with any access needs. Bursaries will be available from BAAS on a limited basis for students requiring financial support for attendance. The deadline for submissions is? 15th September 2026 .?Please send proposals including a title, an abstract of no more than? 250 words ?and?a short biography of no more than 200 words ?to Claire Watt at?claire.watt@baas.ac.uk. If you have any questions about the symposium, big or small, please get in touch and we will be happy to help. We look forward to hearing from you!",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
       "title": "In Case of Emergency: Catastrophe, Climate, and Capitalism",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -1085,7 +705,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-15",
+      "deadline": "2026-09-16",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -1100,52 +720,6 @@
       "fullDescription": "Engaging with PAMLA's 2026 theme, \"Our Ruling Classes: Culture, Power, Conflict,\" this panel asks: How do esoteric ecological imaginaries reinforce, negotiate, or resist ruling ideologies? How have spiritualized visions of nature shaped elite cultural production, countercultural movements, or alternative political communities? What conflicts emerge when esoteric environmental ethics confront institutional religion, scientific rationalism, or capitalist extraction? Topics of interest include, but are not limited to, literary representations of enchanted ecologies, spiritual ecologies in travel writing or poetic form, occult environmental metaphysics, and the role of esoteric belief in shaping ecological imaginaries. We welcome historically grounded and theoretically informed approaches to literature, art, travel writing, popular culture, and critical theory. Topics may include ecospirituality, occult environmentalism, esoteric dimensions of deep ecology, and aesthetic practices that envision enchanted or spiritually animated landscapes as sites of cultural struggle and renewal. To submit a paper and present, you must become a PAMLA member by paying the member fee and the conference fee. For graduate students, there are scholarships available to help with the conference fee in exchange for some volunteer hours.",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
-    },
-    {
-      "title": "Scholarly Editions and Translations",
-      "source": "NEH",
-      "sourceName": "National Endowment for the Humanities Grants",
-      "sourceUrl": "https://www.neh.gov/grants/research/scholarly-editions-and-translations-grants",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Application",
-      "deadline": "2026-09-16",
-      "eventDate": "",
-      "location": "Division of Research",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Funding"
-      ],
-      "excerpt": "Scholarly Editions and Translations is an NEH funding opportunity from Division of Research. NEH lists this under upcoming application deadlines.",
-      "fullDescription": "Scholarly Editions and Translations is an NEH funding opportunity from Division of Research. NEH lists this under upcoming application deadlines.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Funding.",
-      "publish": true
-    },
-    {
-      "title": "Collaborative Research",
-      "source": "NEH",
-      "sourceName": "National Endowment for the Humanities Grants",
-      "sourceUrl": "https://www.neh.gov/grants/research/collaborative-research-grants",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Application",
-      "deadline": "2026-09-16",
-      "eventDate": "",
-      "location": "Division of Research",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Funding"
-      ],
-      "excerpt": "Collaborative Research is an NEH funding opportunity from Division of Research. NEH lists this under upcoming application deadlines.",
-      "fullDescription": "Collaborative Research is an NEH funding opportunity from Division of Research. NEH lists this under upcoming application deadlines.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Funding.",
-      "publish": true
     },
     {
       "title": "Human-Machine interfacing in Western and Global Literature, Media and Culture (abstracts and proposals only)",
@@ -3418,6 +2992,29 @@
       ],
       "excerpt": "Philip Kan Gotanda’s play Yankee Dawg You Die centers a conflict between two Asian American actors. The aging Vincent Chang built his career playing bumbling Japanese soldiers and one-dimensional Asian stereotypes in classic Hollywood. He’s confronted by the up-and-coming Bradley Yamashita, who insists that Asian (American) characters should be played wit...",
       "fullDescription": "Philip Kan Gotanda’s play Yankee Dawg You Die centers a conflict between two Asian American actors. The aging Vincent Chang built his career playing bumbling Japanese soldiers and one-dimensional Asian stereotypes in classic Hollywood. He’s confronted by the up-and-coming Bradley Yamashita, who insists that Asian (American) characters should be played with dignity and accuracy. The heart of the play is an ambivalence about Asian (American) representation and whether viewers should sympathize with Chang for taking the only acting jobs available or with Yamashita in his condemnation of the racist roles—or with both.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "The Psychgeist of Star Trek: The Next Generation",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Fan Studies and Fandom",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107340",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "",
+      "location": "Stephen Mallory",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Art / Media Practice"
+      ],
+      "excerpt": "“ That is the exploration that awaits you. Not mapping stars and studying nebulae, but charting the unknown possibilities of existence.” – Q to Jean-Luc Picard. From Star Trek – The Next Generation , “All Good Things” (Season 7, Episode 25)",
+      "fullDescription": "“ That is the exploration that awaits you. Not mapping stars and studying nebulae, but charting the unknown possibilities of existence.” – Q to Jean-Luc Picard. From Star Trek – The Next Generation , “All Good Things” (Season 7, Episode 25)",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
       "publish": true
     },
@@ -6596,6 +6193,54 @@
       "excerpt": "Public Humanities Projects is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
       "fullDescription": "Public Humanities Projects is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
       "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy, Funding.",
+      "publish": true
+    },
+    {
+      "title": "Landmarks of American History and Culture and Summer Institutes for K-12 Educators",
+      "source": "NEH",
+      "sourceName": "National Endowment for the Humanities Grants",
+      "sourceUrl": "https://www.neh.gov/grants/education/landmarks/k-12-educators",
+      "type": "Grant / Fellowship",
+      "deadlineType": "Application",
+      "deadline": "2026-12-09",
+      "eventDate": "",
+      "location": "Division of Lifelong Learning",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Pedagogy",
+        "Funding"
+      ],
+      "excerpt": "Landmarks of American History and Culture and Summer Institutes for K-12 Educators is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
+      "fullDescription": "Landmarks of American History and Culture and Summer Institutes for K-12 Educators is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Funding.",
+      "publish": true
+    },
+    {
+      "title": "Landmarks of American History and Culture and Summer Institutes for Higher Education",
+      "source": "NEH",
+      "sourceName": "National Endowment for the Humanities Grants",
+      "sourceUrl": "https://www.neh.gov/grants/education/landmarks/highered",
+      "type": "Grant / Fellowship",
+      "deadlineType": "Application",
+      "deadline": "2026-12-09",
+      "eventDate": "",
+      "location": "Division of Lifelong Learning",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Pedagogy",
+        "Funding"
+      ],
+      "excerpt": "Landmarks of American History and Culture and Summer Institutes for Higher Education is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
+      "fullDescription": "Landmarks of American History and Culture and Summer Institutes for Higher Education is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Funding.",
       "publish": true
     },
     {
