@@ -1053,6 +1053,42 @@ const previousCarryover = (previous.items || [])
     publishMode: item.publishMode || "carryover"
   }));
 
+function safeString(value, fallback = "") {
+  return String(value ?? fallback).trim();
+}
+
+function safeFields(item) {
+  const fields = Array.isArray(item.fields) ? item.fields.map((field) => safeString(field)).filter(Boolean) : [];
+  return fields.length ? fields : inferFields(`${item.title || ""} ${item.type || ""} ${item.excerpt || ""} ${item.fullDescription || ""}`);
+}
+
+function safeScore(value) {
+  const score = Number(value);
+  return Number.isFinite(score) ? score : 0;
+}
+
+function normalizeOpportunity(item) {
+  const excerpt = safeString(item.excerpt || item.fullDescription);
+  return {
+    title: cleanTitle(item.title) || "Untitled opportunity",
+    source: safeString(item.source, "Source"),
+    sourceUrl: safeString(item.sourceUrl, "#") || "#",
+    type: safeString(item.type, "Opportunity"),
+    deadlineType: safeString(item.deadlineType, "Deadline"),
+    deadline: parseDate(item.deadline) || "",
+    eventDate: eventDateForItem(item),
+    location: safeString(item.location),
+    status: safeString(item.status, daysUntil(item.deadline) < 0 ? "closed" : "open"),
+    priority: safeString(item.priority, "medium"),
+    confidence: safeString(item.confidence, "medium"),
+    score: safeScore(item.score),
+    fields: safeFields(item),
+    excerpt,
+    fullDescription: safeString(item.fullDescription || excerpt),
+    relevance: safeString(item.relevance, "Automatically surfaced from the configured opportunity sources.")
+  };
+}
+
 const publicItems = dedupeItems([...freshPublished, ...previousCarryover])
   .sort((a, b) => {
     const days = daysUntil(a.deadline) - daysUntil(b.deadline);
@@ -1063,7 +1099,8 @@ const publicItems = dedupeItems([...freshPublished, ...previousCarryover])
     ...item,
     fullDescription: item.fullDescription || item.excerpt,
     eventDate: eventDateForItem(item)
-  }));
+  }))
+  .map(normalizeOpportunity);
 
 const generatedData = {
   updated,

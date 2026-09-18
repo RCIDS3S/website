@@ -8,12 +8,24 @@ import opportunityUi from "../data/opportunities-ui.json";
 import sources from "../data/opportunity-sources.json";
 
 const now = new Date();
-const items = opportunities.items
+const asText = (value: unknown, fallback = "") => String(value ?? fallback).trim();
+const asFields = (value: unknown) => Array.isArray(value)
+  ? value.map((field) => asText(field)).filter(Boolean)
+  : [];
+const asNumber = (value: unknown, fallback = 0) => {
+  const number = Number(value);
+  return Number.isFinite(number) ? number : fallback;
+};
+const opportunityItems = Array.isArray(opportunities.items) ? opportunities.items : [];
+
+const items = opportunityItems
   .map((item) => {
-    const deadline = item.deadline ? new Date(`${item.deadline}T23:59:59-04:00`) : null;
-    const days = deadline ? Math.ceil((deadline.getTime() - now.getTime()) / 86400000) : null;
+    const fields = asFields(item.fields);
+    const deadlineValue = asText(item.deadline);
+    const deadline = deadlineValue ? new Date(`${deadlineValue}T23:59:59-04:00`) : null;
+    const days = deadline && !Number.isNaN(deadline.getTime()) ? Math.ceil((deadline.getTime() - now.getTime()) / 86400000) : null;
     let urgency = "rolling";
-    let label = item.deadlineType || opportunityUi.dateLabels.rolling;
+    let label = asText(item.deadlineType, opportunityUi.dateLabels.rolling);
 
     if (typeof days === "number") {
       if (days < 0) {
@@ -33,10 +45,23 @@ const items = opportunities.items
 
     return {
       ...item,
+      title: asText(item.title, "Untitled opportunity"),
+      source: asText(item.source, "Source"),
+      sourceUrl: asText(item.sourceUrl, "#") || "#",
+      type: asText(item.type, "Opportunity"),
+      deadlineType: asText(item.deadlineType),
+      deadline: deadlineValue,
+      eventDate: asText(item.eventDate),
+      location: asText(item.location),
+      excerpt: asText(item.excerpt),
+      fullDescription: asText(item.fullDescription || item.excerpt),
+      relevance: asText(item.relevance),
+      fields,
+      score: asNumber(item.score),
       days,
       urgency,
       deadlineLabel: label,
-      searchText: `${item.title} ${item.type} ${item.source} ${item.fields.join(" ")} ${item.excerpt} ${item.fullDescription || ""} ${item.relevance}`.toLowerCase()
+      searchText: `${asText(item.title)} ${asText(item.type)} ${asText(item.source)} ${fields.join(" ")} ${asText(item.excerpt)} ${asText(item.fullDescription)} ${asText(item.relevance)}`.toLowerCase()
     };
   })
   .sort((a, b) => {
