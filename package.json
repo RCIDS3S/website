@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@11.19.0",
   "scripts": {
     "dev": "astro dev",
     "build": "node scripts/check-admin-boundaries.mjs && astro check && astro build",
@@ -11,9 +12,9 @@
     "update:opportunities": "node scripts/update-opportunities.mjs"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.4",
-    "astro": "^5.8.0",
-    "typescript": "^5.8.3"
+    "@astrojs/check": "0.9.9",
+    "astro": "5.18.2",
+    "typescript": "5.9.3"
   },
   "devDependencies": {}
 }
