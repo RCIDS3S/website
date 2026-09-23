@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -11,12 +11,12 @@
       "count": 29
     },
     {
-      "source": "UPenn CFP: Humanities Computing and the Internet",
+      "source": "UPenn CFP: Rhetoric and Composition",
       "count": 25
     },
     {
-      "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 24
+      "source": "UPenn CFP: Humanities Computing and the Internet",
+      "count": 25
     },
     {
       "source": "CFPList: Digital Humanities",
@@ -24,7 +24,7 @@
     },
     {
       "source": "UPenn CFP: Journals and Collections",
-      "count": 19
+      "count": 20
     },
     {
       "source": "CFPList: Graduate Conferences",
@@ -44,11 +44,11 @@
     },
     {
       "source": "UPenn CFP: Theory",
-      "count": 13
+      "count": 12
     },
     {
       "source": "UPenn CFP: Cultural Studies",
-      "count": 12
+      "count": 11
     },
     {
       "source": "CFPList: Pedagogy",
@@ -59,19 +59,15 @@
       "count": 9
     },
     {
-      "source": "UPenn CFP: Translation Studies",
-      "count": 8
-    },
-    {
-      "source": "UPenn CFP: African American",
-      "count": 8
-    },
-    {
       "source": "UPenn CFP: Ethnicity and National Identity",
       "count": 8
     },
     {
       "source": "CFPList: Communication Studies Search",
+      "count": 7
+    },
+    {
+      "source": "UPenn CFP: African American",
       "count": 7
     },
     {
@@ -83,11 +79,11 @@
       "count": 5
     },
     {
-      "source": "CFPList: Professional Communication Search",
-      "count": 4
+      "source": "UPenn CFP: Translation Studies",
+      "count": 5
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
+      "source": "CFPList: Professional Communication Search",
       "count": 4
     },
     {
@@ -99,6 +95,10 @@
       "count": 4
     },
     {
+      "source": "UPenn CFP: Gender and Sexuality",
+      "count": 3
+    },
+    {
       "source": "UPenn CFP: Theatre and Performance Studies",
       "count": 3
     },
@@ -107,16 +107,12 @@
       "count": 3
     },
     {
-      "source": "National Endowment for the Humanities Grants",
+      "source": "UPenn CFP: Modernist Studies",
       "count": 3
     },
     {
-      "source": "UPenn CFP: Gender and Sexuality",
-      "count": 2
-    },
-    {
-      "source": "UPenn CFP: Interdisciplinary",
-      "count": 2
+      "source": "National Endowment for the Humanities Grants",
+      "count": 3
     },
     {
       "source": "UPenn CFP: Postcolonial",
@@ -157,36 +153,13 @@
   ],
   "items": [
     {
-      "title": "#WeirdGirlLit: Why Do Girls Just Want to Be Weird?",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Gender and Sexuality",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107114",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "",
-      "location": "Kelly Ferguson/ Miami University",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Although internet culture may have brought about the hashtag #WeirdGirlLit,” women authors have long used writing to explore taboo and forbidden topics deemed beyond the purview of polite/patriarchal society. While Heather Colley of Writers Digest has noted that “Women in literary fiction are becoming murderers, cannibals, psychopaths, and stalkers,” we c...",
-      "fullDescription": "Although internet culture may have brought about the hashtag #WeirdGirlLit,” women authors have long used writing to explore taboo and forbidden topics deemed beyond the purview of polite/patriarchal society. While Heather Colley of Writers Digest has noted that “Women in literary fiction are becoming murderers, cannibals, psychopaths, and stalkers,” we contend that female protagonists have long been unhinged both across time and space. Historically, freaky (anti)heroines have served as a release through which women readers could escape the restrictive confines of ideal femininity and instead probe hidden desires and other illicit aspects of their identities.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "Worlding Classrooms: What Do We Teach When We Teach 'the World'?",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50082",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "· American Comparative Literature Association",
       "status": "open",
@@ -212,7 +185,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -230,83 +203,13 @@
       "publish": true
     },
     {
-      "title": "ACLA 2027 : Digital Visibility: Resistance, Marginalization and Platform Power",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106871",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "",
-      "location": "Atousa Kaviani Binghamton University",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "In the present digital era, the public sphere, as defined by Jürgen Habermas—a space where citizens negotiate power through collective discussion and political participation—has shifted on digital platforms.",
-      "fullDescription": "In the present digital era, the public sphere, as defined by Jürgen Habermas—a space where citizens negotiate power through collective discussion and political participation—has shifted on digital platforms.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "CFP_Seminar Paper Proposal _American Comparative Literature Association 2027 Meet",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Interdisciplinary",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106621",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "2026-12-01",
-      "location": "Dhanesh M., CHRIST University / ACLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Event: This seminar is planned as part of the 2027 American Comparative Literature Association Annual Meet. Mode: VIRTUAL Event Dates: May 15 & 16, 2027 Seminar Title: Narrative Futures and the Politics of World-Making All paper proposals are due by September 22,2026. Final Decision: Status will be available after December 1, 2026 Concept Note:",
-      "fullDescription": "Event: This seminar is planned as part of the 2027 American Comparative Literature Association Annual Meet. Mode: VIRTUAL Event Dates: May 15 & 16, 2027 Seminar Title: Narrative Futures and the Politics of World-Making All paper proposals are due by September 22,2026. Final Decision: Status will be available after December 1, 2026 Concept Note:",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "ICLA Translation Studies Committee Seminar Proposal at 2027 ACLA Houston",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107408",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "2027-05-15",
-      "location": "ICLA Translation Committee",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "\"Digital Memory and the Translation of World Literature\" Conference organized by the American Comparative Literature Association Official Seminar organized by The ICLA Translation Committee To submit a proposal, please follow the link: https://www.acla.org/seminar/fde38874-a710-4e69-b62e-f169ab7f722e Venue: VIRTUAL 2027 Annual Meeting 15-16 May 2027, Virtual",
-      "fullDescription": "\"Digital Memory and the Translation of World Literature\" Conference organized by the American Comparative Literature Association Official Seminar organized by The ICLA Translation Committee To submit a proposal, please follow the link: https://www.acla.org/seminar/fde38874-a710-4e69-b62e-f169ab7f722e Venue: VIRTUAL 2027 Annual Meeting 15-16 May 2027, Virtual",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "CFP: AI, Literary Writing, and Remediation: Rethinking Creativity, Form, and Authorship",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
       "sourceUrl": "https://www.cfplist.com/CFP/50191",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-15",
       "location": "· American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -331,7 +234,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -349,83 +252,13 @@
       "publish": true
     },
     {
-      "title": "ACLA Virtual 2027 Annual Meeting: Environmental Racism in African American Literature",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: African American",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107194",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "",
-      "location": "Dr Shubhanku Kochar, Dr Rananjayaa Singh, in collaboration with American Comparative Literature Association (ACLA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Environmental racism predates its own name. The term entered public discourse in 1982, but the conditions behind it, namely exposure to hazard and unequal claim to safety, go back to slavery itself. Historian Carl Zimring traces this to a basic split in American thought: white meant clean, Black meant dirty. That split decided who did the dirtiest, most d...",
-      "fullDescription": "Environmental racism predates its own name. The term entered public discourse in 1982, but the conditions behind it, namely exposure to hazard and unequal claim to safety, go back to slavery itself. Historian Carl Zimring traces this to a basic split in American thought: white meant clean, Black meant dirty. That split decided who did the dirtiest, most dangerous work, and who lived closest to pollution, for generations. In 1968, Memphis sanitation workers went on strike over exactly that: unsafe, degrading labour shaped by the same racial split. Martin Luther King Jr. was assassinated in Memphis while there in support of the very strike. That split still operates today.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "(Forced-) Migration, Refugee, Exile and the Crises of Humanitarian Regimes in Literature, Arts, and Media",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106997",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "",
-      "location": "American Comparative Literature Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "“We are now in the middle of a deep and decisive moment towards a more disciplinary, authoritarian kind of society,” says Stuart Hall in his speech for Human Rights Day in 1979 (78). He proceeds to explain the components and manifestations of this “crisis,” which eventually morphs into a drive for more “Law and Order” (79). If that was the middle, are we...",
-      "fullDescription": "“We are now in the middle of a deep and decisive moment towards a more disciplinary, authoritarian kind of society,” says Stuart Hall in his speech for Human Rights Day in 1979 (78). He proceeds to explain the components and manifestations of this “crisis,” which eventually morphs into a drive for more “Law and Order” (79). If that was the middle, are we at the end of the crisis? Our daily experiences prove otherwise, as the drive for more Law and Order keeps us in a chokehold. We seem to be in a perpetual global crisis in which we watch global systems of justice like international law and the International Criminal Court deteriorate in front of our eyes, while capitalist and genocidal systems globally continue to thrive and strengthen their hold.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "When the Hand Thinks Back: Craft, Translation, and the Politics of ‘Secondary’ Aesthetics",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106715",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "",
-      "location": "American Comparative Literature Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Theory",
-        "Art / Media Practice"
-      ],
-      "excerpt": "What if craft is not the lesser twin of art, but another theory of making , one in which the hand thinks, the material answers, and form emerges through a dialogue with earth, fibre, clay, metal, wood, stone, pigment, or thread? What if the translator is not a mere carrier but a craftsperson, whose hands weaves culture, sound, meaning and memory? Is craft...",
-      "fullDescription": "What if craft is not the lesser twin of art, but another theory of making , one in which the hand thinks, the material answers, and form emerges through a dialogue with earth, fibre, clay, metal, wood, stone, pigment, or thread? What if the translator is not a mere carrier but a craftsperson, whose hands weaves culture, sound, meaning and memory? Is craft merely an act of mechanical repetition, or is it a profound performance of material translation? Is translation a routine reproduction or a craftsperson of cultural artefacts?",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "ACLA Online Panel: Case Studies in Feeling: Toward New Theories of Emotion Across Media",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/49902",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-15",
       "location": "Online · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -448,7 +281,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -473,7 +306,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -497,7 +330,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50138",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-08-26",
       "location": "Online · PopCRN - The Popular Culture Research Network",
       "status": "open",
@@ -521,7 +354,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -547,7 +380,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48168",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -570,7 +403,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49170",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-09-25",
       "location": "St. Jerome’s University (University of Waterloo) &amp; online - Ontario Canada · St. Jerome’s University and CAIS",
       "status": "open",
@@ -594,7 +427,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -618,7 +451,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -643,7 +476,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49989",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-15",
       "location": "Online · ACLA",
       "status": "open",
@@ -668,7 +501,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49970",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-10-14",
       "location": "Ludhiana (Punjab) · SCD Govt. College",
       "status": "open",
@@ -691,7 +524,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -708,37 +541,13 @@
       "publish": true
     },
     {
-      "title": "Counter-Futures: Dystopia and the World-Building of Arab Fictions",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107665",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "",
-      "location": "American Comparative Literature Association Annual Conference 2027",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Theory",
-        "Interdisciplinary"
-      ],
-      "excerpt": "Seminar Proposal for Conference 2027 (online: May 15th/16th, 2027) ‘Counter-Futures: Dystopia and the World-Building of Arab Fictions’ Submit your paper proposal here before September 22nd, 2026 This seminar has the dual purpose of exploring the affordances of ‘dystopia’ as a sub-genre of science fiction for writing from the Arab world, and of testing the...",
-      "fullDescription": "Seminar Proposal for Conference 2027 (online: May 15th/16th, 2027) ‘Counter-Futures: Dystopia and the World-Building of Arab Fictions’ Submit your paper proposal here before September 22nd, 2026 This seminar has the dual purpose of exploring the affordances of ‘dystopia’ as a sub-genre of science fiction for writing from the Arab world, and of testing the potency of the term ‘counter-futures’ as a way to identify and explore the political valences of such writing.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
-      "publish": true
-    },
-    {
       "title": "From Authenticity to Commodity: Italian Food in Literature, Film, and Popular Culture",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
       "sourceUrl": "https://www.cfplist.com/CFP/50150",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "University of Houston · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -761,7 +570,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -785,7 +594,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -808,7 +617,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49297",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-05",
       "location": "Lisbon, Portugal · Alyse Kaweng Fan, Thales Reis Alecrim",
       "status": "open",
@@ -832,7 +641,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -855,7 +664,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -878,7 +687,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -901,7 +710,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -921,36 +730,13 @@
       "publish": true
     },
     {
-      "title": "ACLA 2027 Panel - Literary Edibles (May 20-23, University of Houston)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Modernist Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/acla-2027-panel-literary-edibles-may-20-23-university-of-houston",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-22",
-      "eventDate": "",
-      "location": "Ali Kulez",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Theory"
-      ],
-      "excerpt": "Over the last two decades, we have seen a surge of scholarship at the intersection of Food Studies and New Materialist theory. Thinkers like Elspeth Probyn (2000; 2016), Jane Bennett (2010), Annemarie Mol (2021; 2024), and Kyla Wazana Tompkins (2024) explore the diverse ways in which edible matter acts on our bodies, wills, and dispositions, in multilayer...",
-      "fullDescription": "Over the last two decades, we have seen a surge of scholarship at the intersection of Food Studies and New Materialist theory. Thinkers like Elspeth Probyn (2000; 2016), Jane Bennett (2010), Annemarie Mol (2021; 2024), and Kyla Wazana Tompkins (2024) explore the diverse ways in which edible matter acts on our bodies, wills, and dispositions, in multilayered entanglements that involve water, minerals, fungi, bacteria, plants, as well as human and nonhuman animals. These material-discursive networks urge us to rethink not only our notions of agency but also our ways of being, knowing, and relating.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
-      "publish": true
-    },
-    {
       "title": "William S. Burroughs as a Problem, Not a Subject",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -973,7 +759,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -996,7 +782,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -1020,7 +806,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -1043,7 +829,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48666",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-10-22",
       "location": "N/A",
       "status": "open",
@@ -1066,7 +852,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49340",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-09",
       "location": "V&A East Storehouse · British Association for American Studies",
       "status": "open",
@@ -1089,7 +875,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -1112,7 +898,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -1135,7 +921,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48391",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-22",
+      "deadline": "2026-09-23",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -1804,7 +1590,7 @@
     {
       "title": "Empowering Voices: Autobiography as Agency and Resistance",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Interdisciplinary",
+      "sourceName": "UPenn CFP: Gender and Sexuality",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/empowering-voices-autobiography-as-agency-and-resistance",
       "type": "CFP",
       "deadlineType": "Submission",
@@ -2645,7 +2431,7 @@
     {
       "title": "Cultures of Place: Community, Identity, and Belonging in 19th-C. Transatlantic Literature",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
+      "sourceName": "UPenn CFP: Gender and Sexuality",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/cultures-of-place-community-identity-and-belonging-in-19th-c-transatlantic-literature",
       "type": "CFP",
       "deadlineType": "Submission",
@@ -4356,6 +4142,30 @@
       "publish": true
     },
     {
+      "title": "Plastic/Plasticity EXTENDED DEADLINE",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Journals and Collections",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/16/plasticplasticity",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-15",
+      "eventDate": "",
+      "location": "University of Bielsko-Biała",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Theory",
+        "Publication"
+      ],
+      "excerpt": "Plastic / Plasticity Literature and Culture and the Material of a (Bygone?) Era Plastic is a defining material of our era. Its properties—plasticity, durability, the ability to imitate any shape, its toxicity, and indecomposability—are also properties of contemporary culture and literature. The proposed thematic issue begins with the premise that plastic...",
+      "fullDescription": "Plastic / Plasticity Literature and Culture and the Material of a (Bygone?) Era Plastic is a defining material of our era. Its properties—plasticity, durability, the ability to imitate any shape, its toxicity, and indecomposability—are also properties of contemporary culture and literature. The proposed thematic issue begins with the premise that plastic can be read simultaneously as a historical substance and as a \"theory machine\"—a tool for understanding cultural texts and the experience of contemporary times. \"My approach, in this paper, is one of thinking with plastic through its metaphoricity and materiality, its relationality and gestationality; in short, a material mediality.” [R. Gosh]",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Publication.",
+      "publish": true
+    },
+    {
       "title": "Women And Art: Representation, Creativity, And Resistance Open Access | Maurer Press, Frankfurt am Main, Germany",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
@@ -5440,6 +5250,32 @@
       "publish": true
     },
     {
+      "title": "AIYA: Artificial Intelligence and Young Adult Studies [working title]",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106468",
+      "type": "Edited Collection",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-01",
+      "eventDate": "",
+      "location": "Sid Dobrin and Kenneth Kidd, University of Florida",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 58,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "AIYA: Artificial Intelligence and Young Adult Studies [working title] Edited by Sidney I. Dobrin and Kenneth B. Kidd, University of Florida Deadline for proposals: November 1, 2026 CALL FOR CHAPTER PROPOSALS",
+      "fullDescription": "AIYA: Artificial Intelligence and Young Adult Studies [working title] Edited by Sidney I. Dobrin and Kenneth B. Kidd, University of Florida Deadline for proposals: November 1, 2026 CALL FOR CHAPTER PROPOSALS",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Watching Cinema Theoretically: Psychoanalytic Perspectives on Film",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -5462,6 +5298,29 @@
       "excerpt": "The relation between a theory and its so-called “object” always poses the danger of reducing an art form (in this case film) to a mere instance testifying to the validity of the theory. In this way, the theory provides the “genus” of which a given film will be a mere “species”. The application of psychoanalytic ideas or Marxist concepts to film would ther...",
       "fullDescription": "The relation between a theory and its so-called “object” always poses the danger of reducing an art form (in this case film) to a mere instance testifying to the validity of the theory. In this way, the theory provides the “genus” of which a given film will be a mere “species”. The application of psychoanalytic ideas or Marxist concepts to film would therefore run the risk of depriving the specificity and singularity of the object in favour of the hegemony of the theory. Here, theory would truly live up to its theological vocation (the “theo” in theory refers to God) standing transcendentally above its “object” upon which it would cast its daunting shadow.",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Composition & Rhetoric: Practice (CEA 4/1/27-4/3/27)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Rhetoric and Composition",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107887",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-01",
+      "eventDate": "2027-04-01",
+      "location": "College English Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Rhetoric"
+      ],
+      "excerpt": "Call for Papers: Composition and Rhetoric: Practice at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teachers in English studies, welcomes proposals for presentations on Composition and Rhetoric: Practice for our 57th annual conferen...",
+      "fullDescription": "Call for Papers: Composition and Rhetoric: Practice at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teachers in English studies, welcomes proposals for presentations on Composition and Rhetoric: Practice for our 57th annual conference. Submit your proposal at www.cea-web.org",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric.",
       "publish": true
     },
     {
