@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -28,7 +28,7 @@
     },
     {
       "source": "CFPList: Graduate Conferences",
-      "count": 18
+      "count": 17
     },
     {
       "source": "CFPList: Rhetoric & Composition",
@@ -39,6 +39,10 @@
       "count": 15
     },
     {
+      "source": "CFPList: Film, TV & Media",
+      "count": 12
+    },
+    {
       "source": "UPenn CFP: Theory",
       "count": 12
     },
@@ -47,23 +51,15 @@
       "count": 12
     },
     {
-      "source": "CFPList: Film, TV & Media",
-      "count": 11
+      "source": "CFPList: Pedagogy",
+      "count": 9
     },
     {
       "source": "UPenn CFP: Pedagogy",
       "count": 9
     },
     {
-      "source": "UPenn CFP: Translation Studies",
-      "count": 8
-    },
-    {
       "source": "UPenn CFP: Ethnicity and National Identity",
-      "count": 8
-    },
-    {
-      "source": "CFPList: Pedagogy",
       "count": 8
     },
     {
@@ -71,11 +67,15 @@
       "count": 7
     },
     {
+      "source": "UPenn CFP: Translation Studies",
+      "count": 7
+    },
+    {
       "source": "UPenn CFP: African American",
       "count": 7
     },
     {
-      "source": "CFPList: Philosophy",
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 6
     },
     {
@@ -83,8 +83,8 @@
       "count": 6
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 5
+      "source": "UPenn CFP: Modernist Studies",
+      "count": 4
     },
     {
       "source": "CLIR Programs and Grants",
@@ -111,7 +111,7 @@
       "count": 3
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
+      "source": "CFPList: Philosophy",
       "count": 3
     },
     {
@@ -159,7 +159,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50082",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-20",
       "location": "· American Comparative Literature Association",
       "status": "open",
@@ -184,7 +184,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48544",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-11-13",
       "location": "Dallas, Texas · University of Texas at Dallas",
       "status": "open",
@@ -208,7 +208,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50191",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-15",
       "location": "· American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -233,7 +233,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -251,36 +251,13 @@
       "publish": true
     },
     {
-      "title": "ACLA Online Panel: Case Studies in Feeling: Toward New Theories of Emotion Across Media",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/49902",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2027-05-15",
-      "location": "Online · American Comparative Literature Association (ACLA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Emotions continue to attract critical attention across disciplines. Scholars have noted the growing prominence of emotion in media, politics, and internet culture, which some describe as an \"emotionalization\" of social life (Yanacek 2026). Over the past three decades, emotion theory has provided a multidisciplinary lens for understanding literary and cult...",
-      "fullDescription": "Emotions continue to attract critical attention across disciplines. Scholars have noted the growing prominence of emotion in media, politics, and internet culture, which some describe as an \"emotionalization\" of social life (Yanacek 2026). Over the past three decades, emotion theory has provided a multidisciplinary lens for understanding literary and cultural texts, phenomena, and movements. Brian Massumi's distinction holds that emotion is socially coded and contingent on language, whereas affect is a pre-linguistic, asignifying intensity that exceeds discourse's capacity to fully capture it (1995). Sara Ahmed reframes emotion as social and relational rather than private, arguing that emotions \"stick\" to bodies and objects through repeated circulation, accumulating or losing affective value in the process (2004). Historians such as Barbara Rosenwein instead approach emotion diachronically, investigating the sanctioned \"emotional communities\" of different historical periods and how their norms of feeling and expression changed over time (2006). These frameworks are not fully reconcilable. For example, Massumi's model of pre-personal intensity has been challenged by critics such as Ruth Leys (2011), who question whether a truly pre-social affect is theoretically or empirically defensible. This tension among circulation, historicization, and the limit of pre-linguistic feeling remains a live and generative debate in the field. Game studies extend this inquiry into interactive media, asking scholars to account for procedure, system, and player agency alongside representation when studying emotion in play and design. Meanwhile, recent advances in facial recognition and artificial intelligence have pushed machines \"from analytical processors to emotionally perceptive entities,\" if not to emotional entities themselves (Slimani 2026). These approaches resist treating emotion as ahistorical, private, or apolitical. Studying feeling as a legitimate, theorizable object reveals how power operates through affect, opens texts to modes of engagement beyond decoding, and invites us to reconsider the boundaries of the human, including where those boundaries fall in relation to nonhuman and machine forms of feeling. This panel invites papers that develop, test, or complicate existing theories of affect and emotion through close case studies, rather than merely applying them. We welcome submissions on any literary or cultural form, including but not limited to novels, poetry, drama, film, and video games, from any historical period and geographical region. This panel will be held online. Please go to https://www.acla.org/seminars, log into your ACLA account, find the panel, and submit your paper proposal by clicking the submit button.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "College English Association Annual Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -299,63 +276,13 @@
       "publish": true
     },
     {
-      "title": "Let’s Dance: Musicals, Dance, Bodies and Popular Culture",
-      "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50138",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2027-08-26",
-      "location": "Online · PopCRN - The Popular Culture Research Network",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "CFP: Let's Dance: Musicals, Dance, Bodies and Popular Culture PopCRN Online Conference 26-27 August 2027 Popular culture dances. Across stages and screens, ballrooms and nightclubs, streets and stadiums, dance has produced some of popular culture's most enduring images of bodies in motion. From musicals and music videos to television, theatre, popular mus...",
-      "fullDescription": "CFP: Let's Dance: Musicals, Dance, Bodies and Popular Culture PopCRN Online Conference 26-27 August 2027 Popular culture dances. Across stages and screens, ballrooms and nightclubs, streets and stadiums, dance has produced some of popular culture's most enduring images of bodies in motion. From musicals and music videos to television, theatre, popular music and sport, dance crosses cultural forms and national boundaries, continually reinventing how bodies move, perform and become visible. Dance is rarely only entertainment. Dancing bodies carry meanings about beauty, sexuality, gender, race, class, youth, age, disability, nation and cultural identity. They can communicate desire, resistance, freedom and belonging, while also being trained, disciplined, watched, judged and commodified. Popular culture determines which bodies appear graceful or awkward, desirable or excessive, disciplined or unruly, and which bodies are permitted to occupy the centre of the floor. The history of popular dance is therefore also a history of inclusion, exclusion and cultural ownership. Dance forms emerge from particular communities before travelling between cultures, nations and media. Movement can preserve cultural memory, assert identity and create community, but it can also be appropriated, commercialised and detached from the people who created it. These histories raise questions about who creates movement, who owns it, who profits from it and whose contributions remain visible. Dance also makes power visible through the body. Behind apparently effortless performance lie labour, repetition, discipline, endurance and sometimes pain. Ideas of technical perfection, beauty, athleticism and bodily control shape who is recognised as a dancer and how dancing bodies are valued. Dance can reinforce expectations surrounding gender, race, class, age, size and ability, while also providing a means of challenging them. The dance floor can be a political and social space. Dance creates communities, produces collective identities and allows bodies to occupy spaces from which they may otherwise be excluded. Social dance, club cultures, street dance and dance crazes transform audiences into participants and make movement part of everyday popular culture. Dance can be intimate and collective, regulated and rebellious, commercial and political. Who leads, who follows, who watches, who judges and who is allowed onto the floor all matter. Dance continually crosses boundaries between cultural forms. Choreography moves between theatre and cinema, popular music and music video, television and digital media, concert performance and sport. At its largest scale, it transforms individual bodies into mass spectacle, bringing together celebrity, commerce, national identity and collective participation. These crossings also unsettle distinctions between dance, athleticism, performance and entertainment. Let's Dance: Musicals, Dance, Bodies and Popular Culture invites papers exploring dance as representation, performance, narrative, labour, pleasure, identity and embodied politics. We welcome historical and contemporary approaches across film, television, theatre, literature, popular music, sport, celebrity culture, digital media and everyday life. We are particularly interested in intersectional approaches considering how race, gender, sexuality, class, age, disability, nation and cultural identity shape who dances, how bodies are represented and what movement is permitted to mean. The conference asks how popular culture teaches us to understand the dancing body. What happens when movement crosses racial, cultural and national boundaries? How are dancing bodies disciplined, sexualised, celebrated, ridiculed or excluded? When does dance create community, and when does it reinforce hierarchy? Who owns movement and choreography? Who gets to dance for the nation? What happens when bodies expected to remain at the margins claim the centre of the floor? At its centre, Let's Dance asks one overarching question: who gets to dance, and what can the dancing body tell us about power, identity and belonging in popular culture? Possible papers might include: Making the Dancing Body: training, rehearsal and discipline; virtuosity and amateurism; bodily labour, pain and endurance; beauty and perfection; the professional dancer; auditions and competition; the ageing dancing body; The Red Shoes (1948), A Chorus Line (1975 stage musical, 1985 film), Fame (1980), Black Swan (2010) and Dance Moms (2011 to 2019). Race, Culture and Ownership: Black dance traditions and popular culture; tap, jazz and segregation; Lindy Hop and the Savoy Ballroom; disco and ballroom culture; breaking and hip hop; Indigenous dance and cultural sovereignty; Bollywood and diaspora; appropriation, ownership and cultural memory; Stormy Weather (1943), West Side Story (1961, 2021), Paris Is Burning (1990), Pose (2018 to 2021) and Hamilton (2015). Gender, Sexuality and Desire: the dancing female body; dancing masculinity; queer dance cultures; drag, camp and performance; sexualisation and respectability; gender transgression; romance and bodily intimacy; Gentlemen Prefer Blondes (1953), Saturday Night Fever (1977), The Rocky Horror Picture Show (1975), Dirty Dancing (1987), Billy Elliot (2000), RuPaul's Drag Race (2009 to present) and Barbie (2023). Class, Work and Social Mobility: dance as labour; working class dancing bodies; dance and fantasies of escape and mobility; professional ambition; unemployment and masculinity; elite and popular dance cultures; unequal access to training and opportunity; Saturday Night Fever (1977), Flashdance (1983), The Full Monty (1997), Billy Elliot (2000), Step Up (2006) and Swing Time (2016). Who Gets to Dance?: age, disability, body size and bodily difference; exclusion and belonging; normative ideals of the dancer; humiliation and judgement; visibility and the right to perform; Hairspray (1988, 2007), The Full Monty (1997), Billy Elliot (2000), Finding Your Feet (2017), Dumplin' (2018) and Wicked (2024). Dance Floors and Dancing Together: ballrooms, nightclubs, streets, schools, weddings and stages; social dance and dance crazes; dancing alone and together; dance floors as spaces of freedom, desire and exclusion; and collective pleasure; The Twist (1960), Footloose (1984), Strictly Ballroom (1992), Pose (2018 to 2021) and Dancing Queen (1976). Dance, Politics and Protest: dancing as resistance; regulation and censorship; race and segregation; religion and morality; national identity; protest choreography; public space and collective movement; Dancing in the Street (1964), Footloose (1984), Hairspray (1988, 2007), Sarafina! (1992) and Hamilton (2015). From Stage to Screen: vaudeville and the Hollywood musical; Busby Berkeley and mass choreography; Fred Astaire and Ginger Rogers; Gene Kelly and dancing masculinity; the decline and revival of the screen musical; choreography across theatre, cinema and television; Singin' in the Rain (1952), Moulin Rouge! (2001), Chicago (2002), Glee (2009 to 2015), La La Land (2016) and Wicked (2024). Dance on Television: dance and the construction of youth culture; Black dance and cultural visibility; television variety and the spectacular body; reality television, competition and judgement; amateur and professional dancers; drag and choreographed gender performance; musical television and belonging; American Bandstand (1952 to 1989), Soul Train (1971 to 2006), Solid Gold (1980 to 1988), Dancing with the Stars (2004 to present), So You Think You Can Dance (2005 to present), RuPaul's Drag Race (2009 to present). Dance, Celebrity and Mass Spectacle: music video and the choreographed pop star; concert performance and celebrity bodies; cheerleading and athletic spectacle; stadium choreography; bodily endurance and audience participation; Michael Jackson's Thriller (1983), Madonna's Vogue (1990), the Super Bowl halftime show (1993 to present as a major pop spectacle), Bring It On (2000), Beyoncé's Homecoming (2019), Taylor Swift's The Eras Tour (2023 to 2024) and breaking at the Paris 2024 Olympic Games. Dance Across Popular Culture: dance in film, television, theatre, literature, popular music and music video; dance memoir and fiction; reality television and competition; songs about dancing; advertising and celebrity culture; digital choreography, viral dances and social media; the circulation of movement between media, communities, bodies and audiences; and the changing boundaries between dance, sport, spectacle and everyday cultural practice. Registration is free. The conference is welcoming of early career researchers, postgraduates, Indigenous scholars, people with diverse identities, and industry experts or food practitioners. Please send any queries to popcrn@une.edu.au · Submit here - https://unesurveys.au1.qualtrics.com/jfe/form/SV_8jjzaWnS732QsFE · Register here - https://unesurveys.au1.qualtrics.com/jfe/form/SV_7TGWUYZidtlxVLU",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Theory.",
-      "publish": true
-    },
-    {
-      "title": "Transformative Synergies",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50135",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2026-11-08",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Theory",
-        "Pedagogy",
-        "Interdisciplinary"
-      ],
-      "excerpt": "Call for Proposals Transformative Synergies Harmonizing the Future: Interdisciplinary Pathways for a Resilient Society Transformative Synergies brings together faculty, scholars, graduate students and practitioners to explore how disciplines can intersect to address the complex challenges shaping our world. As technology, public health, social policy, edu...",
-      "fullDescription": "Call for Proposals Transformative Synergies Harmonizing the Future: Interdisciplinary Pathways for a Resilient Society Transformative Synergies brings together faculty, scholars, graduate students and practitioners to explore how disciplines can intersect to address the complex challenges shaping our world. As technology, public health, social policy, education and the arts continue to evolve, meaningful solutions increasingly require collaboration across traditional academic boundaries. This conference invites researchers and creators to examine the connections among arts, business, STEM, health and education and consider how these fields can work together to build a more resilient society. Submit Your Work We welcome proposals that explore innovative ideas, research and creative approaches related to the conference theme, including: Pedagogy for a New Era: Interdisciplinary curriculum design, trauma-informed education and the future of the R2 research institution Creative Technologies: Digital preservation, emerging technologies and the ethics of the human-machine interface Social Equity & Policy: Research addressing systemic health and educational disparities Health-Arts Nexus: Narrative medicine, art therapy and the role of the humanities in public health Sustainability & STEM: Environmental science, Indigenous knowledge and resilient urban design These topics are not exhaustive. Proposals that explore meaningful connections across disciplines are encouraged. Graduate Student Symposium The conference will feature a Graduate Student Panel designed to give emerging scholars an opportunity to share research in progress, completed projects, theses and dissertations. The session will provide a supportive environment for scholarly feedback, interdisciplinary dialogue and networking with scholars from across institutions. Proposal Formats We welcome: Individual papers Panel discussions Poster presentations Creative and multimedia works Workshops and interactive sessions Who Should Submit? Graduate students, faculty, researchers and practitioners from all disciplines are encouraged to submit original work that engages with the conference theme. Proposal Guidelines Proposals should be 300-600 words, depending on disciplinary standards, and address: Title - A concise, descriptive title that engages an interdisciplinary audience. Purpose and Central Question/Problem - The primary aim of the work. Conceptual, Theoretical or Disciplinary Framework - The intellectual foundation of the work. Methods, Materials or Creative Approach - How the work was conducted or developed. Findings, Claims or Scholarly Contribution - The work's intellectual contribution. Interdisciplinary Significance and Broader Impact - The relevance of the work beyond a single discipline. For panels, submit an individual abstract for each paper. How Proposals Are Reviewed All proposals will undergo peer review and will be evaluated based on: Clarity and coherence Scholarly rigor Methodological or interpretive soundness Originality and contribution to knowledge Interdisciplinary engagement and accessibility Relevance to the conference theme Conference Information Nov. 8-10, 2026 The Hotel at the University of Maryland Discounted rates are available for conference attendees. Ready to Contribute? Share your research, scholarship or creative work with an interdisciplinary community exploring new approaches to the challenges of the 21st century. Submit your proposal: graduateschool@bowiestate.edu Transformative Synergies Arts, Business, STEM, Health & Education for a Changing World Bowie State University | The Graduate School",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Engaging Research Across Humanities (ERAH) Graduate Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -379,7 +306,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -404,7 +331,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49989",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-15",
       "location": "Online · ACLA",
       "status": "open",
@@ -414,7 +341,6 @@
       "score": 34,
       "fields": [
         "Digital Humanities / Design",
-        "Film / Media",
         "Theory"
       ],
       "excerpt": "This seminar examines performance as a multilayered concept that is continually reshaped through travel and other mobilities. Performance, in this context, can be understood in its broadest sense as a dynamic practice through which identities, relationships, meanings, and experiences are negotiated and transformed. By bringing performance and mobilities i...",
@@ -429,7 +355,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49970",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-10-14",
       "location": "Ludhiana (Punjab) · SCD Govt. College",
       "status": "open",
@@ -452,7 +378,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -475,7 +401,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -499,7 +425,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -522,7 +448,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -546,7 +472,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50150",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-20",
       "location": "University of Houston · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -569,7 +495,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -592,7 +518,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -615,7 +541,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -638,7 +564,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -664,7 +590,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -687,7 +613,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -710,7 +636,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
+      "deadline": "2026-09-28",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -728,164 +654,27 @@
       "publish": false
     },
     {
-      "title": "CFP 24º SBPJor",
+      "title": "Transformative Synergies",
       "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49434",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2026-11-04",
-      "location": "Niterói · Universidade Federal Fluminense",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 20,
-      "fields": [
-        "Publication"
-      ],
-      "excerpt": "November 4, 5, and 6, 2026 - Fluminense Federal University (UFF) Submission deadline: August 16, 2025 Theme: Journalism, democracy, and professional practice: the role of research in contexts of disinformation Registration: https://bit.ly/ 4gCKS9M The Brazilian Association of Journalism Researchers (SBPJor) will organize, between November 4 and 6, the 24t...",
-      "fullDescription": "November 4, 5, and 6, 2026 - Fluminense Federal University (UFF) Submission deadline: August 16, 2025 Theme: Journalism, democracy, and professional practice: the role of research in contexts of disinformation Registration: https://bit.ly/ 4gCKS9M The Brazilian Association of Journalism Researchers (SBPJor) will organize, between November 4 and 6, the 24th National Meeting of Journalism Researchers at the Institute of Arts and Social Communication of the Fluminense Federal University (UFF) in Niter&oacute;i, Rio de Janeiro. Under the theme \"Journalism, Democracy, and Practice,\" the meeting aims to bring together researchers and students in Communication to debate the impacts of disinformation on journalism research. Papers will be presented in person, and submissions will be accepted solely in Portuguese , following the rules available below: Submission Rules: https://eventos.galoa.com.br/ sbpjor-2026/page/8146-inicio? lang=pt-br We invite researchers, academics, and professionals to submit papers by August 16, via the link: https://proceedings. science/cfp/sbpjor-2026?lang= pt-br The expected date for the announcement of selected papers is September 8, with the registration payment deadline until September 18, 2026. The final program will be announced at October 2 on the event's page (https://eventos.galoa.com.br/ sbpjor-2026/page/8146-inicio? lang=pt-br) and on Instagram (https://www.instagram.com/ sbpjor2026/). JPJor The event will also host the 16th Meeting of Young Journalism Researchers (JPJor) in a hybrid format. Students and graduates in journalism from 2025 and 2026 can submit papers, with up to 5 people in collective authorship and mandatory co-authorship of the advisor. Papers must be written exclusively in Portuguese and contain between 20,000 and 40,000 characters (with spaces), including bibliographic references and footnotes. A title, an abstract of up to 10 lines, and five keywords are mandatory. The text must be written in Times New Roman font, size 12, with 1.5 line spacing. Long direct quotations (more than three lines) must have a 4 cm indent on the left margin, be written in size 10 font, and have single line spacing. For more details, access the link: https://eventos.galoa.com.br/ jpjor-2026/page/8081-inicio? lang=pt-br",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
-      "publish": false
-    },
-    {
-      "title": "Second Annual “Things That Go Bump in the Night: An International Literary Conference on All Things Scary”",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/48666",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2026-10-22",
-      "location": "N/A",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 20,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Welcoming submissions for a free scholarly conference on scary literature to be hosted online from October 22nd-24th, 2026 by graduate student, Anais Shelley. Research may draw inspiration from (but is not limited to) these prompts: Supernatural themes Domestic horror The role of setting within scary stories Frightening myths and folklore The gothic novel...",
-      "fullDescription": "Welcoming submissions for a free scholarly conference on scary literature to be hosted online from October 22nd-24th, 2026 by graduate student, Anais Shelley. Research may draw inspiration from (but is not limited to) these prompts: Supernatural themes Domestic horror The role of setting within scary stories Frightening myths and folklore The gothic novel and short story Monsters and the monstrous Multicultural superstition and regional ghost stories The works of authors such as Stephen King, Anne Rice, and Edgar Allan Poe A variety of presentations are encouraged, including traditional papers, digital graphics, multimodal/powerpoints, roundtables, creative writing, performance art, and visual art. The event is open to researchers at all levels. Please note that all presentations will take place in Central US time. Proposals will be accepted through this form with a deadline of 31 August 2026: https://forms.gle/TfvuQLFPfpj23enq8",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "(ACLA CfP) South-South Literary Relations and the Remaking of World Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49888",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2027-05-20",
-      "location": "Houston, Texas · American Comparative Literature Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Please consider submitting to the ACLA seminar titled \"South-South Literary Relations and the Remaking of World Literature\" by September 21, 2026 . You can submit your abstracts here: https://www.acla.org/cfp/70fe7418-c14a-468d-be1d-809e878f2e00/submit-paper/46d872df-9512-49a7-89f7-8bc710370693 Abstract from the ACLA CFP: Since the rise of World Literatur...",
-      "fullDescription": "Please consider submitting to the ACLA seminar titled \"South-South Literary Relations and the Remaking of World Literature\" by September 21, 2026 . You can submit your abstracts here: https://www.acla.org/cfp/70fe7418-c14a-468d-be1d-809e878f2e00/submit-paper/46d872df-9512-49a7-89f7-8bc710370693 Abstract from the ACLA CFP: Since the rise of World Literature as a major field of inquiry, discussions of literary circulation have often privileged routes that pass through metropolitan centers, emphasizing translation into dominant European languages, global publishing networks, and institutions located in the Global North. Yet literary works have long traveled through alternative circuits that connect regions of the Global South directly, producing histories of exchange that challenge center-periphery models of cultural transmission. This seminar invites papers that examine literary relationships among Africa, Asia, Latin America, the Caribbean, SWANA, Oceania, and other locations within the Global South. Such relationships may emerge through translation, political solidarity, migration, anti-colonial movements, publishing networks, educational institutions, shared aesthetic projects, or indirect forms of influence. They may also involve moments in which Northern institutions, languages, or markets facilitate, mediate, redirect, or constrain South-South encounters, raising questions about whether these exchanges can ever be understood as entirely autonomous. Rather than treating the Global South as a unified category, the seminar seeks to explore its internal heterogeneity, asymmetries of power, and competing visions of solidarity. How do texts travel between Southern contexts? What historical, linguistic, and political conditions make these encounters possible? What role do translators, publishers, periodicals, archives, and digital media play in creating or sustaining South-South literary networks? How might these circulations reshape concepts such as influence, comparison, translation, reception, or worldliness? We especially welcome papers that interrogate the implications of South-South literary exchange for the study of World Literature itself. If literary circulation is not exclusively organized through Northern centers, what alternative maps of World Literature become visible? Can South-South networks offer different ways of imagining literary value, canon formation, and global comparison? By foregrounding overlooked routes of circulation and exchange, this seminar aims to reconsider how World Literature is conceptualized and to illuminate the multiple worlds through which literature moves. Possible topics include, but are not limited to: South-South translation; comparative studies across the Global South; Cold War and Non-Aligned literary networks; postcolonial and decolonial approaches; migration and diaspora; publishing and periodical cultures; digital literary circulation; transregional modernisms; indigenous and vernacular exchanges; reception studies; archives of literary solidarity; and new theoretical approaches to World Literature.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "BAAS Postgraduate Symposium at the V&A: Transatlantic Connections and the ‘Special Relationship[s]’",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49340",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2026-11-09",
-      "location": "V&A East Storehouse · British Association for American Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a \"special relationship between the British Commonwealth and Empire and the United States\" in order to maintain world diplomacy, citing our shared language and cultural val...",
-      "fullDescription": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a \"special relationship between the British Commonwealth and Empire and the United States\" in order to maintain world diplomacy, citing our shared language and cultural values as connecting the two countries. Although this 'special relationship' has continually been called into question by scholars, there is undoubtedly a channel of cultural and political exchange between the US and the UK, as well as with other countries, which has become even more urgent for discussion in recent years. The 2026 BAAS Postgraduate Symposium invites proposals from postgraduate researchers at all levels and across all disciplines on the topic of Transatlantic Connections and the 'Special Relationship[s]'. By using the term 'Special Relationship[s]', we intend to explore the relationship between not only the US and the UK, but also between the US and other countries. We invite panels and individual papers on this theme and encourage you to interpret it as broadly as you wish, including any aspect of the US's transnational cultural, political and literary connections, influences or contrasts. We welcome contributions from all realms of American Studies, including, but not limited to: literature and film studies, postcolonial and decolonial analysis, science and visual culture, and urban and environmental history. As this year's symposium will be held at V&A East Storehouse, the site of the David Bowie Archive, we are particularly keen on hearing from scholars exploring the etymologically and culturally rich prefix of the term 'Transatlantic' itself. This one-day symposium will involve not only academic panel discussions, but other activities such as a career development session, an introduction to the archives at the Victoria and Albert Museum, and a keynote address by Professor Mark Ford. The intention is to foster a strong postgraduate community in American Studies and to learn from both our peers and from leaders in our field. The symposium will be catered, hosted primarily in-person at V&A East Storehouse, but with a digital attendance option for those only able to join online. There will be time in the day to explore V&A East Storehouse and the David Bowie Centre. V&A East Storehouse is a working museum store with a rich archive for students to use in their research. The building is designed to allow visitors to get closer to objects held in the V&A collections and to the work of the museum itself. We welcome the submission of individual papers as well as proposals for complete panels of three researchers. Applications from groups of three or four researchers for roundtable discussions are also welcome. For panel and roundtable proposals, please also include a statement of up to 200 words on the aims of the collective submission, alongside the individual papers. Papers should be around 15-20 minutes long , and roundtables will consist of five-minute introductions by each researcher followed by 45 minutes of discussion. Interdisciplinary paper, panel and roundtable proposals are encouraged. Suggested paper and roundtable topics include, but are not limited to: - Case studies or broader comparisons between literary texts from the US and other nations - Case studies or broader comparisons between films from the US and other nations - Comparative political or historical analyses concerning the US and other nations - Comparative economic, scientific or environmental analyses concerning the US and other nations. Although the symposium will centre on 'Transatlantic Connections', we welcome proposals making any transnational comparisons rooted in American Studies. We especially encourage researchers from across Europe and beyond to submit and attend, as part of ongoing efforts to expand the EAAS community of postgraduates. We want to make this symposium as accessible as possible; we will be working to ensure a relaxed academic environment and we encourage anyone attending to email us with any access needs. Bursaries will be available from BAAS on a limited basis for students requiring financial support for attendance. The deadline for submissions is? 15th September 2026 .?Please send proposals including a title, an abstract of no more than? 250 words ?and?a short biography of no more than 200 words ?to Claire Watt at?claire.watt@baas.ac.uk. If you have any questions about the symposium, big or small, please get in touch and we will be happy to help. We look forward to hearing from you!",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "The Poverty of Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49447",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2027-05-20",
-      "location": "Houston · American Comparative Literature Association",
+      "deadline": "2026-09-28",
+      "eventDate": "2026-11-08",
+      "location": "CFPList",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 12,
+      "score": 24,
       "fields": [
+        "Pedagogy",
         "Interdisciplinary"
       ],
-      "excerpt": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quigley, University of Victoria (gabrielquigley@uvic.ca) How does literature represent poverty? Is poverty available for representation? The title of this seminar is taken f...",
-      "fullDescription": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quigley, University of Victoria (gabrielquigley@uvic.ca) How does literature represent poverty? Is poverty available for representation? The title of this seminar is taken from Marx's The Poverty of Philosophy, which, in turn, subverts Proudhon's The Philosophy of Poverty. In it, Marx critiques the approach taken by Proudhon and other anarchist, communist, or socialist \"theoreticians\" who assume that economic categories exist independently of history. According to Marx, \"so long as they look for science and merely make systems, so long as they are at the beginning of the struggle, they see in poverty nothing but poverty, without seeing in it the revolutionary, subversive side, which will overthrow the old society.\" A similar critique might be leveled at today's writers and critics: when literature and literary criticism engage with poverty at all, do they merely reduce it to an ahistorical economic category? What forms of reification, alienation, and exploitation does the literary assumption that poverty is available for representation produce? This seminar asks what literature owes to people experiencing poverty. At a time when 847 million people live in extreme poverty-95% of whom are in the Global South-it seeks to bring together research on the representation, history, and ontological status of poverty. Unlike Marx's \"theoreticians,\" who \"see in poverty nothing but poverty,\" scholars analyzing poverty through other frameworks-such as ethical demand, affective complexity, geopolitical disparities, aesthetic fetishization, and state failure-are strongly encouraged to submit abstracts. Papers may respond to such questions as: how should poverty be represented, if at all? Beyond an economic category, can poverty be conceived as an aesthetic, metaphysical, or phenomenological category? How is the concept of poverty entangled with conceptions of lack, deprivation, or destitution? How does the global distribution of poverty reflect the ongoing injuries of imperialism, colonialism, neocolonialism, globalization, and ecological catastrophe? Possible topics: - Poverty and realism; poverty and genre - The ethics of speaking for the poor - Testimony, life writing, and first-person accounts of poverty - Poverty and racial capitalism - Postcolonial and decolonial frameworks for poverty - Poverty and ecological catastrophe; climate precarity - Poverty and intersectionality (race, gender, sexuality, disability) - \"Poverty porn,\" sentimentality, and voyeurism - Working-class literature and labor - Poverty in the Global South; imperialism and uneven development - Urban and rural poverty as literary landscapes - Homelessness and houselessness - Poverty and the archive - Poverty and affect: shame, solidarity, rage - The literary canon and class; institutional gatekeeping - Austerity, welfare, and the state in literature - Migration, displacement, and border crossing - Literature and human rights - Poverty as aesthetic, metaphysical, or phenomenological category - Poverty and ontology; being, lack, and deprivation - Bare life and destitution ACLA Seminar Description can be accessed here: https://www.acla.org/seminar/63e1eb87-fe99-49c9-aac0-517ccf904102. ACLA Paper Submission link: https://www.acla.org/cfp/2b603883-5d9b-44ae-a485-c732ba80d4bf/submit-paper. Papers can be submitted until September 22, 2026 .",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "In Case of Emergency: Catastrophe, Climate, and Capitalism",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/48749",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2026-11-05",
-      "location": "Chicago, IL · University of Chicago",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "When we trace the genealogy of crisis, it can seem as if we've always been surrounded by catastrophe. Different factions of the ruling class tell us that we need to be prepared, but also that preparation may be fruitless. Crises shift and expand, strengthening their hold on us through their very instability. The state of emergency, after all, \"is not the...",
-      "fullDescription": "When we trace the genealogy of crisis, it can seem as if we've always been surrounded by catastrophe. Different factions of the ruling class tell us that we need to be prepared, but also that preparation may be fruitless. Crises shift and expand, strengthening their hold on us through their very instability. The state of emergency, after all, \"is not the exception but the rule,\" as Walter Benjamin theorized. It is not a single event but what Lauren Berlant called a norm \"embedded\" in the everyday. In the zones of crisis and in daily life, the emergency overwhelms the senses, requiring constant self-governance and limiting our political imagination. The urgent threat of climate change, though often disavowed, is at the center of today's general atmosphere of crisis. Walls hold back displaced populations and rising seas. Earth systems sustain lasting damage. Species are devastated. And with apocalyptic alacrity, capitalist-imperialist competition crosses terrains that were once uninviting and hostile, from deserts to the polar regions and outer space. So far, discourses of risk and emergency have mostly been a boon for the racist right and anti-democratic technocrats, rather than contributing to a genuine project of planetary stewardship. The quest for \"energy sovereignty\" has unleashed a wave of extractive interventions in the Global South amid the collapse of the postwar international order, creating new sacrifice zones and colonial resource frontiers. Amid widespread doubts about electoral institutions' ability to deliver systemic transformation, some environmentalists have even embraced climate doomerism or the technosolutionism of geoengineering. We see how climate crisis is increasingly governed through biopolitical management, securitized borders, and technocratic forms of environmental control-and how the emergency becomes yet another opportunity for further administration. Crisis discourse often privileges spectacular catastrophe while obscuring the slow, uneven, and racialized forms of ecological violence embedded in everyday life. Unlike the \"fevered immediacy that governs the society of the catastrophe-as-spectacle,\" as Rob Nixon writes, unspectacular \"slow violence\" is dispersed over time. With the sirens blaring, it is easy to lose sight of the material impacts of the ideology of crisis across time and space. We can also miss the ways in which the permanent emergency warps our cultural production and social relations, concealing the most pressing contradictions of capitalism today. How might we map the cartography of crisis? In doing so, might we open space for alternative ways of thinking and living within and against crisis? How do we hold crisis at bay long enough to bring about a \"real state of emergency,\" as Benjamin says is our task? Jason W. Moore (Binghamton) and Gökçe Günel (Rice) will deliver keynote addresses at the conference, which will also feature a curated program of poetry readings and film screenings. In Case of Emergency is organized by Aditi Kini, Tadhg Larabee, Ernest Lee, and Yolian Ogbu in collaboration with the Chicago Center for Contemporary Theory, and with support from the Committee on Environment, Geography, and Urbanization. To apply, submit an abstract (max. 300 words) and a CV via this Google form by June 30, 2026: https://forms.gle/Fj4r9oAk5r8b6Q5K6 We want to investigate how crisis is produced, circulated, and inhabited across domains, including climate, culture, political economy, media, and governance. Through this cartography of crisis, we hope to understand how we might countermap and counteract this state of ecological and social emergency. We invite proposals from graduate students in the humanities and social sciences, as well as artists, writers, and other practitioners. Our goal is to create space for imagination and speculation with people of varied backgrounds, interests, and praxes. We welcome interdisciplinary scholarship and cultural criticism attentive to the cultural, aesthetic, historical, and political dimensions of crisis. We imagine submissions might discuss: Technosolutionism and the dilemmas of growth Speculation, commodities, and disaster capitalism Fossil life as economy and desire Green neoliberalism as a political and cultural form Enclosure and destruction of the commons: water, forests, air and more Hydrocolonialism, oceanic crisis, and blue humanities Border ecologies, displacement, and the production of space State-making, world-making, and the remaking of political, social and ecological orders Toxic temporalities, slow violence, and \"post\"-colonial precarity Apocalypse and new worlds in literature and culture Climate pessimisms and the politics of fear and hope in crisis Resistance, strikes, and land back: movements and solidarity Community, care, and affective ecologies of crisis Participants without access to institutional funding will have the opportunity to request travel support, though we cannot guarantee it. Questions for the organizers can be sent to ccct@uchicago.edu.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "Eco-Esotericism Panel, special topic session",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/48391",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-27",
-      "eventDate": "2026-11-12",
-      "location": "Seattle, WA · PAMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Engaging with PAMLA's 2026 theme, \"Our Ruling Classes: Culture, Power, Conflict,\" this panel asks: How do esoteric ecological imaginaries reinforce, negotiate, or resist ruling ideologies? How have spiritualized visions of nature shaped elite cultural production, countercultural movements, or alternative political communities? What conflicts emerge when e...",
-      "fullDescription": "Engaging with PAMLA's 2026 theme, \"Our Ruling Classes: Culture, Power, Conflict,\" this panel asks: How do esoteric ecological imaginaries reinforce, negotiate, or resist ruling ideologies? How have spiritualized visions of nature shaped elite cultural production, countercultural movements, or alternative political communities? What conflicts emerge when esoteric environmental ethics confront institutional religion, scientific rationalism, or capitalist extraction? Topics of interest include, but are not limited to, literary representations of enchanted ecologies, spiritual ecologies in travel writing or poetic form, occult environmental metaphysics, and the role of esoteric belief in shaping ecological imaginaries. We welcome historically grounded and theoretically informed approaches to literature, art, travel writing, popular culture, and critical theory. Topics may include ecospirituality, occult environmentalism, esoteric dimensions of deep ecology, and aesthetic practices that envision enchanted or spiritually animated landscapes as sites of cultural struggle and renewal. To submit a paper and present, you must become a PAMLA member by paying the member fee and the conference fee. For graduate students, there are scholarships available to help with the conference fee in exchange for some volunteer hours.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "excerpt": "Call for Proposals Transformative Synergies Harmonizing the Future: Interdisciplinary Pathways for a Resilient Society Transformative Synergies brings together faculty, scholars, graduate students and practitioners to explore how disciplines can intersect to address the complex challenges shaping our world. As technology, public health, social policy, edu...",
+      "fullDescription": "Call for Proposals Transformative Synergies Harmonizing the Future: Interdisciplinary Pathways for a Resilient Society Transformative Synergies brings together faculty, scholars, graduate students and practitioners to explore how disciplines can intersect to address the complex challenges shaping our world. As technology, public health, social policy, education and the arts continue to evolve, meaningful solutions increasingly require collaboration across traditional academic boundaries. This conference invites researchers and creators to examine the connections among arts, business, STEM, health and education and consider how these fields can work together to build a more resilient society. Submit Your Work We welcome proposals that explore innovative ideas, research and creative approaches related to the conference theme, including: Pedagogy for a New Era: Interdisciplinary curriculum design, trauma-informed education and the future of the R2 research institution Creative Technologies: Digital preservation, emerging technologies and the ethics of the human-machine interface Social Equity & Policy: Research addressing systemic health and educational disparities Health-Arts Nexus: Narrative medicine, art therapy and the role of the humanities in public health Sustainability & STEM: Environmental science, Indigenous knowledge and resilient urban design These topics are not exhaustive. Proposals that explore meaningful connections across disciplines are encouraged. Graduate Student Symposium The conference will feature a Graduate Student Panel designed to give emerging scholars an opportunity to share research in progress, completed projects, theses and dissertations. The session will provide a supportive environment for scholarly feedback, interdisciplinary dialogue and networking with scholars from across institutions. Proposal Formats We welcome: Individual papers Panel discussions Poster presentations Creative and multimedia works Workshops and interactive sessions Who Should Submit? Graduate students, faculty, researchers and practitioners from all disciplines are encouraged to submit original work that engages with the conference theme. Proposal Guidelines Proposals should be 300-600 words, depending on disciplinary standards, and address: Title - A concise, descriptive title that engages an interdisciplinary audience. Purpose and Central Question/Problem - The primary aim of the work. Conceptual, Theoretical or Disciplinary Framework - The intellectual foundation of the work. Methods, Materials or Creative Approach - How the work was conducted or developed. Findings, Claims or Scholarly Contribution - The work's intellectual contribution. Interdisciplinary Significance and Broader Impact - The relevance of the work beyond a single discipline. For panels, submit an individual abstract for each paper. How Proposals Are Reviewed All proposals will undergo peer review and will be evaluated based on: Clarity and coherence Scholarly rigor Methodological or interpretive soundness Originality and contribution to knowledge Interdisciplinary engagement and accessibility Relevance to the conference theme Conference Information Nov. 8-10, 2026 The Hotel at the University of Maryland Discounted rates are available for conference attendees. Ready to Contribute? Share your research, scholarship or creative work with an interdisciplinary community exploring new approaches to the challenges of the 21st century. Submit your proposal: graduateschool@bowiestate.edu Transformative Synergies Arts, Business, STEM, Health & Education for a Changing World Bowie State University | The Graduate School",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
       "publish": false
     },
     {
@@ -909,6 +698,144 @@
       "excerpt": "The Maharashtra Educators' Summit & Awards 2026 brings together the state's most influential education leaders, including principals, school owners, chairpersons, directors, trustees, academic experts, and policymakers for a day of learning, collaboration, and recognition. Designed to inspire innovation in K-12 education, the summit serves as a powerful p...",
       "fullDescription": "The Maharashtra Educators' Summit & Awards 2026 brings together the state's most influential education leaders, including principals, school owners, chairpersons, directors, trustees, academic experts, and policymakers for a day of learning, collaboration, and recognition. Designed to inspire innovation in K-12 education, the summit serves as a powerful platform to explore emerging trends, share best practices, and build meaningful partnerships that will shape the future of school education in Maharashtra. Date: September 29, 2026 Venue: The Lalit, Mumbai Highlights of the Summit Inspiring keynote addresses by renowned educationists, industry experts, and thought leaders Engaging panel discussions on AI in education, school leadership, digital transformation, student well-being, and future-ready learning High-value networking opportunities with school decision-makers, education entrepreneurs, and leading solution providers The prestigious School Excellence Awards Ceremony, recognizing outstanding schools, visionary educators, and institutions driving excellence and innovation in K-12 education Interactive sessions showcasing innovative teaching practices, education technologies, and strategies for sustainable school growth Whether you're seeking fresh ideas, valuable industry connections, strategic collaborations, or recognition for educational excellence, the Maharashtra Educators' Summit & Awards 2026 offers an unmatched opportunity to learn, connect, and lead the next chapter of educational transformation. Register Now https://www.educationtoday.co/events/maharashtra-educators-summit/2026 Registration & Enquiries: info@educationtoday.co Organized by: Education Today",
       "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
+      "publish": false
+    },
+    {
+      "title": "CFP 24º SBPJor",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/49434",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-28",
+      "eventDate": "2026-11-04",
+      "location": "Niterói · Universidade Federal Fluminense",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 20,
+      "fields": [
+        "Publication"
+      ],
+      "excerpt": "November 4, 5, and 6, 2026 - Fluminense Federal University (UFF) Submission deadline: August 16, 2025 Theme: Journalism, democracy, and professional practice: the role of research in contexts of disinformation Registration: https://bit.ly/ 4gCKS9M The Brazilian Association of Journalism Researchers (SBPJor) will organize, between November 4 and 6, the 24t...",
+      "fullDescription": "November 4, 5, and 6, 2026 - Fluminense Federal University (UFF) Submission deadline: August 16, 2025 Theme: Journalism, democracy, and professional practice: the role of research in contexts of disinformation Registration: https://bit.ly/ 4gCKS9M The Brazilian Association of Journalism Researchers (SBPJor) will organize, between November 4 and 6, the 24th National Meeting of Journalism Researchers at the Institute of Arts and Social Communication of the Fluminense Federal University (UFF) in Niter&oacute;i, Rio de Janeiro. Under the theme \"Journalism, Democracy, and Practice,\" the meeting aims to bring together researchers and students in Communication to debate the impacts of disinformation on journalism research. Papers will be presented in person, and submissions will be accepted solely in Portuguese , following the rules available below: Submission Rules: https://eventos.galoa.com.br/ sbpjor-2026/page/8146-inicio? lang=pt-br We invite researchers, academics, and professionals to submit papers by August 16, via the link: https://proceedings. science/cfp/sbpjor-2026?lang= pt-br The expected date for the announcement of selected papers is September 8, with the registration payment deadline until September 18, 2026. The final program will be announced at October 2 on the event's page (https://eventos.galoa.com.br/ sbpjor-2026/page/8146-inicio? lang=pt-br) and on Instagram (https://www.instagram.com/ sbpjor2026/). JPJor The event will also host the 16th Meeting of Young Journalism Researchers (JPJor) in a hybrid format. Students and graduates in journalism from 2025 and 2026 can submit papers, with up to 5 people in collective authorship and mandatory co-authorship of the advisor. Papers must be written exclusively in Portuguese and contain between 20,000 and 40,000 characters (with spaces), including bibliographic references and footnotes. A title, an abstract of up to 10 lines, and five keywords are mandatory. The text must be written in Times New Roman font, size 12, with 1.5 line spacing. Long direct quotations (more than three lines) must have a 4 cm indent on the left margin, be written in size 10 font, and have single line spacing. For more details, access the link: https://eventos.galoa.com.br/ jpjor-2026/page/8081-inicio? lang=pt-br",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
+      "publish": false
+    },
+    {
+      "title": "Second Annual “Things That Go Bump in the Night: An International Literary Conference on All Things Scary”",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/48666",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-28",
+      "eventDate": "2026-10-22",
+      "location": "N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 20,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Welcoming submissions for a free scholarly conference on scary literature to be hosted online from October 22nd-24th, 2026 by graduate student, Anais Shelley. Research may draw inspiration from (but is not limited to) these prompts: Supernatural themes Domestic horror The role of setting within scary stories Frightening myths and folklore The gothic novel...",
+      "fullDescription": "Welcoming submissions for a free scholarly conference on scary literature to be hosted online from October 22nd-24th, 2026 by graduate student, Anais Shelley. Research may draw inspiration from (but is not limited to) these prompts: Supernatural themes Domestic horror The role of setting within scary stories Frightening myths and folklore The gothic novel and short story Monsters and the monstrous Multicultural superstition and regional ghost stories The works of authors such as Stephen King, Anne Rice, and Edgar Allan Poe A variety of presentations are encouraged, including traditional papers, digital graphics, multimodal/powerpoints, roundtables, creative writing, performance art, and visual art. The event is open to researchers at all levels. Please note that all presentations will take place in Central US time. Proposals will be accepted through this form with a deadline of 31 August 2026: https://forms.gle/TfvuQLFPfpj23enq8",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
+      "title": "(ACLA CfP) South-South Literary Relations and the Remaking of World Literature",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/49888",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-28",
+      "eventDate": "2027-05-20",
+      "location": "Houston, Texas · American Comparative Literature Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Please consider submitting to the ACLA seminar titled \"South-South Literary Relations and the Remaking of World Literature\" by September 21, 2026 . You can submit your abstracts here: https://www.acla.org/cfp/70fe7418-c14a-468d-be1d-809e878f2e00/submit-paper/46d872df-9512-49a7-89f7-8bc710370693 Abstract from the ACLA CFP: Since the rise of World Literatur...",
+      "fullDescription": "Please consider submitting to the ACLA seminar titled \"South-South Literary Relations and the Remaking of World Literature\" by September 21, 2026 . You can submit your abstracts here: https://www.acla.org/cfp/70fe7418-c14a-468d-be1d-809e878f2e00/submit-paper/46d872df-9512-49a7-89f7-8bc710370693 Abstract from the ACLA CFP: Since the rise of World Literature as a major field of inquiry, discussions of literary circulation have often privileged routes that pass through metropolitan centers, emphasizing translation into dominant European languages, global publishing networks, and institutions located in the Global North. Yet literary works have long traveled through alternative circuits that connect regions of the Global South directly, producing histories of exchange that challenge center-periphery models of cultural transmission. This seminar invites papers that examine literary relationships among Africa, Asia, Latin America, the Caribbean, SWANA, Oceania, and other locations within the Global South. Such relationships may emerge through translation, political solidarity, migration, anti-colonial movements, publishing networks, educational institutions, shared aesthetic projects, or indirect forms of influence. They may also involve moments in which Northern institutions, languages, or markets facilitate, mediate, redirect, or constrain South-South encounters, raising questions about whether these exchanges can ever be understood as entirely autonomous. Rather than treating the Global South as a unified category, the seminar seeks to explore its internal heterogeneity, asymmetries of power, and competing visions of solidarity. How do texts travel between Southern contexts? What historical, linguistic, and political conditions make these encounters possible? What role do translators, publishers, periodicals, archives, and digital media play in creating or sustaining South-South literary networks? How might these circulations reshape concepts such as influence, comparison, translation, reception, or worldliness? We especially welcome papers that interrogate the implications of South-South literary exchange for the study of World Literature itself. If literary circulation is not exclusively organized through Northern centers, what alternative maps of World Literature become visible? Can South-South networks offer different ways of imagining literary value, canon formation, and global comparison? By foregrounding overlooked routes of circulation and exchange, this seminar aims to reconsider how World Literature is conceptualized and to illuminate the multiple worlds through which literature moves. Possible topics include, but are not limited to: South-South translation; comparative studies across the Global South; Cold War and Non-Aligned literary networks; postcolonial and decolonial approaches; migration and diaspora; publishing and periodical cultures; digital literary circulation; transregional modernisms; indigenous and vernacular exchanges; reception studies; archives of literary solidarity; and new theoretical approaches to World Literature.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
+      "title": "BAAS Postgraduate Symposium at the V&A: Transatlantic Connections and the ‘Special Relationship[s]’",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/49340",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-28",
+      "eventDate": "2026-11-09",
+      "location": "V&A East Storehouse · British Association for American Studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a \"special relationship between the British Commonwealth and Empire and the United States\" in order to maintain world diplomacy, citing our shared language and cultural val...",
+      "fullDescription": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a \"special relationship between the British Commonwealth and Empire and the United States\" in order to maintain world diplomacy, citing our shared language and cultural values as connecting the two countries. Although this 'special relationship' has continually been called into question by scholars, there is undoubtedly a channel of cultural and political exchange between the US and the UK, as well as with other countries, which has become even more urgent for discussion in recent years. The 2026 BAAS Postgraduate Symposium invites proposals from postgraduate researchers at all levels and across all disciplines on the topic of Transatlantic Connections and the 'Special Relationship[s]'. By using the term 'Special Relationship[s]', we intend to explore the relationship between not only the US and the UK, but also between the US and other countries. We invite panels and individual papers on this theme and encourage you to interpret it as broadly as you wish, including any aspect of the US's transnational cultural, political and literary connections, influences or contrasts. We welcome contributions from all realms of American Studies, including, but not limited to: literature and film studies, postcolonial and decolonial analysis, science and visual culture, and urban and environmental history. As this year's symposium will be held at V&A East Storehouse, the site of the David Bowie Archive, we are particularly keen on hearing from scholars exploring the etymologically and culturally rich prefix of the term 'Transatlantic' itself. This one-day symposium will involve not only academic panel discussions, but other activities such as a career development session, an introduction to the archives at the Victoria and Albert Museum, and a keynote address by Professor Mark Ford. The intention is to foster a strong postgraduate community in American Studies and to learn from both our peers and from leaders in our field. The symposium will be catered, hosted primarily in-person at V&A East Storehouse, but with a digital attendance option for those only able to join online. There will be time in the day to explore V&A East Storehouse and the David Bowie Centre. V&A East Storehouse is a working museum store with a rich archive for students to use in their research. The building is designed to allow visitors to get closer to objects held in the V&A collections and to the work of the museum itself. We welcome the submission of individual papers as well as proposals for complete panels of three researchers. Applications from groups of three or four researchers for roundtable discussions are also welcome. For panel and roundtable proposals, please also include a statement of up to 200 words on the aims of the collective submission, alongside the individual papers. Papers should be around 15-20 minutes long , and roundtables will consist of five-minute introductions by each researcher followed by 45 minutes of discussion. Interdisciplinary paper, panel and roundtable proposals are encouraged. Suggested paper and roundtable topics include, but are not limited to: - Case studies or broader comparisons between literary texts from the US and other nations - Case studies or broader comparisons between films from the US and other nations - Comparative political or historical analyses concerning the US and other nations - Comparative economic, scientific or environmental analyses concerning the US and other nations. Although the symposium will centre on 'Transatlantic Connections', we welcome proposals making any transnational comparisons rooted in American Studies. We especially encourage researchers from across Europe and beyond to submit and attend, as part of ongoing efforts to expand the EAAS community of postgraduates. We want to make this symposium as accessible as possible; we will be working to ensure a relaxed academic environment and we encourage anyone attending to email us with any access needs. Bursaries will be available from BAAS on a limited basis for students requiring financial support for attendance. The deadline for submissions is? 15th September 2026 .?Please send proposals including a title, an abstract of no more than? 250 words ?and?a short biography of no more than 200 words ?to Claire Watt at?claire.watt@baas.ac.uk. If you have any questions about the symposium, big or small, please get in touch and we will be happy to help. We look forward to hearing from you!",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
+      "title": "The Poverty of Literature",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/49447",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-28",
+      "eventDate": "2027-05-20",
+      "location": "Houston · American Comparative Literature Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 12,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quigley, University of Victoria (gabrielquigley@uvic.ca) How does literature represent poverty? Is poverty available for representation? The title of this seminar is taken f...",
+      "fullDescription": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quigley, University of Victoria (gabrielquigley@uvic.ca) How does literature represent poverty? Is poverty available for representation? The title of this seminar is taken from Marx's The Poverty of Philosophy, which, in turn, subverts Proudhon's The Philosophy of Poverty. In it, Marx critiques the approach taken by Proudhon and other anarchist, communist, or socialist \"theoreticians\" who assume that economic categories exist independently of history. According to Marx, \"so long as they look for science and merely make systems, so long as they are at the beginning of the struggle, they see in poverty nothing but poverty, without seeing in it the revolutionary, subversive side, which will overthrow the old society.\" A similar critique might be leveled at today's writers and critics: when literature and literary criticism engage with poverty at all, do they merely reduce it to an ahistorical economic category? What forms of reification, alienation, and exploitation does the literary assumption that poverty is available for representation produce? This seminar asks what literature owes to people experiencing poverty. At a time when 847 million people live in extreme poverty-95% of whom are in the Global South-it seeks to bring together research on the representation, history, and ontological status of poverty. Unlike Marx's \"theoreticians,\" who \"see in poverty nothing but poverty,\" scholars analyzing poverty through other frameworks-such as ethical demand, affective complexity, geopolitical disparities, aesthetic fetishization, and state failure-are strongly encouraged to submit abstracts. Papers may respond to such questions as: how should poverty be represented, if at all? Beyond an economic category, can poverty be conceived as an aesthetic, metaphysical, or phenomenological category? How is the concept of poverty entangled with conceptions of lack, deprivation, or destitution? How does the global distribution of poverty reflect the ongoing injuries of imperialism, colonialism, neocolonialism, globalization, and ecological catastrophe? Possible topics: - Poverty and realism; poverty and genre - The ethics of speaking for the poor - Testimony, life writing, and first-person accounts of poverty - Poverty and racial capitalism - Postcolonial and decolonial frameworks for poverty - Poverty and ecological catastrophe; climate precarity - Poverty and intersectionality (race, gender, sexuality, disability) - \"Poverty porn,\" sentimentality, and voyeurism - Working-class literature and labor - Poverty in the Global South; imperialism and uneven development - Urban and rural poverty as literary landscapes - Homelessness and houselessness - Poverty and the archive - Poverty and affect: shame, solidarity, rage - The literary canon and class; institutional gatekeeping - Austerity, welfare, and the state in literature - Migration, displacement, and border crossing - Literature and human rights - Poverty as aesthetic, metaphysical, or phenomenological category - Poverty and ontology; being, lack, and deprivation - Bare life and destitution ACLA Seminar Description can be accessed here: https://www.acla.org/seminar/63e1eb87-fe99-49c9-aac0-517ccf904102. ACLA Paper Submission link: https://www.acla.org/cfp/2b603883-5d9b-44ae-a485-c732ba80d4bf/submit-paper. Papers can be submitted until September 22, 2026 .",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
+      "title": "In Case of Emergency: Catastrophe, Climate, and Capitalism",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/48749",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-09-28",
+      "eventDate": "2026-11-05",
+      "location": "Chicago, IL · University of Chicago",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 12,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "When we trace the genealogy of crisis, it can seem as if we've always been surrounded by catastrophe. Different factions of the ruling class tell us that we need to be prepared, but also that preparation may be fruitless. Crises shift and expand, strengthening their hold on us through their very instability. The state of emergency, after all, \"is not the...",
+      "fullDescription": "When we trace the genealogy of crisis, it can seem as if we've always been surrounded by catastrophe. Different factions of the ruling class tell us that we need to be prepared, but also that preparation may be fruitless. Crises shift and expand, strengthening their hold on us through their very instability. The state of emergency, after all, \"is not the exception but the rule,\" as Walter Benjamin theorized. It is not a single event but what Lauren Berlant called a norm \"embedded\" in the everyday. In the zones of crisis and in daily life, the emergency overwhelms the senses, requiring constant self-governance and limiting our political imagination. The urgent threat of climate change, though often disavowed, is at the center of today's general atmosphere of crisis. Walls hold back displaced populations and rising seas. Earth systems sustain lasting damage. Species are devastated. And with apocalyptic alacrity, capitalist-imperialist competition crosses terrains that were once uninviting and hostile, from deserts to the polar regions and outer space. So far, discourses of risk and emergency have mostly been a boon for the racist right and anti-democratic technocrats, rather than contributing to a genuine project of planetary stewardship. The quest for \"energy sovereignty\" has unleashed a wave of extractive interventions in the Global South amid the collapse of the postwar international order, creating new sacrifice zones and colonial resource frontiers. Amid widespread doubts about electoral institutions' ability to deliver systemic transformation, some environmentalists have even embraced climate doomerism or the technosolutionism of geoengineering. We see how climate crisis is increasingly governed through biopolitical management, securitized borders, and technocratic forms of environmental control-and how the emergency becomes yet another opportunity for further administration. Crisis discourse often privileges spectacular catastrophe while obscuring the slow, uneven, and racialized forms of ecological violence embedded in everyday life. Unlike the \"fevered immediacy that governs the society of the catastrophe-as-spectacle,\" as Rob Nixon writes, unspectacular \"slow violence\" is dispersed over time. With the sirens blaring, it is easy to lose sight of the material impacts of the ideology of crisis across time and space. We can also miss the ways in which the permanent emergency warps our cultural production and social relations, concealing the most pressing contradictions of capitalism today. How might we map the cartography of crisis? In doing so, might we open space for alternative ways of thinking and living within and against crisis? How do we hold crisis at bay long enough to bring about a \"real state of emergency,\" as Benjamin says is our task? Jason W. Moore (Binghamton) and Gökçe Günel (Rice) will deliver keynote addresses at the conference, which will also feature a curated program of poetry readings and film screenings. In Case of Emergency is organized by Aditi Kini, Tadhg Larabee, Ernest Lee, and Yolian Ogbu in collaboration with the Chicago Center for Contemporary Theory, and with support from the Committee on Environment, Geography, and Urbanization. To apply, submit an abstract (max. 300 words) and a CV via this Google form by June 30, 2026: https://forms.gle/Fj4r9oAk5r8b6Q5K6 We want to investigate how crisis is produced, circulated, and inhabited across domains, including climate, culture, political economy, media, and governance. Through this cartography of crisis, we hope to understand how we might countermap and counteract this state of ecological and social emergency. We invite proposals from graduate students in the humanities and social sciences, as well as artists, writers, and other practitioners. Our goal is to create space for imagination and speculation with people of varied backgrounds, interests, and praxes. We welcome interdisciplinary scholarship and cultural criticism attentive to the cultural, aesthetic, historical, and political dimensions of crisis. We imagine submissions might discuss: Technosolutionism and the dilemmas of growth Speculation, commodities, and disaster capitalism Fossil life as economy and desire Green neoliberalism as a political and cultural form Enclosure and destruction of the commons: water, forests, air and more Hydrocolonialism, oceanic crisis, and blue humanities Border ecologies, displacement, and the production of space State-making, world-making, and the remaking of political, social and ecological orders Toxic temporalities, slow violence, and \"post\"-colonial precarity Apocalypse and new worlds in literature and culture Climate pessimisms and the politics of fear and hope in crisis Resistance, strikes, and land back: movements and solidarity Community, care, and affective ecologies of crisis Participants without access to institutional funding will have the opportunity to request travel support, though we cannot guarantee it. Questions for the organizers can be sent to ccct@uchicago.edu.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
     },
     {
@@ -1841,7 +1768,7 @@
       "type": "CFP",
       "deadlineType": "Submission",
       "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
+      "eventDate": "",
       "location": "Northeast Modern Language Association (NeMLA)",
       "status": "open",
       "priority": "medium",
@@ -2524,30 +2451,6 @@
       "publish": true
     },
     {
-      "title": "Call for submissions - Transgressing Fictions: Transgressive Fiction in Trans-National and Trans-Temporal Contexts (NeMLA Panel)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107140",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Ya'el Z. Frankel / Northeast Modern Language Association (NeMLA)",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Interdisciplinary",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "The term “transgressive fiction” was coined in 1993 by LA Times columnist Michael Silverblatt to describe a loosely related coterie of authors in the ‘80s and ‘90s whose writing has “violation at its core: violation of norms, of humanistic enterprise, of the body.” Silverblatt’s preliminary “sketch” of the genre’s leading voices was primarily American, al...",
-      "fullDescription": "The term “transgressive fiction” was coined in 1993 by LA Times columnist Michael Silverblatt to describe a loosely related coterie of authors in the ‘80s and ‘90s whose writing has “violation at its core: violation of norms, of humanistic enterprise, of the body.” Silverblatt’s preliminary “sketch” of the genre’s leading voices was primarily American, almost entirely Anglophone, and exclusively white.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Autonomisation communautaire à l'ère digitale la session",
       "source": "CFPList",
       "sourceName": "CFPList",
@@ -2569,55 +2472,6 @@
       "fullDescription": "Dans un contexte marqué par l'expansion des environnements numériques, les processus d'autonomisation des communautés se redéfinissent en profondeur. La culture numérique ne se réduit plus &agrave; un ensemble d'outils techniques : elle constitue désormais un espace dynamique de production, de circulation et de légitimation des savoirs, notamment locaux. &Agrave; travers ces mutations, les communautés acc&egrave;dent &agrave; de nouvelles formes de visibilité et de reconnaissance, leur permettant de s'affirmer comme actrices de leur propre développement. En mobilisant leurs ressources culturelles, symboliques et sociales, elles investissent les espaces numériques pour produire du sens, partager leurs expériences et renforcer leur pouvoir d'agir. Cette session propose d'examiner les articulations entre culture numérique, pratiques participatives et autonomisation, en mettant l'accent sur les formes émergentes d'engagement collectif médiatisé. Elle s'intéresse en particulier aux dispositifs numériques qui privilégient la co-création, la collaboration et l'innovation sociale, tout en interrogeant les conditions de leur appropriation. Dans cette perspective, l'autonomisation ne rel&egrave;ve pas uniquement d'une capacité individuelle, mais s'inscrit dans des collectifs dynamiques, o&ugrave; les communautés développent des stratégies d'usage et de réappropriation du numérique afin de répondre &agrave; leurs besoins, valoriser leur patrimoine et consolider leur résilience face aux transformations contemporaines.",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": false
-    },
-    {
-      "title": "Beyond the Apocalypse Building Feminist Futures to Fight Politics of Death and Dispossession",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50184",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2026-12-01",
-      "location": "online · Isha L’Isha Haifa Feminist Institute / Feminists Against Armageddon",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 38,
-      "fields": [
-        "Technical Communication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Feminists Against Armageddon project studies the impact of religious nationalist movements in Israel, Palestine, and internationally, and particularly their role in undermining women's and gender rights. Isha L'Isha Haifa Feminist Center and Rosa Luxemburg Stiftung organized the first annual conference in 2025, focusing on political and cultural colla...",
-      "fullDescription": "The Feminists Against Armageddon project studies the impact of religious nationalist movements in Israel, Palestine, and internationally, and particularly their role in undermining women's and gender rights. Isha L'Isha Haifa Feminist Center and Rosa Luxemburg Stiftung organized the first annual conference in 2025, focusing on political and cultural collaborations between Christian Evangelical actors and Jewish Messianic extremism. This year's conference will focus on the role of Messianic movements in promoting the anti-gender movement, genocide, tech-fascism authotarianism, economic and cultural dispossesion, and coercive military and police violence. The conference seeks to trace and understand local and international dynamics, while highlighting modes of opposition and resistance. Conference themes include: &bull; Global feminist activism vis-a-vis the anti-gender movement and Political messianism. &bull; Feminist responses to coercive military force and genocide. &bull; The centrality of Israel/Palestine in global religious nationalism. &bull; Extractive capitalism, authoritarianism and anti-gender politics. &bull; Regional case studies from the SWANA, the USA, Latin America, Africa, Europe, Southeast Asia, and Oceania. &bull; Feminist decoloniality and decolonialism",
-      "relevance": "Automatically surfaced as a likely RCID fit across Technical Communication, Art / Media Practice.",
-      "publish": false
-    },
-    {
-      "title": "Medical Humanities and Feminism in Literature and Film",
-      "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50136",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-09-30",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Publication",
-        "Theory"
-      ],
-      "excerpt": "In their special issue of Feminist Encounters on Medical Humanities, Foster and Funke observe the failure to acknowledge a debt to feminism, noting their work \"offers the first targeted exploration of connections between both fields.\" This proposed panel seeks to extend their inquiry through papers that reflect feminist attention to gender and medicine/bi...",
-      "fullDescription": "In their special issue of Feminist Encounters on Medical Humanities, Foster and Funke observe the failure to acknowledge a debt to feminism, noting their work \"offers the first targeted exploration of connections between both fields.\" This proposed panel seeks to extend their inquiry through papers that reflect feminist attention to gender and medicine/bioscience. Informed by twentieth century social movements (Women's Health, LGBTQ Rights, and Disability Rights), feminist theory and praxis understand healthcare encounters as more than bioscientific sites and as reflecting a range of social and cultural discourses, including regimes of gender, sexuality, race, class and debility that reflect and reproduce social relationships of power. Drawing on critical race theory, reproductive justice theory, and crip theory (among others), feminists have revealed the gendered facets of science and research, medicine/technology, medical institutions, medical authority, and provider/patient experiences, while navigating and intervening in biomedical discourses through advocacy. This proposed panel will take up the conference theme of \"empowering communities\" through papers foregrounding the connections between the fields of feminism and Medical Humanities. This panel encourages papers using an intersectional feminist lens to analyze literary and filmic representations of reproductive justice (including but not limited to gynecology, pregnancy, childbirth, abortion, surrogacy); disability (including but not limited to mobility, sensory, cognitive, psychological, invisible/chronic debility); and/or the body (including but not limited to gender affirming care, eating disorders, cancer, pain, and HIV). Abstracts should be no more than 500 words and include a works cited; the deadline for submission is 30 September. Submit abstracts here: https://cfplist.com/nemla/Home/S/22501",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Theory, Publication.",
-      "publish": true
     },
     {
       "title": "CfP | NeMLA 2027 Roundtable | Against Agency",
@@ -2711,6 +2565,32 @@
       "excerpt": "In 1996, Carl Sagan warned us of a time when people would lose their ability to question, “when awesome technological powers are in the hands of a very few . . . when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what’s true, we slide, almost without no...",
       "fullDescription": "In 1996, Carl Sagan warned us of a time when people would lose their ability to question, “when awesome technological powers are in the hands of a very few . . . when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what’s true, we slide, almost without noticing, back into superstition and darkness.” Maybe Mr Sagan was somewhat pessimistic when writing The Demon-Haunted World. But then again, in times of conspiracy theories, Ancient Aliens, Antivaxxers, and Holocaust Deniers, the Age of Information appears just as capable of spreading dangerous frauds and charlatans as it is of disseminating reliable scholarship.",
       "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
+      "title": "\"Frozen\" Cold War Narrative",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Cultural Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107761",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "2027-03-06",
+      "location": "Northeast Modern Language Associaiton",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Interdisciplinary",
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "In Asian context, the Cold War has not ended but became an ongoing structural condition that determines the social, political, and economic dimensions of everyday lives. The unresolved nature of the war has also left traces on a personal level, expressing through one's body, psyche, and their intimate relations. The Korean War (1950-present) as a proxy wa...",
+      "fullDescription": "In Asian context, the Cold War has not ended but became an ongoing structural condition that determines the social, political, and economic dimensions of everyday lives. The unresolved nature of the war has also left traces on a personal level, expressing through one's body, psyche, and their intimate relations. The Korean War (1950-present) as a proxy war between the two global superpowers, for example, has been continuing as manifested on multiple levels, and it keeps bringing back the traumatic past into the present while challenging the authoritarian interpretation of the war as \"The Forgotten War\". This session will discuss Cold War narratives that are written from the vantage point of those who have been living through the imperialist war violence.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -3087,29 +2967,6 @@
       "publish": true
     },
     {
-      "title": "\"Frozen\" Cold War Narrative",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107761",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-09-30",
-      "eventDate": "",
-      "location": "Northeast Modern Language Associaiton",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "In Asian context, the Cold War has not ended but became an ongoing structural condition that determines the social, political, and economic dimensions of everyday lives. The unresolved nature of the war has also left traces on a personal level, expressing through one's body, psyche, and their intimate relations. The Korean War (1950-present) as a proxy wa...",
-      "fullDescription": "In Asian context, the Cold War has not ended but became an ongoing structural condition that determines the social, political, and economic dimensions of everyday lives. The unresolved nature of the war has also left traces on a personal level, expressing through one's body, psyche, and their intimate relations. The Korean War (1950-present) as a proxy war between the two global superpowers, for example, has been continuing as manifested on multiple levels, and it keeps bringing back the traumatic past into the present while challenging the authoritarian interpretation of the war as \"The Forgotten War\". This session will discuss Cold War narratives that are written from the vantage point of those who have been living through the imperialist war violence.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "REMINDER: History and the Black Renaissance Seminar at NeMLA",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Cultural Studies",
@@ -3129,6 +2986,29 @@
       ],
       "excerpt": "March 6-9, 2027 Newport, RI Convention Site: Salve Regina University",
       "fullDescription": "March 6-9, 2027 Newport, RI Convention Site: Salve Regina University",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
+      "title": "Call for submissions - Transgressing Fictions: Transgressive Fiction in Trans-National and Trans-Temporal Contexts (NeMLA Panel)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Cultural Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107140",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-09-30",
+      "eventDate": "",
+      "location": "Ya'el Z. Frankel / Northeast Modern Language Association (NeMLA)",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "The term “transgressive fiction” was coined in 1993 by LA Times columnist Michael Silverblatt to describe a loosely related coterie of authors in the ‘80s and ‘90s whose writing has “violation at its core: violation of norms, of humanistic enterprise, of the body.” Silverblatt’s preliminary “sketch” of the genre’s leading voices was primarily American, al...",
+      "fullDescription": "The term “transgressive fiction” was coined in 1993 by LA Times columnist Michael Silverblatt to describe a loosely related coterie of authors in the ‘80s and ‘90s whose writing has “violation at its core: violation of norms, of humanistic enterprise, of the body.” Silverblatt’s preliminary “sketch” of the genre’s leading voices was primarily American, almost entirely Anglophone, and exclusively white.",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
@@ -3729,6 +3609,32 @@
       "publish": true
     },
     {
+      "title": "Call for (self-)nomination for BPCS Committee 2026/27",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50311",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-04",
+      "eventDate": "2026-10-20",
+      "location": "N/A · British Association for Chinese Studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Interdisciplinary",
+        "Rhetoric",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Affiliated with the British Association for Chinese Studies (BACS), the British Postgraduate Network for Chinese Studies (BPCS) is an academic network for postgraduate students and early-career researchers in Chinese Studies in the UK. With over 1,000 members, BPCS is one of the largest postgraduate organisations for Chinese Studies in the UK. We actively...",
+      "fullDescription": "Affiliated with the British Association for Chinese Studies (BACS), the British Postgraduate Network for Chinese Studies (BPCS) is an academic network for postgraduate students and early-career researchers in Chinese Studies in the UK. With over 1,000 members, BPCS is one of the largest postgraduate organisations for Chinese Studies in the UK. We actively promote Chinese Studies by organising annual conferences, seminars, career events, and other academic and professional activities. We also aim to serve as a key source of information on developments in Chinese Studies across the UK and to give members opportunities to connect with peers in their fields. Available Positions We are currently inviting nominations for three committee positions: President: Provides executive leadership for BPCS activities, including the annual conference, and attends BACS meetings as a representative of the community. Internal Secretary: Works with the President to organise BPCS activities, particularly the annual conference, and assumes the responsibilities of the President in their absence. External Secretary: Edits and publishes the weekly newsletter, manages BPCS social media accounts and external communications, and works with the President and Internal Secretary to promote BPCS events and activities. We warmly invite you to nominate yourself for one of these positions. If you would like to nominate someone else, please feel free to share this email and the link https://forms.gle/4Fp34qN9pbwFnZEGA with them. Application Procedure Members are invited to nominate themselves or other candidates by completing the https://forms.gle/4Fp34qN9pbwFnZEGA by 04 October 2026. A confirmation email will be sent once we have received your nomination. We will finalise the list of nominees for each position shortly after the deadline, followed by an election. The results will be announced through the BPCS mailing list by October 2026, subject to the election results and confirmation from the successful candidates. The newly elected members will take office on 23 October 2026. Why Should You Consider Joining Us? Joining the BPCS Committee offers more than an opportunity to strengthen your professional experience. It allows you to become part of an academic community committed to advancing Chinese Studies in the UK. As a committee member, you will gain valuable networking and organisational experience, have opportunities to develop events related to your academic and professional interests, and contribute to initiatives that benefit the wider Chinese Studies community. Your participation will help ensure the continuation of the BPCS annual conference, newsletters, seminars, and other regular activities. We warmly encourage you to consider joining the BPCS Committee and helping to shape the future of our organisation. Together, we can build a supportive and collaborative community for Chinese Studies. We look forward to receiving your nominations and working together to further the study of Chinese culture and society in the UK.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "BOOK REVIEWS ON ASIA FOR RISING ASIA JOURNAL",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -4147,6 +4053,31 @@
       "publish": true
     },
     {
+      "title": "Eating for a Green Future : Literature, Culture, and the Politics of Food in Contemporary India",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50321",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-15",
+      "eventDate": "2027-10-15",
+      "location": "N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media",
+        "Publication",
+        "Theory"
+      ],
+      "excerpt": "CALL FOR CHAPTER PROPOSALS Eating for a Green Future: Literature, Culture, and the Politics of Food in Contemporary India Edited by Dr. Manisha Mohanty (Assistant Professor, S'O'A University & Fulbright-Nehru Fellow) Dr. Shashibhusan Nayak (MLA Bibliography Fellow, MLA) Dr. Sonali Das (Assistant Professor, S'O'A University) This edited volume begins from...",
+      "fullDescription": "CALL FOR CHAPTER PROPOSALS Eating for a Green Future: Literature, Culture, and the Politics of Food in Contemporary India Edited by Dr. Manisha Mohanty (Assistant Professor, S'O'A University & Fulbright-Nehru Fellow) Dr. Shashibhusan Nayak (MLA Bibliography Fellow, MLA) Dr. Sonali Das (Assistant Professor, S'O'A University) This edited volume begins from a single premise: food cannot be discussed apart from the politics that surround it. Questions around production and consumption are inseparable from issues of hunger, malnutrition, social inequality, and ecological crisis. The concept of 'food culture', understood as the cooking and eating of food, must be reexamined in the light of sustainability and structural violence. Industrial agriculture, multinational food corporations, and extreme disparities in access have made eating an exercise of power as much as of nourishment. In India, the evidence is stark. Farmer suicides, shrinking biodiversity, corporate-controlled food systems, and climate-induced crop failures expose the systemic inequalities that run through the country's foodways. The volume gathers essays on literature, film, digital media, and everyday food practice, investigating how contemporary texts address climate change, agribusiness, land dispossession, toxic labour, and food scarcity. One question threads through the whole collection: how much of what we eat still comes from traditional, community-based knowledge, and how much is determined by global agribusiness, whose interest lies in maximizing profit rather than social welfare or universal nourishment? This leads us to explore how corporate food systems blur the distinction between inherited culinary practices and their commodified imitations. The result is a food culture in which authenticity itself becomes a marketing strategy. This volume works across food studies, environmental humanities, and popular culture, and its ambition is both practical and critical: to propose justice-oriented frameworks for rethinking consumption, appetite, and sustainability. Proposed Themes: &bull; Food and sustainability: How can food culture foreground sustainability and ecological concerns rather than mere novelty or elitist pleasure? &bull; Culinary knowledge and agribusiness: How much of what we eat today emerges from traditional ecological knowledge, local seed cultures, and community foodways, and what is shaped by agribusiness, multinational food corporations, and algorithmically curated \"choices\"? &bull; Rethinking consumption: How can we rethink everyday modes of eating, cooking, and appetite to bring about positive ecological change and more equitable food systems? &bull; Power and intersectionality: How does the intersection of food studies and environmental studies illuminate caste, class, and racial hierarchies, gendered labour, and entrenched social inequalities? &bull; Food justice: How do literary texts, films, digital campaigns, and social media food cultures imagine or fail to imagine food justice, and how might these imaginaries inform public policy and activism? Proposed Structure: Part I: Food, Ecology, and Justice · Food politics, food justice, and environmental humanities · Traditional ecological knowledge and culinary/cultural memory · Rethinking appetite and taste in times of climate crisis Part II: Literature, Film, and Visual Culture · Novels and memoirs centred on famine, scarcity, or ecological degradation · Regional food literatures · Films that foreground drought, crop failure, farmer suicides, or agrarian distress Part III: Digital Foodscapes, Social Media, Influencers, and Algorithms · Hashtag activism around hunger, food waste, land rights, and seed sovereignty · Corporate influence in online food marketing · Online recipe cultures as spaces of resistance (low-waste cooking, foraging, veganism, zero-waste influencers, etc.) Part IV: Politics and the Future of Food · Analysing policy texts, food security laws, and welfare schemes through a cultural lens · Grassroots food sovereignty movements, community kitchens, seed banks · Frameworks for sustainable and just food futures grounded in local knowledge systems · Pedagogy: teaching food-environment issues in classrooms, community settings, and online spaces Part V: Special Section India/Odisha · Indigenous and Adivasi food knowledge · Cyclone-prone ecologies and coastal food insecurity · Temple food cultures · Gendered kitchen labour in rural and urban India/Odisha · Caste-based food taboos and community food practices · Land, mining, and displacement affecting food systems Submission Guidelines: We invite scholars, independent researchers, and practitioners working in literary and cultural studies, environmental humanities, food studies, media studies, and related fields to submit original, unpublished chapter proposals. Interdisciplinary and comparative approaches are especially encouraged. Proposals should include: &bull; An abstract of 300-350 words outlining the chapter's argument, methodology, and primary texts or case studies &bull; 5-6 keywords &bull; A short biographical note (75-100 words) with full name, institutional affiliation, and contact details Full chapters should be: &bull; 5,000-8,000 words in length, inclusive of notes and references &bull; Follow MLA style (9th edition) &bull; Original, previously unpublished, and not under review elsewhere Timeline: &bull; Abstract submission deadline: 15 October 2026 &bull; Notification of acceptance: 20 November 2026 &bull; Full chapter submission: 28 February 2027 Submission: Please send abstracts and biographical notes as a single Word document to: Dr. Shashibhusan Nayak: shashienglish@gmail.com and Dr. Manisha Mohanty: manishamohanty@soa.ac.in Publication: Following the review of abstracts and full chapters, the completed manuscript will be submitted to Bloomsbury for consideration. All chapters will undergo peer review as part of the standard editorial and publisher review process.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media, Publication.",
+      "publish": true
+    },
+    {
       "title": "European Comic Art Special Issue",
       "source": "CFPList",
       "sourceName": "CFPList: Pedagogy",
@@ -4438,7 +4369,7 @@
     {
       "title": "Book Reviews - Call for book reviews from Storyworlds",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
+      "sourceName": "UPenn CFP: Modernist Studies",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108189",
       "type": "Journal CFP",
       "deadlineType": "Submission",
@@ -5038,6 +4969,30 @@
       "publish": true
     },
     {
+      "title": "Call for Proposals, Siren! Magazine Second Issue: Disciplined Bodies, Transgressive Bodies, Transformed Bodies",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50326",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-31",
+      "eventDate": "2027-10-31",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Call for Papers - Siren! Magazine Second Issue: Disciplined Bodies, Transgressive Bodies, Transformed Bodies Link to the call: https://penn.manifoldapp.org/page/siren-current-call-for-proposals Bodies are shaped by the worlds we inhabit, the stories we tell about them, and the institutions through which we learn what a body is, what it should look like, h...",
+      "fullDescription": "Call for Papers - Siren! Magazine Second Issue: Disciplined Bodies, Transgressive Bodies, Transformed Bodies Link to the call: https://penn.manifoldapp.org/page/siren-current-call-for-proposals Bodies are shaped by the worlds we inhabit, the stories we tell about them, and the institutions through which we learn what a body is, what it should look like, how it should behave, and what it is permitted to become. Yet bodies are often treated as merely biological facts: fixed, self-evident, and prior to politics. This distinction matters because once something is understood as natural, the expectations attached to it can begin to appear inevitable. For this issue, we invite work on disciplined, transgressive, and transformed bodies. We are interested in work that reflects on how bodily norms are produced and enforced, what happens when bodies exceed or destabilize those norms, and how bodies are remade through political, social, technological, medical, aesthetic, and cultural processes. The question, then, is not only who tells bodies what to do, but how we come to understand what bodies are for in the first place and how we may challenge the constraints imposed over them. How do medicine, law, media, family, religion, workplaces, markets, states, and digital platforms make particular kinds of bodies appear normal, desirable, healthy, productive, legible, or valuable? What happens when a body does not fit the meaning assigned to it; when it refuses, cannot comply, fails to conform, or becomes something else? We are especially interested in moments when bodily categories begin to break down, when the meanings attached to bodies no longer hold, or become further reinforced and are resisted, and when bodies become sites of contradiction, refusal, negotiation, and possibility. Key terms For the purposes of this issue, we understand the three terms broadly and provisionally: Disciplined bodies are shaped by the norms, institutions, and expectations that surround them. They may be expected to reproduce, perform gender recognizably, be deemed healthy and desirable, remain productive and self-optimizing, regulate themselves, and stay intelligible to others. We welcome work on how these norms are produced, enforced, negotiated, and unevenly distributed. Transgressive bodies make those expectations difficult to sustain. Transgression need not be intentional: a body may refuse, fail, exceed, disrupt, or simply be unable to comply. Nor are particular bodies inherently transgressive; they are often rendered so by institutions and cultural frameworks that mark some forms of embodiment as abnormal, excessive, threatening, or unintelligible. Transformed bodies ask what happens when embodiments become a site of remaking. Bodies may be altered through medicine, technology, disability, transition, reproduction, labor, aging, artistic practice, environmental exposure, or political violence. Transformation may be desired or imposed, liberatory, or coercive. We are interested in what bodies become, what histories they carry, what forms of power shape them, and what futures they make imaginable. We welcome submissions that interpret one of these categories, bring two or more into conversation, question the distinctions between them, or propose other ways of thinking about bodily discipline, transgression, and transformation. Proposals should identify the term that most strongly connects to the submission while noting any significant intersections with the others. Possible topics may include, but are not limited to: -Bodily autonomy and reproductive rights -Disability and debility -Gender and sexuality -Race and racialization -Beauty and aesthetic labor -Health, illness, and wellness -Medicine and biomedical technologies -Aging -Death -War and militarization -Sport and physical performance -Embodiment and mediation (digital or otherwise) -Surveillance -Cyborg subjectivities -Body modification -Bodily aesthetics -Migration and borders -Carcerality -Labor and productivity -Environmental harm -Colonialism and its afterlives -Speculative or imagined forms of embodiment Who can submit We welcome work from scholars, students, artists, activists, independent researchers, and public intellectuals working in communication, media studies, feminist studies, cultural studies, disability studies, queer and trans studies, critical race studies, the humanities, and related fields. Submissions are open to contributors at all career stages, but we particularly encourage work from early-career scholars and those whose work may sit outside conventional academic publishing structures. Formats Submissions may be written, visual, audiovisual, audio, or hybrid. We welcome experimental forms alongside conventional scholarly approaches. Across formats, submissions should engage the issue's broader commitments to critical feminist inquiry, transnational solidarity, feminist world-making, and transformative social change. Timeline For full consideration, abstracts are due by October 31, 2026, with decisions made by December 10th. Completed submissions will be due by February 10th, 2027, with a projected publication date in September 2027. Guidelines for proposal types -Paper: Please send the title and a 250-word abstract outlining the argument for a full paper featuring an original contribution. Full papers are long-form (3000-5000 words) analytical essays that connect to the current topic of the issue. Please use the APA citation system for references. -Escalator Paper: Please submit the title and a 150-word abstract for a short analytical piece (500-2000 words). Research escalator papers are works-in-progress on novel ideas related to the issue theme; they will be published as submitted and paired with an expert mentor to develop into a full analytical or empirical work. Please use the APA citation system for references. -Multimedia and Hybrid Submissions: Please submit the title and a 200-250-word description explaining how your piece relates to the current issue's theme. For multimedia works, explain how text and other elements interact. Finished pieces should include a link to a sample. For works in progress, add a brief (up to 100 words) outline of the concept, your process, and the timeline for completion. Experimental submissions are encouraged. Important dates Abstract due: October 31, 2026 Acceptances: December 10, 2026 Final submission: February 10, 2027 Peer-review process and mentorships: February - June 2027 Expected publication date: early September 2027 All proposals should be sent as a .docx or .pdf document, and include a brief bio (up to 150 words) introducing yourself and your background. Please submit proposals to asc-sirenmagazine@asc.upenn.edu, using the subject line \"Siren Magazine - Bodies.\" Direct any questions regarding the call or submission process to the same address.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "Call for papers | Diffractions Issue 13 | The Aesthetics of Mythmaking: Narrative, Culture, and Power?",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
@@ -5133,30 +5088,6 @@
       "publish": true
     },
     {
-      "title": "The International Conference on Current Issues of Humanities and Social Sciences",
-      "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50133",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-31",
-      "eventDate": "2027-02-01",
-      "location": "Ahvaz · PAH",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Theory",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The conference will be dedicated to current issues of psychology, management, economy, sociology, education, history, archaeology, arts, law, religious studies, tourism, etc. Academics, university lecturers, researchers and students are cordially invited to present their research regarding current issues of psychology, management, economy, sociology, educ...",
-      "fullDescription": "The conference will be dedicated to current issues of psychology, management, economy, sociology, education, history, archaeology, arts, law, religious studies, tourism, etc. Academics, university lecturers, researchers and students are cordially invited to present their research regarding current issues of psychology, management, economy, sociology, education, history, archaeology, arts, law, religious studies, tourism, etc. in English or Arabic. The full articles of the conference will be published as the book of conference (provided with International Standard Book Number (ISBN), and according to the Governmental Approval (The Ministry)), and also will be indexed in CIVILICA (however, the book of abstracts will be published too). You may select either Virtual Presentation or In-Person Presentation. Conference Themes A) Psychology B) Management & Economy C) Sociology D) Education E) History & Archaeology F) Arts G) Law H) Religious Studies I) Tourism",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Framing the Human| 19th-C. Studies Assoc. Conference, March 2027",
       "source": "CFPList",
       "sourceName": "CFPList: Pedagogy",
@@ -5177,6 +5108,29 @@
       "excerpt": "Framing the Human in the Nineteenth Century 48th Annual Conference Nineteenth-Century Studies Association Philadelphia, PA March 11-13, 2027 Conference website: https://ncsaweb.net/2027-conference-information/ Call for Proposals Submission Deadline: October 31, 2026 Notification of Acceptance: January 2027 Please submit proposals via this Google Form Ques...",
       "fullDescription": "Framing the Human in the Nineteenth Century 48th Annual Conference Nineteenth-Century Studies Association Philadelphia, PA March 11-13, 2027 Conference website: https://ncsaweb.net/2027-conference-information/ Call for Proposals Submission Deadline: October 31, 2026 Notification of Acceptance: January 2027 Please submit proposals via this Google Form Questions? Email the conference organizers at ncsa2027conference@gmail.com The Nineteenth-Century Studies Association (NCSA) invites proposals for 15-minute papers (300-word proposal) or complete panels of 3-4 papers (600-word proposal) that examine the shifting meanings and status of \"the human\" in the long nineteenth century-a period shaped by transformative scientific, social, and philosophical developments that continue to inform present-day thought. During this time, evolutionary theory and social Darwinism challenged the boundaries between humans and animals and raised new questions about human difference across race, class, and ethnicity. Theological and philosophical discourses reevaluated humanity's relationship to the divine, while pseudosciences such as phrenology, physiognomy, and anthropometry sought to codify human variation through tools of measurement often aligned with colonial and racial hierarchies. Advances in the natural sciences speculated on human origins and extraterrestrial life, situating \"the human\" within a larger cosmic framework. Industrialization redefined labor and bodily limits, generating anxieties about overpopulation, and paradoxically, race suicide and population extinction. Amid these pressures, labor and voting rights movements gained momentum, as marginalized groups fought for full inclusion. We welcome proposals from a variety of disciplines that engage with these and other transformations that redefined what it meant to be human-and to belong to humanity-across the long nineteenth century. Topics may include, but are not limited to: The influence of evolutionary theory on concepts of the human and the human/animal divide, including artistic and literary responses Scientific efforts to define human origins and difference through anthropology, racial theory, and other emerging disciplines Population anxieties related to degeneration, overpopulation, and demographic change Emancipated and enslaved bodies The effects of industrialization and technological advancement on understandings of the human body, labor, and automation The rise of the human sciences-psychology, physiology, and medicine-and new approaches to the mind and self Migration and the movement of people, and their impact on ideas of race, nation, and identity Secularization and shifting relationships between the human and the divine Changing human relationships to the environment and the nonhuman world Human rights, labor, and suffrage movements and the redefinition of personhood Transformations in education and access to knowledge The role of cultural institutions (museums, libraries, exhibitions) in shaping public and humanist discourse",
       "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
+      "publish": false
+    },
+    {
+      "title": "THE RISE OF ASIA 100 YEARS AFTER LAI: Is the Imperialism Dying and a New World Order Emerging?",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50329",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-31",
+      "eventDate": "2027-02-17",
+      "location": "France · GRIC (Group of Research on Identities and Cultures), University Le Havre Normandy, France",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 16,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "THE RISE OF ASIA 100 YEARS AFTER LAI: Is the Imperialism Dying and a New World Order Emerging? INTERNATIONAL AND INTERDISCIPLINARY CONFERENCE Paris, February 17, 2027 Le Havre, February 18-19, 2027 https://bandungspirit.org/ CALL FOR ABSTRACTS AND FOR PARTICIPATION The conference is open to individual and group paper presentations. Those willing to presen...",
+      "fullDescription": "THE RISE OF ASIA 100 YEARS AFTER LAI: Is the Imperialism Dying and a New World Order Emerging? INTERNATIONAL AND INTERDISCIPLINARY CONFERENCE Paris, February 17, 2027 Le Havre, February 18-19, 2027 https://bandungspirit.org/ CALL FOR ABSTRACTS AND FOR PARTICIPATION The conference is open to individual and group paper presentations. Those willing to present their papers are invited to submit their abstracts until July 31, 2026 (for a possible publication in an edited volume to be launched during the conference) or October 31, 2026 (for a paper presentation in the conference). The notification of selected abstracts for publication or for presentation will be communicated to their authors progressively according to their availability. The earlier the abstracts are submitted, the sooner the authors will get notified. A certain number of selected abstracts may be published as an edited volume to be launched during the conference. The terms of reference is available at https://bandungspirit.org/IMG/pdf/the_rise_of_asia-2027-cfa-a-with-cover.pdf Abstracts of 200-300 words are to be submitted online at https://forms.gle/2F3dS1QrDNQTugUs8 OFFLINE AND ONLINE PARTICIPATION The conference will be organised offline (physically) with possible online (virtual) participation following the circumstances. The programme will be based on offline (physical) participants on Paris time zone. INTRODUCTION LAI (League against Imperialism and for National Independence) was not a conference, but an international organisation active from 1927 to 1937 bringing together communists, socialists, nationalists, trade unionists, and pacifists in order to coordinate their myriad 'assaults against empire'. Founded with the support of the Communist International, the LAI at its peak had a membership of several hundred people, from every inhabited continent, among them prominent interwar activists and future heads of state. The organization aspired both to become an international movement and to coordinate specific instances of mass struggle. It was inaugurated by the \"First Congress against Colonial Oppression and Imperialism\" in Palais d'Egmont Brussels on February 10-14,1927. Its initiator, Willi Münzenberg, a German communist and the chair of the Workers International Relief, invited many personalities from European and American Left and anti-colonial nationalists from the colonised world. The Brussels Congress was attended by 174 people representing 134 organizations from 34 countries. The list of attendees and organizations identifies delegates from the following places: the United States, Mexico, Cuba, Puerto Rico, Peru, Venezuela, 'Central America', Colombia, China, India, the 'Dutch East Indies' [Indonesia], Korea, 'Indo-China (Annam)', Persia, the Philippines, South Africa, 'West Africa' [Sierra Leone], 'North Africa' [Lamine Senghor, from Senegal, representing the Comité de Défense de la Race N&egrave;gre], Morocco, Algeria, Tunisia, Germany, England, France, Holland, Czechoslovakia, Austria, Italy, Syria, and Palestine. Among those present in Brussels were emissaries of the Chinese Kuomintang party in Europe, Jawaharlal Nehru of the Indian National Congress, accompanied by Virendranath Chattopadhyaya, Josiah Tshangana Gumede of the African National Congress (ANC) of South Africa, Messali Hadj of the Algerian &Eacute;toile Nord-Africaine, and Mohammad Hatta of the Perhimpoenan Indonesia. Moreover, many activists from the European and American Left were present, such as Fenner Brockway, Arthur MacManus, Edo Fimmen, Reginald Bridgeman, and Gabrielle Duch&ecirc;ne, as well as intellectuals such as Henri Barbusse, Romain Rolland, and Albert Einstein. Today, 100 years after LAI, the recent wars in Ukraine and in West Asia (Iran, Israel, Arab countries, USA) raise questions: is the imperialism dying and a new world order emerging? Why? In what way? And what new world order is emerging? Those fundamental questions may be broken down into more specific questions, such as: &bull; Brussels 1927, Bandung 1955, Belgrade 1961, Havana 1966, what ruptures and what continuities? &bull; In what ways colonialism, neo-colonialism and imperialism continue to take place? &bull; What impacts of foreign military bases on socio-cultural, economic, environmental and political life of the hosting countries? &bull; What role NAM, BRICS, SCO and other Non-Western institutions play in the changing world order? &bull; Are Marxism, Leninism, Maoism, Nasserism, Sukarnoism still relevant today? &bull; Is socialism still promising to replace capitalism? &bull; What role played by social movements and other non-state actors movements in the fight for human emancipation? &bull; Is the present UN still relevant to the global challenges today? What is necessary? UN reform or UN replacement by a new structure? It is to discuss those such questions that the 11th edition of the Rise of Asia Conference Series is organised. It encourages the participation of scholars from a wide range of scientific disciplines (area studies, cultural studies, ecology, economics, geography, built environment, architecture, urban studies, history, humanities, languages, management, political and social sciences, international relations&hellip;) and practitioners from diverse professional fields (business, civil society, education, enterprise, government, management, parliament, public policy, social and solidarity movements&hellip;) as well as artists and writers, based in diverse geographical areas (Africa, North, Central and South America, Australia, Asia, the Caribbean, Europe, Oceania, Pacific&hellip;). (Darwis Khudori, Conference Initiator and Convenor)",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
     },
     {
@@ -5674,7 +5628,6 @@
       "score": 34,
       "fields": [
         "Digital Humanities / Design",
-        "Theory",
         "Interdisciplinary"
       ],
       "excerpt": "Confound the Time welcomes papers that investigate the ways in which texts, objects, and images from the medieval and early modern periods re-envision and reconstruct the past or imagine and anticipate the future. We also welcome papers that explore the ways in which medieval and early modern artifacts, history, and culture are reimagined and reconstructe...",
@@ -6136,6 +6089,30 @@
       "excerpt": "Call for Essays, September 2026 Entanglements: Regimes of Extraction and The Literary Imagination of Place Co-editors: Dr. Gayathri Goel and Dr. Jennifer Horwitz The constellation of essays in this collection will focus on place-based literary works and address issues around resource extraction and ecological devastation. As the foremost cause of underdev...",
       "fullDescription": "Call for Essays, September 2026 Entanglements: Regimes of Extraction and The Literary Imagination of Place Co-editors: Dr. Gayathri Goel and Dr. Jennifer Horwitz The constellation of essays in this collection will focus on place-based literary works and address issues around resource extraction and ecological devastation. As the foremost cause of underdevelopment and ecological destruction in the Global South and many parts of North America, resource extraction, its resulting land loss and labor exploitation, is the occasion for this project. One of the aims of this collection is to expand \"resource extraction\" beyond the primary focus on extraction of fossil fuels, natural gas, and minerals and includes the commodification of any part of nature that results in impoverishment and harm without any consideration for sustainability, renewability, and justice for humans and nonhumans. The utilization and/or extraction of resources is a regular aspect of human activity for the purposes of subsistence to ensure the continued progression of human society. However, the essays in this collection will treat resource extraction as a reference to imperialist \"extractivism\" that depletes resources for profit, steadily impoverishing entire communities, accelerating environmental devastation, and deepening local conflicts. Central to this project is also \"place\" and a deep engagement with literatures that are situated in specific places around the world. As environmental issues are rooted in specific ecological practices, politics, cultures, and history, and also vary widely in nature and severity, an attention to place, then, serves as an anchor and a critical framework for complex analysis. We invite papers that can contribute to this divergent field of \"place studies\" by centering marginalized voices from across the globe. The accepted papers will address place-based extractivism and/or resistance to issues of exploitation of any part of an environmental community, land and habitat loss, resource scarcity, displacement/migration, collapsing interdependencies from various parts of the world, from the Pacific Islands, Asia, Africa, the Caribbean, to the Americas. The essays will use any combination of critical lenses/perspectives including, Black, Indigenous, feminist, anti-racist, anti-capitalist, decolonization thought to envision lively and liberated places for life forms beyond human and plant, animal, and avian inhabitants. Note: At this point, we are accepting essays only on African, Latin American, Pacific Ocean literatures for the collection. Please submit a 9000-word draft (including notes and citations), along with a 300-word abstract, by December 1st, 2026 to placebasedliteratures@gmail.com. Please feel free to reach out to the editors at the same email for your queries about the timeline or for any other clarifications regarding this project.",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
+      "publish": true
+    },
+    {
+      "title": "CFP: 34th Annual NINE Spring Training Conference",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108159",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-04",
+      "eventDate": "2027-03-03",
+      "location": "NINE: A Journal of Baseball History & Culture",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "The 34th Annual NINE Spring Training Conference (March 3-6, 2027) invites original unpublished papers that study all aspects of baseball, with particular emphasis on history, literature, and social policy implications. Abstracts only, not to exceed 300 words, should be submitted by December 4, 2026, to co-directors Willie Steele ( wdsteele@lipscomb.edu )...",
+      "fullDescription": "The 34th Annual NINE Spring Training Conference (March 3-6, 2027) invites original unpublished papers that study all aspects of baseball, with particular emphasis on history, literature, and social policy implications. Abstracts only, not to exceed 300 words, should be submitted by December 4, 2026, to co-directors Willie Steele ( wdsteele@lipscomb.edu ) and David Pegram ( david.pegram@paradisevalley.edu ) for the abstract committee’s consideration. We ask that you please copy your submission to both of us.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -7432,27 +7409,29 @@
       "publish": true
     },
     {
-      "title": "Punk in Popular Culture: Noise, Style, Politics and Afterlives",
+      "title": "Classical Echoes: Performing the Influence of Ancient Greek and Roman Literature",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50139",
-      "type": "CFP",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/50315",
+      "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2027-07-31",
-      "eventDate": "2027-11-26",
-      "location": "Online · PopCRN - The Popular Culture Research Network",
+      "deadline": "2027-06-30",
+      "eventDate": "2028-06-30",
+      "location": "· Literature",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 30,
+      "score": 34,
       "fields": [
+        "Digital Humanities / Design",
+        "Publication",
         "Film / Media",
-        "Art / Media Practice"
+        "Theory"
       ],
-      "excerpt": "Punk has never stayed where it was put. Emerging from the economic, political and cultural upheavals of the 1970s, punk became music, style, attitude, subculture, political language and cultural mythology. From London, New York, Sydney, Belfast, Berlin, Tokyo and Jakarta, punk travelled rapidly while taking radically different local forms. It transformed...",
-      "fullDescription": "Punk has never stayed where it was put. Emerging from the economic, political and cultural upheavals of the 1970s, punk became music, style, attitude, subculture, political language and cultural mythology. From London, New York, Sydney, Belfast, Berlin, Tokyo and Jakarta, punk travelled rapidly while taking radically different local forms. It transformed music and fashion, challenged conventions of gender and sexuality, generated distinctive visual and material cultures, and provided a language through which alienation, anger, resistance and belonging could be expressed. Yet punk has also become something it once appeared determined to resist: heritage, commodity and nostalgia. Torn clothing and safety pins entered high fashion. Punk records became collectors' items. Posters and fanzines entered museums and archives. Bands once associated with underground scenes became canonical figures in popular music history. Punk aesthetics circulate through advertising, television, film and social media, while successive generations continue to rediscover, appropriate and reinvent punk. The Popular Culture Research Network (PopCRN) invites proposals for an interdisciplinary conference exploring punk as a major formation in popular culture, from its historical emergence to its contemporary afterlives. The conference asks what happens when punk moves beyond the scene and becomes popular culture. How has punk been represented, remembered, commercialised, institutionalised and reinvented? Who has been included in dominant histories of punk, and who has been marginalised? How do histories of punk change when examined through race, class, gender, sexuality, disability, age, place and nationality? Can punk retain oppositional force once its sounds, images and objects circulate through mainstream culture? Papers might examine punk through music, film, television, fashion, photography, art, literature, comics, performance, celebrity, journalism, advertising, material culture, museums, archives, digital culture, fandom or everyday life. Possible topics include: Origins, scenes and histories: CBGB and New York punk; London and the Sex Pistols; The Clash and political punk; Ramones and the aesthetics of speed and simplicity; Patti Smith and punk poetics; Australian punk and bands such as The Saints and Radio Birdman; local scenes and regional histories; punk behind the Iron Curtain; punk outside Britain and the United States; post punk, hardcore, anarcho punk and other transformations of the form. Race, class and politics: punk and working class identity; unemployment and economic decline; anti establishment politics; Rock Against Racism; punk and anti fascism; race and the whiteness of punk histories; Black punk; Indigenous punk; migration and diaspora; colonialism and postcolonial punk; nationalism and punk; policing, surveillance and censorship; punk as protest. Gender, sexuality and the body: women in punk; Siouxsie Sioux, Poly Styrene, Debbie Harry, Patti Smith and other punk icons; queercore; punk masculinities; Riot Grrrl; sexuality and transgression; beauty, ugliness and bodily refusal; hair, tattoos, piercing and bodily modification; punk ageing and the changing punk body. Fashion, style and material culture: Vivienne Westwood and Malcolm McLaren; bondage trousers, leather jackets, ripped clothing and safety pins; DIY fashion; hairstyles and cosmetics; punk typography and graphic design; album covers; badges and patches; record collecting; fanzines, flyers and posters; punk bedrooms, clubs and record shops; the movement of punk style from the street to the runway. Sound, Performance and the Punk Aesthetic: noise, distortion, speed and brevity; amateurism and anti virtuosity; screaming and vocal performance; three chord aesthetics; live performance; pogoing and moshing; stage violence and confrontation; audience participation; punk humour, obscenity and provocation; the aesthetics of ugliness and deliberate failure. Global Punk: punk in Aotearoa New Zealand, Japan, Indonesia, China, Eastern Europe, Latin America, Africa and the Middle East; punk under authoritarian regimes; Indigenous punk; postcolonial punk; migration and diaspora; translation and localisation; how punk changes as it moves between cultures. Punk on screen: Jubilee (1978); The Great Rock 'n' Roll Swindle (1980); Sid and Nancy (1986); Dogs in Space (1986); The Decline of Western Civilization (1981); This Is England (2006); punk documentaries and biopics; fictional punks; punk television; punk soundtracks; punk as shorthand for danger, rebellion and social disorder. Media, technology and DIY culture: independent labels; pirate and community radio; cassette culture; photocopying and the fanzine; punk photography; alternative publishing; bootlegs; punk journalism; online archives; social media; streaming and the digital rediscovery of punk; DIY culture before and after the internet. Punk, commerce and contradiction: punk and the music industry; selling rebellion; punk in advertising; luxury fashion and punk aesthetics; celebrity punks; authenticity and accusations of selling out; punk merchandise; nostalgia markets; reunion tours; anniversaries and reissues; punk as brand. Punk celebrity: Sid Vicious as punk celebrity; Debbie Harry and celebrity femininity; Johnny Rotten and the transformation of punk notoriety into media celebrity; punk autobiography; celebrity ageing; the punk icon as commodity. Memory, heritage and afterlives: museums and exhibitions; archives and personal collections; punk heritage tourism; oral histories; documentaries and retrospectives; anniversaries; canon formation; forgotten punk histories; ageing punks; intergenerational fandom; the preservation of ephemeral culture; whose punk becomes history? After punk: post punk, goth, hardcore, grunge, emo and alternative music; Riot Grrrl; punk's influence on fashion and visual culture; punk aesthetics in contemporary protest; new global punk scenes; TikTok and punk revivalism; Gen Z encounters with punk; the continuing circulation of DIY and anti establishment cultures. Please submit abstracts (200 words) and author details via our online portal by 31 July 2027. Notification of abstract acceptance is 31 August 2027. Registration is free. The conference is welcoming of early career researchers, postgraduates, Indigenous scholars, people with diverse identities, and industry experts or food practitioners. Please send any queries to popcrn@une.edu.au · Submit here - https://unesurveys.au1.qualtrics.com/jfe/form/SV_8jjzaWnS732QsFE · Register here - https://unesurveys.au1.qualtrics.com/jfe/form/SV_7TGWUYZidtlxVLU",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media, Art / Media Practice.",
+      "excerpt": "Special Issue Website: https://www.mdpi.com/journal/literature/special_issues/B781Q58SAM Dear Colleagues, This Special Issue of Literature will collect essays addressing the reception, influence, adaptation, or incorporation of literature from the Greco-Roman world into later theatre, film, and television. The Greeks and Romans pioneered a wide range of p...",
+      "fullDescription": "Special Issue Website: https://www.mdpi.com/journal/literature/special_issues/B781Q58SAM Dear Colleagues, This Special Issue of Literature will collect essays addressing the reception, influence, adaptation, or incorporation of literature from the Greco-Roman world into later theatre, film, and television. The Greeks and Romans pioneered a wide range of performed literary styles like tragic and comic drama, or epic and lyric poetry, as well as developing extensive mythic story networks and what we now recognize as formal histories, etc. Some of these works remain among the most influential and beloved writings ever produced by humanity. Because Greco-Roman literature is so culturally powerful and beloved, receptions and uses of it have occurred continually since the Greco-Roman era itself, in myriad different ways. This Issue seeks articles focused on performed receptions, exploring the cultural and artistic politics of how Greco-Roman material is brought to life for viewers, either on stages or screens. The recent controversies about casting and \"historical accuracy\" with Christopher Nolan's The Odyssey film remind us of the power and perils of live performance in the evocation of classics, so the articles for this Issue will interrogate the weight of and responses to classics' cultural authority. The Special Issue aims to provide current scholarly arguments about the role and ongoing power of Greek and Roman literature in theatre, film, television, or other performed media, consistent with the broader aims and scope of Literature. Purposefully taking a broad lens, the Issue seeks essays focused across time periods (e.g., medieval to the present), different national or regional performances/arts, and across media in order to bring together the most comprehensive body of essays possible. Potential topics include, but are not limited to: Theatrical or performed adaptation of or allusions to Greek and Roman literature within the Greco-Roman world. Medieval European or Middle Eastern reworkings and influence of Greco-Roman poetry or drama. Renaissance or Enlightenment re-conceptualizations of classical works. Re-writings, reworkings, artistic depictions, stagings, etc., of Greek or Roman literature for popular audiences (including Nolan's recent film). Global receptions and performances of Greco-Roman literature for postcolonial or comparative literature purposes. Feminist performed engagement with and critique of classics. Dr. Phillip Zapkin Guest Editor Manuscript Submission Information Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All submissions that pass pre-check are peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 250 words) can be sent to the Editorial Office for assessment. Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a double-anonymized peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Literature is an international peer-reviewed open access quarterly journal published by MDPI. Please visit the Instructions for Authors page before submitting a manuscript. The Article Processing Charge (APC) for publication in this open access journal is 1000 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions. Keywords: Greek Roman literature reception adaptation studies classics",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Publication.",
       "publish": true
     },
     {
