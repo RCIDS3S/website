@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-06",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,11 +8,11 @@
   "sourceSummary": [
     {
       "source": "CFPList: Digital Humanities",
-      "count": 22
+      "count": 23
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 22
+      "count": 23
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -28,7 +28,7 @@
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 15
+      "count": 16
     },
     {
       "source": "ACLS Competitions and Deadlines",
@@ -36,23 +36,15 @@
     },
     {
       "source": "UPenn CFP: Film and Television",
-      "count": 12
+      "count": 11
     },
     {
       "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 9
+      "count": 8
     },
     {
       "source": "UPenn CFP: Cultural Studies",
       "count": 8
-    },
-    {
-      "source": "UPenn CFP: Theory",
-      "count": 7
-    },
-    {
-      "source": "UPenn CFP: Professional Topics",
-      "count": 7
     },
     {
       "source": "CFPList: Communication Studies Search",
@@ -63,7 +55,23 @@
       "count": 6
     },
     {
+      "source": "UPenn CFP: Theory",
+      "count": 6
+    },
+    {
+      "source": "UPenn CFP: Professional Topics",
+      "count": 6
+    },
+    {
+      "source": "UPenn CFP: Graduate Conferences",
+      "count": 5
+    },
+    {
       "source": "UPenn CFP: Translation Studies",
+      "count": 5
+    },
+    {
+      "source": "UPenn CFP: African American",
       "count": 5
     },
     {
@@ -71,11 +79,7 @@
       "count": 4
     },
     {
-      "source": "UPenn CFP: African American",
-      "count": 4
-    },
-    {
-      "source": "UPenn CFP: Graduate Conferences",
+      "source": "UPenn CFP: Pedagogy",
       "count": 4
     },
     {
@@ -92,10 +96,6 @@
     },
     {
       "source": "CFPList: Professional Communication Search",
-      "count": 3
-    },
-    {
-      "source": "UPenn CFP: Pedagogy",
       "count": 3
     },
     {
@@ -155,7 +155,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50082",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "· American Comparative Literature Association",
       "status": "open",
@@ -174,38 +174,13 @@
       "publish": true
     },
     {
-      "title": "Decay: The Architecture of Collapse",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107218",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-04",
-      "eventDate": "",
-      "location": "Georgetown University",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Rhetoric",
-        "Theory",
-        "Art / Media Practice"
-      ],
-      "excerpt": "This conference explores decay as a transformative, liminal state that bridges the physical, the political, and the conceptual. During the process of decomposition, systems and objects start to break down, existing in a precarious limbo that simultaneously signals contamination to the surrounding environment. As theorized by Julia Kristeva in Powers of Ho...",
-      "fullDescription": "This conference explores decay as a transformative, liminal state that bridges the physical, the political, and the conceptual. During the process of decomposition, systems and objects start to break down, existing in a precarious limbo that simultaneously signals contamination to the surrounding environment. As theorized by Julia Kristeva in Powers of Horror, the abject corpse and the decaying material remind us of the fragility of our own boundaries, confronting us with what must be cast off to constitute a stable self. This fear of bodily disintegration and abjection mirrors the anxieties we project onto broader cultural and institutional structures.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Creating the Conditions: Empowering Communities in Writing and General Education",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -229,7 +204,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -247,36 +222,13 @@
       "publish": true
     },
     {
-      "title": "Healing Narratives: Exploring Humanity in Medicine and Healthcare",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Professional Topics",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107585",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-04",
-      "eventDate": "2026-10-23",
-      "location": "Konstantina Kliagkona (\"KN: Forensic, Literature, Arts & Media Studies\"/ Independent Researcher, Freelancer EFL, Criminology Teacher, & Offender Profiler)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Conference Dates: 23-24 October 2026 Format: Online (via ZOOM) International, interdisciplinary conference titled: Healing Narratives: Exploring Humanity in Medicine and Healthcare",
-      "fullDescription": "Conference Dates: 23-24 October 2026 Format: Online (via ZOOM) International, interdisciplinary conference titled: Healing Narratives: Exploring Humanity in Medicine and Healthcare",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities (NeMLA)",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -286,8 +238,7 @@
       "score": 42,
       "fields": [
         "Digital Humanities / Design",
-        "Theory",
-        "Film / Media"
+        "Theory"
       ],
       "excerpt": "Call for Papers NeMLA 2027 Annual Convention Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities What makes a text fantastic? While traditional definitions often emphasize the supernatural or the uncanny, many literary works generate the fantastic through impossibility itself. Impossible worlds, contradictory realities, unstable i...",
       "fullDescription": "Call for Papers NeMLA 2027 Annual Convention Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities What makes a text fantastic? While traditional definitions often emphasize the supernatural or the uncanny, many literary works generate the fantastic through impossibility itself. Impossible worlds, contradictory realities, unstable identities, infinite spaces, and paradoxical temporalities challenge readers' assumptions about reality and invite new ways of understanding existence. This panel explores the fantastic through the lens of impossibility, examining how literature constructs alternative realities that disrupt conventional notions of ontology, epistemology, identity, language, memory, and time. While the work of Jorge Luis Borges serves as a significant point of departure for these discussions, the panel also welcomes comparative and interdisciplinary approaches that extend beyond Borges to other literary traditions, periods, and media. Possible topics include, but are not limited to: Impossibility as a defining feature of the fantastic Ontological and epistemological uncertainty Borges and the redefinition of the fantastic Comparative studies of Borges and other writers of the fantastic Alternative realities, dreams, simulations, and virtual worlds Labyrinths, infinite libraries, mirrors, doubles, and paradoxes Time, memory, identity, and narrative impossibility Metafiction and self-reflexive narrative The fantastic across cultures, languages, and historical periods Philosophical approaches to the fantastic Contemporary fantasy, speculative fiction, and science fiction in relation to impossibility We welcome proposals from scholars at all career stages and encourage contributions from literary studies, comparative literature, philosophy, cultural studies, media studies, and related disciplines. Submission Information Please submit a 250-300-word abstract through the NeMLA submission portal. Submission deadline: September 30, 2026 CFP page: https://cfplist.com/nemla/ Home/S/22693 Session modality: Remote only This panel seeks to foster conversations on how impossibility reshapes our understanding of the fantastic across literary traditions and theoretical perspectives. We look forward to receiving proposals that reconsider the fantastic beyond conventional boundaries. abeler17@posta.pau.edu.tr Ayse Nur Beler",
@@ -301,7 +252,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -326,7 +277,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50192",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "Zadar · University of Zadar",
       "status": "open",
@@ -350,7 +301,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -375,7 +326,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50311",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-10-20",
       "location": "N/A · British Association for Chinese Studies",
       "status": "open",
@@ -384,7 +335,6 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Interdisciplinary",
         "Rhetoric",
         "Film / Media",
         "Theory"
@@ -401,7 +351,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -427,7 +377,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50231",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-15",
       "location": "Virtual · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -436,8 +386,7 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Digital Humanities / Design",
-        "Theory"
+        "Digital Humanities / Design"
       ],
       "excerpt": "Addiction is strongly associated with what Jacques Derrida termed \"our narcotic modernity,\" to the point of being synonymous with its ills--even, or especially, as both addiction and modernity flicker between their narrowest and broadest senses. On one hand, according to an influential Foucauldian line of thought, addiction as an identity and an instituti...",
       "fullDescription": "Addiction is strongly associated with what Jacques Derrida termed \"our narcotic modernity,\" to the point of being synonymous with its ills--even, or especially, as both addiction and modernity flicker between their narrowest and broadest senses. On one hand, according to an influential Foucauldian line of thought, addiction as an identity and an institutional formation dates to the nineteenth century, when certain kinds of drug use, much like certain kinds of same-sex intimacy, were pathologized by medicine and criminalized by law. At the same time, addiction's challenges to subjecthood and agency--and its extension as a model for everything from shopping to smartphone use--have made it a powerful figure for capitalist modernity's effects on the self. Taken together, these accounts of addiction as specifically modern and modernity as generalized addiction render the two terms at once interdependent and unstable, a problem of definition running parallel to the urgent social problems of addiction and its failed carceral solutions. Building on recent scholarship by Jennifer Fleissner, Rebecca Lemon, and others, we seek to retheorize addiction and its periodization through a wider view of its articulation across different eras and contexts. This seminar seeks to bring together scholars working at the intersection of addiction and literature from the premodern to the postmodern, to reconfigure our understanding of how these concepts are negotiated and narrativized across time. How has the concept of addiction changed over time, and how have these shifting conceptions been represented in literary terms? How can a critical examination of addiction narratives reconfigure our concept of \"modernity\"? Is addiction literature a distinct mode? What does addiction look like in the present, and in contemporary literature? What norms, histories, and assumptions overdetermine its representation? Crucially, what do these changes mean in practice-that is, how do they impact our cultural understanding of addiction and how our society treats those living with it? The stakes of these questions are particularly high in the context of a society grappling with the ongoing opioid crisis and related debates about harm reduction, who is deserving of care, empathy, and self-determination, and what we owe to one another as members of a human community. Potential topics include (but are not limited to): Free will, self-possession, agency, and self-control Capitalism, consumption, and commodity fetishism Narratives of slavery and enslavement Literary forms and genres associated with addiction: allegory, picaresque, memoir, trip report, confessional, cautionary tale, body horror, etc. Character theory and the \"Addict\" (character systems and economies, depth and typicality, etc.) The individual body and the social body Shifting narratives of subjecthood and the Self Medicalization and moralization of addiction Shifting approaches to conceptualizing and treating addiction Submit abstracts directly through the ACLA seminar portal: https://www.acla.org/seminar/8d51e4c4-9c0f-4b74-85e5-5d43ca66fdc3",
@@ -451,7 +400,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -474,7 +423,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50190",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -498,7 +447,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50107",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -521,7 +470,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -544,7 +493,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -567,7 +516,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -591,7 +540,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -614,7 +563,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -637,7 +586,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -660,7 +609,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49501",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "virtual · Modern Language Association",
       "status": "open",
@@ -683,7 +632,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50266",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -707,7 +656,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -730,7 +679,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -753,7 +702,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -776,7 +725,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48918",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · NeMLA",
       "status": "open",
@@ -799,7 +748,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -822,7 +771,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -848,7 +797,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -872,7 +821,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -895,7 +844,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -918,7 +867,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -941,7 +890,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -965,7 +914,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -989,7 +938,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -1013,7 +962,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -1036,7 +985,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49326",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-10-10",
       "location": "Dallas, TX, United States",
       "status": "open",
@@ -1059,7 +1008,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -1082,7 +1031,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -1105,7 +1054,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49340",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-11-09",
       "location": "V&A East Storehouse · British Association for American Studies",
       "status": "open",
@@ -1128,7 +1077,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -1151,7 +1100,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49395",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -1174,7 +1123,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-04",
+      "deadline": "2026-10-06",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -1189,31 +1138,6 @@
       "fullDescription": "When we trace the genealogy of crisis, it can seem as if we've always been surrounded by catastrophe. Different factions of the ruling class tell us that we need to be prepared, but also that preparation may be fruitless. Crises shift and expand, strengthening their hold on us through their very instability. The state of emergency, after all, \"is not the exception but the rule,\" as Walter Benjamin theorized. It is not a single event but what Lauren Berlant called a norm \"embedded\" in the everyday. In the zones of crisis and in daily life, the emergency overwhelms the senses, requiring constant self-governance and limiting our political imagination. The urgent threat of climate change, though often disavowed, is at the center of today's general atmosphere of crisis. Walls hold back displaced populations and rising seas. Earth systems sustain lasting damage. Species are devastated. And with apocalyptic alacrity, capitalist-imperialist competition crosses terrains that were once uninviting and hostile, from deserts to the polar regions and outer space. So far, discourses of risk and emergency have mostly been a boon for the racist right and anti-democratic technocrats, rather than contributing to a genuine project of planetary stewardship. The quest for \"energy sovereignty\" has unleashed a wave of extractive interventions in the Global South amid the collapse of the postwar international order, creating new sacrifice zones and colonial resource frontiers. Amid widespread doubts about electoral institutions' ability to deliver systemic transformation, some environmentalists have even embraced climate doomerism or the technosolutionism of geoengineering. We see how climate crisis is increasingly governed through biopolitical management, securitized borders, and technocratic forms of environmental control-and how the emergency becomes yet another opportunity for further administration. Crisis discourse often privileges spectacular catastrophe while obscuring the slow, uneven, and racialized forms of ecological violence embedded in everyday life. Unlike the \"fevered immediacy that governs the society of the catastrophe-as-spectacle,\" as Rob Nixon writes, unspectacular \"slow violence\" is dispersed over time. With the sirens blaring, it is easy to lose sight of the material impacts of the ideology of crisis across time and space. We can also miss the ways in which the permanent emergency warps our cultural production and social relations, concealing the most pressing contradictions of capitalism today. How might we map the cartography of crisis? In doing so, might we open space for alternative ways of thinking and living within and against crisis? How do we hold crisis at bay long enough to bring about a \"real state of emergency,\" as Benjamin says is our task? Jason W. Moore (Binghamton) and Gökçe Günel (Rice) will deliver keynote addresses at the conference, which will also feature a curated program of poetry readings and film screenings. In Case of Emergency is organized by Aditi Kini, Tadhg Larabee, Ernest Lee, and Yolian Ogbu in collaboration with the Chicago Center for Contemporary Theory, and with support from the Committee on Environment, Geography, and Urbanization. To apply, submit an abstract (max. 300 words) and a CV via this Google form by June 30, 2026: https://forms.gle/Fj4r9oAk5r8b6Q5K6 We want to investigate how crisis is produced, circulated, and inhabited across domains, including climate, culture, political economy, media, and governance. Through this cartography of crisis, we hope to understand how we might countermap and counteract this state of ecological and social emergency. We invite proposals from graduate students in the humanities and social sciences, as well as artists, writers, and other practitioners. Our goal is to create space for imagination and speculation with people of varied backgrounds, interests, and praxes. We welcome interdisciplinary scholarship and cultural criticism attentive to the cultural, aesthetic, historical, and political dimensions of crisis. We imagine submissions might discuss: Technosolutionism and the dilemmas of growth Speculation, commodities, and disaster capitalism Fossil life as economy and desire Green neoliberalism as a political and cultural form Enclosure and destruction of the commons: water, forests, air and more Hydrocolonialism, oceanic crisis, and blue humanities Border ecologies, displacement, and the production of space State-making, world-making, and the remaking of political, social and ecological orders Toxic temporalities, slow violence, and \"post\"-colonial precarity Apocalypse and new worlds in literature and culture Climate pessimisms and the politics of fear and hope in crisis Resistance, strikes, and land back: movements and solidarity Community, care, and affective ecologies of crisis Participants without access to institutional funding will have the opportunity to request travel support, though we cannot guarantee it. Questions for the organizers can be sent to ccct@uchicago.edu.",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
-    },
-    {
-      "title": "BOOK REVIEWS ON ASIA FOR RISING ASIA JOURNAL",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/25/book-reviews-on-asia-for-rising-asia-journal",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-05",
-      "eventDate": "",
-      "location": "Rising Asia Journal",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "RISING ASIA JOURNAL is a peer reviewed journal published three times a year in January, May, and September. Reviewers are welcome to submit book reviews on any aspect of Asia, covering India's Northeast, Southeast Asia, and East Asia (China, Japan, the Koreas, and Taiwan). For details on our book reviews and manuscript preparation guidelines, please go to...",
-      "fullDescription": "RISING ASIA JOURNAL is a peer reviewed journal published three times a year in January, May, and September. Reviewers are welcome to submit book reviews on any aspect of Asia, covering India's Northeast, Southeast Asia, and East Asia (China, Japan, the Koreas, and Taiwan). For details on our book reviews and manuscript preparation guidelines, please go to SUBMIT ARTICLES in our website www.rajraf.org Send your reviews to Professor Tuan Hoang at tuan.hoang@pepperdine.edu and to the Editor Dr. Harish Mehta at hmehta76@yahoo.ca",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication, Art / Media Practice.",
-      "publish": true
     },
     {
       "title": "CFP Journal of Global Human Rights",
@@ -1460,6 +1384,52 @@
       "excerpt": "“I must be mad!” cries Elizabeth Costello at the close of J.M. Coetzee’s The Lives of Animals (1999). An author and animal advocate, Costello cannot reconcile how the atrocities of factory farming that keep her awake at night do not likewise haunt her peers. When picking up the character again over two decades later in The Pole and Other Stories (2023), C...",
       "fullDescription": "“I must be mad!” cries Elizabeth Costello at the close of J.M. Coetzee’s The Lives of Animals (1999). An author and animal advocate, Costello cannot reconcile how the atrocities of factory farming that keep her awake at night do not likewise haunt her peers. When picking up the character again over two decades later in The Pole and Other Stories (2023), Coetzee presents Costello in the grips of early dementia, which has brought her into even greater communion with the suffering of animals. As she discloses to her son, “I can’t put the image out of my mind, John.",
       "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
+      "publish": true
+    },
+    {
+      "title": "Teaching Trans Literature (DEADLINE EXTENDED)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Pedagogy",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/30/teaching-trans-literature",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-11",
+      "eventDate": "2027-03-06",
+      "location": "Alice Rutkowski/ NeMLA",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Pedagogy"
+      ],
+      "excerpt": "NeMLA annual conference: March 6-9, 2027, Newport Rhode Island. Panel is IN-PERSON https://www.nemla.org/convention.html",
+      "fullDescription": "NeMLA annual conference: March 6-9, 2027, Newport Rhode Island. Panel is IN-PERSON https://www.nemla.org/convention.html",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
+      "publish": true
+    },
+    {
+      "title": "NeMLA 2027: Fight Back Like 77: 50 Years of Punk",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/nemla-2027-fight-back-like-77-50-years-of-punk",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-11",
+      "eventDate": "2027-03-06",
+      "location": "Northeastern Modern Language Association",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "NEW DEADLINE: October 11, 2026 by 11:59pm Panel Chair: Noah Gallego, M.A. Contact: noahrgallego@gmail.com Dates: March 6 - 9, 2027 Location: Salve Regina University, Newport, Rhode Island While the exact calendrical origin of punk rock is nebulous, many credit 1977 as year zero.",
+      "fullDescription": "NEW DEADLINE: October 11, 2026 by 11:59pm Panel Chair: Noah Gallego, M.A. Contact: noahrgallego@gmail.com Dates: March 6 - 9, 2027 Location: Salve Regina University, Newport, Rhode Island While the exact calendrical origin of punk rock is nebulous, many credit 1977 as year zero.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -1801,30 +1771,6 @@
       "excerpt": "We are currently inviting abstracts for an upcoming Special Issue on “Reparation in Sinophone Literatures”. We are delighted that this issue will be guest-edited by Dr Tammy Lai-Ming Ho, Editor-in-Chief of Cha: An Asian Literary Journal , Honorary Researcher at the Richard Charles Lee Canada-Hong Kong Library at the University of Toronto, and former Senio...",
       "fullDescription": "We are currently inviting abstracts for an upcoming Special Issue on “Reparation in Sinophone Literatures”. We are delighted that this issue will be guest-edited by Dr Tammy Lai-Ming Ho, Editor-in-Chief of Cha: An Asian Literary Journal , Honorary Researcher at the Richard Charles Lee Canada-Hong Kong Library at the University of Toronto, and former Senior Fellow at the Käte Hamburger Centre for Cultural Practices of Reparation (CURE), Saarland University. The deadline for abstracts for this Special Issue is 15 October 2026, while full papers are expected by 28 February 2027. Call for Papers",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication.",
-      "publish": true
-    },
-    {
-      "title": "Call for chapter proposals - Edited book on Nicole Garcia",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50265",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-15",
-      "eventDate": "2027-10-15",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Publication"
-      ],
-      "excerpt": "Edited volume proposed for Manchester University Press's French Film Directors series I am seeking two additional contributors for an edited volume devoted to the work of French filmmaker Nicole Garcia, currently in preparation for submission to Manchester University Press's French Film Directors series. The series editors have already expressed strong in...",
-      "fullDescription": "Edited volume proposed for Manchester University Press's French Film Directors series I am seeking two additional contributors for an edited volume devoted to the work of French filmmaker Nicole Garcia, currently in preparation for submission to Manchester University Press's French Film Directors series. The series editors have already expressed strong interest in the project. Although Garcia has established one of the most distinctive bodies of work in contemporary French cinema-spanning more than three decades and including films such as Place Vend&ocirc;me (1998), L'Adversaire (2002), Selon Charlie (2006), Un balcon sur la mer (2010), Mal de pierres (2016), and Amants (2020)-her work as a director has received relatively little sustained scholarly attention in either French or English. This volume aims to provide the first comprehensive critical study of Garcia's filmmaking, bringing together scholars from film studies and related disciplines to explore the aesthetic, narrative, thematic, cultural, and institutional dimensions of her work. The project seeks to examine Garcia's cinema through a range of critical and methodological perspectives, combining close analyses of individual films with broader discussions of the contexts in which her work has been produced and received. Contributions informed by interdisciplinary approaches are particularly welcome. Possible areas of inquiry Proposals may address, but are not limited to, the following topics: -Aesthetic and formal strategies: mise-en-sc&egrave;ne, spatial construction, narrative ellipsis, secrecy, and revelation. -Genre and narrative form: melodrama, romantic narratives, psychological drama, and narrative complexity. -Adaptation and screenwriting: literary adaptation, intermediality, and processes of cinematic creation. -Gender and subjectivity: female desire, intimacy, ambivalence, vulnerability, and representations of femininity. -Performance and authorship: Garcia's trajectory from actress to filmmaker, her direction of actors, and her engagement with stardom. -Social relations and identities: masculinity, class, family relationships, and bourgeois social worlds. -Memory and temporality: nostalgia, personal and collective memory, displacement, and the relationship between past and present. -Industrial and institutional contexts: production and funding structures, festival circulation, and the position of women directors within the French film industry. -Comparative and interdisciplinary approaches: connections with other filmmakers, European art cinema, literature, gender studies, memory studies, cultural studies, and related fields. Contributors are welcome to focus on one or more individual films, provided their analyses engage with the broader concerns of the volume. Comparative approaches are also encouraged, with Garcia's directorial work remaining central to the discussion. The volume seeks not only to foreground Garcia's contribution as a filmmaker but also to use her work as a lens through which to explore broader questions of authorship, gender, cinematic form, and the cultural economy of contemporary French cinema. Submission guidelines The volume is expected to comprise approximately 10-12 chapters of 6,000-7,000 words each. Prospective contributors are invited to submit an abstract of approximately 500 words, clearly outlining the proposed chapter's central argument, theoretical or methodological framework, and the specific aspects of Garcia's cinema it will examine. Submissions should also include: -Full name and current institutional affiliation; -Contact information; -A short biographical note. Deadline for abstracts: October 15, 2026 Please submit your proposal using the following link: https://www.dropbox.com/request/ykp0stxbqk5dhsjnhl7m The book proposal is scheduled for submission to Manchester University Press in fall 2026. The deadline for completed chapters will be communicated once the publication timetable has been established, and contributors will be given sufficient time to prepare their manuscripts. Scholars at all career stages, including early-career researchers, are warmly encouraged to submit proposals. Editor and contact Dr Romain Chareyron (roc104@usask.ca) Associate Professor of French Department of Languages, Literatures and Cultural Studies University of Saskatchewan, Canada",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
       "publish": true
     },
     {
@@ -2907,30 +2853,6 @@
       "publish": true
     },
     {
-      "title": "Call for papers | Diffractions Issue 13 | The Aesthetics of Mythmaking: Narrative, Culture, and Power?",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50248",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-31",
-      "eventDate": "2027-10-31",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Call for papers | Diffractions Issue 13 | The Aesthetics of Mythmaking: Narrative, Culture, and Power? Deadline for Abstracts: October 31st 2026 Deadline for Papers: January 31st 2027 Editors-in-Chief: Alyse Kaweng Fan, Thales Reis Alecrim? Call for papers | The Aesthetics of Mythmaking: Narrative, Culture, and Power \"We are mythmaking creatures\" (Ware 20...",
-      "fullDescription": "Call for papers | Diffractions Issue 13 | The Aesthetics of Mythmaking: Narrative, Culture, and Power? Deadline for Abstracts: October 31st 2026 Deadline for Papers: January 31st 2027 Editors-in-Chief: Alyse Kaweng Fan, Thales Reis Alecrim? Call for papers | The Aesthetics of Mythmaking: Narrative, Culture, and Power \"We are mythmaking creatures\" (Ware 2025); human beings make and reinterpret myths. Mythmaking has remained a living action of the human cultural process since the earliest stage of human history. Myths are not static stories that stay unchanged across time; that is why agency and acts of mythmaking are powerful. Through mythmaking, inherited stories are continually adapted and reinterpreted to reflect changing cultural values and historical circumstances. Consequently, myth also assumes the form of a spectacle and ideology that must be critically examined; it often serves to naturalise or essentialise instances of domination, transforming contingent political agendas into \"universal\" truths. This call for papers values both the aesthetic brilliance of mythmaking in the arts and popular culture and the rigor critique of its ideological utility as a tool for hegemony. The inherent ambiguity of myth as both a meaning-making tool and a mechanism of control invites further scholarly exploration. We therefore seek to gather diverse perspectives on how these creative processes function across human experience, inviting interdisciplinary submissions that weave together multifaceted theories of myth and mythmaking.?? Even the same myth can be retold in radically different ways. For Romantic poet Percy Bysshe Shelley, the reinvented myth of Ozymandias represents a meditation on antiquity and the transience of glory. More than a century later, when Alan Moore rewrote Ozymandias in Watchmen, Shelley's ruined king was transformed into a morally ambiguous antagonist with the ambition to construct a new global saviour myth capable of uniting humanity. Moore's self-fashioned Ozymandias also evokes the myth of Superman, a figure that can be traced to Friedrich Nietzsche's concept (1883) of &Uuml;bermensch (beyond-human). From Nietzschean philosophical ideal of self-overcoming, the Superman later takes forms in different myths: George Bernard Shaw's play and most famously in Jerry Siegel and Joe Shuster's comics, where Superman represents the experiences and aspirations of Jewish immigrant communities before being incorporated into American national mythology during WWII and the Cold War. Superman mythmaking also transcended across the Pacific. In postwar Japan, superhumans like Astro-Boy and Ultraman reconstructed the archetype into social recovery and national renewal in the aftermath of atomic destruction. These examples show that mythmaking reinvents cultural symbols into new stories in response to political realities and collective memory. While myths are traditionally framed as archaic narratives of gods and heroes, modern scholars argue that the act of mythmaking can act as a mobilizing force in society and serves as a political power beyond its presence in art (Citton 2025; Josephson-Storm 2017). A political myth operates as a system of explanation, providing a cryptography through which the disconcerting chaos of contemporary facts is ordered and understood (Girardet 1987; Segal 2020). By offering an imaginary reading of a historical moment, myths restore intelligibility to a fractured world, manifesting in recurring structures like the nostalgia for a Golden Age or the yearning for a providential Saviour. However, this phenomenological reality of worldbuilding parallels Walter D. Mignolo's decolonial critique of \"enunciation,\" where the content of myth is disseminated by the enunciator who ultimately possesses power (2018, 144-145).?? Mythmaking is still an ongoing cultural process without a singular definition. In a way, its study can be viewed as a consequence of the emergence of anthropology, which, during the 19th century, inquired about the concept of myth. This was the work of, for example, E.B. Tylor and J.G. Frazer. Yet, they were not so concerned about the aesthetics of mythmaking, as they viewed it as a form of \"primitive knowledge\" that was the exact opposite of Western art and science. Across the 20th century, authors as diverse as Bronislaw Malinowski (1922), Ernst Cassirer (1946), Claude Lévi-Strauss (1978), Northrop Frye (1967), Carl Jung (1964), Joseph Campbell (2004), and Mircea Eliade (1954) have suggested a whole range of different and often conflictive definitions for this concept. They actively engaged with the knowledge traditions of anthropology, philosophy, history, comparative literature, and religion studies.? One compelling form of analyzing mythmaking emerged at the intersection of aesthetics, philosophy, politics, and critical theory during the 19th century. Reacting against Enlightenment rationalism, German Romantics and Idealists such as Schiller, Schelling, and Hegel called for a \"new mythology\" to heal the alienation between humanity and nature while birthing the philosophical myth of absence-the belief that modernity is uniquely \"mythless\" (Josephson-Storm 2017, 17-21). This tension is central to the work of Max Horkheimer and Theodor Adorno, who, echoing Max Weber, argued that the Enlightenment's \"disenchantment of the world\" sought to dispel myths through reason, yet ultimately revealed that \"enlightenment reverts to mythology\" (2016, xviii), as instrumental rationality facilitated the domination of human beings over one another. In this way, inquiring the aesthetics of mythmaking involves a critique of different areas of the socio-cultural construct, reaching the realms of narrative, culture, and power.?? Amidst these diverse intellectual traditions and definitions of mythmaking, this call invites contributions that explore mythmaking as an ongoing process of cultural translation, forms of exercising power, political representation, and artistic (re)creation. We are interested in examining how mythmaking is still continually making, remaking, and mobilising new meanings and identities across historical periods, cultural contexts, and media forms. Proposals for thematic articles in response to this call are welcome, including but not limited to the following topics: ? Mythmaking and memory retelling? ? Superstition, hagiographies, and religion stories?? ? Mythmaking in different culturalforms: films, comics, and music? ? Mythmaking and Nationmaking?? ? Mythmaking as Tools of (De)colonial Discourse?? ? Mythmaking and Identity: theInvention of Tradition and Self-making? ? Mythmaking and Imaginary?? ? Lived experience and Phenomenology of Mythmaking ? The Power of Mythmaking in Social and Political Contexts? ? Mysticism and Poetry? ? Myth and Mythmaking in Literature from Romanticism to Modernism? ? Mythopoesia? ? Women Writers/Poets and Feminist Revisionist Mythmaking? ? The Role of Mythmaking in Visual Arts? ? The Study of Mythography in Modern Culture? ? Mythic ecology? ? Mythmaking, Philosophy, and Science: from myth to reason? ? Mythmaking and Psychology (Jungian Psychology, Psychoanalysis, etc)? Submissions and review process Abstracts will be received and reviewed by the Diffractions editorial board who will decide on the pertinence of proposals for the upcoming issue. After submission, we will get in touch with the authors of accepted abstracts in order to invite them to submit a full article. However, this does not imply that these papers will be automatically published. Rather, they will go through a peer-review process that will determine whether papers are publishable with minor or major changes, or they do not fulfil the criteria for publication.? Please send abstracts of 150 to 250 words, and 5-8 keywords by October 31, 2026, to info. diffractions@gmail.com with the subject \"Diffractions 13\", followed by your last name.? The full papers should be submitted by January 31, 2026, through the journal's platform, using our Style Sheet: https://revistas.ucp. pt/index.php/diffractions/ about/submissions.? Every issue of Diffractions has a thematic focus but also contains special sections for non-thematic articles. If you are interested in submitting an article that is not related to the topic of this issue, please consult the general guidelines available on the Diffractions website at https://revistas.ucp.pt/ index.php/diffractions/about/ submissions. The submission and review process for non-thematic articles is the same as for the general thematic issue. All research areas of the humanities are welcome, and we accept contributions in English or Portuguese.? References: Adorno, Theodor W., and Max Horkheimer. 2016. Dialectic of Enlightenment: Philosophical Fragments. Verso.? Bell, Michael. 2015. \"Myth and Texts.\" In A History of Modernist Poetry, edited by Alex Davis and Lee. M. Jenkins. 46-67. Cambridge: Cambridge University?? Bell, Michael. 2016. \"An Analytic Note on Myth in Modernism: The Case of T.S. Eliot.\" In Religion and Myth in T.S. Eliot's Poetry, edited by Scott Freer and Micahel Bell. 65-76. Newcastle upon Tyne: Cambridge Scholars Publishing.? Campbell, Joseph. [1949] 2004. The Hero with a Thousand Faces. Princeton: Princeton University Press.? Cassirer, Ernst. 1946. Language and Myth. Harper & brothers.? Citton, Yves. 2025. Mythocracy: How Stories Shape Our Worlds. Verso Books.? Eliade, Mircea. 1954. Cosmos and History: The Myth of the Eternal Return, translated by Willard R. Trask. New York: Harper and Brothers.?? Frye, Northrop. 1967, \"Literature and Myth.\" Relations of Literary Study: Essays on Interdisciplinary Study, edited by James Thorpe. 27-54. New York: Modern Language Association.? Girardet, Raoul. 1987. Mitos e mitologias politicas. Companhia das Letras.? Josephson-Storm, Jason A. 2017. The Myth of Disenchantment: Magic, Modernity, and the Birth of the Human Sciences. University of Chicago Press.? Jung, C. G. 1956. \"Symbols of Transformation: An Analysis of the Prelude to a Case of Schizophrenia.\" In The Collected Works of C.G. Jung Volume 5, edited and translated by Gerhard Adler & R.F.C. Hull. New York: Bollingen Foundation Inc.? Keats, John. [1819] 1990. John Keats: The Major Works, edited by Elizabeth Cook. Oxford: Oxford University Press.?? Lévi-Strauss. 1978. Myth and Meaning. Toronto: University of Toronto Press.? Malinowski, Bronislaw. 1922. Argonauts of the Western Pacific. Routledge and Kegan Paul.? Mignolo, Walter D. 2018. On Decoloniality: Concepts, Analytics, Praxis. Durham and London: Duke University Press.? Segal, Robert A. 2020. Myth Analyzed. Routledge. Ware, Owen. 2025. \"We Are Mythmaking Creatures.\" OUPblog. Feburary 9, 2025. Accessed on 17 June 2026. https://blog.oup.com/ 2025/02/we-are-mythmaking- creatures/. Yeats, William Butler. 2001. \"A Coat\" and \"The Song of Wandering Aengus.\" In The Major Works of W.B. Yeats, edited by Edward Larrissy. Oxford: Oxford University Press.??",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "CFP: An Edited Collection on Faith No More (title tbc)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Fan Studies and Fandom",
@@ -3024,6 +2946,32 @@
       "publish": false
     },
     {
+      "title": "PEDAGOGY AT THE CEA ANNUAL CONFERENCE",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107633",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-01",
+      "eventDate": "2027-04-01",
+      "location": "College English Association (CEA)",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 70,
+      "fields": [
+        "Rhetoric",
+        "AI",
+        "Pedagogy",
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "CALL FOR PAPERS/PEDAGOGY COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 The rapid integration of Generative AI (GenAI) into higher education has disrupted the traditional landscapes of college composition and literary studies. Acts of human express...",
+      "fullDescription": "CALL FOR PAPERS/PEDAGOGY COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 The rapid integration of Generative AI (GenAI) into higher education has disrupted the traditional landscapes of college composition and literary studies. Acts of human expression—such as brainstorming, drafting, critical",
+      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, AI, Digital Humanities / Design, Pedagogy.",
+      "publish": true
+    },
+    {
       "title": "\"Animal Advocacy Nonfiction Film and Moving-Image Media\"",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -3045,31 +2993,6 @@
       "excerpt": "Nonfiction film and media have played a crucial role in advocating for animal welfare, rights and liberation. Although short videos and a number of documentaries were produced and distributed with activist purposes during the 1980s, it is during the so-called “documentary renaissance” of the early twenty-first century, together with the communicative adva...",
       "fullDescription": "Nonfiction film and media have played a crucial role in advocating for animal welfare, rights and liberation. Although short videos and a number of documentaries were produced and distributed with activist purposes during the 1980s, it is during the so-called “documentary renaissance” of the early twenty-first century, together with the communicative advances of digital media, that nonfiction moving images emerged as a medium capable of reaching more mainstream audiences, becoming a central cultural tool for instigating transformative change in humans’ speciesist practices and attitudes toward nonhuman animals.",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "PEDAGOGY AT THE CEA ANNUAL CONFERENCE",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107633",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-04-01",
-      "location": "College English Association (CEA)",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 58,
-      "fields": [
-        "Rhetoric",
-        "AI",
-        "Pedagogy"
-      ],
-      "excerpt": "CALL FOR PAPERS/PEDAGOGY COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 The rapid integration of Generative AI (GenAI) into higher education has disrupted the traditional landscapes of college composition and literary studies. Acts of human express...",
-      "fullDescription": "CALL FOR PAPERS/PEDAGOGY COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 The rapid integration of Generative AI (GenAI) into higher education has disrupted the traditional landscapes of college composition and literary studies. Acts of human expression—such as brainstorming, drafting, critical",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, AI, Pedagogy.",
       "publish": true
     },
     {
@@ -3213,6 +3136,32 @@
       "excerpt": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of “Gateways” and their significance in literatur...",
       "fullDescription": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of “Gateways” and their significance in literature, criticism, and pedagogy.",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Pedagogy.",
+      "publish": true
+    },
+    {
+      "title": "International Symposium: The Embodiment of Trauma in Artistic Practices",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50373",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-01",
+      "eventDate": "2027-02-24",
+      "location": "· Nordic Summer University",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Digital Humanities / Design",
+        "Art / Media Practice",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Call for contributions: International Symposium organized by Nordic Summer University February 24-26, 2027 - Vilnius, Lithuania in collaboration with the Center for Psychotraumatology at Vilnius University,Performative Design Association, Luna16 Community Resource Center & Feminist Art Space ASABA The winter symposium of our NSU study circle is centered o...",
+      "fullDescription": "Call for contributions: International Symposium organized by Nordic Summer University February 24-26, 2027 - Vilnius, Lithuania in collaboration with the Center for Psychotraumatology at Vilnius University,Performative Design Association, Luna16 Community Resource Center & Feminist Art Space ASABA The winter symposium of our NSU study circle is centered on trauma as an embodied and contested concept, and artistic practices as forms of knowledge production. We are particularly interested in how art engages with experiences of trauma beyond representation, and how bodies carry, transmit, remember, resist, and transform individual and collective histories. Theme: The Embodiment of Trauma in Artistic Practices Contemporary art has become an important site for exploring the embodiment of memory, violence, displacement, ecological loss, and collective histories. Across practices, artists increasingly investigate experiences that exceed language and resist fixed interpretation. Rather than merely representing trauma, these practices generate new ways of sensing, remembering, witnessing, resisting, and imagining together. The symposium approaches trauma as a contested concept. While informed by contemporary research in psychology, and neuroscience, it recognizes that no single discipline can fully account for how trauma is lived, embodied, remembered, or transmitted. Clinical and diagnostic frameworks have significantly contributed to understanding traumatic experiences, yet they also exist within broader institutional, political, and economic systems that shape whose suffering becomes visible, whose experiences are legitimized, and which forms of care are recognized. At a moment when concepts such as healing, resilience, and post-traumatic growth are increasingly mobilized within cultures of productivity, self-optimization, and return to normative functioning, the symposium asks what artistic practice can offer beyond narratives of repair. Questions that explore this inquiry include: ? How does trauma become embodied, and what can artistic practices reveal about this relationship? ? How are trauma, memory, and embodiment shaped by colonization, occupation, war, displacement, ecological crisis, extraction, systemic oppression, interpersonal violence, and intergenerational histories? ? How can artistic practices create spaces for mourning, care, resistance, coexistence, and collective imagination beyond dominant narratives of healing and self-optimization? ? What forms of knowledge emerge through movement, performance, ritual, material practices, sound, image, and other embodied forms? ? How can art challenge dominant narratives of pathology and create alternative ways of living with difficult histories? - Call for contributions We invite artists, researchers, filmmakers, performers, scholars, activists, body practitioners, communities of care, psychologists, and people with lived experience to enrich our dialogue. A diversity of formats is welcome and we highly encourage practice-based forms to present and share research. These include: community-based workshops, body movement practices, moving image, sound, socially engaged practices, walks, and experimental or hybrid formats. We particularly welcome perspectives emerging from marginalized, feminist, queer, diasporic, disabled, and community-based practices. Submit to: decolonialstudycircle@gmail.com Title; Format description; Abstract (max. 250 words); Bionote (max. 100 words). Participation & Registration Participation is only in person for participants residing in Europe. Participants outside Europe may present online with a reduced &euro;50 NSU membership fee. ? &euro;60 - Reduced-rate fee (50 euros membership towards NSU, 10 euros towards our study circle)* ? &euro;150 - Standard fee (100 euros membership towards NSU, 50 euros towards our study circle)** ? &euro;250 - Supporting membership (150 euros membership towards NSU, 100 euros towards our study circle)*** *The reduced-rate fee is for individuals with an annual income below &euro;25,000, as well as students, early-career researchers, retired, unemployed, working in precarious or low- income circumstances. **The standard fee is for individuals with an annual income between &euro;25,000 and &euro;50,000. ***The supporting membership fee is for individuals with an annual income above &euro;50,000, as well as institutions or individuals whose membership is funded by their institution, employer, or research grant. Part of the funds from our study circle will go towards printing a participatory glossary on trauma. Key dates Submission deadline: November 1, 2026, 23:59 AoE (Anywhere on Earth). Notification of acceptance: November 15, 2026. Symposium dates: 24-26 February, 2027. Read the full call here: https://www.nsuweb.org/circle-3-re-configuring-colonialities-reforging-knowledges-healing-trauma-and-re-imagining-digital-futures/ Can't join us in person? Contribute a question. If the theme resonates with you but you're unable to attend, we invite you to submit a question for the roundtable discussion. The roundtable will bring together psychologists, researchers, artists, and community-based practitioners, and is open to a range of topics. The roundtable will be broadcasted and recorded. Submit a question here: https://docs.google.com/forms/d/e/1FAIpQLScA6ahZH8bFdT3HzhjEBHXtZmsMiXTTMjwe1WOqVwiP4xkdmw/viewform",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design, Art / Media Practice.",
       "publish": true
     },
     {
@@ -4027,6 +3976,30 @@
       "publish": true
     },
     {
+      "title": "Living with the Wild: Wildlife, Civilization, and the Trouble of Coexistence",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50394",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-30",
+      "eventDate": "2027-03-01",
+      "location": "University of Catania",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Living with the Wild: Wildlife, Civilization, and the Trouble of Coexistence University of Catania, 1-3 March 2027 Abstract deadline: 30 November 2026 The final conference of the WILD-CONNECT project, Wildlife Circulation and the Enactment of Civilization in Diachronic Perspective, invites contributions exploring how relations between the \"wild\" and the \"...",
+      "fullDescription": "Living with the Wild: Wildlife, Civilization, and the Trouble of Coexistence University of Catania, 1-3 March 2027 Abstract deadline: 30 November 2026 The final conference of the WILD-CONNECT project, Wildlife Circulation and the Enactment of Civilization in Diachronic Perspective, invites contributions exploring how relations between the \"wild\" and the \"civilized\" have been shaped across historical, political, and cultural contexts. The conference approaches these categories as historically produced and mutually constitutive, and examines how their boundaries are continually renegotiated through institutions, practices, imaginaries, and material forms of life. We welcome contributions from anthropology, history, political ecology, environmental humanities, and related fields addressing wildlife circulation, control, transformation, and reintroduction, as well as the interconnected processes of dewilding and rewilding. Possible topics include domestication, conservation and ecological restoration; colonial and postcolonial wildlife governance; sovereignty, borders and wildlife circulation; everyday encounters with wildlife; scientific, legal and economic classifications of living beings; and the unintended consequences and limits of wildlife governance. The conference will feature keynote contributions by Vanessa Manceron (CNRS), Marcy Norton (University of Pennsylvania), and Erik G&oacute;mez-Baggethun (Norwegian University of Life Sciences). Accepted papers will be circulated among participants in advance, and contributions presented at the conference will be considered for inclusion in a collective volume or a special issue of an international journal in environmental humanities. Living_with_the_Wild_Call Please submit: an abstract of 300-400 words; a short biographical note of 100-150 words; institutional affiliation, if any, and contact details. Submissions should be sent to mara.benadusi@unict.it and lorenzo.coccoli@unict.it. Deadline : 30 November 2026 Notification of acceptance : 2 January 2027",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "Call for Papers – Litera: Journal of Language, Literature and Culture Studies",
       "source": "CFPList",
       "sourceName": "CFPList: Communication Studies Search",
@@ -4217,6 +4190,29 @@
       "publish": true
     },
     {
+      "title": "STILL, A RACE FOR THEORY: THE INFUSIVE PRAXTICE OF BLACK AND BROWN POET-SCHOLARS",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: African American",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/07/still-a-race-for-theory-the-infusive-praxtice-of-black-and-brown-poet-scholars",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-07",
+      "eventDate": "",
+      "location": "Dr. Kendra N. Bryant Aya / BOMBS Publishing",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Theory"
+      ],
+      "excerpt": "In April 2026, I attended Shauna M. Morgan, Angel Dye, and Madison (Mocha) Hunter's College Language Association panel discussion: “Scripting Soul Work: The Infusive Praxis of Poet-Scholars.” In their talk, each panelist discussed—in prose like fashion—her relationship with her creative and scholarly self, and, in the spirit of Barbara Christian's 1987 “T...",
+      "fullDescription": "In April 2026, I attended Shauna M. Morgan, Angel Dye, and Madison (Mocha) Hunter's College Language Association panel discussion: “Scripting Soul Work: The Infusive Praxis of Poet-Scholars.” In their talk, each panelist discussed—in prose like fashion—her relationship with her creative and scholarly self, and, in the spirit of Barbara Christian's 1987 “The Race for Theory,” they argued the significance of creative writing to Black and brown folk scholarship and being, which they supported with a reading of their selected poetic works.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
+      "publish": true
+    },
+    {
       "title": "Public Humanities Projects",
       "source": "NEH",
       "sourceName": "National Endowment for the Humanities Grants",
@@ -4286,6 +4282,33 @@
       "excerpt": "Landmarks of American History and Culture and Summer Institutes for Higher Education Faculty is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
       "fullDescription": "Landmarks of American History and Culture and Summer Institutes for Higher Education Faculty is an NEH funding opportunity from Division of Lifelong Learning. NEH lists this under upcoming application deadlines.",
       "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Funding.",
+      "publish": true
+    },
+    {
+      "title": "One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecra",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/50407",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-10",
+      "eventDate": "2027-06-30",
+      "location": "N/A · N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Call for Chapters: One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft For thousands of years, embroidery and embroidered work have been used as a mode of visual storytelling and of documenting national or cultural histories. From the 12000 years-old fiber...",
+      "fullDescription": "Call for Chapters: One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft For thousands of years, embroidery and embroidered work have been used as a mode of visual storytelling and of documenting national or cultural histories. From the 12000 years-old fiberwork found in the Guitarrero Cave, to twine textile artwork of the Peruvian Norte Chico civilization of 2500 BCE, the thousands of years old Chinese silk thread embroidery, the decorative thread arts of the Indus Valley Civilization of 3000 BCE, the ancient Egyptian needlework of 1300 BCE, the Bayeux Tapestry of Norman conquest, and the thousands of years old embroidery and quilt work of the indigenous communities across the North and South Americas, human civilizations have woven and embroidered their histories and cultures and have archived everything for future generations. Embroidery has also functioned as a powerful trope of resistance narrative and rebellious vision. Marjorie Agos&iacute;n's iconic book, Tapestries of Hope recounts how Chilean women used embroidery and textile art as tools of resistance and rebellion during Pinochet's dictatorship. More recently, Kirstie McLeod's collaborative project \"The Red Dress\" brings together the needlework, voices, and stories of 380 individuals from 51 countries. Collectively, their embroidered experiences on a single red dress, across a range of expertise, positions, and languages, testify to human rights concerns around the world. In the context of underprivileged women from the global South, embroidery and needlework have been a source of financial freedom and a platform for women's social bonding and personal expressions. For example, cottage industries in Bangladesh, India, and many other South and East Asian countries have mobilized economically impoverished women into an active workforce and have turned embroidery and needlework into a booming business. In literature and media, embroidered works also provide intense narrative power. Adrienne Rich's \"Aunt Jennifer's Tigers\" and Rosa del Valle's tablecloth in Isabel Allende's The House of the Spirits, are two such examples. Embroidery has provided a pertinent motif for re-presenting folklore, myth, and collective memory in many countries, such as Bangladesh and India, where women's acts of illustrating folklores, personal loss and pain in quilts or narrating the mythical stories of the Ramayana and the Mahabharata through needlework are an essential part of their national and cultural history. Textile arts, embroidery and needlework function as narrative technologies that initiate individual, social, and political involvement. It invokes memory and provokes individuals to make or break myths regarding nation, narration, gender, identity, and/or human existence in the age of artificial intelligence. Against this extensive backdrop of embroidery as a narrative technology, we invite abstracts for a collection tentatively titled One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft. Tentative topic list for the paper (but is not limited to): Archiving history through embroidery Embroidery as narrative technology Embroidery as a trope of Agency and/or Identity Embroidery as a narrative of political resistance Embroidery as Storytelling Embroidery and human rights or social justice Embroidery and activism Embroidery and/in literature Embroidery and/as cultural identity Embroidery and/as visual narrative Embroidery and ecocriticism Myth, memory, and embroidery Retelling myth and re-presenting identity Women and embroidery Please send us your 150 words abstract with 3 key words and a 50-word bio by December 10, 2026. If accepted, we will request for the completed essay (minimum of 7000 words) by June 30, 2027. The anthology is expected to be published by a university press in the US. Looking forward to receiving your abstract at fayeza.hasanat@ucf.edu , cc farrah.cato@ucf.edu Sincerely, Dr. Fayeza Hasanat and Dr. Farrah Cato English Department University of Central Florida",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -4968,6 +4991,31 @@
       "excerpt": "The Journal for the New Narratives in the History of Philosophy (JNNHP) invites submissions for its special on Derrick Bell and the History of Africana Philosophy, to be published in Fall 2027. Derrick Bell, the founder of Critical Race Theory, produced one of the most innovative, insightful, and transformative ideas in the 20th century. His philosophical...",
       "fullDescription": "The Journal for the New Narratives in the History of Philosophy (JNNHP) invites submissions for its special on Derrick Bell and the History of Africana Philosophy, to be published in Fall 2027. Derrick Bell, the founder of Critical Race Theory, produced one of the most innovative, insightful, and transformative ideas in the 20th century. His philosophical insights continue to challenge how western liberal nations contend with questions of civil rights, human rights, immigration, policing, and education. Recent conservative attacks focused on Critical Race Theory (CRT) in the U.S, Canada, and England assert, albeit erroneously, that CRT is a Marxist and communist ideology that seeks to supplant western values and the ethos of liberal democracy. Contrary to these fallacious attacks, Bell's textbook Race, Racism, and American Law is amongst the first law textbooks to give a comprehensive view of how racism shaped the development of American law and race relations. In this regard, CRT draws heavily on a tradition of Africana philosophy from slavery through the 20th century. It challenges, not only the supposed neutrality of U.S. law, but also the universality of western political ideals, and U.S. law as egalitarian. For example, Bell engaged Frederick Douglass's critiques of natural law theorists and abolitionists who read the American Constitution as a slave document. For Douglass, the Constitution is an economic contract that robs slaves of their labour and property rights. Drawing on Douglass' critique, Bell interrogated how economic interests have structured American law as an instrument for white class interests over Black claims for justice from slavery through the 20th century. Similarly, Bell engaged W.E.B DuBois's reading of American democracy that underscored how U.S. law in the 13 colonies suppressed African revolts while upholding slavery. Such legal resistance to African acts of liberation, Dubois argued, created paradoxes for American democracy and shaped how the legal system understood the Black freedom struggle. Following Dubois' analysis, Bell explored how the law is an ineffective tool for racial remediation when it comes to addressing social injustices that confront Black life. Bell also engaged Malcolm X's critiques of the Reconstruction era civil rights and 1960 civil rights amendments as pyrrhic victories. This inspired Bell to think about how civil rights function as symbolic victories while ensuring racism is a permanent fixture of American democracy. Given Bell's extensive engagement with 18th-20th century Africana philosophy, this special seeks to consider Bell's work within Africana philosophy. As such, the special welcomes essays that focus on Bell's work as philosophical historiography and inquiry into Black life and its relation to democracy as part of the long tradition of Africana philosophy. The special seeks contributions that address the following themes: Derrick Bell as a philosopher of Black history. Derrick Bell as a philosopher of Black legal theory. Derrick Bell and the Black Nationalist and the Black Radical Tradition. Derrick Bell as a philosopher of Black Education. Derrick Bell as a philosopher of contemporary society and issue of civil rights. Essays must be submitted to https://journal.lib.uoguelph.ca/index.php/nnhp/about/submissions Deadline for Essay Submission: January 7th, 2027. Papers will be considered after January 7th, 2027. The Co-lead Guest Editors for this Special are Drs. Dalitso Ruwe (Queens University), Adebayo Oluwayomi (West Chester University), Andrew Soto (Hartnell College). For questions about the Special, please contact: derrickbellspecial@gmail.com JNNHP is an open-access online journal committed to publishing papers on underrepresented figures or themes in the history of philosophy, both Western and non-Western traditions, from the ancient period to the mid-20th century. JNNHP accepts papers in English and French. Papers should be no more than 10000 words. JNNHP also seeks to highlight relevant translations, archival work or new editions of primary texts in progress. We will publish selections from such works, with critical notes and contextual introductions.",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory, Publication.",
+      "publish": true
+    },
+    {
+      "title": "Affective Worlds: Emotions and Aesthetics in Afro-Descendant Women’s Writing International Conference",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50405",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-10",
+      "eventDate": "2027-05-24",
+      "location": "Vrije Universiteit Brussel (Brussels, Belgium) · Vrije Universiteit Brussel",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Interdisciplinary",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "CALL FOR PAPERS Affective Worlds: Emotions and Aesthetics in Afro-Descendant Women's Writing International Conference 24-25 May 2027, Vrije Universiteit Brussel (Belgium) Format: in person Language: English Link to the CfP : https://clic.research.vub.be/afropemotions-international-conference The conference explores the role of affect, emotions, and aesthe...",
+      "fullDescription": "CALL FOR PAPERS Affective Worlds: Emotions and Aesthetics in Afro-Descendant Women's Writing International Conference 24-25 May 2027, Vrije Universiteit Brussel (Belgium) Format: in person Language: English Link to the CfP : https://clic.research.vub.be/afropemotions-international-conference The conference explores the role of affect, emotions, and aesthetics in the rich and diverse body of work published in the twentieth and twenty-first centuries by women writers of African heritage from African, European, Caribbean, and other diasporic contexts. The event examines how affect and emotions shape both the sociopolitical dimensions of Afro-descendant women's literature and its narrative and aesthetic practices across multiple linguistic, cultural, and historical contexts and through fiction, poetry, and drama. By often exploring issues of displacement, marginalisation, systemic oppression, colonial legacies, trauma, cultural memory, and environmental change, Afro-descendant women authors present affect as a site of self-awareness, resistance, community formation, and political imagination, while articulating it through narrative form, language, imagery, and other aesthetic strategies. The conference brings together established and early-career researchers working at the intersection of different fields, including affect studies, African and African diasporic literary studies, comparative literary studies, feminist and queer studies, postcolonial and decolonial studies, trauma and cultural memory studies, and the environmental humanities. While acknowledging theoretical distinctions between affect and emotion, particularly those developed in affect theory by scholars such as Tomkins (1962) and Massumi (2002), the conference welcomes literary criticism informed by diverse affective frameworks, such as cognitive and narratological perspectives on affect (e.g. Hogan 2003, 2011), sociopolitical approaches to affect and emotions (e.g. Ahmed 2004; Berlant 2011), and affective ecocriticism (e.g. Bladow and Ladino 2018). We invite papers exploring affect and emotions in Afro-descendant women's literature written in English, French, German, Italian, or other languages. Topics may include but are not limited to: Affective relations, transnational belonging, and diasporic identities Migration, displacement, and affective literary geographies Affect and gender, race, class, and sexuality Queer affects Affect, narrative form, and aesthetics Affect, language, multilingualism, and translation Emotions, trauma, and memory Collective affect, solidarity, and community formation Eco-emotions and environmental change Emotional responses to injustice, inequality, and systemic oppression Affect, embodiment, and resistance SUBMISSION GUIDELINES Please send proposals for 20-minute papers in English to Dr. Isabella Villanova (Isabella.Villanova@vub.be) and Prof. dr. Elisabeth Bekers (Elisabeth.Bekers@vub.be). Proposals should include: an abstract (max. 250 words), with up to 5 references, preferably in Chicago style; 5 keywords; a short biographical note (max. 100 words) Deadline for Proposal Submissions: 10 January 2027 Notification of Acceptance: 10 February 2027 Selected papers may be considered for publication in a special journal issue. Keynote: Prof. dr. Caroline Kögler (Freie Universität Berlin, Germany) Special Guest: Italo-Somali writer Ubah Cristina Ali Farah",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
