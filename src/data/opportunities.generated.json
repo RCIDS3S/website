@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,7 +8,7 @@
   "sourceSummary": [
     {
       "source": "CFPList: Digital Humanities",
-      "count": 23
+      "count": 22
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
@@ -16,7 +16,7 @@
     },
     {
       "source": "CFPList: Rhetoric & Composition",
-      "count": 19
+      "count": 20
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -44,7 +44,7 @@
     },
     {
       "source": "CFPList: Pedagogy",
-      "count": 9
+      "count": 10
     },
     {
       "source": "UPenn CFP: Fan Studies and Fandom",
@@ -79,11 +79,11 @@
       "count": 5
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 4
+      "source": "UPenn CFP: Modernist Studies",
+      "count": 5
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 4
     },
     {
@@ -107,6 +107,10 @@
       "count": 2
     },
     {
+      "source": "CFPList: Philosophy",
+      "count": 2
+    },
+    {
       "source": "UPenn CFP: Gender and Sexuality",
       "count": 1
     },
@@ -116,10 +120,6 @@
     },
     {
       "source": "UPenn CFP: Ecocriticism and Environmental Studies",
-      "count": 1
-    },
-    {
-      "source": "CFPList",
       "count": 1
     },
     {
@@ -135,7 +135,7 @@
       "count": 1
     },
     {
-      "source": "CFPList: Philosophy",
+      "source": "CFPList",
       "count": 1
     },
     {
@@ -155,7 +155,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -179,7 +179,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -203,7 +203,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -227,7 +227,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -252,7 +252,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50192",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "Zadar · University of Zadar",
       "status": "open",
@@ -276,7 +276,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50082",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "· American Comparative Literature Association",
       "status": "open",
@@ -294,38 +294,13 @@
       "publish": true
     },
     {
-      "title": "College English Association Annual Conference",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50109",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, MO · College English Association/CEA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy",
-        "Interdisciplinary"
-      ],
-      "excerpt": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature,...",
-      "fullDescription": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature, criticism, and pedagogy. we also encourage proposals on GENERAL TOPICS, including AMERICAN, BRITISH, AND WORLD LITERATURES. DON'T KNOW CEA? YOU SHOULD! In December 1938, a group of young academics attending the MLA convention in New York took on the biggest name in their field-the MLA. They chose to forge a new path by organizing into the College English Association and offering a voice to \"the college English teachers of America.\" Their aim was to upend the scholar-teacher dynamic by recognizing teaching as paramount. Today, more than eight decades later, the CEA continues in that same spirit. At our core, we strive to meet these goals through two venues: our Annual CEA Conference and our journal, The CEA Critic. With over 400 active members and a collection of regional affiliates, the CEA welcomes teacher-scholars at all levels-from graduate students to emeritus faculty-who share our belief that teaching is central to who we are and what we do. CEA WELCOMES GRADUATE STUDENTS As always, the CEA extends a special invite to students pursuing a graduate degree, not only to attend the conference but to submit their presentations to the CEA Outstanding Graduate Student Paper competition. The award carries a grand prize of $250 and publication of the winning essay in the CEA's flagship journal, THE CEA CRITIC. NEW FOR 2027:UNDERGRADUATE ROUNDTABLES CEA invites undergraduates to enjoy the conference experience by sharing their work in flash-essay roundtable sessions. A flash essay is a highly condensed, high-impact presentation (typically 300-1000 words, or 2-5 minutes) that delivers core research findings, a specific argument, or a compelling narrative. During roundtable sessions, the speakers and audience engage in discussion with each other in more of an open conversation than in traditional panels. Learn more about roundtables here: https://cea-web.org/about-roundtables. LEARN MORE: https://cea-web.org/cea-2027-%2F-st-louis",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "Deadline Extended -- Silences as Resistance in Public Narratives",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
       "sourceUrl": "https://www.cfplist.com/CFP/50429",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Providence, RI · NeMLA (Northeast Modern Language Association)",
       "status": "open",
@@ -344,38 +319,13 @@
       "publish": true
     },
     {
-      "title": "Call for (self-)nomination for BPCS Committee 2026/27",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50311",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
-      "eventDate": "2026-10-20",
-      "location": "N/A · British Association for Chinese Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Rhetoric",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Affiliated with the British Association for Chinese Studies (BACS), the British Postgraduate Network for Chinese Studies (BPCS) is an academic network for postgraduate students and early-career researchers in Chinese Studies in the UK. With over 1,000 members, BPCS is one of the largest postgraduate organisations for Chinese Studies in the UK. We actively...",
-      "fullDescription": "Affiliated with the British Association for Chinese Studies (BACS), the British Postgraduate Network for Chinese Studies (BPCS) is an academic network for postgraduate students and early-career researchers in Chinese Studies in the UK. With over 1,000 members, BPCS is one of the largest postgraduate organisations for Chinese Studies in the UK. We actively promote Chinese Studies by organising annual conferences, seminars, career events, and other academic and professional activities. We also aim to serve as a key source of information on developments in Chinese Studies across the UK and to give members opportunities to connect with peers in their fields. Available Positions We are currently inviting nominations for three committee positions: President: Provides executive leadership for BPCS activities, including the annual conference, and attends BACS meetings as a representative of the community. Internal Secretary: Works with the President to organise BPCS activities, particularly the annual conference, and assumes the responsibilities of the President in their absence. External Secretary: Edits and publishes the weekly newsletter, manages BPCS social media accounts and external communications, and works with the President and Internal Secretary to promote BPCS events and activities. We warmly invite you to nominate yourself for one of these positions. If you would like to nominate someone else, please feel free to share this email and the link https://forms.gle/4Fp34qN9pbwFnZEGA with them. Application Procedure Members are invited to nominate themselves or other candidates by completing the https://forms.gle/4Fp34qN9pbwFnZEGA by 04 October 2026. A confirmation email will be sent once we have received your nomination. We will finalise the list of nominees for each position shortly after the deadline, followed by an election. The results will be announced through the BPCS mailing list by October 2026, subject to the election results and confirmation from the successful candidates. The newly elected members will take office on 23 October 2026. Why Should You Consider Joining Us? Joining the BPCS Committee offers more than an opportunity to strengthen your professional experience. It allows you to become part of an academic community committed to advancing Chinese Studies in the UK. As a committee member, you will gain valuable networking and organisational experience, have opportunities to develop events related to your academic and professional interests, and contribute to initiatives that benefit the wider Chinese Studies community. Your participation will help ensure the continuation of the BPCS annual conference, newsletters, seminars, and other regular activities. We warmly encourage you to consider joining the BPCS Committee and helping to shape the future of our organisation. Together, we can build a supportive and collaborative community for Chinese Studies. We look forward to receiving your nominations and working together to further the study of Chinese culture and society in the UK.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "\"Frozen\" Cold War Narrative",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -401,7 +351,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50231",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-15",
       "location": "Virtual · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -424,7 +374,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -447,7 +397,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50190",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -471,7 +421,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50331",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-10-15",
       "location": "· Journal Global Human Rights",
       "status": "open",
@@ -496,7 +446,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -519,7 +469,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -536,13 +486,37 @@
       "publish": true
     },
     {
+      "title": "Call for (self-)nomination for BPCS Committee 2026/27",
+      "source": "CFPList",
+      "sourceName": "CFPList: Rhetoric & Composition",
+      "sourceUrl": "https://www.cfplist.com/CFP/50311",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-13",
+      "eventDate": "2026-10-20",
+      "location": "N/A · British Association for Chinese Studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Rhetoric",
+        "Theory"
+      ],
+      "excerpt": "Affiliated with the British Association for Chinese Studies (BACS), the British Postgraduate Network for Chinese Studies (BPCS) is an academic network for postgraduate students and early-career researchers in Chinese Studies in the UK. With over 1,000 members, BPCS is one of the largest postgraduate organisations for Chinese Studies in the UK. We actively...",
+      "fullDescription": "Affiliated with the British Association for Chinese Studies (BACS), the British Postgraduate Network for Chinese Studies (BPCS) is an academic network for postgraduate students and early-career researchers in Chinese Studies in the UK. With over 1,000 members, BPCS is one of the largest postgraduate organisations for Chinese Studies in the UK. We actively promote Chinese Studies by organising annual conferences, seminars, career events, and other academic and professional activities. We also aim to serve as a key source of information on developments in Chinese Studies across the UK and to give members opportunities to connect with peers in their fields. Available Positions We are currently inviting nominations for three committee positions: President: Provides executive leadership for BPCS activities, including the annual conference, and attends BACS meetings as a representative of the community. Internal Secretary: Works with the President to organise BPCS activities, particularly the annual conference, and assumes the responsibilities of the President in their absence. External Secretary: Edits and publishes the weekly newsletter, manages BPCS social media accounts and external communications, and works with the President and Internal Secretary to promote BPCS events and activities. We warmly invite you to nominate yourself for one of these positions. If you would like to nominate someone else, please feel free to share this email and the link https://forms.gle/4Fp34qN9pbwFnZEGA with them. Application Procedure Members are invited to nominate themselves or other candidates by completing the https://forms.gle/4Fp34qN9pbwFnZEGA by 04 October 2026. A confirmation email will be sent once we have received your nomination. We will finalise the list of nominees for each position shortly after the deadline, followed by an election. The results will be announced through the BPCS mailing list by October 2026, subject to the election results and confirmation from the successful candidates. The newly elected members will take office on 23 October 2026. Why Should You Consider Joining Us? Joining the BPCS Committee offers more than an opportunity to strengthen your professional experience. It allows you to become part of an academic community committed to advancing Chinese Studies in the UK. As a committee member, you will gain valuable networking and organisational experience, have opportunities to develop events related to your academic and professional interests, and contribute to initiatives that benefit the wider Chinese Studies community. Your participation will help ensure the continuation of the BPCS annual conference, newsletters, seminars, and other regular activities. We warmly encourage you to consider joining the BPCS Committee and helping to shape the future of our organisation. Together, we can build a supportive and collaborative community for Chinese Studies. We look forward to receiving your nominations and working together to further the study of Chinese culture and society in the UK.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
+      "publish": true
+    },
+    {
       "title": "Thinking in Images: Visualization, Imagination, and Empathy in Reading",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -566,7 +540,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -589,7 +563,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -612,7 +586,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -635,7 +609,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49501",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "virtual · Modern Language Association",
       "status": "open",
@@ -652,37 +626,13 @@
       "publish": true
     },
     {
-      "title": "Extended deadline: EchoForum 2026 Conference: Disability as Radical Interdisciplinary Practice",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50291",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
-      "eventDate": "2026-11-26",
-      "location": "Sibiu, Romania · Lucian Blaga University of Sibiu",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "EchoForum 2026 Conference: Disability as Radical Interdisciplinary Practice 26-27 November 2026 Organised by: Lucian Blaga University of Sibiu NEW Submission deadline: 10 October 2026 Working languages: English, French, Romanian Confirmed Keynote Speakers: Jonathan Meth // Goldsmiths University of London Maria Bucur // Indiana University Petra Kuppers //...",
-      "fullDescription": "EchoForum 2026 Conference: Disability as Radical Interdisciplinary Practice 26-27 November 2026 Organised by: Lucian Blaga University of Sibiu NEW Submission deadline: 10 October 2026 Working languages: English, French, Romanian Confirmed Keynote Speakers: Jonathan Meth // Goldsmiths University of London Maria Bucur // Indiana University Petra Kuppers // University of Michigan EchoForum: Conceptual Framework Lucian Blaga University of Sibiu and the members of the EchoCamp project are delighted to extend an invitation to the upcoming conference on disability arts, EchoForum 2026: Disability as Radical Interdisciplinary Practice, taking place between November 26-27, 2026 , in Sibiu, Romania. EchoForum constitutes the research and dialogue component of EchoCamp, the first artistic camp dedicated to disability arts in Romania. Paying homage to Camp Jened and to other similar undertakings, EchoCamp aims to radically shape the way in which we think about the intersection of disability, arts, inclusion, and representation in the East-European cultural space. Hence, at its core, the EchoForum conference is conceived as an interdisciplinary crossroad. We believe that disability does not exist in a vacuum, but is shaped by politics of space, care, law, aesthetic frameworks, and broader social organization. Consequently, we seek to move beyond the siloed approach to disability studies, inviting a convergence of knowledge from across the humanities, social sciences, and professional practices. Therefore, we invite contributions that intersect across the following academic and professional domains: The Artistic and Media Humanities: Including Performing Arts, Visual Arts, Film and Media, Literature and Literary Studies, Theatre and Performance Studies, and the field of Artistic Research. The Social and Cultural Sciences: Including Sociology and Social Work, Anthropology, Cultural Studies, Critical Theory, Disability Studies, and the intersectional frameworks of Gender, Sexuality, and Queer Studies. Spatial and Infrastructural Studies: Including Architecture and Spatial Practices, Accessibility and Inclusive Design, and the fields of Curatorial Studies and Cultural Management and Policy. Health and Care Humanities: Including Healthcare/Health Humanities, Psychology, and Education/Pedagogy. Applied Practices and Advocacy: Including Community-based Practice, Political Activism, and Human Rights Advocacy. Since we believe that all knowledge is created equal, we welcome proposals from both academic and non-academic contexts. We invite contributions in a variety of formats: Theoretical and practice-based research (including work-in-progress and case studies). Artistic research and presentations of cultural practices or projects. Interdisciplinary panels and roundtable discussions. Hybrid formats, such as performance-lectures or workshops. We invite both individual and collective proposals. Abstracts may be submitted in English, French, or Romanian. However, presentations may be delivered only in English or Romanian. As a general guideline for programming and scheduling, we suggest a duration of 20 minutes for individual presentations. However, we emphasize that this timeframe is a suggestion and not a strict requirement. In alignment with our commitment to accessibility and inclusive practice, we recognize that different modes of communication, the use of assistive technologies, and various cognitive or physical needs may require alternative timing or pacing. We encourage applicants to propose a duration and format that best ensures their ability to present their work comfortably and effectively. Submit your proposal via the following online form: https://forms.gle/pyVsovHeu3yDkpDeA Practical Information Dates: 26-27 November 2026 Deadline: 10 October 2026 Notification of Acceptance: 15 October 2026 Venue: Lucian Blaga University of Sibiu, Sibiu, Romania Fees: No registration fee. Access: EchoCamp is committed to full accessibility. Please detail your requirements in the application form. EchoFestival: The Forum is followed by EchoFestival, the public programme featuring performances and artistic events. Selected contributors are warmly invited to stay and participate. Contact For questions or support with the application: echocamp2026@gmail.com We're looking forward to welcoming you to Sibiu! EchoForum is committed to accessibility in all its dimensions. We prioritize the voices of disabled artists, researchers, and practitioners and welcome your feedback on how to make this Forum truly inclusive.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "IX International Congress of Fantastic Genre, Audiovisuals and New Technologies",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -705,7 +655,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -728,7 +678,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48930",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-11-12",
       "location": "Seattle, WA · PAMLA",
       "status": "open",
@@ -751,7 +701,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48918",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · NeMLA",
       "status": "open",
@@ -774,7 +724,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -797,7 +747,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -823,7 +773,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -847,7 +797,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -870,7 +820,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -893,7 +843,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -916,7 +866,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48324",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-10-15",
       "location": "Glendon College, York University · Centre for Research on Language and Culture Contact",
       "status": "open",
@@ -940,7 +890,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -958,13 +908,37 @@
       "publish": false
     },
     {
+      "title": "College English Association Annual Conference",
+      "source": "CFPList",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50109",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-13",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, MO · College English Association/CEA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 20,
+      "fields": [
+        "Pedagogy",
+        "Interdisciplinary"
+      ],
+      "excerpt": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature,...",
+      "fullDescription": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature, criticism, and pedagogy. we also encourage proposals on GENERAL TOPICS, including AMERICAN, BRITISH, AND WORLD LITERATURES. DON'T KNOW CEA? YOU SHOULD! In December 1938, a group of young academics attending the MLA convention in New York took on the biggest name in their field-the MLA. They chose to forge a new path by organizing into the College English Association and offering a voice to \"the college English teachers of America.\" Their aim was to upend the scholar-teacher dynamic by recognizing teaching as paramount. Today, more than eight decades later, the CEA continues in that same spirit. At our core, we strive to meet these goals through two venues: our Annual CEA Conference and our journal, The CEA Critic. With over 400 active members and a collection of regional affiliates, the CEA welcomes teacher-scholars at all levels-from graduate students to emeritus faculty-who share our belief that teaching is central to who we are and what we do. CEA WELCOMES GRADUATE STUDENTS As always, the CEA extends a special invite to students pursuing a graduate degree, not only to attend the conference but to submit their presentations to the CEA Outstanding Graduate Student Paper competition. The award carries a grand prize of $250 and publication of the winning essay in the CEA's flagship journal, THE CEA CRITIC. NEW FOR 2027:UNDERGRADUATE ROUNDTABLES CEA invites undergraduates to enjoy the conference experience by sharing their work in flash-essay roundtable sessions. A flash essay is a highly condensed, high-impact presentation (typically 300-1000 words, or 2-5 minutes) that delivers core research findings, a specific argument, or a compelling narrative. During roundtable sessions, the speakers and audience engage in discussion with each other in more of an open conversation than in traditional panels. Learn more about roundtables here: https://cea-web.org/about-roundtables. LEARN MORE: https://cea-web.org/cea-2027-%2F-st-louis",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
+      "publish": false
+    },
+    {
       "title": "CFP 24º SBPJor",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -987,7 +961,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -1010,7 +984,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -1033,7 +1007,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -1056,7 +1030,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49340",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-11-09",
       "location": "V&A East Storehouse · British Association for American Studies",
       "status": "open",
@@ -1079,7 +1053,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -1102,7 +1076,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49395",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -1125,7 +1099,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48749",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-12",
+      "deadline": "2026-10-13",
       "eventDate": "2026-11-05",
       "location": "Chicago, IL · University of Chicago",
       "status": "open",
@@ -2588,29 +2562,6 @@
       "publish": true
     },
     {
-      "title": "THE RISE OF ASIA 100 YEARS AFTER LAI: Is the Imperialism Dying and a New World Order Emerging?",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50329",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-31",
-      "eventDate": "2027-02-17",
-      "location": "France · GRIC (Group of Research on Identities and Cultures), University Le Havre Normandy, France",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "THE RISE OF ASIA 100 YEARS AFTER LAI: Is the Imperialism Dying and a New World Order Emerging? INTERNATIONAL AND INTERDISCIPLINARY CONFERENCE Paris, February 17, 2027 Le Havre, February 18-19, 2027 https://bandungspirit.org/ CALL FOR ABSTRACTS AND FOR PARTICIPATION The conference is open to individual and group paper presentations. Those willing to presen...",
-      "fullDescription": "THE RISE OF ASIA 100 YEARS AFTER LAI: Is the Imperialism Dying and a New World Order Emerging? INTERNATIONAL AND INTERDISCIPLINARY CONFERENCE Paris, February 17, 2027 Le Havre, February 18-19, 2027 https://bandungspirit.org/ CALL FOR ABSTRACTS AND FOR PARTICIPATION The conference is open to individual and group paper presentations. Those willing to present their papers are invited to submit their abstracts until July 31, 2026 (for a possible publication in an edited volume to be launched during the conference) or October 31, 2026 (for a paper presentation in the conference). The notification of selected abstracts for publication or for presentation will be communicated to their authors progressively according to their availability. The earlier the abstracts are submitted, the sooner the authors will get notified. A certain number of selected abstracts may be published as an edited volume to be launched during the conference. The terms of reference is available at https://bandungspirit.org/IMG/pdf/the_rise_of_asia-2027-cfa-a-with-cover.pdf Abstracts of 200-300 words are to be submitted online at https://forms.gle/2F3dS1QrDNQTugUs8 OFFLINE AND ONLINE PARTICIPATION The conference will be organised offline (physically) with possible online (virtual) participation following the circumstances. The programme will be based on offline (physical) participants on Paris time zone. INTRODUCTION LAI (League against Imperialism and for National Independence) was not a conference, but an international organisation active from 1927 to 1937 bringing together communists, socialists, nationalists, trade unionists, and pacifists in order to coordinate their myriad 'assaults against empire'. Founded with the support of the Communist International, the LAI at its peak had a membership of several hundred people, from every inhabited continent, among them prominent interwar activists and future heads of state. The organization aspired both to become an international movement and to coordinate specific instances of mass struggle. It was inaugurated by the \"First Congress against Colonial Oppression and Imperialism\" in Palais d'Egmont Brussels on February 10-14,1927. Its initiator, Willi Münzenberg, a German communist and the chair of the Workers International Relief, invited many personalities from European and American Left and anti-colonial nationalists from the colonised world. The Brussels Congress was attended by 174 people representing 134 organizations from 34 countries. The list of attendees and organizations identifies delegates from the following places: the United States, Mexico, Cuba, Puerto Rico, Peru, Venezuela, 'Central America', Colombia, China, India, the 'Dutch East Indies' [Indonesia], Korea, 'Indo-China (Annam)', Persia, the Philippines, South Africa, 'West Africa' [Sierra Leone], 'North Africa' [Lamine Senghor, from Senegal, representing the Comité de Défense de la Race N&egrave;gre], Morocco, Algeria, Tunisia, Germany, England, France, Holland, Czechoslovakia, Austria, Italy, Syria, and Palestine. Among those present in Brussels were emissaries of the Chinese Kuomintang party in Europe, Jawaharlal Nehru of the Indian National Congress, accompanied by Virendranath Chattopadhyaya, Josiah Tshangana Gumede of the African National Congress (ANC) of South Africa, Messali Hadj of the Algerian &Eacute;toile Nord-Africaine, and Mohammad Hatta of the Perhimpoenan Indonesia. Moreover, many activists from the European and American Left were present, such as Fenner Brockway, Arthur MacManus, Edo Fimmen, Reginald Bridgeman, and Gabrielle Duch&ecirc;ne, as well as intellectuals such as Henri Barbusse, Romain Rolland, and Albert Einstein. Today, 100 years after LAI, the recent wars in Ukraine and in West Asia (Iran, Israel, Arab countries, USA) raise questions: is the imperialism dying and a new world order emerging? Why? In what way? And what new world order is emerging? Those fundamental questions may be broken down into more specific questions, such as: &bull; Brussels 1927, Bandung 1955, Belgrade 1961, Havana 1966, what ruptures and what continuities? &bull; In what ways colonialism, neo-colonialism and imperialism continue to take place? &bull; What impacts of foreign military bases on socio-cultural, economic, environmental and political life of the hosting countries? &bull; What role NAM, BRICS, SCO and other Non-Western institutions play in the changing world order? &bull; Are Marxism, Leninism, Maoism, Nasserism, Sukarnoism still relevant today? &bull; Is socialism still promising to replace capitalism? &bull; What role played by social movements and other non-state actors movements in the fight for human emancipation? &bull; Is the present UN still relevant to the global challenges today? What is necessary? UN reform or UN replacement by a new structure? It is to discuss those such questions that the 11th edition of the Rise of Asia Conference Series is organised. It encourages the participation of scholars from a wide range of scientific disciplines (area studies, cultural studies, ecology, economics, geography, built environment, architecture, urban studies, history, humanities, languages, management, political and social sciences, international relations&hellip;) and practitioners from diverse professional fields (business, civil society, education, enterprise, government, management, parliament, public policy, social and solidarity movements&hellip;) as well as artists and writers, based in diverse geographical areas (Africa, North, Central and South America, Australia, Asia, the Caribbean, Europe, Oceania, Pacific&hellip;). (Darwis Khudori, Conference Initiator and Convenor)",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
       "title": "Esotericism, Occultism, and Magic at Southwest Popular/American Culture Association, Feb 17-20, Albuquerque, New Mexico",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
@@ -2802,6 +2753,31 @@
       "publish": true
     },
     {
+      "title": "Red Reading the Modern Novel",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Modernist Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108665",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-01",
+      "eventDate": "2027-05-13",
+      "location": "Society for Novel Studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Art / Media Practice",
+        "Digital Humanities / Design",
+        "Pedagogy"
+      ],
+      "excerpt": "CFP: Red Reading the Modern Novel Society for Novel Studies (Vancouver, BC; 13-16 May 2027) The organizer seeks papers that apply Red Reading to twentieth- and twenty-first century novels. The literary canon has been expanded brilliantly in the last few decades, and literary critical approaches have shifted away from modes of corrosive critique. There rem...",
+      "fullDescription": "CFP: Red Reading the Modern Novel Society for Novel Studies (Vancouver, BC; 13-16 May 2027) The organizer seeks papers that apply Red Reading to twentieth- and twenty-first century novels. The literary canon has been expanded brilliantly in the last few decades, and literary critical approaches have shifted away from modes of corrosive critique. There remains however, a dearth of work grounded in Indigenous epistemologies and critical approaches. As an initial response to this gap, this panel seeks to test Red Reading’s utility for studies of the novel.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "College English Association Annual Conference",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Rhetoric and Composition",
@@ -2849,30 +2825,6 @@
       "excerpt": "Call for contributions: International Symposium organized by Nordic Summer University February 24-26, 2027 - Vilnius, Lithuania in collaboration with the Center for Psychotraumatology at Vilnius University,Performative Design Association, Luna16 Community Resource Center & Feminist Art Space ASABA The winter symposium of our NSU study circle is centered o...",
       "fullDescription": "Call for contributions: International Symposium organized by Nordic Summer University February 24-26, 2027 - Vilnius, Lithuania in collaboration with the Center for Psychotraumatology at Vilnius University,Performative Design Association, Luna16 Community Resource Center & Feminist Art Space ASABA The winter symposium of our NSU study circle is centered on trauma as an embodied and contested concept, and artistic practices as forms of knowledge production. We are particularly interested in how art engages with experiences of trauma beyond representation, and how bodies carry, transmit, remember, resist, and transform individual and collective histories. Theme: The Embodiment of Trauma in Artistic Practices Contemporary art has become an important site for exploring the embodiment of memory, violence, displacement, ecological loss, and collective histories. Across practices, artists increasingly investigate experiences that exceed language and resist fixed interpretation. Rather than merely representing trauma, these practices generate new ways of sensing, remembering, witnessing, resisting, and imagining together. The symposium approaches trauma as a contested concept. While informed by contemporary research in psychology, and neuroscience, it recognizes that no single discipline can fully account for how trauma is lived, embodied, remembered, or transmitted. Clinical and diagnostic frameworks have significantly contributed to understanding traumatic experiences, yet they also exist within broader institutional, political, and economic systems that shape whose suffering becomes visible, whose experiences are legitimized, and which forms of care are recognized. At a moment when concepts such as healing, resilience, and post-traumatic growth are increasingly mobilized within cultures of productivity, self-optimization, and return to normative functioning, the symposium asks what artistic practice can offer beyond narratives of repair. Questions that explore this inquiry include: ? How does trauma become embodied, and what can artistic practices reveal about this relationship? ? How are trauma, memory, and embodiment shaped by colonization, occupation, war, displacement, ecological crisis, extraction, systemic oppression, interpersonal violence, and intergenerational histories? ? How can artistic practices create spaces for mourning, care, resistance, coexistence, and collective imagination beyond dominant narratives of healing and self-optimization? ? What forms of knowledge emerge through movement, performance, ritual, material practices, sound, image, and other embodied forms? ? How can art challenge dominant narratives of pathology and create alternative ways of living with difficult histories? - Call for contributions We invite artists, researchers, filmmakers, performers, scholars, activists, body practitioners, communities of care, psychologists, and people with lived experience to enrich our dialogue. A diversity of formats is welcome and we highly encourage practice-based forms to present and share research. These include: community-based workshops, body movement practices, moving image, sound, socially engaged practices, walks, and experimental or hybrid formats. We particularly welcome perspectives emerging from marginalized, feminist, queer, diasporic, disabled, and community-based practices. Submit to: decolonialstudycircle@gmail.com Title; Format description; Abstract (max. 250 words); Bionote (max. 100 words). Participation & Registration Participation is only in person for participants residing in Europe. Participants outside Europe may present online with a reduced &euro;50 NSU membership fee. ? &euro;60 - Reduced-rate fee (50 euros membership towards NSU, 10 euros towards our study circle)* ? &euro;150 - Standard fee (100 euros membership towards NSU, 50 euros towards our study circle)** ? &euro;250 - Supporting membership (150 euros membership towards NSU, 100 euros towards our study circle)*** *The reduced-rate fee is for individuals with an annual income below &euro;25,000, as well as students, early-career researchers, retired, unemployed, working in precarious or low- income circumstances. **The standard fee is for individuals with an annual income between &euro;25,000 and &euro;50,000. ***The supporting membership fee is for individuals with an annual income above &euro;50,000, as well as institutions or individuals whose membership is funded by their institution, employer, or research grant. Part of the funds from our study circle will go towards printing a participatory glossary on trauma. Key dates Submission deadline: November 1, 2026, 23:59 AoE (Anywhere on Earth). Notification of acceptance: November 15, 2026. Symposium dates: 24-26 February, 2027. Read the full call here: https://www.nsuweb.org/circle-3-re-configuring-colonialities-reforging-knowledges-healing-trauma-and-re-imagining-digital-futures/ Can't join us in person? Contribute a question. If the theme resonates with you but you're unable to attend, we invite you to submit a question for the roundtable discussion. The roundtable will bring together psychologists, researchers, artists, and community-based practitioners, and is open to a range of topics. The roundtable will be broadcasted and recorded. Submit a question here: https://docs.google.com/forms/d/e/1FAIpQLScA6ahZH8bFdT3HzhjEBHXtZmsMiXTTMjwe1WOqVwiP4xkdmw/viewform",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Red Reading the Modern Novel",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50364",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-05-13",
-      "location": "Vancouver, BC · Society for Novel Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy"
-      ],
-      "excerpt": "CFP: Red Reading the Modern Novel Society for Novel Studies (Vancouver, BC; 13-16 May 2027) The organizer seeks papers that apply Red Reading to twentieth- and twenty-first century novels. The literary canon has been expanded brilliantly in the last few decades, and literary critical approaches have shifted away from modes of corrosive critique. There rem...",
-      "fullDescription": "CFP: Red Reading the Modern Novel Society for Novel Studies (Vancouver, BC; 13-16 May 2027) The organizer seeks papers that apply Red Reading to twentieth- and twenty-first century novels. The literary canon has been expanded brilliantly in the last few decades, and literary critical approaches have shifted away from modes of corrosive critique. There remains however, a dearth of work grounded in Indigenous epistemologies and critical approaches. As an initial response to this gap, this panel seeks to test Red Reading's utility for studies of the novel. Red reading is one of the most exciting new literary critical methods to emerge in this century. First coined in 2010 Jill Carter the term \"Red Reading\" has been echoed in different frames by Daniel Heath Justice and James H. Cox, worked out in medieval contexts by Brenna Duperon, and consolidated in a 2018 issue of transmotion edited by Scott Andrews. Most simply, it entails bringing Indigenous approaches to bear on non-Indigenous texts, placing \"native perspectives at the center of the discussion,\" asking new questions of the canon, and drawing non-Indigenous texts into Indigenous epistemological, ethical, and historical frameworks (Andrews ii). It goes beyond just adding Indigenous texts to existing studies and courses to advance a new way of reading that shifts the entire frame of reference. Importantly, Red Reading's early adopters have urged non-Indigenous scholars to use it, making it accessible to scholars of all identities. Potential prompts: &bull; How can Indigenous modes of thinking about story and narrative change the critical reception of modern novels? &bull; What would it look like to apply Indigenous epistemologies to canonical texts? &bull; What can we learn about modern novels by taking a Red Reading approach? &bull; How can Red Reading help us both decolonize the curriculum and advance the goals of reconciliation? &bull; What are the stakes of taking a non-Western, Indigenous approach to reading modern novels? &bull; Are the lessons of postcolonialism and decolonial studies applicable here? Or does red reading constitute something different? &bull; Is the modern novel itself amenable to a Red Reading approach, or is it an ideological form that remains alien to Indigenous epistemologies? Queries and 250 word abstracts should be addressed to Stephen Ross at saross@uvic.ca. Deadline for receipt of abstracts is November 1, 2026.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -3416,8 +3368,7 @@
       "score": 38,
       "fields": [
         "Rhetoric",
-        "Digital Humanities / Design",
-        "Pedagogy"
+        "Digital Humanities / Design"
       ],
       "excerpt": "The First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean in the Digital Age\" will be held on March 29-31, 2027, at the University of Costa Rica, Western Campus (Sede de Occidente). This international academic event seeks to bring together researchers, academics...",
       "fullDescription": "The First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean in the Digital Age\" will be held on March 29-31, 2027, at the University of Costa Rica, Western Campus (Sede de Occidente). This international academic event seeks to bring together researchers, academics, artists, educators, and professionals from different disciplines to explore the historical, cultural, social, artistic, scientific, and technological dimensions of healing and well-being. The Congress proposes a dialogue between nineteenth-century traditions and contemporary approaches to health and healing, examining continuities, transformations, exchanges, and tensions across the Hispanic world, Asia, Latin America, and the Caribbean. Particular attention will be given to the ways in which literature, art, spirituality, traditional medicine, bodily practices, digital technologies, and community experiences have shaped understandings and practices of healing. Suggested themes include: Genealogies of Healing in Nineteenth-Century Hispanic Culture Representations of Illness in Nineteenth-Century Literature and the Press Art and Healing: Music, Dance, Painting, and Theatre as Therapeutic Practices Dialogues between Allopathic Medicine and Traditional Healing Systems Spirituality, Religion, and Healing Practices Healing through Words: Narratives, Discourse, and Therapeutic Processes Convergences between Bodily Practices (Yoga, Pranayama, Sports) and Holistic Health Healing Traditions in Asia and the Caribbean: Exchanges with the Hispanic World Digital Health, Applications, Platforms, and Well-Being Monitoring Ethical and Clinical Risks of Chatbots and Mental Health Technologies Social Media, Virality, and Their Impact on Emotional Health Attention, Cognition, and Technology Digital Churches, the Spiritual Economy, and New Forms of Religiosity Education and Well-Being Public Health Policies in Digital and Multicultural Environments Interdisciplinarity in Health: Intersections between Art, Science, and Technology Imaginaries of Good and Evil in Processes of Illness and Healing Community Well-Being and Territorial Experiences Researchers interested in participating are invited to submit proposals in accordance with the Congress guidelines. For further information, submission guidelines, and updates, please visit the official Congress website",
@@ -3828,8 +3779,8 @@
       "score": 42,
       "fields": [
         "Digital Humanities / Design",
-        "Art / Media Practice",
-        "Pedagogy"
+        "Pedagogy",
+        "Art / Media Practice"
       ],
       "excerpt": "A ALICE - Aliança Lus&oacute;fona para a Investigaç&atilde;o, Cooperaç&atilde;o e Educaç&atilde;o Digital tem o prazer de anunciar que se encontra aberta a Chamada de Artigos para a CIETIA'27 - 1.&ordf; Confer&ecirc;ncia Internacional sobre Educaç&atilde;o, Tecnologias e Intelig&ecirc;ncia Artificial , coorganizada com a Universidade Politécnica - A Polit...",
       "fullDescription": "A ALICE - Aliança Lus&oacute;fona para a Investigaç&atilde;o, Cooperaç&atilde;o e Educaç&atilde;o Digital tem o prazer de anunciar que se encontra aberta a Chamada de Artigos para a CIETIA'27 - 1.&ordf; Confer&ecirc;ncia Internacional sobre Educaç&atilde;o, Tecnologias e Intelig&ecirc;ncia Artificial , coorganizada com a Universidade Politécnica - A Politécnica, de Moçambique. A CIETIA'27 decorrer&aacute; nos dias 14, 15 e 16 de abril de 2027, em Maputo, Moçambique, em formato h&iacute;brido (presencial e online) , permitindo a participaç&atilde;o de autores e participantes provenientes de diferentes pa&iacute;ses. Tema da Confer&ecirc;ncia \"Intelig&ecirc;ncia Artificial na Educaç&atilde;o: Inovaç&atilde;o, Desafios e Transformaç&atilde;o Digital\" A confer&ecirc;ncia pretende reunir investigadores, docentes, estudantes, gestores educacionais, decisores pol&iacute;ticos e profissionais interessados na interseç&atilde;o entre Educaç&atilde;o, Tecnologias Digitais e Intelig&ecirc;ncia Artificial, promovendo a apresentaç&atilde;o e discuss&atilde;o de resultados de investigaç&atilde;o, projetos, experi&ecirc;ncias inovadoras e boas pr&aacute;ticas. Eixos Tem&aacute;ticos - Intelig&ecirc;ncia Artificial e Tecnologias Emergentes na Educaç&atilde;o - Educaç&atilde;o Digital e Ambientes Virtuais de Aprendizagem - Inovaç&atilde;o Pedag&oacute;gica e Formaç&atilde;o de Professores - &Eacute;tica, Qualidade e Governança na Educaç&atilde;o Digital - Transformaç&atilde;o Digital, Investigaç&atilde;o e Sociedade Chamada de Artigos Convidamos a comunidade académica e cient&iacute;fica a submeter artigos completos (Full Papers), originais e n&atilde;o publicados, enquadrados nos eixos tem&aacute;ticos da CIETIA'27. Os artigos poder&atilde;o ser submetidos em portugu&ecirc;s ou ingl&ecirc;s e ser&atilde;o sujeitos a um processo de avaliaç&atilde;o cient&iacute;fica por pares (peer review). Datas importantes 30 de novembro de 2026 - Prazo para submiss&atilde;o de artigos 10 de fevereiro de 2027 - Notificaç&atilde;o aos autores 14 de março de 2027 - Submiss&atilde;o da vers&atilde;o final 14 a 16 de abril de 2027 - Realizaç&atilde;o da CIETIA'27 Os artigos aceites, revistos, apresentados na confer&ecirc;ncia e entregues na sua vers&atilde;o final ser&atilde;o considerados para publicaç&atilde;o no Livro de Atas da CIETIA'27, com ISBN. Links importantes Site oficial da CIETIA'27 https://rede-alice.com/cietia/ Submeter artigo através do EasyChair https://easychair.org/conferences/?conf=cietia27 Call for Papers e Download do Template de Artigo https://rede-alice.com/call-for-papers/ Inscriç&atilde;o na CIETIA'27 https://docs.google.com/forms/d/e/1FAIpQLSe_iMWEVyBcafu893NizW5-Wu_ufpur6jtaSdHMMMTYuceZPA/viewform?usp=dialog",
@@ -4054,6 +4005,32 @@
       "publish": true
     },
     {
+      "title": "Mythology and the Environment: Science Fiction and Streaming Television",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50477",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-01",
+      "eventDate": "2027-12-01",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Film / Media",
+        "Publication",
+        "Theory",
+        "Communication"
+      ],
+      "excerpt": "Myths have long shaped how humans understand and interact with the natural world. This edited collection examines how contemporary science fiction streaming television draws on mythology to explore humanity's relationship with the environment. Through the lens of ecocriticism, this collection will analyze how narratives represent, question, and critique e...",
+      "fullDescription": "Myths have long shaped how humans understand and interact with the natural world. This edited collection examines how contemporary science fiction streaming television draws on mythology to explore humanity's relationship with the environment. Through the lens of ecocriticism, this collection will analyze how narratives represent, question, and critique environmental responsibility, ecological interconnectedness, and humanity's impact on Earth, or other worlds. Since 2008, John Perlich and David Whitt have co-edited three books on comparative mythology: Sith, Slayers, Stargates, and Cyborgs (2008), Millennial Mythmaking (2010), and Myth in the Modern World(2014). This fourth collection, which will be published by McFarland & Company, seeks to bring together scholars and cultural critics from a variety of fields (e.g., mythology, environmental studies, media, cultural studies, literature, political science, anthropology, sociology, communication studies) to examine contemporary and original science fiction television on streaming services. Streaming platforms have emerged as premier destinations for ambitious, avant-garde, commercially successful, and critically acclaimed science fiction. The following is a partial list of original science fiction shows on various streaming platforms: · Amazon Prime Video: Fallout, The Expanse, The Rig, Outer Range · Apple TV+: Foundation, Silo, For All Mankind, Pluribus, Monarch: Legacy of Monsters, Dark Matter, Star City, Invasion · Disney+: Star Wars (The Mandalorian, Andor, Ahsoka, Visions, Skeleton Crew), Marvel (Loki, Moon Knight) · HBO Max: The Last of Us, Dune: Prophecy, Raised by Wolves, Station Eleven · Hulu: Paradise, Solar Opposites · Netflix: Stranger Things, Black Mirror, Love, Death + Robots, 3 Body Problem, Sweet Tooth, Dark, The Eternaut, The Rain, The Silent Sea · Peacock: The Ark, Twisted Metal · Paramount+: Halo, Star Trek (Discovery, Lower Decks, Picard, Starfleet Academy, Strange New Worlds) The rich and varied programming on these streaming services provides a myriad of opportunities to examine contemporary science fiction television in terms of mythology and the environment. Some potential topics include: · Creation myths and the making of new worlds and ecosystems · The Hero's Journey and the environment · The impact of science and technology on the environment · Monsters, aliens and others environmental threats · Climate change, apocalyptic and dystopian worlds · Ecofeminism and mythology · Environmental activism · Allusions to mythic protectors (e.g., Gaia, Artemis, Demeter, Nüwa, Sedna, etc.) Please submit a proposal by December 1, 2026. Proposals should include: - a 500-1000 word abstract - brief author bio - contact information Chapters will be limited to 5000-6000 words and must follow APA style guidelines (7th edition). Send questions and proposals to both co-editors. John Perlich Bemidji State University john.perlich@bemidjistate.edu David Whitt Nebraska Wesleyan University dfw@nebrwesleyan.edu",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Theory, Publication.",
+      "publish": true
+    },
+    {
       "title": "Call for Papers: ‘Writing Across Languages: Anglophone Short Stories by Multilingual Authors’",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Journals and Collections",
@@ -4075,6 +4052,32 @@
       "excerpt": "Call for Papers: Short Fiction in Theory & Practice Special Issue: ‘Writing Across Languages: Anglophone Short Stories by Multilingual Authors’ Guest edited by Elsa Court (University of Oxford), Nina Ellis (The American University in Cairo), and Sonya Moor (Manchester Metropolitan University). View the full call here>> https://www.intellectbooks.com/short...",
       "fullDescription": "Call for Papers: Short Fiction in Theory & Practice Special Issue: ‘Writing Across Languages: Anglophone Short Stories by Multilingual Authors’ Guest edited by Elsa Court (University of Oxford), Nina Ellis (The American University in Cairo), and Sonya Moor (Manchester Metropolitan University). View the full call here>> https://www.intellectbooks.com/short-fiction-in-theory-practice#call-for-papers",
       "relevance": "Automatically surfaced as a likely RCID fit across Theory, Publication.",
+      "publish": true
+    },
+    {
+      "title": "The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/50480",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-01",
+      "eventDate": "2027-03-25",
+      "location": "Bloomington, Indiana, United States · Indiana University",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Digital Humanities / Design",
+        "Art / Media Practice",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "CALL FOR PROPOSALS The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy March 25-27, Bloomington, IN, Indiana University Bloomington The first quarter of the twenty-first century has been organized, to a degree that bears sustained scholarly attention, by a small cohort of men whose private fortunes rival the budgets of nation-s...",
+      "fullDescription": "CALL FOR PROPOSALS The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy March 25-27, Bloomington, IN, Indiana University Bloomington The first quarter of the twenty-first century has been organized, to a degree that bears sustained scholarly attention, by a small cohort of men whose private fortunes rival the budgets of nation-states, whose platforms mediate the social and epistemic lives of billions, and whose biographical idiosyncrasies have become structural features of global infrastructure. Steve Jobs furnished the template; Mark Zuckerberg, Jeff Bezos, Elon Musk, and Peter Thiel have inherited and transformed it. This conference takes the tech founder seriously as a political, economic, aesthetic, and theological problem, and as an object adequate to humanistic inquiry. The planning committee invites proposals for individual papers, pre-constituted panels, and roundtables across three streams - the Horsemen, their Mounts, their Kingdom. Comparative, transnational, and historically minded approaches are particularly welcome. Stream One: The Horsemen The Four Leaders of the Bropocalypse The figures themselves - as biographies, personae, cultural texts, and authors and products of their own myths. Questions to consider: How do we read the founder's letter, the keynote, the congressional testimony, the tweet? What work does biography do for the founder, and the founder for biography? How are their bodies stylized, optimized, and displayed? What is the cultural work of the turtleneck, the gilet, the cage match, the longevity protocol, the pronatalist announcement? How do spatial fantasies, such as the bunker, the compound, the rocket, the company town, relate to longer traditions of utopia, sovereignty, and flight? Where do the horsemen sit in longer histories of capital - Hearst, Ford, Hughes, Rockefeller - and alongside transnational counterparts? Stream Two: The Mounts Technological Foundations of the Bropocalypse The material, infrastructural, and epistemic conditions that made these figures possible and that they have, in turn, reshaped - the technologies the horsemen ride. Work drawing on media theory, STS, infrastructure studies, and the political economy of computing is especially welcome. Questions to consider: How do recommender systems and engagement metrics constitute attention as a political resource? How should we read the fulfillment center, the algorithmically managed workplace, the gig contract? What happens to the worker when the workplace is built to render the worker illegible? What are the climatic, hydrological, and territorial costs of the immaterial satellite constellations, undersea cables, data centers? What models of mind, language, and sociality are inscribed in the chatbot, the agent, the avatar? How do these systems reshape pedagogy, friendship, intimacy, grief, work? Stream Three: The Kingdom Institutional Context of the Bropocalypse The regulatory, financial, philanthropic, cultural, and political ecology that has enabled, legitimated, and at moments resisted the formation under analysis - the terrain across which the horsemen ride. Questions to consider: What is the worldview of contemporary venture capital, and how is it produced and reproduced through the manifesto, the LP letter, the founder-mode essay? How has the research university - its endowments, donors, dropout mythologies - both produced and been remade by the founders it educated and abandoned? What does it mean that the largest funders of causes such as global health, climate response, and basic research are now the personal foundations of living billionaires? How should we understand the migration of significant fractions of tech capital toward the American right, and the ideological projects - network state, accelerationism, neoreaction - that have traveled with it? What can scholarship learn from counter-formations such as Wikipedia, the Fediverse, platform cooperativism, the union drive, and open protocol? Submission Guidelines Proposals for individual papers (20 minutes) should consist of an abstract of no more than 350 words and a brief bio (100 words). Panel and roundtable proposals should include a 250-word rationale alongside individual abstracts. Please indicate the stream; the committee reserves the right to reassign. Submissions at https://forms.gle/uf5jwkNVWDBHbVcq9 by December 1, 2026. Decisions by January 30, 2027. Please direct any questions to bropocalypse2027@gmail.com. Edward Dallis-Comentale, Erin Kelley, Amber Bowes, Robert Metaxatos Indiana University Bloomington",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
       "publish": true
     },
     {
@@ -4145,30 +4148,6 @@
       "excerpt": "EUROPEAN SHAKESPEARE RESEARCH ASSOCIATION Congress, Shakespeare and Form: 'To set a form upon desired change' Bangor University, Wales, 27-30 July 2027 CALL FOR PAPERS : Seminar 9, Forms of Shakespeare's Diplomacy Convenors: Nathalie Riv&egrave;re de Carles (Université Toulouse Jean Jaur&egrave;s), France & Helen A. Hopkins (Birmingham City University, UK...",
       "fullDescription": "EUROPEAN SHAKESPEARE RESEARCH ASSOCIATION Congress, Shakespeare and Form: 'To set a form upon desired change' Bangor University, Wales, 27-30 July 2027 CALL FOR PAPERS : Seminar 9, Forms of Shakespeare's Diplomacy Convenors: Nathalie Riv&egrave;re de Carles (Université Toulouse Jean Jaur&egrave;s), France & Helen A. Hopkins (Birmingham City University, UK) This seminar investigates Shakespeare's diplomacy as a set of theatrical, political, and cultural forms: embassies, intelligence networks, ceremonial encounters, negotiated speech, translation, performance, heritage display, and later uses of Shakespeare as cultural capital. It will explore: · how diplomacy within Early Modern plays depends on forms: letters, reports, oaths, staged audiences, theatrical entertainments, curatorial narratives, and embodied performances of civility or threat · how drama stages the fragile procedures by which states, courts, and individuals form relations across difference · how playing companies have performed and/or participated in diplomacy from the early modern era until now (performing for ambassadors, negotiating patronage, censorship, audience reception, and transnational theatrical exchange, operating as cultural intermediaries through international festivals, touring productions, education programmes&hellip;) · formal and informal ambassadorship from early modern times until now, and the models of negotiation generated through varied uses of Shakespeare's works and cultural capital · how Shakespeare becomes an object of heritage diplomacy: curated through archives, museums, anniversaries, diplomatic/commemorative monuments, exhibitions, festivals, and touring productions that present him as a shared cultural inheritance while often reproducing hierarchies of nation, empire, race, gender, and class · how plays and institutions produce diplomatic knowledge: teaching audiences to read gestures, decode equivocation, evaluate testimony, and imagine political community beyond national borders The discussion will move from early modern diplomatic forms to Shakespeare's afterlives in official cultural diplomacy, public diplomacy, soft power, and heritage policy. Attention will also be given to deformation: failed negotiations, distorted information, imperial appropriation, and the conversion of cultural prestige (soft power) into political force (as cooperation or coercion). The wider aim is to reassess \"Shakespearean diplomacy\" as both an early modern practice of relation-making and a modern instrument whose global circulation may enable conversation, domination, or critique. In this way, we engage with the discourse around the decolonisation of Shakespeare. This process will therefore be treated not as the rejection of Shakespeare, but as a method for interrogating the colonial uses of the \"Bard,\" recovering plural performance traditions, and rethinking heritage as a contested diplomatic space. By bringing together approaches from literary criticism, theatre history, performance studies, critical heritage studies, gender studies, race studies, and new diplomatic history, the seminar asks whether Shakespearean drama merely reflects diplomatic culture or actively theorises it. Abstracts (250-500 words) should be sent to both nrivere@univ-tlse2.fr and helen.hopkins3@bcu.ac.uk by 4th December 2026 Acceptance notification: 16th December 2026. Details about the Congress can be found here: https://www.bangor.ac.uk/sah/the-european-shakespeare-research-association-esra-2027",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "Hong Kong Temporalities",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50303",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-04",
-      "eventDate": "2027-01-21",
-      "location": "Online · Chinese University of Hong Kong",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "[Call for Abstracts] A Hong Kong Studies Virtual Symposium 21-22 January 2027 | Online https://bit.ly/4hGfW8y Organised by Hong Kong Studies, this two-day symposium invites papers from across the humanities and social sciences that explore time and temporality in relation to Hong Kong's cultural, historical, technological, social and political imaginaries...",
-      "fullDescription": "[Call for Abstracts] A Hong Kong Studies Virtual Symposium 21-22 January 2027 | Online https://bit.ly/4hGfW8y Organised by Hong Kong Studies, this two-day symposium invites papers from across the humanities and social sciences that explore time and temporality in relation to Hong Kong's cultural, historical, technological, social and political imaginaries. Hong Kong has long been a city peculiarly conscious of time. Its modern history has been narrated through beginnings and endings, leases and deadlines, arrivals and departures, anniversaries and countdowns. 1997 became an anticipated future long before it became history; 2047 likewise exists simultaneously as date, horizon, projection and cultural imaginary. Yet Hong Kong's temporalities extend far beyond these emblematic dates. They can be found in memories of vanished places, family histories and memoirs, experiences of migration and exile, changing generations and languages, speculative and science-fictional futures, technological acceleration, artificial intelligence, and everyday experiences of waiting, repetition, anticipation and change. The symposium asks: what forms of time have shaped Hong Kong and its cultural imagination? How are its pasts remembered, forgotten, recovered or reinvented? How do memoir, literature, cinema, art and popular culture create alternative relationships between past, present and future? What temporalities emerge through migration, diaspora, exile and return? How do generations inhabit historical time differently? What happens to experiences of time under conditions of rapid political, urban and technological transformation? How might artificial intelligence and other emerging technologies alter our understanding of memory, prediction, authorship and futurity? And what can science fiction and speculative practices tell us about Hong Kong futures that have been anticipated, deferred, foreclosed or not yet imagined? We welcome papers addressing topics including, but not limited to, countdowns and deadlines; history and historiography; memory and forgetting; memoir and life writing; nostalgia and post-nostalgia; futurity and anticipation; science fiction and speculative fiction; utopia and dystopia; technology and technological change; artificial intelligence and algorithmic time; digital memory and archives; ageing and generational time; migration, diaspora, exile and return; colonial and postcolonial temporalities; urban transformation and disappearing spaces; everyday rhythms, waiting and repetition; acceleration and rupture; haunting, spectrality and afterlives; alternative histories and counterfutures; and temporality in literature, cinema, music, visual art, performance and popular culture. By bringing these approaches into conversation, the symposium seeks to consider Hong Kong as a site of intersecting temporalities, where remembered pasts, contested presents and multiple possible futures continually reshape one another. We invite contributions from scholars at all stages of their professional development, as well as independent scholars, writers, artists, filmmakers, critics, curators, educators, technologists, and other cultural practitioners whose work engages with Hong Kong and questions of temporality. In addition to traditional academic papers, the symposium welcomes short presentations or informal talks that approach Hong Kong temporalities through creative, professional, personal, or interdisciplinary perspectives. Please submit an abstract of 300-500 words, along with a short third-person biography (approx. 150 words), compiled in a single Word document. Submissions should be sent to hkstudiesjournal@gmail.com by Friday 4 December 2026. Following the symposium, selected papers (6,000-8,000 words) will be considered for publication in future issues of Hong Kong Studies (Open Journals Hub).",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -5085,8 +5064,6 @@
       "score": 34,
       "fields": [
         "Digital Humanities / Design",
-        "Film / Media",
-        "Theory",
         "Pedagogy"
       ],
       "excerpt": "Animal Studies Across Disciplines Symposium April 7th-April 9th 2027 Arizona State University Many scholars argue that we are now living in a new geological epoch-the Anthropocene-a name chosen to encapsulate an irreversibly transformed planet due to the rapid expansion of human populations, increasing exploitation of animals and natural resources, and pe...",
@@ -5113,7 +5090,6 @@
         "Digital Humanities / Design",
         "Theory",
         "Publication",
-        "Film / Media",
         "Pedagogy"
       ],
       "excerpt": "The Journal for the New Narratives in the History of Philosophy (JNNHP) invites submissions for its special on Derrick Bell and the History of Africana Philosophy, to be published in Fall 2027. Derrick Bell, the founder of Critical Race Theory, produced one of the most innovative, insightful, and transformative ideas in the 20th century. His philosophical...",
@@ -5292,6 +5268,31 @@
       "publish": true
     },
     {
+      "title": "“The Stage Reimagined”: International Conference on Traditions, Transformations and Futures in Drama and Theatre",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50462",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-15",
+      "eventDate": "2027-05-29",
+      "location": "London / Online · London Centre for Interdisciplinary Research",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Art / Media Practice",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "In an era marked by profound social, political, environmental and technological transformations, drama and theatre remain essential forms of artistic expression and critical engagement. Through performance, theatre explores questions of identity, representation, memory, conflict and belonging, while creating opportunities for dialogue across cultures and...",
+      "fullDescription": "In an era marked by profound social, political, environmental and technological transformations, drama and theatre remain essential forms of artistic expression and critical engagement. Through performance, theatre explores questions of identity, representation, memory, conflict and belonging, while creating opportunities for dialogue across cultures and disciplines. Theatre not only reflects the complexities of contemporary life but also creates imaginative spaces for questioning, reinterpreting and reshaping our understanding of society. This event invites contributions that examine theatrical texts, performance practices, performance theory and the intersections of theatre with literature, media, technology, politics, education and the broader humanities. We invite presentations that explore both historical and contemporary perspectives, as well as innovative approaches to theatre-making, performance analysis and audience engagement. This conference examines theatre as a platform for dialogue, inclusion, reconciliation and cultural diplomacy; emerging methodologies and interdisciplinary approaches in theatre research; the relationship between artistic practice, academic scholarship and public engagement; and ethical questions surrounding representation, accessibility, diversity and cultural heritage in contemporary performance. We also seek to explore the resilience and transformation of performance practices in response to social, political, environmental and technological change, while also exploring the future of live performance in relation to artificial intelligence, virtual reality and hybrid artistic environments. The conference aims to foster critical dialogue and meaningful exchanges of ideas across disciplines, methodologies, historical periods and performance traditions, highlighting the enduring relevance of theatrical practices in contemporary society. We therefore invite established and early-career scholars, interdisciplinary researchers, educators, students, theatre practitioners, playwrights, directors and performers to submit proposals for this event dedicated to exploring the dynamic field of drama and theatre in local, regional and global contexts. Topics include, but are not limited to: Acting, directing, dramaturgy and stage design; Adaptation, translation and intercultural theatre; Classical, modern and contemporary drama; Community, applied and participatory theatre; Digital, virtual and immersive performance; Disability and accessibility in theatre; Dramatic literature and performance analysis; Eco-theatre and environmental performance; Experimental, avant-garde and site-specific theatre; Gender, sexuality, race, identity and representation in performance; Musical theatre and opera studies; Performance and the intersections of literature, philosophy, visual arts, film and cultural studies; Political theatre, activism and social justice; Postcolonial, decolonial and transnational theatre practices; Theatre and new media technologies; Theatre criticism, reception studies and audience research; Theatre history, historiography and cultural memory; Theatre, memory, trauma and conflict; Theatre in education and drama pedagogy; Theatre for young audiences. Interdisciplinary approaches and practice-based research are especially encouraged.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Negative Journal - Third Issue (General & Queer Cluster): Call for Publications",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
@@ -5356,13 +5357,36 @@
       "score": 26,
       "fields": [
         "Rhetoric",
-        "Theory",
         "Pedagogy"
       ],
       "excerpt": "The Asian Studies section is currently accepting paper and panel proposals for the 69th Annual Conference of the World Social Science Association. The conference will be held at the Hilton Denver City Center in Denver, CO from March 31st through April 3rd. The Asian Studies section welcomes research on the historical, cultural, social, and political aspec...",
       "fullDescription": "The Asian Studies section is currently accepting paper and panel proposals for the 69th Annual Conference of the World Social Science Association. The conference will be held at the Hilton Denver City Center in Denver, CO from March 31st through April 3rd. The Asian Studies section welcomes research on the historical, cultural, social, and political aspects of the Middle East, South Asia, Southeast Asia, Pacific, and East Asia. Previous panels have explored Asian immigrant women's participation management, governance in China, contemporary Japanese digital culture, and feminist readings of the Bh?gavata Pur??a. We encourage innovative and critical approaches that address contemporary and historical issues. The Asian Studies section is particularly eager to include the voices of graduate students and early-career scholars. This is an excellent opportunity for emerging researchers to share their work and engage with a broader academic community. The WSSA also holds several competitions and awards, including cash prizes for undergraduate and graduate papers. Winners of the John Wicks Dissertation Paper Award are eligible to receive a prize of $250 (USD) and the refunding of registration and conference fees. Winners of the Bert & Phyllis Lamb Prize in Political Science will receive partial or full reimbursement of travel costs and a $1,000 (USD) prize. The deadline for paper abstracts and panel proposals is January 15th, 2027. Early registration for the conference and discounted registration fees end on November 30th, 2026. Virtual participation in the conference is permitted; however, additional registration fees are required. In-person participation is highly recommended. Please visit the WSSA conference page for further information or to submit a paper or panel proposal at https://www.wssaconference.com/ Please direct any questions concerning the Asian Studies section to Dr. Barbara Greene at greene-barbara(AT)Jissen.ac.jp",
       "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
       "publish": false
+    },
+    {
+      "title": "“Somewhere in Between: Borders and Borderlands”",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50463",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-25",
+      "eventDate": "2027-04-17",
+      "location": "London / Online · London Centre for Interdisciplinary Research",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "In an ever changing world the problems of setting boundaries as well as the need to create meanings and establish understanding of diverse phenomena have always been of the utmost importance for humanity. Borders, boundaries, frontiers, and borderlands, naturally formed or man made, are grounded in various ethical traditions, and have always been associat...",
+      "fullDescription": "In an ever changing world the problems of setting boundaries as well as the need to create meanings and establish understanding of diverse phenomena have always been of the utmost importance for humanity. Borders, boundaries, frontiers, and borderlands, naturally formed or man made, are grounded in various ethical traditions, and have always been associated with limits and restrictions. The ongoing process of globalisation is changing the role and stereotypes of borders, so that they are often seen as opportunities rather than constraints. However, in some cases they are still being militarized and conflicted. The conference will seek to identify and analyse the processes of border-making and border permeability in contemporary societies through aesthetic forms. We seek to explore the historical origins of borders, their role in today's global environment and define the notion of borders, which includes not only territorial, geographical, and political borders, but also cultural and metaphorical borders, imagined spaces where interests and ideologies overlap and compete. Conference panels will be related, but not limited, to: border poetics border-crossing security versus openness of borders cultural hybridization cross?border co?operation processes of de?bordering borders and refugees social, cultural or language differences between communities",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
+      "publish": true
     },
     {
       "title": "Reminder: Call for Chapters: Some of You May Die: Rhetorics of Dispensability in Our Authoritarian Age",
@@ -5410,6 +5434,29 @@
       "fullDescription": "Captivating Criminality 14: Methods of Murder The International Crime Fiction Association is delighted to announce the fourteenth Captivating Criminality conference, to be held at the conference’s home venue, Bath Spa University, Corsham Court, UK, from 24-26th June 2027. There will also be an Early Career and Postgraduate Research workshop on the afternoon of 23rd June – which this year is open to all. This conference marks ten years since the inception of the journal Crime Fiction Studies (Edinburgh University Press).",
       "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
       "publish": true
+    },
+    {
+      "title": "Call for Papers in Special Issue “Progress in Thermal Energy Conversion and Storage for Decarbonization: Performance, Flexibility, and Sustainability”",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50456",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-31",
+      "eventDate": "2027-02-25",
+      "location": "Online Journal Special Issue · Energies (MDPI)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 20,
+      "fields": [
+        "Publication"
+      ],
+      "excerpt": "Dear Colleagues, The transition toward decarbonization and low-carbon energy systems relies not only on scaling up renewable energy but also on improving the conversion, storage, and use of thermal energy. Thermal energy conversion and storage technologies naturally complement one another across both low- and high-temperature ranges: high-efficiency conve...",
+      "fullDescription": "Dear Colleagues, The transition toward decarbonization and low-carbon energy systems relies not only on scaling up renewable energy but also on improving the conversion, storage, and use of thermal energy. Thermal energy conversion and storage technologies naturally complement one another across both low- and high-temperature ranges: high-efficiency conversion systems reduce primary energy use and capture resources that would otherwise be wasted, while storage solutions help match supply with demand, enhance operational flexibility, and support the integration of intermittent renewable sources. Combined, these approaches can increase the efficiency, reliability, and sustainability of electricity, heating, cooling, and industrial operations. Although some advances have been made, several scientific and engineering challenges remain. Key issues involve cutting energy and exergy losses, maintaining performance under part-load and fluctuating operating conditions, boosting storage density, limiting material degradation, enhancing component durability, and enabling cost-effective system integration. Bridging the gap between promising concepts and practical, deployable systems also calls for improved modeling, robust experimental validation, effective scale-up approaches, and transparent benchmarking against existing technologies. This Special Issue (for details, please visit: https://www.mdpi.com/journal/energies/special_issues/YT0537BB7Z) focuses on the recent progress and developments in thermal energy conversion and storage for future decarbonization. Several theoretical, numerical, experimental, and data-driven studies that encompass emerging ideas as well as significant enhancements to established technologies are welcomed. Topics of interest for publication include, but are not limited to, the following: - Advanced and flexible thermodynamic cycles; - Rankine cycle, Brayton cycle, organic Rankine cycle, Kalina cycle, transcritical cycle, supercritical CO2 cycles, and other novel thermodynamic cycles; - Heat pumps, refrigeration, cogeneration, and polygeneration; - Integrated thermal energy conversion and storage system, Carnot battery, heat-to-power system, photothermal energy storage system; - Geothermal, solar-thermal, biomass, and waste-heat recovery systems; - Sensible, latent, and thermochemical energy storage; - Phase-change materials and advanced thermal-storage media; - Working fluids, heat exchangers, volumetric expander/turbine, pump, and thermal-system components; - Integrated and hybrid thermodynamic cycle and thermal storage configurations; - Dynamic, off-design, and part-load performance of thermodynamic cycle and/or thermal storage systems; - Flexible operation and advanced control system for thermodynamic cycle and/or thermal storage systems; - Energy, exergy, economic, and environmental assessments of thermodynamic and/or storage systems; - The use of artificial intelligence, machine learning, surrogate models, LLMs, and digital twins for the advancement of thermal energy conversion and storage systems (for designing, optimizing, controlling, and so on); - Experimental validation, pilot plants, scale-up, demonstration, laboratory test-stand, and industrial applications of thermal energy conversion and storage systems. Although this Special Issue accepts interdisciplinary research spanning mechanical engineering, materials science, and computer science, the core focus of every submitted manuscript must remain within the field of thermal energy conversion, thermal energy storage, or their integration. Manuscripts that primarily address general optimization algorithms, pure environmental life-cycle assessments disconnected from energy performance, or artificial intelligence applications without a substantive and demonstrable link to thermal energy systems are outside the scope of this Special Issue. Dr. Sindu Daniarta Guest Editor",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
+      "publish": false
     },
     {
       "title": "Musical Commemorations and Contestations in Postcolonial Contexts",
@@ -5553,6 +5600,32 @@
       "excerpt": "On the occasion of the 135th birth anniversary of Pearl S. Buck, the winner of the Nobel Prize in Literature (1938), this international symposium seeks to revisit her life and writings from the perspective of exchanges and mutual learning among civilizations. Hailed as “the most influential Westerner to write about China since the 13th century’s Marco Pol...",
       "fullDescription": "On the occasion of the 135th birth anniversary of Pearl S. Buck, the winner of the Nobel Prize in Literature (1938), this international symposium seeks to revisit her life and writings from the perspective of exchanges and mutual learning among civilizations. Hailed as “the most influential Westerner to write about China since the 13th century’s Marco Polo”, Pearl S. Buck not only introduced Chinese literature and culture to global readers through her literary writings, but also participated actively in transnational cultural dialogue, humanitarian engagement, and the shaping of international understandings of China.",
       "relevance": "Automatically surfaced as a strong RCID fit across Pedagogy, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "AI and the Imagination",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50475",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-05",
+      "eventDate": "2027-04-20",
+      "location": "Tulsa, OK · Oral Roberts University",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "AI",
+        "Film / Media",
+        "Theory",
+        "Pedagogy"
+      ],
+      "excerpt": "CALL FOR PAPERS AND PRESENTATIONS AI AND THE IMAGINATION April 20-23, 2027 Oral Roberts University | Tulsa, Oklahoma, USA Proposal deadline: March 5, 2027 Rolling review; applicants will normally receive a decision within two weeks. In-person presentations only. Featuring Orson Scott Card, award-winning author of Ender's Game and Speaker for the Dead, wit...",
+      "fullDescription": "CALL FOR PAPERS AND PRESENTATIONS AI AND THE IMAGINATION April 20-23, 2027 Oral Roberts University | Tulsa, Oklahoma, USA Proposal deadline: March 5, 2027 Rolling review; applicants will normally receive a decision within two weeks. In-person presentations only. Featuring Orson Scott Card, award-winning author of Ender's Game and Speaker for the Dead, with keynote speakers Pat Gelsinger, Joan Slonczewski, and Ben John. ABOUT THE CONFERENCE Oral Roberts University invites proposals for AI and the Imagination from participants across disciplines and professions. We welcome research, critical reflection, creative work, and practical applications. Students, faculty, researchers, educators, industry professionals, practitioners, faith leaders, writers, and artists are encouraged to contribute. Artificial intelligence is reshaping how we learn, work, create, and understand ourselves. The conference brings together conversations that too often occur separately, offering an opportunity to share ideas and experiences, question assumptions, and consider how our choices today will shape the years ahead. Interdisciplinary contributions are particularly encouraged. CONFERENCE TRACKS AI and the Imagination How have we imagined artificial intelligence, and how is artificial intelligence changing imagination itself? This signature track welcomes work involving science fiction, fantasy, film, literature, art, storytelling, speculative futures, AI-assisted creativity, and the ways imaginative works can help us understand possible technological futures. AI, Theology, and Ethics What theological, philosophical, and ethical questions arise from increasingly capable artificial intelligence? This track welcomes work on Christian theology and AI, ethics, human dignity, personhood, moral agency, wisdom, responsibility, vocation, technology and faith, and related philosophical or religious questions. AI, Human Agency, and Formation How does AI change what it means to think, choose, act, develop, and become? This track explores human agency in an age of increasingly capable AI, including cognitive and agency offloading, judgment and decision-making, autonomy, dependence, human-AI relationships, meaning, purpose, identity, formation, and human flourishing. AI and Teaching and Learning How is AI changing education and the work of teaching and learning? Topics may include pedagogy, assessment, academic integrity, AI literacy and fluency, faculty development, student learning, educational technology, curriculum design, personalized learning, and emerging models of education. AI, Society, and the Human Future What does widespread AI mean for individuals, communities, institutions, and society? Topics may include work, economics, culture, politics, law, relationships, inequality, democracy, social institutions, public policy, and the broader consequences of AI for the human future. AI, Leadership, Strategy, and Governance How should leaders make decisions in an AI-rich environment? This track welcomes work addressing leadership, organizational strategy, institutional transformation, governance, policy, risk, workforce development, and responsible AI adoption. AI, Research, Discovery, and Innovation How is AI transforming the process of discovery and the creation of new knowledge? This track includes AI-enabled research, interdisciplinary research methods, scientific discovery, innovation, entrepreneurship, and emerging approaches to scholarship and creative inquiry. SUBMISSION GUIDELINES Please include: &bull; Presentation title &bull; A 250-500-word abstract outlining the topic, approach, and main contribution of the proposed presentation &bull; Preferred conference track &bull; Presenter name(s) and institutional or professional affiliation, if applicable &bull; Contact email(s) &bull; Whether you plan to read a paper or give a presentation using slides A full paper or slide deck is not required at the proposal stage. Email proposals by March 5, 2027, to either conference co-organizer: Dr. Andrew Lang Dean, College of Science and Engineering Senior Professor of Mathematics Oral Roberts University alang@oru.edu Dr. Mark Hall Dean, J.D. McKean Library Senior Professor of English Oral Roberts University mhall@oru.edu Proposals will be reviewed as they are received. Early submissions are encouraged. PRESENTATION FORMAT All presentations will be delivered in person. Standard sessions allow 15 minutes for presentation followed by 5 minutes for questions and discussion. Accepted abstracts will be included in the online conference program. The conference will not publish formal proceedings or full papers. REGISTRATION Registration is required for all attendees, including accepted presenters. Please consult the conference website for registration information, hotel recommendations, schedule updates, and additional details. FEATURED SPEAKERS Orson Scott Card Award-winning author of Ender's Game and Speaker for the Dead. Pat Gelsinger Executive chair and head of technology at Gloo, general partner at Playground Global, and former CEO of Intel and VMware. His career spans more than 45 years in engineering and technology leadership. Joan Slonczewski, PhD Award-winning science fiction author and Professor of Biology at Kenyon College. Their novels include A Door into Ocean, Brain Plague, The Highest Frontier, and Minds in Transit. Their work explores evolution, biotechnology, artificial intelligence, and the future of intelligent life. Ben John, PhD Chief Technology Officer of Digital Turbine and former Vice President of Engineering at Microsoft AI, where he led the Copilot data platform. He previously served as CTO of AppNexus and Xandr. We are imagining more than the future of AI. We are imagining who we will become. Come imagine it with us in Tulsa. Conference website: https://oru.edu/academics/cose/ai-and-the-imagination/",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, AI.",
       "publish": true
     },
     {
