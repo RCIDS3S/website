@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -20,15 +20,15 @@
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 17
-    },
-    {
-      "source": "CFPList: Graduate Conferences",
-      "count": 16
+      "count": 18
     },
     {
       "source": "ACLS Competitions and Deadlines",
       "count": 16
+    },
+    {
+      "source": "CFPList: Graduate Conferences",
+      "count": 15
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -55,10 +55,6 @@
       "count": 9
     },
     {
-      "source": "UPenn CFP: Professional Topics",
-      "count": 7
-    },
-    {
       "source": "UPenn CFP: Theory",
       "count": 7
     },
@@ -69,6 +65,10 @@
     {
       "source": "UPenn CFP: Modernist Studies",
       "count": 6
+    },
+    {
+      "source": "UPenn CFP: Professional Topics",
+      "count": 5
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
@@ -87,6 +87,14 @@
       "count": 4
     },
     {
+      "source": "CFPList: Philosophy",
+      "count": 3
+    },
+    {
+      "source": "CFPList",
+      "count": 3
+    },
+    {
       "source": "UPenn CFP: African American",
       "count": 3
     },
@@ -99,19 +107,15 @@
       "count": 2
     },
     {
-      "source": "CFPList: Philosophy",
-      "count": 2
-    },
-    {
-      "source": "CFPList",
-      "count": 2
-    },
-    {
       "source": "UPenn CFP: Pedagogy",
       "count": 2
     },
     {
       "source": "UPenn CFP: Interdisciplinary",
+      "count": 2
+    },
+    {
+      "source": "CFPList: Technical Communication Search",
       "count": 2
     },
     {
@@ -124,10 +128,6 @@
     },
     {
       "source": "UPenn CFP: International Conferences",
-      "count": 1
-    },
-    {
-      "source": "CFPList: Technical Communication Search",
       "count": 1
     },
     {
@@ -151,7 +151,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50170",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-01-31",
       "location": "CFPList",
       "status": "open",
@@ -178,7 +178,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -202,7 +202,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -220,36 +220,13 @@
       "publish": true
     },
     {
-      "title": "Institutionalizing Censorship: Governing Knowledge, Constraining Mobility",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Professional Topics",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108500",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-18",
-      "eventDate": "2027-06-26",
-      "location": "Law and Society Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Participants are sought for a virtual roundtable at the Law and Society Association Global Meeting (Hong Kong) on June 26, 2027 examining how law is interpreted, translated, and given practical effect within universities—and how institutional actors may extend, reshape, or selectively invoke legal mandates in governing academic knowledge.",
-      "fullDescription": "Participants are sought for a virtual roundtable at the Law and Society Association Global Meeting (Hong Kong) on June 26, 2027 examining how law is interpreted, translated, and given practical effect within universities—and how institutional actors may extend, reshape, or selectively invoke legal mandates in governing academic knowledge.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities (NeMLA)",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -273,7 +250,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -298,7 +275,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50192",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "Zadar · University of Zadar",
       "status": "open",
@@ -322,7 +299,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50082",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "· American Comparative Literature Association",
       "status": "open",
@@ -346,7 +323,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49758",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-03",
       "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
       "status": "open",
@@ -369,7 +346,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -393,7 +370,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50231",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-15",
       "location": "Virtual · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -416,7 +393,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -439,7 +416,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50429",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Providence, RI · NeMLA (Northeast Modern Language Association)",
       "status": "open",
@@ -463,7 +440,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -486,7 +463,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -509,7 +486,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50311",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-10-20",
       "location": "N/A · British Association for Chinese Studies",
       "status": "open",
@@ -532,7 +509,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -556,7 +533,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -579,7 +556,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -602,7 +579,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -625,7 +602,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -648,7 +625,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -665,36 +642,13 @@
       "publish": true
     },
     {
-      "title": "Narrating the Self Today: Contemporary Directions in Biography, Memoir, and Life Writing",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/48930",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
-      "eventDate": "2026-11-12",
-      "location": "Seattle, WA · PAMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays and creative nonfiction/memoir submissions accompanied by a brief meta-analysis. Potential topics incl...",
-      "fullDescription": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays and creative nonfiction/memoir submissions accompanied by a brief meta-analysis. Potential topics include, but are not limited to, autoethnography, digital self-representation, intersectional approaches to life writing, and the emerging impacts of technological shifts-such as generative AI-on authorship and equity. Desctription : How do we articulate, preserve, and present our lived experiences in an era marked by rapid cultural and technological change? Aligning with the conference theme, \"Our Ruling Classes: Culture, Power and Conflict,\" this roundtable invites participants to investigate the shifting landscape of life writing across textual, digital, and visual formats. To foster a vibrant, multi-voiced dialogue, we encourage submissions from a wide range of perspectives, including traditional literary criticism, biographical studies, and creative pieces that feature a reflective or meta-analytical component. Presenters will deliver brief, 10-to-12-minute talks to maximize time for collective discussion. Link for submissions: https://pamla.ballastacademic.com/Home/S/20174 Submission Deadline: June 30, 2026 Conference format: In Person, in Seattle. No provision for virtual presentations If you have any queries, please reach out to the undersigned: Dr. Meghna Gangadharan Presiding Officer, \"Narrating the Self Today\" Email: phd1901261010@alum.iiti.ac.in",
-      "relevance": "Automatically surfaced as a possible RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "CfP \"Building Bridges: Preparing for Global Business\"(39th Annual IATEFL BESIG Conference)",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -717,7 +671,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -743,7 +697,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -767,7 +721,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -790,7 +744,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -813,7 +767,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -836,7 +790,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -860,7 +814,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -884,7 +838,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -907,7 +861,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -930,7 +884,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -953,7 +907,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -976,7 +930,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49340",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2026-11-09",
       "location": "V&A East Storehouse · British Association for American Studies",
       "status": "open",
@@ -999,7 +953,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -1022,7 +976,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49395",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-18",
+      "deadline": "2026-10-19",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -1882,6 +1836,30 @@
       "publish": true
     },
     {
+      "title": "Anurag Kashyap: Auteurship, Industry and Post-Liberalization Indian Cinema",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50549",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-31",
+      "eventDate": "2027-10-31",
+      "location": "N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Anurag Kashyap, as an Indian film director, is to be identified as one who found himself in the crosshairs of transforming social-relations in post-liberalisation urban India and that of fast changing reception of Bollywood cinema in the wake of globalization. While Kashyap, incidentally, first tasted success in 1998, for the script to Ram Gopal Varma's '...",
+      "fullDescription": "Anurag Kashyap, as an Indian film director, is to be identified as one who found himself in the crosshairs of transforming social-relations in post-liberalisation urban India and that of fast changing reception of Bollywood cinema in the wake of globalization. While Kashyap, incidentally, first tasted success in 1998, for the script to Ram Gopal Varma's 'Satya', it has to be noted that the trajectory of his acknowledgement as an auteur-director has neither been consistent nor the most traditional in the strictest sense of reception. Therefore, productions, such as 'Paanch' (2000), 'No Smoking' (2007), or even for that matter 'Gulaal' (2009) received very little attention, only to be declared to be of immense 'cult' value a decade or so later. His filmic oeuvre, often considered to be a part of 'Hat-Ke films' (Biswas, 2019), 'Non-Bollywood cinema' (M. Madhava Prasad, 2013), or even 'Mumbai Middlebrow\" (Devasundram, 2016); wherein, the self-consciousness of being 'global' in terms of consumption of 'World Cinema' and producing 'Bollywood' films intertwine with each other, thereby creating a disruption to the narrative flow of films by interrogating the pre-Economic Liberalisation grand récit of nation, family and gender. This self-consciousness could be identified, as a possible reformulation of the binaries of 'Global' and 'Bollywood' to replace that of the 'national' and the 'modern'. With his involvement in the Anurag Kashyap Films (2005-present) and Phantom Studios (Formerly Phantom Films, 2010-2018), Anurag Kashyap began to be hailed as one of the sincerest and well-respected 'auteurs' of neoliberal Bollywood, wherein his films have not only remained a permanent fixture in foreign film festival circuits, and has promoted newer directors such as Vikramaditya Motwane, Bejoy Nambiar, Neeraj Ghaywan and debuts of 'bankable' actors such as Vicky Kaushal. Having been an outsider himself within the Bollywood social habitus, Kashyap's meteoric yet inconsistent rise from the margins to the centerfold of Bollywood, where in the global flows of corporate capital meet the self-conscious cinematic of the internationally respected auteur, augments the neoliberal mode of cinematic consumption and its marketability in the best possible way. The proposal for this volume has already been peer reviewed once by a publisher of international acclaim. Based on the recommendations of the same, we are presently, ONLY AND EXCLUSIVELY looking for papers on the following topics/films: · Anurag Kashyap's OTT productions (ex. Sacred Games, Nishaanchi, Bad Cop and other minor ventures. We are looking for atleast one dedicated contribution on Sacred Games) · \"Paanch\" (2003) · \"Kennedy\" (2023) · Gender Politics vis-&agrave;-vis formation of women characters/ feminine agency in his films. (excluding Gulaal and Gangs of Wasseypur, for which we already have enough contributions) · Global reception of Anurag Kashyap's filmography through film festival circuits and international circulation. PLEASE NOTE THAT WE ALREADY HAVE ENOUGH PAPERS ON GULAAL AND GANGS OF WASSEYPUR, LIKEWISE WE WOULD NOT BE ABLE TO ENTERNTAIN ANY NEW CONTRIBUTIONS ON THEM. We have as of yet garnered interest from an academic publisher on international repute. This cfp is thus in keeping with the initial peer review responses received on the proposal. This volume will be edited by Dr. Devapriya Sanyal (Assistant Professor, Department of English, St. Joseph's University) and Rajarshi Roy (Assistant Professor, Department of English, Vivekananda Satavarshiki Mahavidyalaya). Please email your proposals of around 250--300 words to ak1anthology@gmail.com by 30th October, 2026. Subsequent decision would be communicated on a rolling basis. Prospective contributors will be expected to submit their full chapters of (approximately) 6,000-7000 words including endnotes (referenced in Chicago style) by 15th November , 2026. Please note that while we encourage contributions from all social cultural dispensations, we are ideally looking for contributors who presently have completed and received their doctoral degrees. Devapriya Sanyal is Assistant Professor in School of Communication and media Studies, St. Joseph's University, Bangalore where she teaches film studies, and literature and researches on Film, Gender Studies, Urban Studies and Environmental Humanities. She is the author of several books on film and gender such as Failed Masculinities: The Men in Satyajit Ray's Films (Edinburgh University Press), Gendered Modernity and Indian Cinema: The Women in Satyajit Ray's Films (Routledge, UK), Salman Khan: The Man, The Actor, The Legend (Bloomsbury, India) and Through the Eyes of a Cinematographer: The Biography of Soumendu Roy(Harper Collins).Her latest books on post-independence Hindi film directors titled Bollywood and the First Decade of Independence: Seven Directors in Search of a Nation was published by Routledge UK in July 2025 and about the woman film director Aparna Sen titled Aparna Sen: A Life in Cinema was published by Rupa in August 2025. Her writings have appeared in national and international journals. She has degrees in English and Film Studies from Lady Brabourne College and JNU. Dr. Rajarshi Roy serves as an Assistant Professor at the Department of English, Vivekananda Satavarshiki Mahavidyalaya, Jhargram. He has been awarded a doctorate for his thesis titled 'The 'faithful' Republic and its representations in Indian literary and public discourses: A Study of the changing natures of secularism in post-Independence India', which is prersently under a monograph contract with Springer Nature. He is also one of the editors of the \"Green Tagore\" series under contract to be published from Peter Lang. He has in the past, been a recipient of the UGC-RUSA 2.0 fellowship to translate Prasanta Kumar Paul's 'Rabijibani' to English from Bangla. He also serves as an Editor (Consulting), Persons with Special Needs and Rehabilitation Management: Issues in Cultural Diversity and Wellbeing, Jadavpur University.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Theory.",
+      "publish": true
+    },
+    {
       "title": "Combat PTSD in Literature",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
@@ -2050,6 +2028,29 @@
       "publish": true
     },
     {
+      "title": "PJWS Volume – 6, Issue 2, November 2026",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50546",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-31",
+      "eventDate": "2027-10-31",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 20,
+      "fields": [
+        "Publication"
+      ],
+      "excerpt": "Aims and Scope of the Journal Pandian Journal of Women's Studies - (PJWS) E-ISSN 2583-715X is an open-access journal from the patronization of Pandian Educational Trust, Virudhunagar, Tamil Nadu, India. As a research journal, PJWS publishes quality based research articles from the literature, non-fictional works, empirical study reports, case studies, sho...",
+      "fullDescription": "Aims and Scope of the Journal Pandian Journal of Women's Studies - (PJWS) E-ISSN 2583-715X is an open-access journal from the patronization of Pandian Educational Trust, Virudhunagar, Tamil Nadu, India. As a research journal, PJWS publishes quality based research articles from the literature, non-fictional works, empirical study reports, case studies, short communications and other related fields to supplement the educational gap of the academic professionals in the discipline of Women's writing and Gender studies. PJWS follows a double-blind peer-review model to keep unbiased results in its evaluation to all received manuscripts. Its aim is to propagate academic merit and integrity and to hover as one of the best women studies journals in the arena of women's studies. PJWS is a pioneer Gold Open Access Journal. From its inception, it contributes to make the academic content freely available via the Trust site and other scholarly harvesting databases. The journal follows The Budapest Open Access Initiative (BOAI) https://www.budapestopenaccessinitiative.org/ to ensure free availability of articles in public internet, permitting all to search, read, download, copy, distribute, print, link the full texts of articles (PDF & other formats), indexing, data to other software, use them for lawful purposes, without financial and legal or technical barriers with proper attribution to the author. Now, the journal is published in electronic format and preserved in the trust website with permanent preservation facility and public access. Introduction of Publication model The journal follows Calender Year Schedule from January to December Cycle to publish the Journal volume and Issues. It is bi-yearly and publishes two Issues per year on May and November. Author Guidelines PJWS is a scholarly journal published in the month of May and November. The journal is pleased to accept submission of manuscripts in the fields of Women's Studies and other related fields and other related fields from all over the world. PJWS is a peer-reviewed open access journal that publishes research articles in Women's Studies. It is publicly accessible via the trust Website and other partner scholarly databases and permanently archived in Internet Archive. The manuscripts ought to be original works written in English and Tamil Language. The text length limit should be of minimum 2000 to 4000 words. Include the following primary information in the manuscript for submission: title, author(s) name, job title, affiliation, email id, abstract (200-300 words), and five keywords. For Tamil written articles, Title, abstract, Keywords (5), Transliteration of references in English is mandatory. there ought to be references from the past five years to ensure the novel nature of the research paper. All manuscripts must follow the latest form of MLA or APA Style Guide for documentation. Authors must obtain the copyright clearance in case of utilizing any copyrighted material used in their manuscripts. The trust, publisher or journal editorial board resumes no responsibility for authors' unsolicited use of copyrighted materials in preparing their manuscripts and the consequences liable to the author. Authors who publish with PJWS agree to the following terms: Authors retain the copyright and grant the journal non-exclusive publishing rights with the article simultaneously licensed under a Creative Commons CC-BY 4.0 license that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal to ensure free availability of articles in public internet, permitting all to search, read, download, copy, distribute, print, link the full texts of articles (PDF & other formats), indexing, data to other software, use them for lawful purposes, without financial and legal or technical barriers with proper attribution to the author.While republication, the authors should completely acknowledge the original publication of the work in PJWS. By agreeing to the terms of PJWS, the authors agree that the journal can publish the manuscript in the journal, reproduce, distribute the manuscript in printed, electronic or in other mediums, provide access to the manuscript in electronic databases through Internet and other forms. It adopts the CC BY under Creative Commons Attributions 4.0 International license for open access attribution. Authors receive PDF copy of the issue and an e-publication certificate. The publishing of PJWS is sponsored by Pandian Educational Trust and does not accumulate any other charges rather than APC and adopts Gold Open Access Model. It collects 2000 INR as Article processing charges (APC) for technical work from the authors. However, waivers will be given to research scholars and deserving academicians of the field. PJWS accepts manuscript submissions through the online submission system. The manuscripts should be prepared in Microsoft Word format (MS Word) and be sent to president@pandianeducationaltrust.com. All correspondence in regard to manuscript submission should be through the mail same mail id. Submission Preparation Checklist As a vital part of the submission process, the authors are insisted to check their manuscript for submission with compliance to the following items and the submissions that are not perfect as per the guidelines would be declined. The submission must not be previously published, nor in simultaneous submission to any other journal for consideration. The submission file is in Microsoft Word. ORCiD Language of the article ought to be academic. Parenthetical documentation, Proper Bibliographic references, URL or DOI for the electronic references have to be provided as per MLA or APA Style guidelines. The text should be single-spaced: uses Times New Roman Type Face and 12 point font; use italics wherever necessary (Original Books, Journal Titles), don't underline (except URL addresses). All types of illustrations, figures, and tables ought to be placed within the text at the appropriate points in alignment to the document, avoid giving them at the end. The text must adhere to the stylistic and bibliographic requirements as outlined as in the Author Guidelines according to the MLA or APA Style. Release / Peer-review Policy Research articles will be published online only. Research articles are subjected to double blind peer-review method. PDF documents will be published on the Internet only after the reviewed articles have been evaluated for originality, novelty and other ethical principles in research and publishing methods. Anti-plagiarism Policy All article will be screened initially for plagiarism. The journal views plagiarism as an injustice to a scholar's intellectual knowledge. Proper attribution is expected. If there is plagiarism in the work of the researchers, the editorial board will reject the article. Is any found after publication, it will be retracted. Open access Policy Our Open access Policy allows our journal readers to honestly search, read, download, copy, and link articles. Archival Policy Our journal adopts a constant policy to deposit the full issues in Internet Archive for the Long-term preservation service. License Our journal adopts CC BY Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/ benefit. It allows real works to be used, distributed and redesigned with appropriate attribution methods. Every work is licensed under a Creative Commons Attribution 4.0 International License. Copyright If the article is accepted for publication, authors will continue to retain their copyright of the published article. NOTE: NO APC MLA, DOAJ, OPF, INFO PORT, ROAD, Indexed",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
+      "publish": false
+    },
+    {
       "title": "Esotericism, Occultism, and Magic at Southwest Popular/American Culture Association, Feb 17-20, Albuquerque, New Mexico",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
@@ -2122,6 +2123,29 @@
       "publish": true
     },
     {
+      "title": "Yale 6th Annual Disability and Accessibility Symposium",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108362",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-01",
+      "eventDate": "",
+      "location": "Disability and Accessibility at Yale Symposium",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "Yale 6th Annual Symposium for Accessibility and Disability: Call for Proposals Crip Translations: Access, Technology, Context",
+      "fullDescription": "Yale 6th Annual Symposium for Accessibility and Disability: Call for Proposals Crip Translations: Access, Technology, Context",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
       "title": "CFP: TECHGNOSIS, Critical Themes 2027 (Graduate Student Conference)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theory",
@@ -2143,29 +2167,6 @@
       "excerpt": "Critical Themes 2027 Call For Papers / Submit here Graduate Student Conference @ MA Media Studies, The New School Tech-gnosis “Belief is the wound that knowledge heals.” ― Ursula K. Le Guin",
       "fullDescription": "Critical Themes 2027 Call For Papers / Submit here Graduate Student Conference @ MA Media Studies, The New School Tech-gnosis “Belief is the wound that knowledge heals.” ― Ursula K. Le Guin",
       "relevance": "Automatically surfaced as a strong RCID fit across Theory.",
-      "publish": true
-    },
-    {
-      "title": "Yale 6th Annual Disability and Accessibility Symposium",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Professional Topics",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108362",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "",
-      "location": "Disability and Accessibility at Yale Symposium",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Yale 6th Annual Symposium for Accessibility and Disability: Call for Proposals Crip Translations: Access, Technology, Context",
-      "fullDescription": "Yale 6th Annual Symposium for Accessibility and Disability: Call for Proposals Crip Translations: Access, Technology, Context",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -2999,7 +3000,6 @@
       "fields": [
         "Digital Humanities / Design",
         "Film / Media",
-        "Theory",
         "Interdisciplinary"
       ],
       "excerpt": "Heidelberg Center for American Studies Annual Interdisciplinary Spring Academy Conference Heidelberg, Germany, April 5-9, 2027 Call for Papers The Heidelberg Center for American Studies (HCA) invites applications for its annual Spring Academy on American Culture, Economics, Geography, History, Literature, Politics, and Religion to be held from April 5-9,...",
@@ -3286,9 +3286,9 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Interdisciplinary",
         "Film / Media",
-        "Theory"
+        "Theory",
+        "Interdisciplinary"
       ],
       "excerpt": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018; 2024). Situated within the Florentine context, this conference offers fertile gr...",
       "fullDescription": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018; 2024). Situated within the Florentine context, this conference offers fertile ground for cross-pollination between Florence and other destinations concerned with how Destination Managers and Destination Management Organizations (DMOs) can be pivotal actors, agencies, and organizations committed to a more just, sustainable, and responsible mobile world. As the politics of mobility play out in real time through the bodies and streets, we see local, national and transnational governance struggle to keep pace with the impacts and drivers of climate change, urbanization, and migration. All the while we watch as mass tourism and overtourism thread impacts through micro, meso, and macro scales. Simultaneously, migrants, refugees, asylum seekers, undocumented, stateless, and trafficked persons experience increasing pressures and injustices through the same forces that support the most mobility privileged in global tourist flows. In this entangled web of mobility regimes and infrastructures, it is important to examine where travel and tourism have historically been a cultural force for promoting peace and dialogue, as much as examining where conflict, friction, and tensions have arisen from them. Destinations offer an opportunity to analyze and intervene at specific sites of human migrations and mobilities, and what in hopes of more just tourism mobilities in destinations across the world. Florence is no stranger to conflicts over tourism mobilities and tensions within its unique identity as a site of global patrimony. As a destination caught in the crosshairs of its rich past and an uncertain future in this age of polycrisis, conflicting representations and identities intersect, diverge, and weave a complex social fabric. Destination Management offers a targeted lens through which to interrogate the relation between global travel, tourism and mobility justice in Florence and beyond. As a UNESCO World Heritage Site, Florence represents a rich cultural tourism destination that is increasingly impacted by increasingly global flows and circulations of people, objects, artifacts, information, resources and capital. It has resulted in intersecting crises of housing displacement and homelessness, food insecurity, growing civil protest, increasing environmental resource and climatic constraints, uneven distribution of tourist fluxes between major and minor cultural sites, and loss of local goodwill in response to the immobilities created by tourism. This conference seeks to bring to light the complexities of questions of justice in a hypermobile world. How does one respect cultural heritage while local peoples and cultures suffer across so many dimensions, often deprived of their cultural rights, unable to access their own heritage sites? How do we support human and more-than-human futures, adaptable and responsive to environmental constraints, changes, and challenges? Many questions arise that require interdisciplinary perspectives. We invite papers to contribute to the emerging field of Destination Management, focusing on the intersections of issues in social, cultural, environmental, and mobility justice within the roles and responsibilities of Destination Managers and DMOs (Destination Management Organizations). We welcome a wide range of disciplinary perspectives and methods, including case study analyses, historical or contemporary mobilities, and theoretical contributions that are committed to exploring what Justice means within Destination Management theory and practice. Thematically, we ask contributors to examine how questions of justice can be integrated into interdisciplinary Destination Management scholarship that contend with the domains of travel and tourism. Submissions can include both normative and empirical research broadly relevant to informing questions of Justice and Mobilities, and can broadly range from social sciences, STEM, humanities, and arts fields, and present either contemporary or historical perspectives. We aim to explore where various areas of justice can be connected to the objectives of Destination Management research as a growing interdisciplinary field. We encourage scholars and practitioners to investigate the applicability of distributive, deliberative, procedural, restorative, and epistemic justice in the framework of their presented contributions. We are interested in case studies which either (A) center their analyses on Florence, Italy (or the region of Tuscany) in order to seek translatable and transversal solutions for other destinations, or (B) center on global destinations beyond that bring critical insight into the issues facing Florence. We are seeking to find \"common ground\" amongst the examined problem spaces that exist across destinations to build a growing literature concerned with promoting Mobility Justice within Destination Management. Theoretical contributions should include insight or practical application to transversal issues across Florence and other destinations. SUBMISSION GUIDELINES: We ask for 300-word abstracts, submitted with a separate cover page that includes title, name, affiliation, and a short bio of the author(s) of a maximum of 300 words, which can be submitted to dstm@gonzaga.edu by November 25th, 2026. The conference will be held from March 11th to 12th at Gonzaga in Florence, a school of Gonzaga University based in the historic center of the city of Florence. It will be open to the public, by registration. There will be no registration fee to attend the conference. As our inaugural conference, we are unable to offer travel funds at this time. Topical Areas: 1. Mobility Justice (motility, capabilities approach, migration, transport, space, accessibility, flows) a. Migration, refugees, stateless persons, human trafficking and modern day slavery b. Critical Disability Studies & mobility infrastructures for travel & tourism industries c. The Right to the City, labour, and yransportation equity d. Mobility, technological transformation, and electrification e. Climate Mobility Justice and immigration/refugee crises 2. Social Justice (intersectionality, human rights, kinopolitics distributive justice, reparation, processual justice) a. Indigenous Rights and Land Consent b. Human rights Abuses in the travel and tourism industry c. Intercultural exchange for responsible, sustainable, and peace tourism d. Reparative justice, public policy, media, and communications e. Critical Disability Studies and transport justice 3. Cultural Justice: (heritage studies, restoration and repatriation, cultural property, political ecology) a. Art, antiquities, museum studies, and decolonization b. Cultural heritage, human rights, and access to culture c. Cultural property trafficking, return and restitution, reclamation, and reparations d. Museum security, contemporary eco-vandalism and protest movements e. Conflicts in historiography of heritage and Post-conflict reconstruction 4. Environmental Justice (environmental racism, geoengineering, pollution and carbon, biodiversity and reparations, More-than-human ethics): a. National parks, seascapes, urban green space, and depavement movements b. Plastic pollution, chemical colonialism, exposomics, and water protectors c. Protected habitats, ecotourism and politics of spared or shared land d. Agriculture, food Justice, \"The Commons\", land sovereignty, and eco-activism e. Botanical gardens, zoos, \"beasts of burden\", and more-than-human mobility Conference Organizers: Denise Regina Percequillo Hossom Gonzaga University Alesia Koush Gonzaga University UNESCO Chair - University of Siena",
@@ -3536,29 +3536,6 @@
       "excerpt": "Intégrité is a scholarly journal published biannually by the Faith and Learning Committee and the Humanities Division at Missouri Baptist University in St. Louis, Missouri. Published both online ( https://www.mobap.edu/about-mbu/publications/integrite/ ) and in print, it welcomes essays for a special issue (Fall 2027) on “Elvis Presley and Theology.” 2027...",
       "fullDescription": "Intégrité is a scholarly journal published biannually by the Faith and Learning Committee and the Humanities Division at Missouri Baptist University in St. Louis, Missouri. Published both online ( https://www.mobap.edu/about-mbu/publications/integrite/ ) and in print, it welcomes essays for a special issue (Fall 2027) on “Elvis Presley and Theology.” 2027 marks the 50th anniversary of Elvis Presley’s death on August 16, 1977.",
       "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Publication.",
-      "publish": true
-    },
-    {
-      "title": "Living with the Wild: Wildlife, Civilization, and the Trouble of Coexistence",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50394",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-30",
-      "eventDate": "2027-03-01",
-      "location": "University of Catania",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "Living with the Wild: Wildlife, Civilization, and the Trouble of Coexistence University of Catania, 1-3 March 2027 Abstract deadline: 30 November 2026 The final conference of the WILD-CONNECT project, Wildlife Circulation and the Enactment of Civilization in Diachronic Perspective, invites contributions exploring how relations between the \"wild\" and the \"...",
-      "fullDescription": "Living with the Wild: Wildlife, Civilization, and the Trouble of Coexistence University of Catania, 1-3 March 2027 Abstract deadline: 30 November 2026 The final conference of the WILD-CONNECT project, Wildlife Circulation and the Enactment of Civilization in Diachronic Perspective, invites contributions exploring how relations between the \"wild\" and the \"civilized\" have been shaped across historical, political, and cultural contexts. The conference approaches these categories as historically produced and mutually constitutive, and examines how their boundaries are continually renegotiated through institutions, practices, imaginaries, and material forms of life. We welcome contributions from anthropology, history, political ecology, environmental humanities, and related fields addressing wildlife circulation, control, transformation, and reintroduction, as well as the interconnected processes of dewilding and rewilding. Possible topics include domestication, conservation and ecological restoration; colonial and postcolonial wildlife governance; sovereignty, borders and wildlife circulation; everyday encounters with wildlife; scientific, legal and economic classifications of living beings; and the unintended consequences and limits of wildlife governance. The conference will feature keynote contributions by Vanessa Manceron (CNRS), Marcy Norton (University of Pennsylvania), and Erik G&oacute;mez-Baggethun (Norwegian University of Life Sciences). Accepted papers will be circulated among participants in advance, and contributions presented at the conference will be considered for inclusion in a collective volume or a special issue of an international journal in environmental humanities. Living_with_the_Wild_Call Please submit: an abstract of 300-400 words; a short biographical note of 100-150 words; institutional affiliation, if any, and contact details. Submissions should be sent to mara.benadusi@unict.it and lorenzo.coccoli@unict.it. Deadline : 30 November 2026 Notification of acceptance : 2 January 2027",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -3951,6 +3928,31 @@
       "publish": true
     },
     {
+      "title": "Comparative Visual Satire: Methodology, Subjectivity and the Global Gaze",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50554",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-06",
+      "eventDate": "2027-03-12",
+      "location": "Heidelberg",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Interdisciplinary",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Comparative Visual Satire: Methodology, Subjectivity and the Global Gaze An interdisciplinary workshop on caricature, iconography and the politics of seeing One-day workshop for graduate students at Heidelberg University - March 12, 2027 From novels, essays and plays to cartoons, music, paintings and internet culture, satire has always been society's one...",
+      "fullDescription": "Comparative Visual Satire: Methodology, Subjectivity and the Global Gaze An interdisciplinary workshop on caricature, iconography and the politics of seeing One-day workshop for graduate students at Heidelberg University - March 12, 2027 From novels, essays and plays to cartoons, music, paintings and internet culture, satire has always been society's one of the favourite tools for speaking uncomfortable truths. It travels across borders, opens doors into other cultures and illustrates political and social life. But above all, at its best, it makes us laugh. Yet the tools we use to read and compare satirical images remain largely inherited from Western traditions of iconographic analysis and rarely interrogate their own situatedness. How can visual forms of satire be studied academically? What are the methodological challenges involved in analysing cartoons from other cultures? How does the subject of study relate to the researcher and vice versa? This workshop takes these questions seriously. Bringing together PhD and postdoc scholars at different stages of their researches, the workshop aims to create space for methodological reflection alongside hands-on practice. We are particularly interested in what happens when analytical frameworks developed in one cultural context are applied to visual material produced in another and in building more honest, rigorous approaches to that challenge. As such, we invite researchers working across the fields of visual culture, media studies, art history, literature and cultural studies to join a focused workshop on the methodologies and critical challenges of studying visual satire comparatively and across cultural contexts. Which topics can be discussed Topics discussed in the workshop may include the following ones. Though, these do not constitute a limitation. Other topics and research objects are warmly welcomed! o Comics and caricatures o Satire on the internet o Cartoons (films, programmes and magazines) o Plays o Operas o Paintings and art o Buildings o Iconographic analysis of visual satire o Inter- and transmedia approaches o Comparative and cross-cultural frameworks o Practice-based and visual inquiry methods o Subjectivity and positionality o Race, gender and ethnicity in caricature o Identity frameworks and satirical representation o The Western gaze on non-Western material o Non-Western researcher's Western lens on non-Western material o Decolonising the satirical archive It doesn't matter how old the subject of study is or where in the world it comes from. One thread running through the workshop is the specific set of challenges that arise when Western-trained researchers engage with visual satire produced outside Western traditions. After the workshop, we will have collectively developed a working list of the critical issues and blind spots that this kind of research demands for our further research. Format The workshop deliberately avoids the conventional conference structure of presentations followed by brief questions. Instead, we're planning to use a fishbowl format: a participatory, non-hierarchical setup in which both invited contributors and all attendees engage as equals throughout the day discussing the research material. Each participant is invited to introduce a question, case study, methodological problem or provocation in approximately five minutes. This opening aims to be a starting point instead of a full presentation. What follows is a collective discussion in which everyone contributes from their own perspective, disciplinary background and research experience. Sessions will alternate between discussion and hands-on experimentation. We are convinced that that approach gives participants the opportunity to test ideas with visual material and to see how different analytical approaches produce different readings of the same image. Therefore, we encourage you to bring a sample of your research material with you. The whole workshop will be held in English. Who should attend This workshop is open to anyone whose work touches on visual satire, caricature or illustrated media whether from art history, media studies, cultural studies, postcolonial studies, journalism studies or adjacent fields. We welcome researchers especially at early career stages and PhD students and particularly encourage participation from scholars working on non-Western or underrepresented satirical traditions. Location and time The workshop will take place over one day in Heidelberg on March 12, 2027. The venue will be the Käthe Leichter Forum, Im Neuenheimer Feld 370, 69120 Heidelberg. How to apply We ask anyone interested to submit a brief application to Gamze [gamzealtinyaprak.h@uni-heidelberg.de] and Alexander [alexander.reindl@ori.uni-heidelberg.de] by December 6, 2026. Applications should include: o a short paragraph (150-200 words) describing your research topic and subject; o a brief biography (50-100 words); o a research object/problem you want to discuss in the plenary. We look forward to receiving your applications and will get back to you with our decision by December 21, 2026 with further details. Don't hesitate to contact us if you have any questions regarding the workshop or the application.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "\"Lost and Found\"-Univeristy of Maryland Graduate English Conference 2027",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Graduate Conferences",
@@ -4086,9 +4088,7 @@
       "fields": [
         "Digital Humanities / Design",
         "Publication",
-        "Art / Media Practice",
-        "Film / Media",
-        "Theory"
+        "Art / Media Practice"
       ],
       "excerpt": "Call for Chapters: One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft For thousands of years, embroidery and embroidered work have been used as a mode of visual storytelling and of documenting national or cultural histories. From the 12000 years-old fiber...",
       "fullDescription": "Call for Chapters: One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft For thousands of years, embroidery and embroidered work have been used as a mode of visual storytelling and of documenting national or cultural histories. From the 12000 years-old fiberwork found in the Guitarrero Cave, to twine textile artwork of the Peruvian Norte Chico civilization of 2500 BCE, the thousands of years old Chinese silk thread embroidery, the decorative thread arts of the Indus Valley Civilization of 3000 BCE, the ancient Egyptian needlework of 1300 BCE, the Bayeux Tapestry of Norman conquest, and the thousands of years old embroidery and quilt work of the indigenous communities across the North and South Americas, human civilizations have woven and embroidered their histories and cultures and have archived everything for future generations. Embroidery has also functioned as a powerful trope of resistance narrative and rebellious vision. Marjorie Agos&iacute;n's iconic book, Tapestries of Hope recounts how Chilean women used embroidery and textile art as tools of resistance and rebellion during Pinochet's dictatorship. More recently, Kirstie McLeod's collaborative project \"The Red Dress\" brings together the needlework, voices, and stories of 380 individuals from 51 countries. Collectively, their embroidered experiences on a single red dress, across a range of expertise, positions, and languages, testify to human rights concerns around the world. In the context of underprivileged women from the global South, embroidery and needlework have been a source of financial freedom and a platform for women's social bonding and personal expressions. For example, cottage industries in Bangladesh, India, and many other South and East Asian countries have mobilized economically impoverished women into an active workforce and have turned embroidery and needlework into a booming business. In literature and media, embroidered works also provide intense narrative power. Adrienne Rich's \"Aunt Jennifer's Tigers\" and Rosa del Valle's tablecloth in Isabel Allende's The House of the Spirits, are two such examples. Embroidery has provided a pertinent motif for re-presenting folklore, myth, and collective memory in many countries, such as Bangladesh and India, where women's acts of illustrating folklores, personal loss and pain in quilts or narrating the mythical stories of the Ramayana and the Mahabharata through needlework are an essential part of their national and cultural history. Textile arts, embroidery and needlework function as narrative technologies that initiate individual, social, and political involvement. It invokes memory and provokes individuals to make or break myths regarding nation, narration, gender, identity, and/or human existence in the age of artificial intelligence. Against this extensive backdrop of embroidery as a narrative technology, we invite abstracts for a collection tentatively titled One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft. Tentative topic list for the paper (but is not limited to): Archiving history through embroidery Embroidery as narrative technology Embroidery as a trope of Agency and/or Identity Embroidery as a narrative of political resistance Embroidery as Storytelling Embroidery and human rights or social justice Embroidery and activism Embroidery and/in literature Embroidery and/as cultural identity Embroidery and/as visual narrative Embroidery and ecocriticism Myth, memory, and embroidery Retelling myth and re-presenting identity Women and embroidery Please send us your 150 words abstract with 3 key words and a 50-word bio by December 10, 2026. If accepted, we will request for the completed essay (minimum of 7000 words) by June 30, 2027. The anthology is expected to be published by a university press in the US. Looking forward to receiving your abstract at fayeza.hasanat@ucf.edu , cc farrah.cato@ucf.edu Sincerely, Dr. Fayeza Hasanat and Dr. Farrah Cato English Department University of Central Florida",
@@ -4103,7 +4103,7 @@
       "type": "Journal CFP",
       "deadlineType": "Submission",
       "deadline": "2026-12-11",
-      "eventDate": "2027-12-11",
+      "eventDate": "",
       "location": "Imagining the Impossible: international journal for the fantastic in contemporary media",
       "status": "open",
       "priority": "high",
@@ -4147,33 +4147,6 @@
       "publish": true
     },
     {
-      "title": "The Ghost in the Machine Learns to Speak for the Dead: AI, Rhetorical Resurrection, the the Injustice of Synthetic Voice",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108579",
-      "type": "Edited Collection",
-      "deadlineType": "Submission",
-      "deadline": "2026-12-15",
-      "eventDate": "2027-02-10",
-      "location": "University of Memphis",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 62,
-      "fields": [
-        "Rhetoric",
-        "AI",
-        "Publication",
-        "Digital Humanities / Design",
-        "Technical Communication"
-      ],
-      "excerpt": "CALL FOR CHAPTER PROPOSAL The Ghost in the Machine Learns to Speak for the Dead: AI, Rhetorical Resurrection, the Injustice of Synthetic Voice An edited Collection, edited by Shiva Hari Mainaly, PhD, University of Memphis Abstracts due December 15, 2026 The Dead are Speaking. Who Gave Them Their Words?",
-      "fullDescription": "CALL FOR CHAPTER PROPOSAL The Ghost in the Machine Learns to Speak for the Dead: AI, Rhetorical Resurrection, the Injustice of Synthetic Voice An edited Collection, edited by Shiva Hari Mainaly, PhD, University of Memphis Abstracts due December 15, 2026 The Dead are Speaking. Who Gave Them Their Words?",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, AI, Digital Humanities / Design, Publication.",
-      "publish": true
-    },
-    {
       "title": "Angelaki Theme Issue: Baudrillard Reconsidered (Call for Abstracts)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -4197,6 +4170,32 @@
       "excerpt": "CALL FOR ABSTRACTS: BAUDRILLARD RECONSIDERED This journal collection (c. 90,000 words) will be published as a theme issue of Angelaki: Journal of the Theoretical Humanities in January 2029 (34.1). Angelaki (established 1993, based in Oxford, UK) is an internationally known journal of European philosophy and literary and cultural theory and criticism publi...",
       "fullDescription": "CALL FOR ABSTRACTS: BAUDRILLARD RECONSIDERED This journal collection (c. 90,000 words) will be published as a theme issue of Angelaki: Journal of the Theoretical Humanities in January 2029 (34.1). Angelaki (established 1993, based in Oxford, UK) is an internationally known journal of European philosophy and literary and cultural theory and criticism published by Routledge. Since 2025 the journal is online only. Open access material allowing, all Angelaki theme issues are considered for publication as books in the Angelaki: New Work in the Theoretical Humanities series. 2025: 160,000 full-article downloads.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Theory, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "The Ghost in the Machine Learns to Speak for the Dead: AI, Rhetorical Resurrection, the the Injustice of Synthetic Voice",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50366",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-15",
+      "eventDate": "2027-02-10",
+      "location": "N/A · N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Rhetoric",
+        "AI",
+        "Publication",
+        "Technical Communication"
+      ],
+      "excerpt": "CALL FOR CHAPTER PROPOSAL The Ghost in the Machine Learns to Speak for the Dead: AI, Rhetorical Resurrection, the the Injustice of Synthetic Voice An edited Collection, edited by Shiva Hari Mainaly, PhD, University of Memphis Abstracts due December 15, 2026 The Dead are Speaking. Who Gave Them Their Words? In May 2025, a man killed in a road-rage shooting...",
+      "fullDescription": "CALL FOR CHAPTER PROPOSAL The Ghost in the Machine Learns to Speak for the Dead: AI, Rhetorical Resurrection, the the Injustice of Synthetic Voice An edited Collection, edited by Shiva Hari Mainaly, PhD, University of Memphis Abstracts due December 15, 2026 The Dead are Speaking. Who Gave Them Their Words? In May 2025, a man killed in a road-rage shooting appeared to address his killer at a sentencing hearing in an Arizona courtroom. His face, his voice, and his words of forgiveness were all generated by AI, scripted by his family, and accepted by the judge. The moment moved some and deeply unsettled others. It also signaled what was to come. Generative AI can now produce convincing speech in the voices of the dead, from grief chatbots that let mourners \"talk\" with a lost parent to reconstructed testimonies of historical victims and posthumous \"final statements\" circulated online. A growing digital afterlife industry has turned the voices of the dead into products (Hollanek & Nowaczyk-Basi?ska, 2024; &Ouml;hman & Floridi, 2017), while deepfakes threaten the very idea of testimony as evidence (Chesney & Citron, 2019). This collection argues that AI resurrection is not a neutral technical feat. It is a rhetorical act, with speakers, audiences, purposes, and consequences. Rhetoric has long named this move: prosopopoeia, the figure that gives voice to the absent and the dead. What is new is its scale, its realism, and the authority it borrows. Building on the concept of phantom ethos, the fabricated credibility that AI lends to synthetic speech, we ask what happens when a machine speaks as someone who can no longer consent, correct, or refuse. These questions are not evenly distributed. Those most likely to be reanimated are often those already dispossessed of voice by histories of violence, colonialism, and erasure. Scholars have long warned about the ethics of speaking for others (Alcoff, 1991) and asked whether the subaltern can speak at all (Spivak, 1988). In particular, Saidiya Hartman (2008) has shown both the necessity and the danger of imagining lives the archive silenced. Today, such imagining can be automated, sold, and stripped of its care. When synthetic voice fills the archive's silences, it risks a new form of epistemic injustice (Fricker, 2007): the dead are made to testify, but not on their own terms. Since technologies encode the inequalities of their makers (Benjamin, 2019; Noble, 2018), we must ask whose voices are resurrected, whose are distorted, and whose are simply ignored. We invite chapters that offer a distinctly rhetorical intervention into a conversation now dominated by legal and computer science perspectives. We welcome theoretical, historical, critical, empirical, and pedagogical work, and we especially encourage contributions from scholars in the Global South, from Indigenous and minoritized communities, and from early-career researchers and graduate students. Guiding Questions Who holds the authority to speak for the dead, and how is that authority built, borrowed, or faked? What does consent mean for people who cannot give it? Who should decide: families, estates, communities, platforms, or states? How are courts, newsrooms, museums, and platforms using synthetic voice, and what counts as truth or testimony there? Whose voices are resurrected, and whose histories of violence make them especially vulnerable to reanimation? Can synthetic voice ever serve justice, memory, or repair? What would an ethical practice look like? How should we teach students to read, question, and resist synthetic testimony? Possible Topics We are organizing the collection around five clusters. Proposals may address one or several; topics beyond this list are warmly welcome. Part I. Theorizing Resurrected Voice ? Phantom ethos, synthetic credibility, and ethos without a body ? Prosopopoeia, apostrophe, and classical figures of speaking for the absent ? Hauntology, spectrality, and the rhetoric of the digital ghost (Derrida, 1994) ? Voice, timbre, race, and the politics of listening to machines (Eidsheim, 2019) Part II. Synthetic Testimony in Courts, Newsrooms, and Platforms ? AI-generated victim impact statements and deepfaked evidence ? Journalists \"interviewing\" AI recreations of the dead ? Documentaries, advertising, and cloned voices of deceased public figures ? Platform policies, labeling, and the governance of posthumous speech Part III. Grief, Memory, and the Digital Afterlife Industry ? Griefbots, deadbots, and the commercialization of mourning ? Consent, estates, and data rights after death ? Religious, cultural, and non-Western rituals of speaking with ancestors ? Museums, memorials, and interactive testimony projects Part IV. Voice, Violence, and Erasure: Who Gets Reanimated? ? Resurrecting victims of colonial, racial, and state violence ? Critical fabulation versus algorithmic fabrication in the archive ? Indigenous voices, sovereignty, and data governance ? Endangered languages, Global South speakers, and linguistic justice ? Gender, disability, and the reanimation of marginalized bodies and voices Part V. Pedagogy, Policy, and Resistance ? Teaching students to analyze synthetic media and testimony ? Technical and professional communication guidelines for synthetic voice ? Right of publicity, likeness laws, and AI policy ? Community-led refusal, counter-archives, and design justice approaches Why Contribute? ? Shape a new field. The rhetoric of AI resurrection is still largely unwritten. Your chapter can help define its vocabulary. ? Reach across disciplines. The collection speaks to rhetoric and composition, media studies, AI ethics, law, memory studies, and technical communication. ? Join a global conversation. We are building a volume that is international, interdisciplinary, and attentive to voices too often left out of AI debates. ? Receive thoughtful editorial support. Every accepted chapter will receive developmental feedback and peer review. Submission Guidelines Please send the following in a single Word document or PDF: ? A chapter title and an abstract of 300-500 words, not counting references ? Three to five keywords ? A short list of key references (optional) ? A biography of up to 100 words for each author, with affiliation and email Email submissions to shminaly@memphis.edu with the subject line \"CFP: Synthetic Voice Collection - [Your Last Name].\" Full chapters of 6,000-8,000 words, including references, will follow APA 7th edition style. Co-authored and interdisciplinary chapters are welcome. Please do not submit work that is published or under review elsewhere. Milestone Date Abstracts due December 15, 2026 Notification of acceptance January 31, 2027 Full chapters due June 30, 2027 Peer review and feedback to authors September 30, 2027 Revised Chapters due December 15, 2027 Final manuscript to publisher Early 2028",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Technical Communication, AI, Publication.",
       "publish": true
     },
     {
@@ -4645,8 +4644,7 @@
       "publishMode": "auto",
       "score": 38,
       "fields": [
-        "Digital Humanities / Design",
-        "Theory"
+        "Digital Humanities / Design"
       ],
       "excerpt": "Beginning in the nineteenth century, the world witnessed the emergence of national movements that advocated the construction of states founded upon the historical and cultural identity of peoples, as well as upon their independence and strategic autonomy. This wave, which manifested itself most prominently in the European revolutions of 1848, the so-calle...",
       "fullDescription": "Beginning in the nineteenth century, the world witnessed the emergence of national movements that advocated the construction of states founded upon the historical and cultural identity of peoples, as well as upon their independence and strategic autonomy. This wave, which manifested itself most prominently in the European revolutions of 1848, the so-called \"Springtime of the Peoples,\" produced a long-term historical impact - according to the principle of the longue durée - that influenced world political history in the decades that followed. This phenomenon was of enormous importance in the Western political sphere, having its precursors in the American Revolution and in the political epic of South American Bolivarianism, and gaining momentum from 1848 onward with the emergence of a whole series of European national movements. With the First World War, and with the promotion by Woodrow Wilson and the United States of the principle of \"self-determination of peoples,\" the same idea experienced a revival which, through Turkish Kemalism and the formation of the Chinese nationalist movement, extended into the non-Western world. Non-Western forms of this type of movement, in turn, had important precursors in anti-colonial movements, which, like European national movements, sought to secure independence and autonomy for broad sectors of the world subjected to foreign domination of an economic and extractive nature. During the twentieth century, the idea of national independence assumed various ideological and political forms, eventually giving rise to different theories of national autonomy and sovereignty, such as Mao Zedong's \"Three Worlds Theory.\" At the same time, the rise of communist revolutions and of the world socialist camp revitalized this political idea, generating new formulations of theories of national revolution. With this call for papers, we intend to collect contributions on the theme of national revolutions in the West and the East, considered both from a theoretical perspective - by examining the political thought of the authors who promoted these movements, as well as the movements themselves - and from the perspective of the relations among these movements and the elaboration of a political theory of coexistence among these political projects. We also intend to focus on the theories and practices of these movements from the perspective of international relations, both by analyzing national revolutions within the international context, in diplomatic and strategic terms, and by addressing the theoretical elaboration of an international order founded upon national independence. A non-exhaustive list of topics that may be addressed includes: Jacobinism and the emergence of the idea of national revolution in Europe The American Revolution and the national-revolutionary paradigm Bolivarianism and national revolution in Spanish America 1848 and the transformation of the national idea in Europe Mazzini and the theory of nationalities The Italian Risorgimento and its relationship with the great powers Bonapartism and national revolutions Self-determination of peoples and the international order after the First World War Kemalism and the Turkish national revolution&ugrave; The Soviet Revolution and the issue of nationalities Chinese nationalism and national revolution in the thought of Sun Yat-sen Nationalism and anti-imperialism in anti-colonial liberation movements Mao Zedong and the theory of national revolution National revolution and internationalism in Marxist and communist thought National sovereignty, the balance of power, and the international order National identity and international relations theory National movements and the opposition to a bipolar and unipolar world National movements and anti-colonial struggles in Africa Arab nationalism and movements for emancipation in the Middle East Indian nationalism and the struggle for independence National and revolutionary movements in twentieth-century Latin America Nationalisms in Southeast Asia and the dissolution of the colonial empire Proposals should contain a title, a brief summary or abstract of between 300 and 400 words, the author's email address, and a brief five-line CV. Proposals must be sent to the email address nationalrevolutionsintheworld@gmail.com The deadline for submitting proposals is December 31, 2026. Accepted proposals will be announced starting January 31, 2027, and editorial instructions for preparing the book chapter will be provided. The deadline for submitting the final version of the chapters will be a date to be determined in the first quarter of 2027. The monograph containing the selected and submitted book chapters will subsequently be published, following corrections and comments by the coordinators. The monograph is expected to be published by an international academic publishing house. Coordinators: Orazio Maria Gnerre (Institute for the History of the Italian Risorgimento) Ruikai Xue (Beijing International Studies University)",
@@ -4918,30 +4916,6 @@
       "excerpt": "The Journal for the New Narratives in the History of Philosophy (JNNHP) invites submissions for its special on Derrick Bell and the History of Africana Philosophy, to be published in Fall 2027. Derrick Bell, the founder of Critical Race Theory, produced one of the most innovative, insightful, and transformative ideas in the 20th century. His philosophical...",
       "fullDescription": "The Journal for the New Narratives in the History of Philosophy (JNNHP) invites submissions for its special on Derrick Bell and the History of Africana Philosophy, to be published in Fall 2027. Derrick Bell, the founder of Critical Race Theory, produced one of the most innovative, insightful, and transformative ideas in the 20th century. His philosophical insights continue to challenge how western liberal nations contend with questions of civil rights, human rights, immigration, policing, and education. Recent conservative attacks focused on Critical Race Theory (CRT) in the U.S, Canada, and England assert, albeit erroneously, that CRT is a Marxist and communist ideology that seeks to supplant western values and the ethos of liberal democracy. Contrary to these fallacious attacks, Bell's textbook Race, Racism, and American Law is amongst the first law textbooks to give a comprehensive view of how racism shaped the development of American law and race relations. In this regard, CRT draws heavily on a tradition of Africana philosophy from slavery through the 20th century. It challenges, not only the supposed neutrality of U.S. law, but also the universality of western political ideals, and U.S. law as egalitarian. For example, Bell engaged Frederick Douglass's critiques of natural law theorists and abolitionists who read the American Constitution as a slave document. For Douglass, the Constitution is an economic contract that robs slaves of their labour and property rights. Drawing on Douglass' critique, Bell interrogated how economic interests have structured American law as an instrument for white class interests over Black claims for justice from slavery through the 20th century. Similarly, Bell engaged W.E.B DuBois's reading of American democracy that underscored how U.S. law in the 13 colonies suppressed African revolts while upholding slavery. Such legal resistance to African acts of liberation, Dubois argued, created paradoxes for American democracy and shaped how the legal system understood the Black freedom struggle. Following Dubois' analysis, Bell explored how the law is an ineffective tool for racial remediation when it comes to addressing social injustices that confront Black life. Bell also engaged Malcolm X's critiques of the Reconstruction era civil rights and 1960 civil rights amendments as pyrrhic victories. This inspired Bell to think about how civil rights function as symbolic victories while ensuring racism is a permanent fixture of American democracy. Given Bell's extensive engagement with 18th-20th century Africana philosophy, this special seeks to consider Bell's work within Africana philosophy. As such, the special welcomes essays that focus on Bell's work as philosophical historiography and inquiry into Black life and its relation to democracy as part of the long tradition of Africana philosophy. The special seeks contributions that address the following themes: Derrick Bell as a philosopher of Black history. Derrick Bell as a philosopher of Black legal theory. Derrick Bell and the Black Nationalist and the Black Radical Tradition. Derrick Bell as a philosopher of Black Education. Derrick Bell as a philosopher of contemporary society and issue of civil rights. Essays must be submitted to https://journal.lib.uoguelph.ca/index.php/nnhp/about/submissions Deadline for Essay Submission: January 7th, 2027. Papers will be considered after January 7th, 2027. The Co-lead Guest Editors for this Special are Drs. Dalitso Ruwe (Queens University), Adebayo Oluwayomi (West Chester University), Andrew Soto (Hartnell College). For questions about the Special, please contact: derrickbellspecial@gmail.com JNNHP is an open-access online journal committed to publishing papers on underrepresented figures or themes in the history of philosophy, both Western and non-Western traditions, from the ancient period to the mid-20th century. JNNHP accepts papers in English and French. Papers should be no more than 10000 words. JNNHP also seeks to highlight relevant translations, archival work or new editions of primary texts in progress. We will publish selections from such works, with critical notes and contextual introductions.",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory, Publication.",
-      "publish": true
-    },
-    {
-      "title": "Affective Worlds: Emotions and Aesthetics in Afro-Descendant Women’s Writing International Conference",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50405",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-10",
-      "eventDate": "2027-05-24",
-      "location": "Vrije Universiteit Brussel (Brussels, Belgium) · Vrije Universiteit Brussel",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "CALL FOR PAPERS Affective Worlds: Emotions and Aesthetics in Afro-Descendant Women's Writing International Conference 24-25 May 2027, Vrije Universiteit Brussel (Belgium) Format: in person Language: English Link to the CfP : https://clic.research.vub.be/afropemotions-international-conference The conference explores the role of affect, emotions, and aesthe...",
-      "fullDescription": "CALL FOR PAPERS Affective Worlds: Emotions and Aesthetics in Afro-Descendant Women's Writing International Conference 24-25 May 2027, Vrije Universiteit Brussel (Belgium) Format: in person Language: English Link to the CfP : https://clic.research.vub.be/afropemotions-international-conference The conference explores the role of affect, emotions, and aesthetics in the rich and diverse body of work published in the twentieth and twenty-first centuries by women writers of African heritage from African, European, Caribbean, and other diasporic contexts. The event examines how affect and emotions shape both the sociopolitical dimensions of Afro-descendant women's literature and its narrative and aesthetic practices across multiple linguistic, cultural, and historical contexts and through fiction, poetry, and drama. By often exploring issues of displacement, marginalisation, systemic oppression, colonial legacies, trauma, cultural memory, and environmental change, Afro-descendant women authors present affect as a site of self-awareness, resistance, community formation, and political imagination, while articulating it through narrative form, language, imagery, and other aesthetic strategies. The conference brings together established and early-career researchers working at the intersection of different fields, including affect studies, African and African diasporic literary studies, comparative literary studies, feminist and queer studies, postcolonial and decolonial studies, trauma and cultural memory studies, and the environmental humanities. While acknowledging theoretical distinctions between affect and emotion, particularly those developed in affect theory by scholars such as Tomkins (1962) and Massumi (2002), the conference welcomes literary criticism informed by diverse affective frameworks, such as cognitive and narratological perspectives on affect (e.g. Hogan 2003, 2011), sociopolitical approaches to affect and emotions (e.g. Ahmed 2004; Berlant 2011), and affective ecocriticism (e.g. Bladow and Ladino 2018). We invite papers exploring affect and emotions in Afro-descendant women's literature written in English, French, German, Italian, or other languages. Topics may include but are not limited to: Affective relations, transnational belonging, and diasporic identities Migration, displacement, and affective literary geographies Affect and gender, race, class, and sexuality Queer affects Affect, narrative form, and aesthetics Affect, language, multilingualism, and translation Emotions, trauma, and memory Collective affect, solidarity, and community formation Eco-emotions and environmental change Emotional responses to injustice, inequality, and systemic oppression Affect, embodiment, and resistance SUBMISSION GUIDELINES Please send proposals for 20-minute papers in English to Dr. Isabella Villanova (Isabella.Villanova@vub.be) and Prof. dr. Elisabeth Bekers (Elisabeth.Bekers@vub.be). Proposals should include: an abstract (max. 250 words), with up to 5 references, preferably in Chicago style; 5 keywords; a short biographical note (max. 100 words) Deadline for Proposal Submissions: 10 January 2027 Notification of Acceptance: 10 February 2027 Selected papers may be considered for publication in a special journal issue. Keynote: Prof. dr. Caroline Kögler (Freie Universität Berlin, Germany) Special Guest: Italo-Somali writer Ubah Cristina Ali Farah",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -5492,6 +5466,30 @@
       "publish": true
     },
     {
+      "title": "Criminal Skies: Aviation Crime, Culture and the Popular Imagination",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50552",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-02-28",
+      "eventDate": "2027-06-17",
+      "location": "Online · Aviation Cultures & PopCRN (the Popular Culture Research Network)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Aviation has long captured the cultural imagination as a symbol of freedom, technological progress, and global connectivity. Yet it has also provided the backdrop for stories of crime, transgression, mystery, and fear. From hijackings and sabotage to smuggling, cybercrime, and high-profile investigations, aviation crime has inspired enduring narratives ac...",
+      "fullDescription": "Aviation has long captured the cultural imagination as a symbol of freedom, technological progress, and global connectivity. Yet it has also provided the backdrop for stories of crime, transgression, mystery, and fear. From hijackings and sabotage to smuggling, cybercrime, and high-profile investigations, aviation crime has inspired enduring narratives across popular culture, shaping public perceptions of safety, risk, and justice. This symposium invites scholars, practitioners, researchers, writers, and creators to explore aviation crime as both a lived reality and a cultural phenomenon. We welcome contributions examining the representation and interpretation of aviation crime in popular culture, including film, television, literature, digital media, journalism, true crime, gaming, and public memory. Bringing together diverse perspectives, the symposium seeks to examine how aviation crime is represented, experienced, remembered, and imagined. We welcome papers from researchers across the academic spectrum and encourage papers from postgraduate researchers and early career researchers. Topics can include, but are not limited to: &bull; From headlines to Hollywood-Aviation Crime in Film, Television and Popular Media &bull; Who is DB Cooper?-Folklore, Myth and Unsolved Mysteries &bull; The Investigation continues-Journalism, True Crime and Public Memory &bull; Picture Perfect Crime-Art, Illustration and Visual Culture &bull; Paperbacks in the Seat Pocket-Fiction, Crime Writing and Literary Culture &bull; To be continued&hellip;-Comics, Graphic Novels and Popular Print &bull; If You See Something, Say Something-Security, Surveillance and Risk &bull; Going Viral-Digital Media, Social Networks and Online Communities &bull; Surely, you can't be serious?-Humour, Parody and Camp &bull; Crime at 30,000ft-New Directions in Aviation Crime Studies &bull; Flygirl, Femme Fatale, Fugitive-Women in aviation crime fiction and film To submit - please visit our portal to submit your 200-word abstract by 28 February 2027: Submission portal : https://unesurveys.au1.qualtrics.com/jfe/form/SV_8jjzaWnS732QsFE To register (free) : https://unesurveys.au1.qualtrics.com/jfe/form/SV_7TGWUYZidtlxVLU Please email queries to: info@aviationcultures.org",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "International Symposium on Exchanges and Mutual Learning Among Civilizations: Pearl S. Buck and the Future of Cross-Cultural Understanding",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Cultural Studies",
@@ -5531,8 +5529,8 @@
       "publishMode": "auto",
       "score": 38,
       "fields": [
-        "AI",
         "Film / Media",
+        "AI",
         "Theory",
         "Pedagogy"
       ],
@@ -5993,6 +5991,32 @@
       "fullDescription": "Eighteenth International Conference on The Image, Toronto Metropolitan University, Toronto, Canada, 13-15 October 2027 Founded in 2010, The Image Research Network is brought together around a shared interest in the nature and function of image making and images. We seek to build an epistemic community where we can make linkages across disciplinary, geographic, and cultural boundaries. As a Research Network, we are defined by our scope and concerns and motivated to build strategies for action framed by our shared themes and tensions. The Eighteenth International Conference on The Image will address the following annual themes and special focus: 2027 Special Focus-Images After the Real: Synthetic Media, Networked Circulation, and Artificial Meaning Theme 1: Synthetic Images and the New Realism Theme 2: Authorship, Aesthetics, and Computational Creativity Theme 3: Networked Circulation and Visual Publics Theme 4: Evidence, Ethics, and Visual Harm",
       "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
       "publish": false
+    },
+    {
+      "title": "evolution/technology/culture",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50550",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-09-15",
+      "eventDate": "2028-09-15",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "high",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "Digital Humanities / Design",
+        "Theory",
+        "Publication",
+        "Film / Media"
+      ],
+      "excerpt": "Dear Colleagues , On behalf of the Editorial Board of Er(r)go: Theory - Literature - Culture (100 points on the Polish Ministry of Science and Higher Education journal ranking; indexed in Scopus; Gold Open Access), as Guest Editors, we are pleased to invite you to submit contributions to the forthcoming issue of the journal: 57 (2/2028) - evolution/techno...",
+      "fullDescription": "Dear Colleagues , On behalf of the Editorial Board of Er(r)go: Theory - Literature - Culture (100 points on the Polish Ministry of Science and Higher Education journal ranking; indexed in Scopus; Gold Open Access), as Guest Editors, we are pleased to invite you to submit contributions to the forthcoming issue of the journal: 57 (2/2028) - evolution/technology/culture Guest edited by Piotr Gorli?ski-Kucik, Jerzy Stachowicz, and Weronika Nawrocka Submission deadline: 15 September 2027 https://journals.us.edu.pl/index.php/ERRGO/announcement/view/297 Submission link: https://journals.us.edu.pl/index.php/ERRGO/about/submissions How are we to think of evolution beyond biology today? And how can we avoid reducing it to the banal metaphor of progress? The development of civilization in the first decades of the twenty-first century has fostered an intensification of apocalyptic and dystopian modes of thought-yet this by no means precludes thinking in evolutionary terms. On the contrary: evolutionary thinking may offer a particularly productive way of describing ambiguous trends and sudden transformations. Evolutionism remains an indispensable component of modern social imaginaries, even when it is not always recognized or explicitly named as such. Evolution may be understood either as a gradual process or as an organizing principle governing transformations within complex systems, while evolutionism may be conceived as a body of methods and concepts employed to describe transformations in society, culture, and technology. The distinction, therefore, is between evolution as an object of inquiry and evolutionism as an analytical framework for describing processes of change. While Darwinism remains the dominant paradigm within the natural sciences, both transformist approaches and Lamarckism may prove intellectually generative within the humanities and social sciences. The phenomenon and discourse of evolution should be examined in relation to materialism, which conceives of evolution as an immanent process devoid of telos, as well as to new materialism, within which evolution may be understood as an ontology of the differentiation of forms, as the ceaseless production of zoe, and matter itself as living and self-organizing within a relational process of becoming. Other perspectives, however, are equally significant: within idealist or essentialist frameworks, evolution becomes inscribed within a broader metaphysical order. It is therefore also important to emphasize the connections between evolutionary theory and humanistic reflection on the nature and development of technology. The connections between evolutionary theory and humanistic reflection on the development of technology became apparent as early as four years after the publication of On the Origin of Species, with Samuel Butler's famous essay Darwin among the Machines (1863). In recent years, the debate over the place of technology within concepts of evolutionary development has gained particular intensity amid the latest wave of interest in AI. In this context, especially significant are the links between evolutionism and quasi-religious forms of transhumanism, progressivism, and accelerationism, as well as the question of the role these formations may play in ideological legitimization of techno-capital. How, then, can we describe the relations between evolution, technology, and culture without reducing them to a simple logic of progress? Does evolution remain a category for describing transformation, or does it also become a means of legitimizing it? How does its meaning change in the context of \"new new\" media, post-literacy, and the Anthropocene? We invite scholars in philosophy, literary studies, and other disciplines concerned with contemporary cultural forms and practices to address these problems. Within the broader reflection on the relations between evolution/technology/culture, we welcome submissions addressing, among others, the following issues: philosophies of evolution and philosophies of evolutionism evolution as a category for describing transformations within complex systems the subject and object of evolution evolutionism in the service of ideology new materialism and evolution as a process of becoming technology: from the Enlightenment to artificial intelligence evolution as a mode of thought, imagination, and social imaginary metaphysical and essentialist approaches to evolution transformations of media, post-literacy, and modes of information exchange evolutionism as a framework for diagnosing trends and processes of civilizational change Manuscripts, together with all required metadata, should be submitted via the OJS system by 15 September 2027, in accordance with the procedures described in the \"About the Journal\" and \"For Authors\" sections. Submissions must include: The Author's full name The Author's institutional affiliation The Author's ORCID number (www.orcid.org) The Author's website address, if applicable The Author's email address If the Author wishes to receive a complimentary hard copy of the journal, the postal address to which the copy should be sent The title of the article An abstract of 250-350 words A biographical note on the Author of 250-350 words Keywords (conforming to the WoS and SCOPUS standards) The academic discipline(s) represented The text of the article prepared in strict accordance with the Chicago Manual of Style (4,000-6,000 words) A bibliography of works cited prepared in strict accordance with the Chicago Manual of Style All illustrative materials in print-quality resolution (minimum 300 dpi) In the case of copyrighted visual materials, all relevant permissions or licences obtained by the Author A signed declaration concerning the use of artificial intelligence in the preparation of the manuscript, submitted together with the article and all required metadata Declaration concerning the use of Artificial Intelligence (click here to download the form) IMPORTANT: Incomplete submissions will be automatically rejected. FOR DETAILED TECHNICAL REQUIREMENTS, PLEASE CONSULT THE \"FOR AUTHORS\" SECTION. With kindest regards , Piotr Gorli?ski-Kucik, Jerzy Stachowicz, and Weronika Nawrocka",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design, Theory, Publication.",
+      "publish": true
     },
     {
       "title": "Call for Papers: ‘Fatness, Fashion and Profession in India’",
