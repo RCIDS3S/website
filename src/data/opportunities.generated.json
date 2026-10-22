@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -16,19 +16,19 @@
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 19
+      "count": 20
     },
     {
       "source": "CFPList: Rhetoric & Composition",
       "count": 18
     },
     {
-      "source": "ACLS Competitions and Deadlines",
+      "source": "CFPList: Graduate Conferences",
       "count": 16
     },
     {
-      "source": "CFPList: Graduate Conferences",
-      "count": 14
+      "source": "ACLS Competitions and Deadlines",
+      "count": 16
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -36,23 +36,27 @@
     },
     {
       "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 12
+      "count": 13
     },
     {
       "source": "UPenn CFP: Fan Studies and Fandom",
       "count": 11
     },
     {
-      "source": "CFPList: Pedagogy",
-      "count": 10
-    },
-    {
       "source": "UPenn CFP: Film and Television",
       "count": 10
     },
     {
+      "source": "CFPList: Pedagogy",
+      "count": 9
+    },
+    {
       "source": "UPenn CFP: Cultural Studies",
       "count": 9
+    },
+    {
+      "source": "UPenn CFP: Modernist Studies",
+      "count": 7
     },
     {
       "source": "UPenn CFP: Theory",
@@ -63,8 +67,8 @@
       "count": 6
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
-      "count": 6
+      "source": "CFPList",
+      "count": 5
     },
     {
       "source": "UPenn CFP: Professional Topics",
@@ -80,10 +84,6 @@
     },
     {
       "source": "UPenn CFP: Translation Studies",
-      "count": 4
-    },
-    {
-      "source": "CFPList",
       "count": 4
     },
     {
@@ -151,7 +151,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50170",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-01-31",
       "location": "CFPList",
       "status": "open",
@@ -178,7 +178,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -202,7 +202,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -226,7 +226,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -250,7 +250,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -275,7 +275,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50535",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2026-10-28",
       "location": "I Portici Hotel Bologna – Congress Centre, Via Indipendenza 69, Bologna, Italy · SWS Scholarly Society",
       "status": "open",
@@ -299,7 +299,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49758",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-03",
       "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
       "status": "open",
@@ -322,7 +322,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -346,7 +346,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50231",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-05-15",
       "location": "Virtual · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -369,7 +369,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -392,7 +392,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -415,7 +415,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -438,7 +438,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -462,7 +462,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -485,7 +485,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -508,7 +508,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -531,7 +531,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49501",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "virtual · Modern Language Association",
       "status": "open",
@@ -554,7 +554,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -577,7 +577,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -600,7 +600,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -623,7 +623,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -649,7 +649,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -673,7 +673,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -696,7 +696,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -719,7 +719,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -742,7 +742,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -760,37 +760,13 @@
       "publish": false
     },
     {
-      "title": "College English Association Annual Conference",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50109",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, MO · College English Association/CEA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 20,
-      "fields": [
-        "Pedagogy",
-        "Interdisciplinary"
-      ],
-      "excerpt": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature,...",
-      "fullDescription": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature, criticism, and pedagogy. we also encourage proposals on GENERAL TOPICS, including AMERICAN, BRITISH, AND WORLD LITERATURES. DON'T KNOW CEA? YOU SHOULD! In December 1938, a group of young academics attending the MLA convention in New York took on the biggest name in their field-the MLA. They chose to forge a new path by organizing into the College English Association and offering a voice to \"the college English teachers of America.\" Their aim was to upend the scholar-teacher dynamic by recognizing teaching as paramount. Today, more than eight decades later, the CEA continues in that same spirit. At our core, we strive to meet these goals through two venues: our Annual CEA Conference and our journal, The CEA Critic. With over 400 active members and a collection of regional affiliates, the CEA welcomes teacher-scholars at all levels-from graduate students to emeritus faculty-who share our belief that teaching is central to who we are and what we do. CEA WELCOMES GRADUATE STUDENTS As always, the CEA extends a special invite to students pursuing a graduate degree, not only to attend the conference but to submit their presentations to the CEA Outstanding Graduate Student Paper competition. The award carries a grand prize of $250 and publication of the winning essay in the CEA's flagship journal, THE CEA CRITIC. NEW FOR 2027:UNDERGRADUATE ROUNDTABLES CEA invites undergraduates to enjoy the conference experience by sharing their work in flash-essay roundtable sessions. A flash essay is a highly condensed, high-impact presentation (typically 300-1000 words, or 2-5 minutes) that delivers core research findings, a specific argument, or a compelling narrative. During roundtable sessions, the speakers and audience engage in discussion with each other in more of an open conversation than in traditional panels. Learn more about roundtables here: https://cea-web.org/about-roundtables. LEARN MORE: https://cea-web.org/cea-2027-%2F-st-louis",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
-      "publish": false
-    },
-    {
       "title": "CFP 24º SBPJor",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -813,7 +789,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -836,7 +812,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -853,13 +829,36 @@
       "publish": false
     },
     {
+      "title": "College English Association Annual Conference",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/50109",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-22",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, MO · College English Association/CEA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature,...",
+      "fullDescription": "CALL FOR PAPERS / COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature, criticism, and pedagogy. we also encourage proposals on GENERAL TOPICS, including AMERICAN, BRITISH, AND WORLD LITERATURES. DON'T KNOW CEA? YOU SHOULD! In December 1938, a group of young academics attending the MLA convention in New York took on the biggest name in their field-the MLA. They chose to forge a new path by organizing into the College English Association and offering a voice to \"the college English teachers of America.\" Their aim was to upend the scholar-teacher dynamic by recognizing teaching as paramount. Today, more than eight decades later, the CEA continues in that same spirit. At our core, we strive to meet these goals through two venues: our Annual CEA Conference and our journal, The CEA Critic. With over 400 active members and a collection of regional affiliates, the CEA welcomes teacher-scholars at all levels-from graduate students to emeritus faculty-who share our belief that teaching is central to who we are and what we do. CEA WELCOMES GRADUATE STUDENTS As always, the CEA extends a special invite to students pursuing a graduate degree, not only to attend the conference but to submit their presentations to the CEA Outstanding Graduate Student Paper competition. The award carries a grand prize of $250 and publication of the winning essay in the CEA's flagship journal, THE CEA CRITIC. NEW FOR 2027:UNDERGRADUATE ROUNDTABLES CEA invites undergraduates to enjoy the conference experience by sharing their work in flash-essay roundtable sessions. A flash essay is a highly condensed, high-impact presentation (typically 300-1000 words, or 2-5 minutes) that delivers core research findings, a specific argument, or a compelling narrative. During roundtable sessions, the speakers and audience engage in discussion with each other in more of an open conversation than in traditional panels. Learn more about roundtables here: https://cea-web.org/about-roundtables. LEARN MORE: https://cea-web.org/cea-2027-%2F-st-louis",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
       "title": "(ACLA CfP) South-South Literary Relations and the Remaking of World Literature",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -882,7 +881,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -905,7 +904,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49395",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-21",
+      "deadline": "2026-10-22",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -1632,8 +1631,8 @@
       "publishMode": "auto",
       "score": 46,
       "fields": [
-        "Funding",
         "Digital Humanities / Design",
+        "Funding",
         "Film / Media",
         "Theory"
       ],
@@ -1716,31 +1715,6 @@
       "publish": true
     },
     {
-      "title": "Fairytale Area Popular Culture Association Annual Meeting",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50507",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-31",
-      "eventDate": "2027-03-24",
-      "location": "Boston, MA · PCA/ACA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Interdisciplinary",
-        "Rhetoric",
-        "Film / Media"
-      ],
-      "excerpt": "Call for Papers (submission deadline October 31, 2026) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24-27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for individual papers, panels, and roundtables for the 2027 annual conference in Boston, MA, March 24-27. We welcome su...",
-      "fullDescription": "Call for Papers (submission deadline October 31, 2026) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24-27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for individual papers, panels, and roundtables for the 2027 annual conference in Boston, MA, March 24-27. We welcome submissions on all aspects of fairy tales, wonder tales, folk narratives, and their afterlives in literature, film, television, digital media, visual culture, performance, education, gaming, and popular culture more broadly. Papers may address oral tradition, literary fairy tales, folklore collections, adaptations, retellings, reception, translation, theory, pedagogy, gender, race, class, disability, nationalism, childhood, religion, ecology, material culture, or transnational circulation. For the 2027 conference, the Fairy Tales Area is especially interested in submissions related to two featured topics: 1. Adaptation of Fairy Tales This topic invites papers on fairy-tale adaptation across historical periods, genres, and media. Possible approaches include, but are not limited to: &bull; contemporary retellings of fairy tales in fiction, film, television, theater, comics, games, and digital media; &bull; fairy-tale villains, monsters, anti-heroines, and sympathetic retellings of traditionally negative figures; &bull; identity, reflection, self-authorship, trauma, agency, and transformation in fairy-tale adaptation; &bull; adaptation as cultural critique, remediation, commercialization, or popular mythology; &bull; fairy-tale motifs across national, linguistic, and media boundaries. 2. Vladimir Propp's Historical Roots of the Wondertale. Marking the publication of the first English translation of Vladimir Propp's Historical Roots of the Wondertale (Indiana University Press, 2025), the Fairy Tales Area invites papers that revisit this major work and consider its continuing relevance for fairy-tale studies, folklore, narratology, adaptation studies, etc. Topics include but are not limited to: &bull; Propp's Historical Roots of the Wondertale in relation to ritual, initiation, kinship, magic, social transformation, and other social and cultural contexts; &bull; uses of Historical Roots of the Wondertale for analyzing particular tales, tale types, motifs, characters, spaces, objects, or narrative functions; &bull; applications of Propp's work to contemporary fairy-tale retellings, fantasy, film, television, animation, gaming, digital storytelling, and other forms of popular culture; &bull; the relevance of Historical Roots of the Wondertale for studying adaptation or recontextualization of older wonder-tale in modern media; &bull; the place of national wonder tales in international fairy-tale scholarship, including issues of translation, circulation, reception, and comparison; &bull; theoretical and methodological reassessments of Propp's work, including comparisons between Morphology of the Folktale and Historical Roots of the Wondertale, Propp's place in structuralism, narratology, folklore studies, anthropology, literary studies, and popular culture analysis, or the strengths and limitations of his method. Submissions on other fairy-tale topics are also welcome. Additional possible topics include: &bull; Afanasiev, the Grimms, Perrault, Basile, Andersen, and other collectors or authors; &bull; oral tradition and literary fairy tales; &bull; fairy tales in film, television, animation, and streaming media; &bull; fairy tales, gender, and sexuality; &bull; fairy tales and religion, ritual, myth, or magic; &bull; fairy tales and pedagogy; &bull; fairy tales in translation; &bull; fairy tales, horror, fantasy, and speculative fiction; &bull; fairy-tale spaces, objects, bodies, animals, and transformations. Besides the scholarly analyses of fairy tales, we may consider creative and artistic projects that engage with fairy-tale traditions, themes, narratives, and their contemporary reinterpretations. Please submit an abstract of approximately 250 words by October 31, 2026. Panel proposals should include a title and brief description of the panel, along with abstracts and bios for each participant. Scholars at all career stages, including graduate and undergraduate students, independent scholars, and international scholars, are welcome. For questions about the Fairy Tales Area, please contact Dr. Olena Leipnik, Fairy Tales Area Chair, PCA, at soc_ovl@shsu.edu",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "National Conference of the Popular and American Culture Conference -Music Area",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
@@ -1763,6 +1737,79 @@
       "excerpt": "The Music Area in the Popular Culture Association invites submissions from individuals or organized panels (3 or preferably 4 persons) focusing on any topic relating to any genre of music. Topics can include but are not limited to individual artists, albums, CDs, genres, scenes, trends, periods, performances, critics, magazines, music and art, music on ra...",
       "fullDescription": "The Music Area in the Popular Culture Association invites submissions from individuals or organized panels (3 or preferably 4 persons) focusing on any topic relating to any genre of music. Topics can include but are not limited to individual artists, albums, CDs, genres, scenes, trends, periods, performances, critics, magazines, music and art, music on radio, television, and on stage and in academia. Abstracts on any topic of music will be considered. Please submit your abstract of approximately 150 words through the link provided on the Association's website: pcaaca.org. Submissions will only be accepted through the PCA website. Individuals must be current, paid members to submit to the conference. For panel submissions, panel chairs should include their abstract and title of their paper as well as the title of the panel, names of panelists, and a 50-word summary of the panel's focus. Individual panelists should submit their abstracts separately. Please specify any special scheduling needs at the time of submission. Feel free to contact the area chair with any questions: Eric Abbey, PhD Oakland Community College 739 S. Washington Ave Royal Oak, MI 48067 248-396-2649 ejabbey@oaklandcc.edu",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Fairytale Area Popular Culture Association Annual Meeting",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50507",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-31",
+      "eventDate": "2027-03-24",
+      "location": "Boston, MA · PCA/ACA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Rhetoric",
+        "Film / Media"
+      ],
+      "excerpt": "Call for Papers (submission deadline October 31, 2026) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24-27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for individual papers, panels, and roundtables for the 2027 annual conference in Boston, MA, March 24-27. We welcome su...",
+      "fullDescription": "Call for Papers (submission deadline October 31, 2026) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24-27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for individual papers, panels, and roundtables for the 2027 annual conference in Boston, MA, March 24-27. We welcome submissions on all aspects of fairy tales, wonder tales, folk narratives, and their afterlives in literature, film, television, digital media, visual culture, performance, education, gaming, and popular culture more broadly. Papers may address oral tradition, literary fairy tales, folklore collections, adaptations, retellings, reception, translation, theory, pedagogy, gender, race, class, disability, nationalism, childhood, religion, ecology, material culture, or transnational circulation. For the 2027 conference, the Fairy Tales Area is especially interested in submissions related to two featured topics: 1. Adaptation of Fairy Tales This topic invites papers on fairy-tale adaptation across historical periods, genres, and media. Possible approaches include, but are not limited to: &bull; contemporary retellings of fairy tales in fiction, film, television, theater, comics, games, and digital media; &bull; fairy-tale villains, monsters, anti-heroines, and sympathetic retellings of traditionally negative figures; &bull; identity, reflection, self-authorship, trauma, agency, and transformation in fairy-tale adaptation; &bull; adaptation as cultural critique, remediation, commercialization, or popular mythology; &bull; fairy-tale motifs across national, linguistic, and media boundaries. 2. Vladimir Propp's Historical Roots of the Wondertale. Marking the publication of the first English translation of Vladimir Propp's Historical Roots of the Wondertale (Indiana University Press, 2025), the Fairy Tales Area invites papers that revisit this major work and consider its continuing relevance for fairy-tale studies, folklore, narratology, adaptation studies, etc. Topics include but are not limited to: &bull; Propp's Historical Roots of the Wondertale in relation to ritual, initiation, kinship, magic, social transformation, and other social and cultural contexts; &bull; uses of Historical Roots of the Wondertale for analyzing particular tales, tale types, motifs, characters, spaces, objects, or narrative functions; &bull; applications of Propp's work to contemporary fairy-tale retellings, fantasy, film, television, animation, gaming, digital storytelling, and other forms of popular culture; &bull; the relevance of Historical Roots of the Wondertale for studying adaptation or recontextualization of older wonder-tale in modern media; &bull; the place of national wonder tales in international fairy-tale scholarship, including issues of translation, circulation, reception, and comparison; &bull; theoretical and methodological reassessments of Propp's work, including comparisons between Morphology of the Folktale and Historical Roots of the Wondertale, Propp's place in structuralism, narratology, folklore studies, anthropology, literary studies, and popular culture analysis, or the strengths and limitations of his method. Submissions on other fairy-tale topics are also welcome. Additional possible topics include: &bull; Afanasiev, the Grimms, Perrault, Basile, Andersen, and other collectors or authors; &bull; oral tradition and literary fairy tales; &bull; fairy tales in film, television, animation, and streaming media; &bull; fairy tales, gender, and sexuality; &bull; fairy tales and religion, ritual, myth, or magic; &bull; fairy tales and pedagogy; &bull; fairy tales in translation; &bull; fairy tales, horror, fantasy, and speculative fiction; &bull; fairy-tale spaces, objects, bodies, animals, and transformations. Besides the scholarly analyses of fairy tales, we may consider creative and artistic projects that engage with fairy-tale traditions, themes, narratives, and their contemporary reinterpretations. Please submit an abstract of approximately 250 words by October 31, 2026. Panel proposals should include a title and brief description of the panel, along with abstracts and bios for each participant. Scholars at all career stages, including graduate and undergraduate students, independent scholars, and international scholars, are welcome. For questions about the Fairy Tales Area, please contact Dr. Olena Leipnik, Fairy Tales Area Chair, PCA, at soc_ovl@shsu.edu",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
+      "title": "Neurodivergent Studies at the Popular Culture Association 2027 Conference",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50576",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-31",
+      "eventDate": "2027-03-24",
+      "location": "Boston · Popular Culture Association/American Culture Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Interdisciplinary",
+        "Film / Media",
+        "Theory",
+        "Pedagogy"
+      ],
+      "excerpt": "Neurodivergent Studies - Popular Culture Association 2027 \"Neurodivergent just means a brain that diverges.\" - Kassiane Asasumasu, Radical Neurodivergence Speaking Neurodivergent Studies at the PCA offers a chance for scholars to have conversations about how neurodivergent approaches to popular culture, fandom, academia, and our own experiences can shape...",
+      "fullDescription": "Neurodivergent Studies - Popular Culture Association 2027 \"Neurodivergent just means a brain that diverges.\" - Kassiane Asasumasu, Radical Neurodivergence Speaking Neurodivergent Studies at the PCA offers a chance for scholars to have conversations about how neurodivergent approaches to popular culture, fandom, academia, and our own experiences can shape the way we approach the world. Neurodivergent Studies promotes a very open approach to the subject, following in the footsteps of Kassiane Asasumasu, who is credited with coining the term \"neurodivergent.\" Kassiane specifically notes that neurodivergent \"is not another damn tool of exclusion. It is specifically a tool of inclusion. If you don't want to be associated with Those People, then YOU are the one who needs another word. Neurodivergent is for all of us\" (sherlocksflataffect). Following Asasamasu's leadership, Neurodivergent Studies invites papers on the following topics: o Neurodivergence in popular media o Neurodivergence and/or madness o Neurodivergence and/or disability o Neurodivergence and self/diagnosis o Neurodivergence and the social disability model o Neurodivergence and eugenics o Neurodivergence and intersectionality o Neurodivergence and race/racism o Neurodivergence and gender identity o Neuroqueer theory o Neurodivergent pedagogy o Neurodivergence in the academy o Neurodivergent activism o Neurodivergent community For the Boston 2027 conference, the PCA is running the theme \"Revolutions & Revisions in Popular Culture.\" ND Studies provides a wealth of ways to approach this topic, including focuses on questions of transformation, reinterpretation, innovation, resistance, adaptation, or cultural change. Theme-related proposals are welcome but not required, and all submissions relevant to the area will receive full consideration. Neurodivergent Studies welcomes paper proposals, roundtable proposals, or cross-listed panels with other PCA areas. Submissions are due October 31. We look forward to seeing you in Boston!",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
+      "title": "Revolutions & Revisions in Popular Culture (in Dime Novels & Juvenile Series Books)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50577",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-31",
+      "eventDate": "2027-03-24",
+      "location": "Boston · Popular Culture Association/American Culture Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "Call for Papers: Dime Novels and Juvenile Series Books, PCA 2027 The PCA Dime Novels and Juvenile Series Books Area is accepting proposals for presentations at the next PCA/ACA annual conference, to be held in Boston, MA from March 24-27, 2027. See the PCA website for more information on the conference and submission guidelines. The area has two distinct...",
+      "fullDescription": "Call for Papers: Dime Novels and Juvenile Series Books, PCA 2027 The PCA Dime Novels and Juvenile Series Books Area is accepting proposals for presentations at the next PCA/ACA annual conference, to be held in Boston, MA from March 24-27, 2027. See the PCA website for more information on the conference and submission guidelines. The area has two distinct but related areas of interest: juvenile series books of all types and eras, including 20th-century publications like those of the Stratemeyer Syndicate and its imitators (Nancy Drew, Hardy Boys, Tom Swift, etc.), as well as more recent and ongoing series (Harry Potter, Twilight, Choose Your Own Adventure, etc.); and the series books' precursors: early popular publications for mass audiences of all ages (dime novels, nickel weeklies, story papers, etc.). Papers addressing either or both of these areas will be considered. Papers may cover (but are not limited to) any aspect of the following topics: authors, publishers, major characters, themes, readership, bibliography or research methods, social commentary, early or noteworthy genre forms, print culture, special collections, and representations of gender, race, class, sexuality, etc. Something new this year: the larger conference has a theme! The 2027 PCA conference theme is \"Revolutions & Revisions in Popular Culture.\" Presenters in Dime Novels and Juvenile Series Books are invited to consider how their work might engage with questions of transformation, reinterpretation, innovation, resistance, adaptation, or cultural change. Theme-related proposals are welcome but not required, and all submissions relevant to the area will receive full consideration. However, area presenters might consider engaging with some of the following themes: Adaptations and retellings of dime novels (reboots of Nick Carter for radio and spy paperbacks; silent films and serials, like Frank Merriwell at Yale (1903), The Adventures of Frank Merriwell (1936), or Deadwood Dick (1940); film adaptations of Laura Jean Libbey stories, including A Poor Girl's Romance (1927), When Love Grows Cold (1925), and In a Moment of Temptation (1928); UPN's Legend series; and series fiction (e. g., the many book variations of Nancy Drew over the decades, the Hardy Boys/Nancy Drew Mysteries television show, the Tom Swift and Linda Craig Mystery Hour , the CW network shows of Nancy Drew and Tom Swift , the numerous film versions of Nancy Drew ). Revolutionary themes in any of the above - for example, are there dime novels that take place during the American or French Revolutions ( The Liberty Boys of '76 )? What is the purpose of setting the story in that time period? What do these dime novels and series books have to say about revolutions more generally, and revolutions in the time that they were published? Dime novels and series books that explore technological revolutions or feature the exploits of inventors, like Frank Read and Tom Swift. Fanfiction, transformative works, participatory culture, audience reception, and cultural memory. This could include series books that were based upon real people, such as the Annette Funicello Mysteries that were a five-book series, or the Janet Lennon books. It could include audience reception captured in film magazines or newspaper reviews. Participants do not need to be academics or professional writers; undergraduate submissions are welcome but require sponsorship by a faculty advisor, as per PCA policy. All participants are requested to submit a 250-word abstract with title. First-time participants with this division are encouraged to submit a 1-2 page proposal, including a bibliography, along with the abstract. Email communication is welcomed from potential members desiring feedback on a proposal topic prior to making a formal submission. Early submission is strongly encouraged. Submissions opened August 1, 2026 and are due by October 31, 2026. In order to submit an abstract, you must have an active PCA membership. Please send all inquiries to: Matt Short University of Northern Illinois mshort@niu.edu Emily Hamilton-Honey SUNY Canton emilyhamiltonhoney@gmail.com",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -2265,30 +2312,6 @@
       "publish": true
     },
     {
-      "title": "International Conference on Childhood Studies",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50465",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-04-10",
-      "location": "London / Online · London Centre for Interdisciplinary Research",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Childhood is far more than a stage of life - it is a dynamic social, cultural, historical and political construct that shapes individuals, communities and societies. The experiences, representations and rights of children influence not only personal development but also the future of education, healthcare, policy, culture and social justice. As contempora...",
-      "fullDescription": "Childhood is far more than a stage of life - it is a dynamic social, cultural, historical and political construct that shapes individuals, communities and societies. The experiences, representations and rights of children influence not only personal development but also the future of education, healthcare, policy, culture and social justice. As contemporary societies grapple with rapid technological change, migration, inequality and evolving family structures, the study of childhood has become more relevant than ever. Over the past decades, Childhood Studies has emerged as a vibrant interdisciplinary field, challenging traditional assumptions about children and recognising them as active social actors with their own voices, agency and rights. Today, researchers and practitioners from across the humanities, social sciences, education, health, law and the arts are exploring childhood from diverse theoretical and methodological perspectives. This conference provides an international platform for scholars, researchers, practitioners, policymakers, educators, artists and professionals to discuss contemporary debates, emerging challenges and innovative research on children and childhood. We particularly welcome interdisciplinary approaches that bridge disciplines and offer fresh perspectives on children's lives in local and global contexts. We invite proposals on topics including, but not limited to: Childhood psychology and child development Anthropology of children and childhood Sociology of childhood Children, identity and belonging Children's agency and participation Children's rights and child advocacy Childhood, inequality and social justice Children, migration and displacement Childhood, conflict and humanitarian crises Childhood, disability and inclusion Early childhood education and care Formal, informal and non-formal education Children and digital technologies Children, social media and digital childhoods Children, media and media representations of childhood Contemporary children's culture Children's play, creativity and imagination Children, family and parenthood Childhood and wellbeing Children and mental health Childhood, memory and intergenerational relationships Historical perspectives on childhood Children and the law Ethics and methodologies of child-centred research Children's literature and literature about childhood Children and childhood in art, film and popular culture Environmental education and children's relationships with nature Global and comparative perspectives on childhood",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
       "source": "CFPList",
       "sourceName": "CFPList: Technical Communication Search",
@@ -2690,6 +2713,31 @@
       "fullDescription": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference, the College English Association (CEA) invites proposals for papers and panels that explore the theme of \"Gateways\" and their significance in literature, criticism, and pedagogy. The CEA Conference encompasses a wide range of areas, including literary studies, creative writing, rhetoric and composition, technical communication, linguistics, and film. We further encourage proposals in areas about our wider role as academics, including student/instructor accountability and assessment, student advising, academic leadership in departments and programs, and the place of the English department in the university. We especially welcome members of the Conference on College Composition and Communication looking for a place to land during this confusing time. We also welcome graduate students. NEW FOR 2027: UNDERGRADUATE ROUNDTABLES Learn More: https://cea-web.org/about-roundtables",
       "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
       "publish": false
+    },
+    {
+      "title": "\"Press Start!\": An Online Video Game Music Symposium 2027",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50588",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-13",
+      "eventDate": "2027-03-12",
+      "location": "Denton, Texas · University of North Texas",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Art / Media Practice",
+        "Theory"
+      ],
+      "excerpt": "The University of North Texas is pleased to announce a Call for Papers for \"Press Start!\": A Video Game Music Symposium 2027. The conference will by hybrid, occurring online and in Denton, TX on March 12 - 13, 2027. We are accepting proposals for presentations on all aspects of sound and music in video games. Interdisciplinary approaches are particularly...",
+      "fullDescription": "The University of North Texas is pleased to announce a Call for Papers for \"Press Start!\": A Video Game Music Symposium 2027. The conference will by hybrid, occurring online and in Denton, TX on March 12 - 13, 2027. We are accepting proposals for presentations on all aspects of sound and music in video games. Interdisciplinary approaches are particularly encouraged. Possible topics include but are not limited to: composition and sound design; interactive and adaptive music; music and narrative; game audio technology and production; history and preservation; libraries and archives; performance and arrangement; teaching and pedagogy; fandom and community; and industry practices. We are accepting proposals for the following formats: Presentation: Speakers will be given 30 minutes each - 20 minutes for presentation, 10 minutes for discussion, or Lightning Talk/Presentation: Speakers will be given 10 minutes each - 5 minutes for question. Posters: Posters will be displayed throughout the event, and presenters will be scheduled for a Poster Session time slot in the program for open discussion with the audience. Workshop: Presenters will be given 60 minutes for an interactive or hands-on session that provides attendees with opportunities to learn, explore, or develop skills related to video game music and sound. Workshops may include demonstrations, guided activities, collaborative exercises, or other participatory formats. Please describe the planned activities and any technology, equipment, or materials needed in your proposal. Proposals of no more than 500 words should be submitted using the form below using text entry, or uploaded as a single PDF file or Microsoft Word document (.doc, .docx) by Friday, November 13th, 2026. Proposals will undergo anonymous review. Please do not include your name, institutional affiliation, or other identifying information in the proposal document. Presenter information will be collected separately through the submission form. Presenters will be notified of their acceptance into the program by November 30th, 2026. For questions, please email the \"Press Start!\" team at Press.Start@unt.edu Submit a proposal: https://unt.az1.qualtrics.com/jfe/form/SV_5vdjKteETKe0ASy",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
+      "publish": true
     },
     {
       "title": "Call for Latine voices: Roots & Resettlement, a collection of creative writing, art",
@@ -3178,7 +3226,7 @@
     {
       "title": "Destination Management and Mobility Justice for Sustainable Human and More-than-human Futures: Approaching Florence (and Destinations Beyond) in Motio",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
+      "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/50470",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
@@ -3189,16 +3237,14 @@
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 34,
+      "score": 16,
       "fields": [
-        "Film / Media",
-        "Theory",
         "Interdisciplinary"
       ],
       "excerpt": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018; 2024). Situated within the Florentine context, this conference offers fertile gr...",
       "fullDescription": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018; 2024). Situated within the Florentine context, this conference offers fertile ground for cross-pollination between Florence and other destinations concerned with how Destination Managers and Destination Management Organizations (DMOs) can be pivotal actors, agencies, and organizations committed to a more just, sustainable, and responsible mobile world. As the politics of mobility play out in real time through the bodies and streets, we see local, national and transnational governance struggle to keep pace with the impacts and drivers of climate change, urbanization, and migration. All the while we watch as mass tourism and overtourism thread impacts through micro, meso, and macro scales. Simultaneously, migrants, refugees, asylum seekers, undocumented, stateless, and trafficked persons experience increasing pressures and injustices through the same forces that support the most mobility privileged in global tourist flows. In this entangled web of mobility regimes and infrastructures, it is important to examine where travel and tourism have historically been a cultural force for promoting peace and dialogue, as much as examining where conflict, friction, and tensions have arisen from them. Destinations offer an opportunity to analyze and intervene at specific sites of human migrations and mobilities, and what in hopes of more just tourism mobilities in destinations across the world. Florence is no stranger to conflicts over tourism mobilities and tensions within its unique identity as a site of global patrimony. As a destination caught in the crosshairs of its rich past and an uncertain future in this age of polycrisis, conflicting representations and identities intersect, diverge, and weave a complex social fabric. Destination Management offers a targeted lens through which to interrogate the relation between global travel, tourism and mobility justice in Florence and beyond. As a UNESCO World Heritage Site, Florence represents a rich cultural tourism destination that is increasingly impacted by increasingly global flows and circulations of people, objects, artifacts, information, resources and capital. It has resulted in intersecting crises of housing displacement and homelessness, food insecurity, growing civil protest, increasing environmental resource and climatic constraints, uneven distribution of tourist fluxes between major and minor cultural sites, and loss of local goodwill in response to the immobilities created by tourism. This conference seeks to bring to light the complexities of questions of justice in a hypermobile world. How does one respect cultural heritage while local peoples and cultures suffer across so many dimensions, often deprived of their cultural rights, unable to access their own heritage sites? How do we support human and more-than-human futures, adaptable and responsive to environmental constraints, changes, and challenges? Many questions arise that require interdisciplinary perspectives. We invite papers to contribute to the emerging field of Destination Management, focusing on the intersections of issues in social, cultural, environmental, and mobility justice within the roles and responsibilities of Destination Managers and DMOs (Destination Management Organizations). We welcome a wide range of disciplinary perspectives and methods, including case study analyses, historical or contemporary mobilities, and theoretical contributions that are committed to exploring what Justice means within Destination Management theory and practice. Thematically, we ask contributors to examine how questions of justice can be integrated into interdisciplinary Destination Management scholarship that contend with the domains of travel and tourism. Submissions can include both normative and empirical research broadly relevant to informing questions of Justice and Mobilities, and can broadly range from social sciences, STEM, humanities, and arts fields, and present either contemporary or historical perspectives. We aim to explore where various areas of justice can be connected to the objectives of Destination Management research as a growing interdisciplinary field. We encourage scholars and practitioners to investigate the applicability of distributive, deliberative, procedural, restorative, and epistemic justice in the framework of their presented contributions. We are interested in case studies which either (A) center their analyses on Florence, Italy (or the region of Tuscany) in order to seek translatable and transversal solutions for other destinations, or (B) center on global destinations beyond that bring critical insight into the issues facing Florence. We are seeking to find \"common ground\" amongst the examined problem spaces that exist across destinations to build a growing literature concerned with promoting Mobility Justice within Destination Management. Theoretical contributions should include insight or practical application to transversal issues across Florence and other destinations. SUBMISSION GUIDELINES: We ask for 300-word abstracts, submitted with a separate cover page that includes title, name, affiliation, and a short bio of the author(s) of a maximum of 300 words, which can be submitted to dstm@gonzaga.edu by November 25th, 2026. The conference will be held from March 11th to 12th at Gonzaga in Florence, a school of Gonzaga University based in the historic center of the city of Florence. It will be open to the public, by registration. There will be no registration fee to attend the conference. As our inaugural conference, we are unable to offer travel funds at this time. Topical Areas: 1. Mobility Justice (motility, capabilities approach, migration, transport, space, accessibility, flows) a. Migration, refugees, stateless persons, human trafficking and modern day slavery b. Critical Disability Studies & mobility infrastructures for travel & tourism industries c. The Right to the City, labour, and yransportation equity d. Mobility, technological transformation, and electrification e. Climate Mobility Justice and immigration/refugee crises 2. Social Justice (intersectionality, human rights, kinopolitics distributive justice, reparation, processual justice) a. Indigenous Rights and Land Consent b. Human rights Abuses in the travel and tourism industry c. Intercultural exchange for responsible, sustainable, and peace tourism d. Reparative justice, public policy, media, and communications e. Critical Disability Studies and transport justice 3. Cultural Justice: (heritage studies, restoration and repatriation, cultural property, political ecology) a. Art, antiquities, museum studies, and decolonization b. Cultural heritage, human rights, and access to culture c. Cultural property trafficking, return and restitution, reclamation, and reparations d. Museum security, contemporary eco-vandalism and protest movements e. Conflicts in historiography of heritage and Post-conflict reconstruction 4. Environmental Justice (environmental racism, geoengineering, pollution and carbon, biodiversity and reparations, More-than-human ethics): a. National parks, seascapes, urban green space, and depavement movements b. Plastic pollution, chemical colonialism, exposomics, and water protectors c. Protected habitats, ecotourism and politics of spared or shared land d. Agriculture, food Justice, \"The Commons\", land sovereignty, and eco-activism e. Botanical gardens, zoos, \"beasts of burden\", and more-than-human mobility Conference Organizers: Denise Regina Percequillo Hossom Gonzaga University Alesia Koush Gonzaga University UNESCO Chair - University of Siena",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
     },
     {
       "title": "Digital Humanities, Artificial Intelligence and the Global South: Infrastructures, Epistemologies and Stratifications - International Multi- and Inter",
@@ -3772,9 +3818,9 @@
       "publishMode": "auto",
       "score": 46,
       "fields": [
+        "Film / Media",
         "AI",
         "Digital Humanities / Design",
-        "Film / Media",
         "Theory"
       ],
       "excerpt": "Globally Contested Imaginaries: Power and Tensions in the AI Era April 8-9th 2027 at the Annenberg School for Communication at the University of Pennsylvania Organized by the Center on Digital Culture and Society AND the Center for Advanced Research in Global Communication at the University of Pennsylvania AI does not enter the world as a stable technolog...",
@@ -3822,8 +3868,8 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Art / Media Practice",
         "Film / Media",
+        "Art / Media Practice",
         "Theory"
       ],
       "excerpt": "CALL FOR PAPERS The Artificial Body: Cyborgs, Clones and Humanoids in Literature and Media Edited by ?rem Atasoy and Habib Tekin The edited volume The Artificial Body: Cyborgs, Clones and Humanoids in Literature and Media seeks to explore representations and conceptualizations of artificial, technologically modified, replicated, and human-like bodies from...",
@@ -4272,6 +4318,30 @@
       "excerpt": "Call for Proposals Audiovisual Creation in the Age of AI Special Issue for 2027",
       "fullDescription": "Call for Proposals Audiovisual Creation in the Age of AI Special Issue for 2027",
       "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication.",
+      "publish": true
+    },
+    {
+      "title": "Call for Papers — AI and Sovereignty",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Modernist Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109290",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-20",
+      "eventDate": "",
+      "location": "Exetasis",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "AI",
+        "Art / Media Practice"
+      ],
+      "excerpt": "AI and Sovereignty Artificial intelligence is transforming the conditions through which power is exercised, distributed, and legitimized. The development and deployment of AI systems involve not only technological questions, but also fundamental issues concerning language, communication, authority, identity, autonomy, control, and sovereignty.",
+      "fullDescription": "AI and Sovereignty Artificial intelligence is transforming the conditions through which power is exercised, distributed, and legitimized. The development and deployment of AI systems involve not only technological questions, but also fundamental issues concerning language, communication, authority, identity, autonomy, control, and sovereignty.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Art / Media Practice.",
       "publish": true
     },
     {
@@ -4896,6 +4966,29 @@
       "publish": false
     },
     {
+      "title": "Writing as Though Translated",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Rhetoric and Composition",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109287",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-11",
+      "eventDate": "",
+      "location": "Eran Horowitz and Yarden Ben-Zur",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Rhetoric"
+      ],
+      "excerpt": "Writing as Though Translated Poetry and linguistic encounter in nineteenth-century German literature Proposal for a special number of German Life and Letters Guest editors: Dr. Yarden Ben-Zur and Dr. Eran Horowitz Issue propositionּ",
+      "fullDescription": "Writing as Though Translated Poetry and linguistic encounter in nineteenth-century German literature Proposal for a special number of German Life and Letters Guest editors: Dr. Yarden Ben-Zur and Dr. Eran Horowitz Issue propositionּ",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric.",
+      "publish": true
+    },
+    {
       "title": "Graduate Internships on the Spiritual Infrastructure of the Future",
       "source": "ACLS",
       "sourceName": "ACLS Competitions and Deadlines",
@@ -5046,7 +5139,7 @@
       "type": "Conference CFP",
       "deadlineType": "Submission",
       "deadline": "2027-01-15",
-      "eventDate": "2027-05-29",
+      "eventDate": "",
       "location": "London Centre for Interdisciplinary Research",
       "status": "open",
       "priority": "medium",
@@ -5054,8 +5147,7 @@
       "publishMode": "auto",
       "score": 42,
       "fields": [
-        "Art / Media Practice",
-        "Film / Media"
+        "Art / Media Practice"
       ],
       "excerpt": "In an era marked by profound social, political, environmental and technological transformations, drama and theatre remain essential forms of artistic expression and critical engagement. Through performance, theatre explores questions of identity, representation, memory, conflict and belonging, while creating opportunities for dialogue across cultures and...",
       "fullDescription": "In an era marked by profound social, political, environmental and technological transformations, drama and theatre remain essential forms of artistic expression and critical engagement. Through performance, theatre explores questions of identity, representation, memory, conflict and belonging, while creating opportunities for dialogue across cultures and disciplines. Theatre not only reflects the complexities of contemporary life but also creates imaginative spaces for questioning, reinterpreting and reshaping our understanding of society.",
@@ -5207,29 +5299,6 @@
       "publish": true
     },
     {
-      "title": "“Somewhere in Between: Borders and Borderlands”",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50463",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-25",
-      "eventDate": "2027-04-17",
-      "location": "London / Online · London Centre for Interdisciplinary Research",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "In an ever changing world the problems of setting boundaries as well as the need to create meanings and establish understanding of diverse phenomena have always been of the utmost importance for humanity. Borders, boundaries, frontiers, and borderlands, naturally formed or man made, are grounded in various ethical traditions, and have always been associat...",
-      "fullDescription": "In an ever changing world the problems of setting boundaries as well as the need to create meanings and establish understanding of diverse phenomena have always been of the utmost importance for humanity. Borders, boundaries, frontiers, and borderlands, naturally formed or man made, are grounded in various ethical traditions, and have always been associated with limits and restrictions. The ongoing process of globalisation is changing the role and stereotypes of borders, so that they are often seen as opportunities rather than constraints. However, in some cases they are still being militarized and conflicted. The conference will seek to identify and analyse the processes of border-making and border permeability in contemporary societies through aesthetic forms. We seek to explore the historical origins of borders, their role in today's global environment and define the notion of borders, which includes not only territorial, geographical, and political borders, but also cultural and metaphorical borders, imagined spaces where interests and ideologies overlap and compete. Conference panels will be related, but not limited, to: border poetics border-crossing security versus openness of borders cultural hybridization cross?border co?operation processes of de?bordering borders and refugees social, cultural or language differences between communities",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Editing at a Crossroads: A Joint Conference on the State of Recovery and Documentary Editing in 2027",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -5371,6 +5440,30 @@
       "publish": true
     },
     {
+      "title": "Call for Chapters: Objective Function-Based Clustering (Springer Nature, 2027)",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50586",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-02-01",
+      "eventDate": "2028-02-01",
+      "location": "N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 16,
+      "fields": [
+        "Theory",
+        "Publication"
+      ],
+      "excerpt": "Dear Colleagues, We are pleased to invite you to contribute a chapter to our upcoming edited volume, Objective Function-Based Clustering: Theory, Algorithms, and Applications, to be published by Springer Nature, the largest global scientific, technical, and medical ebook publisher. The volume will be published under the Unsupervised and Semi-Supervised Le...",
+      "fullDescription": "Dear Colleagues, We are pleased to invite you to contribute a chapter to our upcoming edited volume, Objective Function-Based Clustering: Theory, Algorithms, and Applications, to be published by Springer Nature, the largest global scientific, technical, and medical ebook publisher. The volume will be published under the Unsupervised and Semi-Supervised Learning series (https://tinyurl.com/4mfur7zr) . It will be available in both print and ebook format by late 2027 on SpringerLink, a leading science portal that includes more than 8.4 million documents, an ebook collection with more than 275,000 titles, journal archives digitized back to the first issues in the 1840s, and over 30,000 conference proceedings. Synopsis of the Volume =================== Clustering, the unsupervised classification of patterns into groups, is one of the most critical tasks in exploratory data analysis. The primary goals of clustering include gaining insight into, classifying, and compressing data. Clustering has a long and rich history across scientific disciplines, including anthropology, biology, medicine, psychology, statistics, mathematics, engineering, and computer science. As a result, numerous clustering algorithms have been proposed since the early 1950s. Among these, objective function-based algorithms (e.g., batch k-means, online k-means, k-harmonic means, spherical k-means, and fuzzy c-means) are especially popular in modern scientific and engineering applications due to their optimization-based formulation and computational efficiency. This volume aims to summarize the state of the art in objective function-based clustering. Topics of Interest ============== Topics of interest include: Hard clustering algorithms Fuzzy, probabilistic, and possibilistic clustering algorithms Information-theoretic clustering algorithms Neural clustering algorithms Metaheuristic clustering algorithms Constrained clustering algorithms Approximate clustering algorithms Parallel and distributed clustering algorithms Dissimilarity and similarity functions for clustering Objective functions for clustering Initialization of clustering algorithms Convergence properties of clustering algorithms Robustness of clustering algorithms Algorithms for clustering high-dimensional data Evaluation of clustering algorithms Visualization of clustering algorithms Software and hardware implementations of clustering algorithms Applications of clustering algorithms Important dates ---------------------- Submission of abstracts: February 1, 2027 Notification of initial editorial decisions: February 15, 2027 Submission of full-length chapters: May 15, 2027 Notification of final editorial decisions: July 1, 2027 Submission of revised chapters: October 1, 2027 Publication of the volume: Late 2027 Submission Instructions ==================== Each contributed chapter is expected to present a novel research study, a comparative study, or a survey of the literature. All submissions, including abstracts and full-length chapters, must be done via EasyChair: https://easychair.org/ conferences/?conf=ofbc2027 There will be no publication fees for the accepted chapters. Resources for chapter authors ------------------------------ -------------- Book publishing policies: https://tinyurl.com/2r66erx9 Manuscript guidelines: https://tinyurl.com/mpcd9ype Book chapter templates: Microsoft Word: https://tinyurl.com/4swdmd3x LaTeX: https://tinyurl.com/jbyz5nx2 LaTeX (Overleaf): https://tinyurl.com/22sk4aec LaTeX best practice guidelines: https://tinyurl.com/2zvaje5f About the Editor ============== M. Emre Celebi (https://tinyurl.com/mtw6dx39) received his B.S. degree in Computer Engineering from the Middle East Technical University (Ankara, Turkey) in 2002. He received his M.S. and Ph.D. degrees in Computer Science and Engineering from the University of Texas at Arlington (Arlington, TX, USA) in 2003 and 2006, respectively. He is currently a Professor and the Chair of the Department of Computer Science and Engineering at the University of Central Arkansas. Celebi has pursued research in artificial intelligence and image processing, focusing on medical image analysis, color image processing, and partitional clustering. He has worked on several projects funded by the US National Science Foundation and the US National Institutes of Health, publishing over 180 articles in reputable journals and conference proceedings. As of October 2026, his work has received nearly 25,000 citations with an h-index of 65 (GS: https://tinyurl.com/3snjm8at). According to a 2026 Stanford University study (https://tinyurl.com/236hx3m2) , based on the composite citation index (an indicator of citation impact), in the single-year (2025) and career-long impact categories, Celebi ranked 1277th and 942nd, respectively, out of 517,648 artificial intelligence and image processing researchers worldwide. Celebi has published 12 edited volumes since 2012, all but one with Springer Nature. The artificial intelligence/machine learning volumes he edited to date include Partitional Clustering Algorithms (Springer Nature, 2015, https://tinyurl.com/3yezehcw) and Unsupervised Learning Algorithms (Springer Nature, 2016, https://tinyurl.com/4z8hdevh). He is also a series editor of two Springer Nature book series: Unsupervised and Semi-Supervised Learning (since 2017) and Signals and Communication Technology (since 2019). Contact ====== Feel free to contact us via email (ecelebi AT uca DOT edu) with your chapter ideas.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
+      "publish": false
+    },
+    {
       "title": "2027 Imagining Social WorldsOnline Symposium, 17–18 March 2027",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Ethnicity and National Identity",
@@ -5491,6 +5584,32 @@
       "publish": true
     },
     {
+      "title": "Gothic Studies (Special edition, vol, 30): Digital Gothic: Hoax Horror, Collaborative Storytelling, Internet Folklore, and the Contemporary Gothic Onl",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50578",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-06",
+      "eventDate": "2028-03-06",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "high",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice",
+        "Film / Media"
+      ],
+      "excerpt": "\"Creators of Gothic fiction have always been swift to take advantage of new media technologies\", writes Joseph Campbell in Twenty-First Century Gothic, adding that \"[t]he internet has proven to be no exception\" (72). This special issue argues that horror storytelling on the internet - whether in the form of creepypasta (user-generated horror narratives th...",
+      "fullDescription": "\"Creators of Gothic fiction have always been swift to take advantage of new media technologies\", writes Joseph Campbell in Twenty-First Century Gothic, adding that \"[t]he internet has proven to be no exception\" (72). This special issue argues that horror storytelling on the internet - whether in the form of creepypasta (user-generated horror narratives that circulate online), collaborative digital storytelling universes, or multimodal digital narratives like podcasts, analog horror, and webseries - represents a vibrant contemporary evolution of the Gothic mode. Digital horror scholarship is a rich and rapidly expanding field, reflecting the increasing, and increasingly unsettling, centrality of the digital in our lives. Digital horror has been fruitfully interpreted through the lenses of digital culture and fan studies, as well as, recently, folklore and contemporary legend studies: Trevor Blank and Lynne McNeill's Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet (2018) positions Slender Man and other internet horror narratives as contemporary folklore, reading them in terms of community creation and ostensive practices, and Creepypasta, Digital Horror, and Legend Formation Across Interactive Media, a 2025 special issue of Contemporary Legend edited by Natalie Underberg Goode, picks up on the folkloric aspect of \"'crowd-sourced' horror storytelling\" and applies it to more recent digital horror phenomena (1). However, there is also a continuing critical tradition of reading digital horror as Gothic, from Isabella van Elferen's concept of the Cybergothic, which argues that \"cyberspace is a spectral place haunted by the dualism of information and materiality\" (2009, 99), to Jessica Balanzategui's delineation of the \"digital Gothic\" (2019) in the context of creepypasta narratives and Marc Olivier's concept of the \"postdigital Gothic\" (2021), which \"calls attention to hidden architecture undergirding the virtual [&hellip;] a vault of manuscripts buried beneath familiar interfaces\" (323). Most recently, the 2026 International Gothic Association conference, Gothic Selves/Artificial Others, turned its attention to the Gothic aspects of AI technology, exploring \"the intersections of Gothic literature, culture, and theory with artificial intelligence, automated creativity, and posthuman forms of subjectivity\". Taken together, these approaches suggest the need to ask not simply how horror operates in digital media, but what happens when the distinctive structures, anxieties, and modes of participation of digital culture are understood through the Gothic. This special issue, then, foregrounds the specifically Gothic dimensions of digital horror, positioning this form of participatory, networked storytelling within a long Gothic tradition that extends from the 18th century to the present day. The volume explores how digital folklore reworks longstanding Gothic anxieties in contemporary modes, translating familiar structures of Gothic space, monstrosity, and uncertainty into the networked environment: the Backrooms, for instance, transpose the labyrinthine entrapment of the Gothic castle into vast, uncanny digital spaces, while internet-born monsters such as those catalogued by Line Henriksen in \"A Short Bestiary of Creatures from the Web\" (2013) emerge through processes of circulation, accumulation, and collective invention. The classic Gothic epistolary format is reimagined in forums like r/Nosleep (a subreddit for telling scary stories that purport to be true), wiki-style collaborative databases like the SCP Foundation, and found-footage web series, forms that invite audiences to participate in the reconstruction of events whose status as fictional or factual remains uncertain. This special issue asks how these narratives articulate contemporary anxieties around technological alienation, surveillance, epistemic uncertainty, unstable authorship, and the increasingly porous boundaries between reality and fiction. We welcome interdisciplinary contributions that explore digital horror through Gothic perspectives. Possible themes might include: - Digital horror folklore as Gothic storytelling - Nostalgia, remediation, materiality, lost media - Analog horror - Digital horror as epistolary Gothic - Alternate Reality Games and the boundaries between the screen and the world - AI horror, deepfakes, and algorithmic horror - Surveillance horror - Horror podcasts as Gothic storytelling - Digital hoaxes and curses - Dead media and the dead internet - Collaborative and crowdsourced storytelling - The postdigital Gothic and the digital as Gothic infrastructure Please submit proposals of ca. 500 words and brief biographies for consideration to both Elena Romea (University Carlos III of Madrid)) eromea@hum.uc3m.es and Erika Kvistad (University of South-Eastern Norway) erika.kvistad@usn.no by 1 March 2027 (include 'Gothic Studies' in the header). Completed articles are expected to be between 5,000-7,000 words. References Balanzategui, Jessica. \"Creepypasta, 'Candle Cove', and the digital gothic\". Visual Culture, 18.2 (2019), 187-208. Blank, Trevor and Lynne McNeill (eds). Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet. Utah State University Press, 2018. Campbell, Joseph. \"Gothic Digital Technologies\". In Twenty-First Century Gothic: An Edinburgh Companion, eds. Xavier Aldana Reyes and Maisha Wester. Edinburgh University Press, 2019. Henriksen, Line. \"A Short Bestiary of Creatures from the Web\". The Ashgate Research Companion to Paranormal Cultures, eds. Olu Jenzen and Sally R. Munt. Ashgate, 2013. The International Gothic Association. Gothic Selves/Artificial Others. [Call for papers] Hull Gothic, 2025. https://hullgothic.wordpress.com/cfp/ Olivier, Marc. \"Postdigital Gothic\". The Cambridge History of the Gothic, Volume 3: Gothic in the Twentieth and Twenty-First Centuries, eds. Catherine Spooner and Dale Townshend, Cambridge University Press, 2021. Underberg-Goode, Natalie. \"Introduction to Creepypasta, Digital Horror, and Legend Formation Across Interactive Media\". Creepypasta, Digital Horror, and Legend Formation Across Interactive Media, special issue of Contemporary Legend. 4.3 (2025), 1-15. van Elferen, Isabella. \"Dances with Spectres: Theorising the Cybergothic\". Gothic Studies, 11.1 (2009), 99-112.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "ACLS Leading Edge Fellowships",
       "source": "ACLS",
       "sourceName": "ACLS Competitions and Deadlines",
@@ -5606,8 +5725,8 @@
         "Publication",
         "Theory"
       ],
-      "excerpt": "Third Culture: Studies in Global Childhoods and Cosmopolitan Identities Third Culture is a new peer-reviewed journal dedicated to the study of cultural and social issues related to complex cosmopolitan identities arising from mobile global childhoods which transcend conventional categories of migrancy and diaspora. Acknowledging Benedict Anderson's well-e...",
-      "fullDescription": "Third Culture: Studies in Global Childhoods and Cosmopolitan Identities Third Culture is a new peer-reviewed journal dedicated to the study of cultural and social issues related to complex cosmopolitan identities arising from mobile global childhoods which transcend conventional categories of migrancy and diaspora. Acknowledging Benedict Anderson's well-established idea that the nation is an imagined community, the specific focus of this journal is on the large and growing number of people whose identities are formed by the experience of having lived in three or more different nations during their childhoods. This is because there is already a substantial body of scholarly work on issues of migrancy, diaspora, and bicultural identities, so this journal was established to explore the experiences, perspectives, representations, and cultural productions of people whose mobile global childhoods have produced more complex cosmopolitan identities. Our first issue was published in May 2026, and for our second issue we are now inviting submissions which include: Scholarly articles based on original research in the arts (particularly literature) and/or the social sciences Book reviews Autobiographical narratives Original pieces of creative writing Please see the submission guidelines on the journal website: https://journals.sta.uwi.edu/ojs/index.php/tc/index Deadline: March 31, 2027 Editorial contact: thirdculturejournal@gmail.com",
+      "excerpt": "Third Culture: Studies in Global Childhoods and Cosmopolitan Identities is a new peer-reviewed journal dedicated to the study of cultural and social issues related to complex cosmopolitan identities arising from mobile global childhoods which transcend conventional categories of migrancy and diaspora. Acknowledging Benedict Anderson's well-established ide...",
+      "fullDescription": "Third Culture: Studies in Global Childhoods and Cosmopolitan Identities is a new peer-reviewed journal dedicated to the study of cultural and social issues related to complex cosmopolitan identities arising from mobile global childhoods which transcend conventional categories of migrancy and diaspora. Acknowledging Benedict Anderson's well-established idea that the nation is an imagined community, the specific focus of this journal is on the large and growing number of people whose identities are formed by the experience of having lived in three or more different nations during their childhoods. This is because there is already a substantial body of scholarly work on issues of migrancy, diaspora, and bicultural identities, so this journal was established to explore the experiences, perspectives, representations, and cultural productions of people whose mobile global childhoods have produced more complex cosmopolitan identities. Our first issue was published in May 2026, and for our second issue we are now inviting submissions which include: Scholarly articles based on original research in the arts (particularly literature) and/or the social sciences Book reviews Autobiographical narratives Original pieces of creative writing Please see the submission guidelines on the journal website: https://journals.sta.uwi.edu/ojs/index.php/tc/about/submissions Deadline: March 31, 2027 Editorial contact: thirdculturejournal@gmail.com",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
       "publish": true
     },
