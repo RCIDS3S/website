@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -12,11 +12,11 @@
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 22
+      "count": 23
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 20
+      "count": 21
     },
     {
       "source": "CFPList: Rhetoric & Composition",
@@ -40,22 +40,22 @@
     },
     {
       "source": "UPenn CFP: Fan Studies and Fandom",
-      "count": 11
+      "count": 12
     },
     {
       "source": "UPenn CFP: Film and Television",
       "count": 10
     },
     {
-      "source": "CFPList: Pedagogy",
-      "count": 9
-    },
-    {
       "source": "UPenn CFP: Cultural Studies",
       "count": 9
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
+      "source": "CFPList: Pedagogy",
+      "count": 8
+    },
+    {
+      "source": "CFPList: Communication Studies Search",
       "count": 7
     },
     {
@@ -63,7 +63,7 @@
       "count": 7
     },
     {
-      "source": "CFPList: Communication Studies Search",
+      "source": "UPenn CFP: Modernist Studies",
       "count": 6
     },
     {
@@ -75,14 +75,6 @@
       "count": 5
     },
     {
-      "source": "UPenn CFP: Translation Studies",
-      "count": 4
-    },
-    {
-      "source": "CFPList: Philosophy",
-      "count": 4
-    },
-    {
       "source": "CFPList",
       "count": 4
     },
@@ -91,15 +83,19 @@
       "count": 4
     },
     {
+      "source": "UPenn CFP: Theatre and Performance Studies",
+      "count": 4
+    },
+    {
       "source": "CLIR Programs and Grants",
       "count": 4
     },
     {
-      "source": "UPenn CFP: African American",
+      "source": "CFPList: Philosophy",
       "count": 3
     },
     {
-      "source": "UPenn CFP: Theatre and Performance Studies",
+      "source": "UPenn CFP: African American",
       "count": 3
     },
     {
@@ -124,6 +120,10 @@
     },
     {
       "source": "UPenn CFP: Popular Culture",
+      "count": 2
+    },
+    {
+      "source": "UPenn CFP: Translation Studies",
       "count": 2
     },
     {
@@ -155,7 +155,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50170",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-01-31",
       "location": "CFPList",
       "status": "open",
@@ -176,37 +176,13 @@
       "publish": true
     },
     {
-      "title": "Call for Translations: SCMS Translation/Publication Committee & JCMS: Journal of Cinema and Media Studies",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107923",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-23",
-      "eventDate": "",
-      "location": "SCMS & JCMS",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Film / Media",
-        "Publication"
-      ],
-      "excerpt": "Society for Cinema & Media Studies – Translation/Publication Committee in collaboration with JCMS: Journal of Cinema and Media Studies CALL FOR TRANSLATIONS, 2026-2027",
-      "fullDescription": "Society for Cinema & Media Studies – Translation/Publication Committee in collaboration with JCMS: Journal of Cinema and Media Studies CALL FOR TRANSLATIONS, 2026-2027",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Publication.",
-      "publish": true
-    },
-    {
       "title": "Creating the Conditions: Empowering Communities in Writing and General Education",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -230,7 +206,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -248,36 +224,13 @@
       "publish": true
     },
     {
-      "title": "Book Reviews - Call for book reviews from Storyworlds",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108189",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-10-23",
-      "eventDate": "",
-      "location": "Storyworlds: A Journal of Narrative Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Publication"
-      ],
-      "excerpt": "Storyworlds is an interdisciplinary journal of narrative studies. We publish cutting-edge research on storytelling practices across times, cultures, and media. The journal foregrounds research questions that cut across established disciplines and seeks to promote the understanding of narrative and storytelling as worldmaking—and worldbreaking—practices. W...",
-      "fullDescription": "Storyworlds is an interdisciplinary journal of narrative studies. We publish cutting-edge research on storytelling practices across times, cultures, and media. The journal foregrounds research questions that cut across established disciplines and seeks to promote the understanding of narrative and storytelling as worldmaking—and worldbreaking—practices. We currently have a number of books available or forthcoming for review.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication.",
-      "publish": true
-    },
-    {
       "title": "Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities (NeMLA)",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -301,7 +254,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -320,37 +273,13 @@
       "publish": true
     },
     {
-      "title": "SWS Bologna 2026 — The Renaissance Reimagined: Art, Science and Human Knowledge in Dialogue",
-      "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50535",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
-      "eventDate": "2026-10-28",
-      "location": "I Portici Hotel Bologna – Congress Centre, Via Indipendenza 69, Bologna, Italy · SWS Scholarly Society",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Art / Media Practice",
-        "Theory"
-      ],
-      "excerpt": "Call for Abstracts - SWS Bologna 2026 The Renaissance Reimagined: Art, Science and Human Knowledge in Dialogue SWS Scholarly Society invites contributions to its International Scientific Conference on Arts and Humanities - Extended Scientific Sessions, Bologna 2026, on 28-30 October 2026 at I Portici Hotel Bologna - Congress Centre, Via Indipendenza 69, B...",
-      "fullDescription": "Call for Abstracts - SWS Bologna 2026 The Renaissance Reimagined: Art, Science and Human Knowledge in Dialogue SWS Scholarly Society invites contributions to its International Scientific Conference on Arts and Humanities - Extended Scientific Sessions, Bologna 2026, on 28-30 October 2026 at I Portici Hotel Bologna - Congress Centre, Via Indipendenza 69, Bologna, Italy. The sessions explore arts and humanities, Renaissance studies, humanism, memory and cultural identity, bringing artistic, historical and philosophical perspectives into dialogue. Abstract submission deadline: 21 October 2026. Workshop and live-art proposals: 25 October 2026. Full papers: 9 November 2026. Please consult the official website for the scientific scope, submission requirements, participation fees and current programme: https://sgemitaly.org/ Official deadlines: https://sgemitaly.org/deadlines-fees.php Contact: SWS Secretariat Bureau - scienceart@sgemitaly.org",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Material, Metaphor and Modernity: Ruskin and Architecture",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49758",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-03",
       "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
       "status": "open",
@@ -373,7 +302,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -397,7 +326,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50231",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-05-15",
       "location": "Virtual · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -420,7 +349,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -437,13 +366,37 @@
       "publish": true
     },
     {
+      "title": "SWS Bologna 2026 — The Renaissance Reimagined: Art, Science and Human Knowledge in Dialogue",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50535",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-10-24",
+      "eventDate": "2026-10-28",
+      "location": "I Portici Hotel Bologna – Congress Centre, Via Indipendenza 69, Bologna, Italy · SWS Scholarly Society",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Theory",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Call for Abstracts - SWS Bologna 2026 The Renaissance Reimagined: Art, Science and Human Knowledge in Dialogue SWS Scholarly Society invites contributions to its International Scientific Conference on Arts and Humanities - Extended Scientific Sessions, Bologna 2026, on 28-30 October 2026 at I Portici Hotel Bologna - Congress Centre, Via Indipendenza 69, B...",
+      "fullDescription": "Call for Abstracts - SWS Bologna 2026 The Renaissance Reimagined: Art, Science and Human Knowledge in Dialogue SWS Scholarly Society invites contributions to its International Scientific Conference on Arts and Humanities - Extended Scientific Sessions, Bologna 2026, on 28-30 October 2026 at I Portici Hotel Bologna - Congress Centre, Via Indipendenza 69, Bologna, Italy. The sessions explore arts and humanities, Renaissance studies, humanism, memory and cultural identity, bringing artistic, historical and philosophical perspectives into dialogue. Abstract submission deadline: 21 October 2026. Workshop and live-art proposals: 25 October 2026. Full papers: 9 November 2026. Please consult the official website for the scientific scope, submission requirements, participation fees and current programme: https://sgemitaly.org/ Official deadlines: https://sgemitaly.org/deadlines-fees.php Contact: SWS Secretariat Bureau - scienceart@sgemitaly.org",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Decolonization, Digital Sphere, and Empowered Communities",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -466,7 +419,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -489,7 +442,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -513,7 +466,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -536,7 +489,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -559,7 +512,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -582,7 +535,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -605,7 +558,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -628,7 +581,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -651,7 +604,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -677,7 +630,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -701,7 +654,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -724,7 +677,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -747,7 +700,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -770,7 +723,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -793,7 +746,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -816,7 +769,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -839,7 +792,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -862,7 +815,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -885,7 +838,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -908,7 +861,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -931,7 +884,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49395",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-24",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -1381,6 +1334,32 @@
       "excerpt": "Critical internet and AI studies colleagues: consider applying to present on our panels at next spring's Popular Culture Association conference in Boston (March 24-27, 2027)! Our area, Communications and Digital Culture seeks abstract submissions consistent with our theme of revolt and revise.",
       "fullDescription": "Critical internet and AI studies colleagues: consider applying to present on our panels at next spring's Popular Culture Association conference in Boston (March 24-27, 2027)! Our area, Communications and Digital Culture seeks abstract submissions consistent with our theme of revolt and revise.",
       "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, AI, Digital Humanities / Design.",
+      "publish": true
+    },
+    {
+      "title": "Chapter on Warhammer 40k Hammer and Bolter (Episode: \"Kill Protocol\") or Pariah Nexus (abstract)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109296",
+      "type": "Edited Collection",
+      "deadlineType": "Submission",
+      "deadline": "2026-10-31",
+      "eventDate": "",
+      "location": "Nizar Zouidi/University of Gafsa",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "About the book: Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfa...",
+      "fullDescription": "About the book: Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started long before the invention of these technologies. Machines did communicate with us and tell us about themselves even before chatbots were invented. The clanking of a hammer on the anvil tells us that it is old and dull. The whistle of a microwave tells us that dinner is ready. The process of interfacing is not a one-way process.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -2772,6 +2751,29 @@
       "publish": true
     },
     {
+      "title": "Anurag Kashyap: Auteurship, Industry and Post-Liberalization Indian Cinema",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109321",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-15",
+      "eventDate": "",
+      "location": "St. Joseph's University, Bangalore",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "Anurag Kashyap, as an Indian film director, is to be identified as one who found himself in the crosshairs of transforming social-relations in post-liberalisation urban India and that of fast changing reception of Bollywood cinema in the wake of globalization. While Kashyap, incidentally, first tasted success in 1998, for the script to Ram Gopal Varma’s ‘...",
+      "fullDescription": "Anurag Kashyap, as an Indian film director, is to be identified as one who found himself in the crosshairs of transforming social-relations in post-liberalisation urban India and that of fast changing reception of Bollywood cinema in the wake of globalization. While Kashyap, incidentally, first tasted success in 1998, for the script to Ram Gopal Varma’s ‘Satya’, it has to be noted that the trajectory of his acknowledgement as an auteur-director has neither been consistent nor the most traditional in the strictest sense of reception. Therefore, productions, such as ‘Paanch’ (2000), ‘No Smoking’ (2007), or even for that matter ‘Gulaal’ (2009)",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "CFP for the Black Religion and Theology Unit Panels - 2027 American Academy of Religion-Western Region Conference",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Graduate Conferences",
@@ -2816,6 +2818,31 @@
       "excerpt": "Submissions are invited by the Editors of Cambridge Quarterly for the Richard D. Gooder Graduate Essay Prize. The Prize is open to doctoral students and those who have submitted their thesis within the last calendar year, and offers a prize of £300 and publication in the journal. Essays of up to 7,500 words, including notes, on topics in literary and cult...",
       "fullDescription": "Submissions are invited by the Editors of Cambridge Quarterly for the Richard D. Gooder Graduate Essay Prize. The Prize is open to doctoral students and those who have submitted their thesis within the last calendar year, and offers a prize of £300 and publication in the journal. Essays of up to 7,500 words, including notes, on topics in literary and cultural criticism, broadly conceived, are warmly invited. Further details, including competition rules and how to submit, can be found at \">",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "EXTENDED DEADLINE: Travelling Cultural Heritage Circulation and Digital Afterlives",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50609",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-15",
+      "eventDate": "2026-12-10",
+      "location": "Sibiu · Lucian Blaga University of Sibiu",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Travelling Cultural Heritage Circulation and Digital Afterlives Call for Papers Cultural Heritage Lab International Conference 4th edition Lucian Blaga University of Sibiu, Romania December 10-11, 2026 Lucian Blaga University of Sibiu, as part of the FORTHEM Alliance, invites scholars, researchers, and practitioners to submit proposals for the 4th edition...",
+      "fullDescription": "Travelling Cultural Heritage Circulation and Digital Afterlives Call for Papers Cultural Heritage Lab International Conference 4th edition Lucian Blaga University of Sibiu, Romania December 10-11, 2026 Lucian Blaga University of Sibiu, as part of the FORTHEM Alliance, invites scholars, researchers, and practitioners to submit proposals for the 4th edition of the Cultural Heritage Lab International Conference, dedicated to exploring cultural heritage as a dynamic process of circulation across cultural, geographical, institutional, and historical boundaries. The 2026 edition focuses on Travelling Cultural Heritage (TCH): an approach that understands heritage not as a fixed repository, but as a process through which cultural forms, practices, ideas, and meanings move, encounter different contexts, and are transformed along the way. Drawing on Edward Said's \"travelling theory\", Mieke Bal's \"travelling concepts\", and scholarship on cultural circulation, TCH shifts attention from mobile objects to the processes through which heritage is transmitted, adapted, appropriated, reinterpreted, and re-signified. Heritage travels through migration, exchange, conquest, education, trade, tourism, collecting, translation, transmedial transfer, and institutional networks. Migrants adapt cultural practices acquired abroad to their home contexts; travelling elites import fashions, recipes, and other cultural products; artistic styles acquire regional forms as they circulate; and networks of institutions, scholars, dealers, and historical circumstances determine how artefacts enter major collections. Such movements involve adaptation and transformation, but also appropriation, exclusion, and unequal centre-periphery relations. Circulation may allow heritage to acquire new meanings, but it may also entail loss. The large-scale purchase, digitisation, and destruction of books for AI training suggests a future in which physical heritage disappears while its digital avatars survive-an extreme form of travel across media and material states, combining virtual preservation with material destruction. More optimistically, AI, data science, interoperable infrastructures, and spatial visualisation can trace cultural circulation, compare contexts, and recover seemingly lost artefacts, including previously unreadable ancient manuscripts. We welcome contributions that engage with Travelling Cultural Heritage from disciplinary and interdisciplinary perspectives, including cultural and heritage studies, anthropology, archaeology, sociology, history, linguistics and literary studies, political science, art history, architecture, digital humanities, economics, media studies, religious studies, drama, film, the performing arts, museum studies, memory studies, and food studies. Contributors are invited to submit abstracts on, but not limited to, the following themes: Travelling Cultural Heritage: theories, concepts, and methodologies; Cultural circulation, transmission, adaptation, and re-signification; Heritage: migration, displacement, and diaspora; Museums, collections, objects, routes, networks, intermediaries, and infrastructures of cultural circulation; The movement of architectural forms, artistic practices, rituals, and cultural traditions; Colonial, postcolonial, and decolonial circulations of cultural heritage; Digital heritage, digital infrastructures, AI, platforms and computational approaches to cultural circulation; Heritage in translation: what changes when cultural forms travel between languages and the production of new heritage meanings Local content, foreign forms: adaptation and naturalisation across literatures; World Cultural Heritage: comparative approaches to heritage beyond national frameworks; Archaeological evidence for mobility, exchange, and cultural contacts; Memory and heritage: overlappings and differences; Case studies of cultural forms, practices, objects, ideas, or meanings that have travelled across contexts. Submission Guidelines Please submit an abstract of 250-300 words, along with a short biographical note (max. 100 words), to Ovio Olaru (ovio.olaru@ulbsibiu.ro) and Daniela Stanciu-P?sc?ri?a (daniela.stanciu@ulbsibiu.ro) by Nov. 15, 2026. The organisers' decision regarding submissions will be communicated by Nov. 20. For effectiveness, please include \"Cultural Heritage Lab conference submission\" in the subject line of your email. The conference will be held in English, German, and French, and will take place exclusively on-site. We look forward to your contributions! Kind regards, The organisers",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -2941,29 +2968,6 @@
       "publish": true
     },
     {
-      "title": "Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Modernist Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108727",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-15",
-      "eventDate": "",
-      "location": "Md. Rakibul Islam, Aligarh Muslim University Centre, Murshidabad & Md Jakir Hossain, Murshidabad Maharaja Krishnanath University, Berhampore, Murshidabad, West Bengal, India.",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Proposed Book Title Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature Editors: Md Rakibul Islam* & Md Jakir Hossain**",
-      "fullDescription": "Proposed Book Title Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature Editors: Md Rakibul Islam* & Md Jakir Hossain**",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Intersections 2027 on 'Embodiment: Performance, Technology and Equity",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -3035,30 +3039,6 @@
       "excerpt": "In the 2000s and 2010s, social networking facilitated citizen-based activism of enormous significance like #BlackLivesMatter and #MeToo. But in the 2020s, corporate enshittification and government surveillance have restricted the reach of social networking tools. For example, Elon Musk’s purchase of Twitter meant that many users left X rather than adapt t...",
       "fullDescription": "In the 2000s and 2010s, social networking facilitated citizen-based activism of enormous significance like #BlackLivesMatter and #MeToo. But in the 2020s, corporate enshittification and government surveillance have restricted the reach of social networking tools. For example, Elon Musk’s purchase of Twitter meant that many users left X rather than adapt their activist practices to the restrictive corporate environment (Tenbarge & Collier 2024). Instances such as the Trump administration’s use of social media posts to target international students during the Gaza protests caused many users to avoid social media altogether (Lonas Cochran 2025).",
       "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "CFP: 28th Southeast Conference for Languages, Literatures, and Film (St. Petersburg, FL, Feb. 2027)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50162",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
-      "eventDate": "2027-02-27",
-      "location": "St. Petersburg, Florida · University of South Forida",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Pedagogy"
-      ],
-      "excerpt": "CFP: 28th Southeast Conference for Languages, Literatures, and Film (Feb 27-28, 2027) in St. Petersburg, Florida (on the University of South Florida St. Petersburg Campus) Languages and Cultures in a Changing World: Identity, Responsibility, and Justice Abstracts for papers (and panels) are now being considered. Deadline for abstracts: Nov. 16, 2026 Selec...",
-      "fullDescription": "CFP: 28th Southeast Conference for Languages, Literatures, and Film (Feb 27-28, 2027) in St. Petersburg, Florida (on the University of South Florida St. Petersburg Campus) Languages and Cultures in a Changing World: Identity, Responsibility, and Justice Abstracts for papers (and panels) are now being considered. Deadline for abstracts: Nov. 16, 2026 Selected papers will be published in a post-conference anthology. To view prior publication, visit the conference website. The SCFLLF welcomes papers on all aspects of literature, theoretical and applied linguistics, culture, philosophy, cultural history, film, other popular media, second language acquisition, and language pedagogy pertaining to non-English languages (ancient and modern). We would like to encourage (but not limit) submissions addressing our conference theme: Identity, Responsibility and Justice, in its broadest understanding. Selected papers will be published in a post-conference anthology. The humanities and the study of languages are facing changing institutional and social expectations. These changes encourage us to reconsider what work we do and the people and communities our work serves. To whom and to what, are artists, scholars and teachers accountable? How do languages, literatures, films, and other forms of cultural expression preserve or challenge established narratives and structures? How do they engage with different identities? How can they help us understand the present and/or imagine different futures? What responsibilities come with teaching and learning languages as well as with studying, interpreting, and representing other cultures? This conference invites scholars working in non-English languages, literatures, film and media, cultural studies, applied and theoretical linguistics, second-language acquisition, and language pedagogy to explore these and related questions from a wide range of disciplinary, theoretical, historical, and methodological perspectives. The conference theme, Identity, Responsibility, and Justice, is deliberately broad. Responsibility may involve our relationships with students and communities, with texts and their histories, with linguistic and cultural traditions, or with the institutions in which we teach and conduct research. Or responsibility can be interrogated with regard to artists and art, in a broad sense. Justice can also be approached in diverse ways. It may involve social justice, questions of representation and recognition, historical memory, inclusion and exclusion, or access and lack thereof to language learning. Justice may also concern translation and cultural mediation or the ways in which literature, film, language, and other cultural practices engage with conflict, inequality, trauma, discrimination, displacement, and/or social change. The SCFLLF keynote speaker is Adam Schwartz (Associate Professor of Language, Culture & Society, Oregon State University). Dr. Schwartz's research addresses Spanish language education and Spanish-English multilingualisms in the U.S. He takes particular interest in intersections of language, race and racism, wherein questions of identity, responsibility and justice persist. In addition to various articles and chapters, he has authored three books. These include Spanish So White: Conversations on the Inconvenient Racism of a 'Foreign' Language Education (2023). He is also the co-author of Aqu&iacute; se habla: Centering the Local and Personal in Spanish Language Education (2025) as well as Language, Identity and Justice: The Anthropolitical Worlds of Ana Celia Zentella (2026). Some suggestions of topics and their artistic representations include: identity, responsibility, and justice represented in literature, art, film, and other forms of popular media, including social media influence of film and literature on the public and private sphere reassessing the purpose and value of language teaching expressions and perceptions of trauma in response to injustice justice in utopian fictional worlds addressing and expressing identity in the language classroom questions of identity in literature, film, the arts, and other popular media responsibility issues in production and reception of artistic expressions responsibilities associated with researching and representing cultures apart or in comparison to our own the broader influence of imaginary worlds created in film, literature, the visual arts, and other forms of media on real political and personal justice language and linguistic-related topics concerning identity, responsibility, and justice other topics Please submit a proposal (of no more than 250 words) for a single paper or a full panel (max. of 3 presentations) on the conference webpage. We can only accept online submissions. Please contact Margit Grieb (grieber@usf.edu) if you have any questions.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Pedagogy.",
       "publish": true
     },
     {
@@ -3684,32 +3664,6 @@
       "publish": true
     },
     {
-      "title": "Mythology and the Environment: Science Fiction and Streaming Television",
-      "source": "CFPList",
-      "sourceName": "CFPList: Philosophy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50477",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-01",
-      "eventDate": "2027-12-01",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Film / Media",
-        "Publication",
-        "Theory",
-        "Communication"
-      ],
-      "excerpt": "Myths have long shaped how humans understand and interact with the natural world. This edited collection examines how contemporary science fiction streaming television draws on mythology to explore humanity's relationship with the environment. Through the lens of ecocriticism, this collection will analyze how narratives represent, question, and critique e...",
-      "fullDescription": "Myths have long shaped how humans understand and interact with the natural world. This edited collection examines how contemporary science fiction streaming television draws on mythology to explore humanity's relationship with the environment. Through the lens of ecocriticism, this collection will analyze how narratives represent, question, and critique environmental responsibility, ecological interconnectedness, and humanity's impact on Earth, or other worlds. Since 2008, John Perlich and David Whitt have co-edited three books on comparative mythology: Sith, Slayers, Stargates, and Cyborgs (2008), Millennial Mythmaking (2010), and Myth in the Modern World(2014). This fourth collection, which will be published by McFarland & Company, seeks to bring together scholars and cultural critics from a variety of fields (e.g., mythology, environmental studies, media, cultural studies, literature, political science, anthropology, sociology, communication studies) to examine contemporary and original science fiction television on streaming services. Streaming platforms have emerged as premier destinations for ambitious, avant-garde, commercially successful, and critically acclaimed science fiction. The following is a partial list of original science fiction shows on various streaming platforms: · Amazon Prime Video: Fallout, The Expanse, The Rig, Outer Range · Apple TV+: Foundation, Silo, For All Mankind, Pluribus, Monarch: Legacy of Monsters, Dark Matter, Star City, Invasion · Disney+: Star Wars (The Mandalorian, Andor, Ahsoka, Visions, Skeleton Crew), Marvel (Loki, Moon Knight) · HBO Max: The Last of Us, Dune: Prophecy, Raised by Wolves, Station Eleven · Hulu: Paradise, Solar Opposites · Netflix: Stranger Things, Black Mirror, Love, Death + Robots, 3 Body Problem, Sweet Tooth, Dark, The Eternaut, The Rain, The Silent Sea · Peacock: The Ark, Twisted Metal · Paramount+: Halo, Star Trek (Discovery, Lower Decks, Picard, Starfleet Academy, Strange New Worlds) The rich and varied programming on these streaming services provides a myriad of opportunities to examine contemporary science fiction television in terms of mythology and the environment. Some potential topics include: · Creation myths and the making of new worlds and ecosystems · The Hero's Journey and the environment · The impact of science and technology on the environment · Monsters, aliens and others environmental threats · Climate change, apocalyptic and dystopian worlds · Ecofeminism and mythology · Environmental activism · Allusions to mythic protectors (e.g., Gaia, Artemis, Demeter, Nüwa, Sedna, etc.) Please submit a proposal by December 1, 2026. Proposals should include: - a 500-1000 word abstract - brief author bio - contact information Chapters will be limited to 5000-6000 words and must follow APA style guidelines (7th edition). Send questions and proposals to both co-editors. John Perlich Bemidji State University john.perlich@bemidjistate.edu David Whitt Nebraska Wesleyan University dfw@nebrwesleyan.edu",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Theory, Publication.",
-      "publish": true
-    },
-    {
       "title": "Call for Papers: ‘Writing Across Languages: Anglophone Short Stories by Multilingual Authors’",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Journals and Collections",
@@ -3757,6 +3711,31 @@
       "excerpt": "CALL FOR PROPOSALS The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy March 25-27, Bloomington, IN, Indiana University Bloomington The first quarter of the twenty-first century has been organized, to a degree that bears sustained scholarly attention, by a small cohort of men whose private fortunes rival the budgets of nation-s...",
       "fullDescription": "CALL FOR PROPOSALS The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy March 25-27, Bloomington, IN, Indiana University Bloomington The first quarter of the twenty-first century has been organized, to a degree that bears sustained scholarly attention, by a small cohort of men whose private fortunes rival the budgets of nation-states, whose platforms mediate the social and epistemic lives of billions, and whose biographical idiosyncrasies have become structural features of global infrastructure. Steve Jobs furnished the template; Mark Zuckerberg, Jeff Bezos, Elon Musk, and Peter Thiel have inherited and transformed it. This conference takes the tech founder seriously as a political, economic, aesthetic, and theological problem, and as an object adequate to humanistic inquiry. The planning committee invites proposals for individual papers, pre-constituted panels, and roundtables across three streams - the Horsemen, their Mounts, their Kingdom. Comparative, transnational, and historically minded approaches are particularly welcome. Stream One: The Horsemen The Four Leaders of the Bropocalypse The figures themselves - as biographies, personae, cultural texts, and authors and products of their own myths. Questions to consider: How do we read the founder's letter, the keynote, the congressional testimony, the tweet? What work does biography do for the founder, and the founder for biography? How are their bodies stylized, optimized, and displayed? What is the cultural work of the turtleneck, the gilet, the cage match, the longevity protocol, the pronatalist announcement? How do spatial fantasies, such as the bunker, the compound, the rocket, the company town, relate to longer traditions of utopia, sovereignty, and flight? Where do the horsemen sit in longer histories of capital - Hearst, Ford, Hughes, Rockefeller - and alongside transnational counterparts? Stream Two: The Mounts Technological Foundations of the Bropocalypse The material, infrastructural, and epistemic conditions that made these figures possible and that they have, in turn, reshaped - the technologies the horsemen ride. Work drawing on media theory, STS, infrastructure studies, and the political economy of computing is especially welcome. Questions to consider: How do recommender systems and engagement metrics constitute attention as a political resource? How should we read the fulfillment center, the algorithmically managed workplace, the gig contract? What happens to the worker when the workplace is built to render the worker illegible? What are the climatic, hydrological, and territorial costs of the immaterial satellite constellations, undersea cables, data centers? What models of mind, language, and sociality are inscribed in the chatbot, the agent, the avatar? How do these systems reshape pedagogy, friendship, intimacy, grief, work? Stream Three: The Kingdom Institutional Context of the Bropocalypse The regulatory, financial, philanthropic, cultural, and political ecology that has enabled, legitimated, and at moments resisted the formation under analysis - the terrain across which the horsemen ride. Questions to consider: What is the worldview of contemporary venture capital, and how is it produced and reproduced through the manifesto, the LP letter, the founder-mode essay? How has the research university - its endowments, donors, dropout mythologies - both produced and been remade by the founders it educated and abandoned? What does it mean that the largest funders of causes such as global health, climate response, and basic research are now the personal foundations of living billionaires? How should we understand the migration of significant fractions of tech capital toward the American right, and the ideological projects - network state, accelerationism, neoreaction - that have traveled with it? What can scholarship learn from counter-formations such as Wikipedia, the Fediverse, platform cooperativism, the union drive, and open protocol? Submission Guidelines Proposals for individual papers (20 minutes) should consist of an abstract of no more than 350 words and a brief bio (100 words). Panel and roundtable proposals should include a 250-word rationale alongside individual abstracts. Please indicate the stream; the committee reserves the right to reassign. Submissions at https://forms.gle/uf5jwkNVWDBHbVcq9 by December 1, 2026. Decisions by January 30, 2027. Please direct any questions to bropocalypse2027@gmail.com. Edward Dallis-Comentale, Erin Kelley, Amber Bowes, Robert Metaxatos Indiana University Bloomington",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Mythology and the Environment: Science Fiction and Streaming Television",
+      "source": "CFPList",
+      "sourceName": "CFPList: Communication Studies Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50477",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-01",
+      "eventDate": "2027-12-01",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Communication",
+        "Film / Media",
+        "Publication"
+      ],
+      "excerpt": "Myths have long shaped how humans understand and interact with the natural world. This edited collection examines how contemporary science fiction streaming television draws on mythology to explore humanity's relationship with the environment. Through the lens of ecocriticism, this collection will analyze how narratives represent, question, and critique e...",
+      "fullDescription": "Myths have long shaped how humans understand and interact with the natural world. This edited collection examines how contemporary science fiction streaming television draws on mythology to explore humanity's relationship with the environment. Through the lens of ecocriticism, this collection will analyze how narratives represent, question, and critique environmental responsibility, ecological interconnectedness, and humanity's impact on Earth, or other worlds. Since 2008, John Perlich and David Whitt have co-edited three books on comparative mythology: Sith, Slayers, Stargates, and Cyborgs (2008), Millennial Mythmaking (2010), and Myth in the Modern World(2014). This fourth collection, which will be published by McFarland & Company, seeks to bring together scholars and cultural critics from a variety of fields (e.g., mythology, environmental studies, media, cultural studies, literature, political science, anthropology, sociology, communication studies) to examine contemporary and original science fiction television on streaming services. Streaming platforms have emerged as premier destinations for ambitious, avant-garde, commercially successful, and critically acclaimed science fiction. The following is a partial list of original science fiction shows on various streaming platforms: · Amazon Prime Video: Fallout, The Expanse, The Rig, Outer Range · Apple TV+: Foundation, Silo, For All Mankind, Pluribus, Monarch: Legacy of Monsters, Dark Matter, Star City, Invasion · Disney+: Star Wars (The Mandalorian, Andor, Ahsoka, Visions, Skeleton Crew), Marvel (Loki, Moon Knight) · HBO Max: The Last of Us, Dune: Prophecy, Raised by Wolves, Station Eleven · Hulu: Paradise, Solar Opposites · Netflix: Stranger Things, Black Mirror, Love, Death + Robots, 3 Body Problem, Sweet Tooth, Dark, The Eternaut, The Rain, The Silent Sea · Peacock: The Ark, Twisted Metal · Paramount+: Halo, Star Trek (Discovery, Lower Decks, Picard, Starfleet Academy, Strange New Worlds) The rich and varied programming on these streaming services provides a myriad of opportunities to examine contemporary science fiction television in terms of mythology and the environment. Some potential topics include: · Creation myths and the making of new worlds and ecosystems · The Hero's Journey and the environment · The impact of science and technology on the environment · Monsters, aliens and others environmental threats · Climate change, apocalyptic and dystopian worlds · Ecofeminism and mythology · Environmental activism · Allusions to mythic protectors (e.g., Gaia, Artemis, Demeter, Nüwa, Sedna, etc.) Please submit a proposal by December 1, 2026. Proposals should include: - a 500-1000 word abstract - brief author bio - contact information Chapters will be limited to 5000-6000 words and must follow APA style guidelines (7th edition). Send questions and proposals to both co-editors. John Perlich Bemidji State University john.perlich@bemidjistate.edu David Whitt Nebraska Wesleyan University dfw@nebrwesleyan.edu",
+      "relevance": "Automatically surfaced as a likely RCID fit across Communication, Film / Media, Publication.",
       "publish": true
     },
     {
@@ -3930,6 +3909,29 @@
       "publish": true
     },
     {
+      "title": "\"Lost and Found\"-Univeristy of Maryland Graduate English Conference 2027 (creative writing)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109301",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-06",
+      "eventDate": "2027-03-05",
+      "location": "University of Maryland Graduate English Organization",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Lost & Found The University of Maryland’s Graduate English Organization (GEO) invites submissions of creative work engaging with the theme of “Lost & Found” for our 20th annual graduate student conference, to be held in person on Friday, March 5, 2027, at the University of Maryland, College Park.",
+      "fullDescription": "Lost & Found The University of Maryland’s Graduate English Organization (GEO) invites submissions of creative work engaging with the theme of “Lost & Found” for our 20th annual graduate student conference, to be held in person on Friday, March 5, 2027, at the University of Maryland, College Park.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "Arconexiones. Idaho State University Spanish Graduate Student Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
@@ -4097,6 +4099,29 @@
       "excerpt": "Immersion is a key concept in the fantastic. From the 3D worlds of Avatar to the in-depth lore of The Lord of the Rings, fantastic narratives thrive on the idea of immersing us in worlds so detailed that we feel as if we are really there. Fantastic worlds often come with their own detailed maps, histories, languages, and cultures, creating the illusion of...",
       "fullDescription": "Immersion is a key concept in the fantastic. From the 3D worlds of Avatar to the in-depth lore of The Lord of the Rings, fantastic narratives thrive on the idea of immersing us in worlds so detailed that we feel as if we are really there. Fantastic worlds often come with their own detailed maps, histories, languages, and cultures, creating the illusion of being a real place. Media industries invest heavily in producing technologies of immersion, such as 4D cinema or VR games. Immersion is one of Henry Jenkins’ “Seven Core Principles of Transmedia Storytelling”, while Mark J.P.",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Publication.",
+      "publish": true
+    },
+    {
+      "title": "The Hungry Glass: Mirrors, Films, Stars",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Fan Studies and Fandom",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109347",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-14",
+      "eventDate": "",
+      "location": "University of Brighton, UK",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "The Hungry Glass: Mirrors, Films, Stars 5 February 2027, University of Brighton",
+      "fullDescription": "The Hungry Glass: Mirrors, Films, Stars 5 February 2027, University of Brighton",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -4325,6 +4350,32 @@
       "publish": true
     },
     {
+      "title": "DH 2.0: Transdisciplinary Conversations on Digital Humanities",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50602",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-20",
+      "eventDate": "2027-03-02",
+      "location": "Amity University India, Noida Campus · Amity Institute of English Studies and Research (AIESR), Amity University Noida",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory",
+        "Pedagogy"
+      ],
+      "excerpt": "DH 2.0: Transdisciplinary Conversations on Digital Humanities A Hybrid International Conference organized by AIESR, Amity University, Noida Pre-Conference Workshops on 02 March 2027 Conference on 03-05 March 2027 (Online and In-Person) Digital Humanities Quarterly, in the early 2000s, described Digital Humanities as an emerging field practising humanities...",
+      "fullDescription": "DH 2.0: Transdisciplinary Conversations on Digital Humanities A Hybrid International Conference organized by AIESR, Amity University, Noida Pre-Conference Workshops on 02 March 2027 Conference on 03-05 March 2027 (Online and In-Person) Digital Humanities Quarterly, in the early 2000s, described Digital Humanities as an emerging field practising humanities research in and through information technology, exploring how the humanities \"may evolve through their engagement with technology, media, and computational methods\". More recently JHU Arts and Science Magazine and University College Cork has developed a broader definitional field for Digital Humanities, alluding to the generic use of \"digital or computer-based technology to expand knowledge\" across Humanities disciplines. Following these articulations, past DH projects have ranged from the curation of digital archives and literary editions, computational linguistics or literary studies, text mining, mapping and spatial humanities, to museum preservation, Network Analysis, and Educational AI use. Presently, Digital Humanities remains indicative of a transdisciplinary field that includes the use of practices such as digital data archiving, text mining, corpus linguistics, GIS mapping, data visualisation, cultural informatics, machine learning, digital editing, and artificial intelligence to study and analyse history, literature, philosophy, art history, archaeology, cognitive science, and cultural and heritage studies. This DH 2.0 International Conference entitled \"Transdisciplinary Conversations on Digital Humanities\" - the second instalment of the AIESR DH initiative - does not simply invite students, scholars, educators, and industry specialists to draw on such an existing corpus of projects, edited volumes, monographs, and digital archives but insists that they submit inspiring and innovative work that challenges the limits of the field. On this basis, DH 2.0, a hybrid conference organized by AIESR and scheduled on 02-05 March 2027, are seeking abstracts from undergraduates, postgraduates, research scholars, faculty members and industry experts in the following tracks. Track I: Digital Humanities, Literary Studies, Cultural Studies, and Video Game Studies Track II: Digital Humanities and Theoretical, Applied, and Computational Linguistics Track III: Digital Humanities, Translation Studies, and Comparative Literature Track IV: Digital Humanities, AI and Philosophy of Ethics Track V: Digital Humanities and Cognitive Science Track VI: Digital Humanities, Pedagogy, and Education Policy These tracks only remain suggestive of the kind of scholarship we are soliciting, and do not exhaust the possible topics we are prepared to entertain. Moreover, shortlisted presenters will be later asked to submit full-length manuscripts of their work, which will be compiled in an edited volume and published by an academic publisher of international repute. Please submit your abstracts (of up to 350 words) by accessing the google form here: https://forms.gle/Kndg68GeJHLypGGi8 Important Dates Start of Abstract Submission 30 October 2026 Abstract Submission Deadline 20 December 2026 Intimation of Abstract Acceptance 05 January 2027 Registration Deadline for DH 2.0 15 February 2027 DH 2.0 Conference 02-05 March 2027 Shortlist for Full Manuscript. 18 April 2027",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design.",
+      "publish": true
+    },
+    {
       "title": "Indigenous Worlds in Transition: Society, Ecology, and Justice Among Tribal and Marginalised Communities",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Cultural Studies",
@@ -4392,30 +4443,6 @@
       "excerpt": "About the volume",
       "fullDescription": "About the volume",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Media Under Fascism",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109272",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-12-22",
-      "eventDate": "2027-04-15",
-      "location": "SFSU Cinema Studies Graduate Research Conference",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Papers 28th Annual SFSU Cinema Studies Graduate Research Conference “Media Under Fascism” San Francisco, CA Conference Dates: April 15-16, 2027 Submission Deadline: December 22, 2026 The San Francisco State University Cinema Studies Department welcomes proposals for the 28th Annual Graduate Research Conference “Media Under Fascism.”",
-      "fullDescription": "Call for Papers 28th Annual SFSU Cinema Studies Graduate Research Conference “Media Under Fascism” San Francisco, CA Conference Dates: April 15-16, 2027 Submission Deadline: December 22, 2026 The San Francisco State University Cinema Studies Department welcomes proposals for the 28th Annual Graduate Research Conference “Media Under Fascism.”",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Art / Media Practice.",
       "publish": true
     },
     {
@@ -5136,31 +5163,6 @@
       "publish": true
     },
     {
-      "title": "\"Loving Roland Barthes: An Interdisciplinary Conference\"",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50536",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-15",
-      "eventDate": "2027-10-14",
-      "location": "Mobile, Alabama · University of South Alabama",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Art / Media Practice",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Call for Papers: \"Loving Roland Barthes\" University of South Alabama (Mobile, AL) October 14-16, 2027 Loving [Barthes], doing so in a certain fashion against the age [. . .], can only be a responsible way of living: it inevitably leads the subject who does so and says so to posit himself in his time according to the injunctions of his desire and not accor...",
-      "fullDescription": "Call for Papers: \"Loving Roland Barthes\" University of South Alabama (Mobile, AL) October 14-16, 2027 Loving [Barthes], doing so in a certain fashion against the age [. . .], can only be a responsible way of living: it inevitably leads the subject who does so and says so to posit himself in his time according to the injunctions of his desire and not according to those of his sociality. -Roland Barthes, \"Loving Schumann\" Proposals for panels and papers are invited for a conference entitled \"Loving Roland Barthes: Celebrating the Fiftieth Anniversary of the Publication of A Lover's Discourse: Fragments ,\" to be hosted by the University of South Alabama's Department of English and held at the historic Malaga Inn in downtown Mobile, city of the oldest Mardi Gras in the U.S. As conference organizers, we envision a relatively concentrated event in which scholars working in various disciplines and artists working in various genres will present new ideas about Roland Barthes, A Lover's Discourse , and his adjacent texts. This conference celebrates a peculiar form of love: an amorousness that compels the one faithful to \"the specialty of [one's] desire\" ( Lover's Discourse 20) to return again and again to Fragments d'un discours amoureux . Published in 1977 and translated a year later by Richard Howard as A Lover's Discourse: Fragments , Roland Barthes's tortured love song retains a strong attachment for scholars and artists alike. We might be tempted to call those strange lovers \"amateurs.\" For, as Barthes reminded us, the word derives from \"amator: one who loves and loves again\" (Roland Barthes 52). Across the last five decades, the book has inspired not only articles and artwork but also autotheory, \"an emergent discourse with historical precedents\" (McLaughlin et al., Autotheory and Its Others 15). Often recognizable by its copious citations, autotheoretical practice pays homage to A Lover's Discourse: Fragments as one way of loving Barthes. Yet there is no limit to the modes of loving Barthes. For some, it might be collage, an assemblage of the very fragments that Barthes favored. For others, it might be singing a song (such as Annie Lennox's \"No More 'I Love You's'\") or writing notations (one of Barthes's preferred activities). For still others, it might be searching for \"a little corner of sloth,\" \"twiddl[ing one's] wound,\" or accepting \"[t]he lover's fatal identity [. . .]: I am the one who waits\" (Lover's Discourse 64, 161, 40). Whatever one's manner of loving Barthes, this conference invites scholars and artists to a celebration of A Lover's Discourse: Fragments . Contributions can take the form of traditional papers as well as of visual art, short film, skits, songs, and other Barthesian types of work or play. Possible topics include but are not limited to the following: · Figures and images in A Lover's Discourse: Fragments ; · Fragments and citations; · \"[C]ontrolled accident\" (\"An Almost Obsessive Relation to Writing Instruments\" 182) and the text's other structural and organizational features; · Barthes's use of Goethe's Werther; · \"[T]he history of tears,\" \"a scenography of waiting,\" and other extrapolations from the text (180, 37); · Relationships between this text and other works by Barthes, especially from the 1970s; · Barthes's (post)structuralist discussions of substitution, replication, and supplement; · Translation and differences between the French and English versions of the text; · Autotheory and other experimental, creative-critical practices inspired by Barthes; · (Loving) parodies of A Lover's Discourse ; · Anachronism in A Lover's Discourse both at the point of publication and now. As much as we trust that this conference will generate exciting new art and scholarship, we also hope to foster a substantial exchange of ideas and perspectives among all participants as well as personal interaction among scheduled presentations. Therefore, conference panels will be scheduled sequentially rather than concurrently so that all participants will be able to attend all panels, and we strongly encourage participants to stay for the duration of the conference. We believe that much good work will come from the conference, and we hope to assemble a collection of that work in the months following the conference in order to share it with the widest possible audience. Kicking off the conference will be a keynote address by Tufts professor John Lurz, author of The Barthes Fantastic: Literature, Criticism, and the Practice of Language . Please submit proposals of 350-500 words by email to Becky McLaughlin (email address: bmclaugh@southalabama.edu) and Eric Daffron (email address: edaffron@ramapo.edu) or by snail mail to Becky McLaughlin, Department of English, HUMB 240, University of South Alabama, Mobile, AL 36688. Due date: January 15, 2027.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "CfP - International Congress in Humanities \"Body, Age and Gender\"",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
@@ -5182,6 +5184,31 @@
       "excerpt": "CALL FOR PAPERS First International Congress in Humanities - Texts, Images and Communities: \"Body, Age and Gender\" Org. HUM-TIC Research Group, University of Madeira, 17-18 June 2017 The way in which the body, age and gender shape human experiences is one of the most pressing challenges facing contemporary societies. Today, more than ever, there is a need...",
       "fullDescription": "CALL FOR PAPERS First International Congress in Humanities - Texts, Images and Communities: \"Body, Age and Gender\" Org. HUM-TIC Research Group, University of Madeira, 17-18 June 2017 The way in which the body, age and gender shape human experiences is one of the most pressing challenges facing contemporary societies. Today, more than ever, there is a need to build fairer, more equitable and sustainable communities, which are in a state of continuous development and adaptation and which face limitations and obstacles. Some of these are long-standing and deeply rooted, whilst others are new and not very well known. A multidisciplinary approach to the cultural and social constructs of the body - and the multiple levels at which it functions as a generator of meaning - is therefore imperative. The proposed lines of research, both in their contemporary context and in terms of their cultural and historical foundations, fall within the core mission of the Humanities Research Group - Texts, Images and Communities (HUM-TIC). This event fosters free, informed discussion, driven by dialogue across the Humanities. This is the first International Congress organised by the HUM-TIC Research Group, Faculty of Arts and Humanities at the University of Madeira. It is an in-person event, which will take place at the Colégio dos Jesu&iacute;tas, at the University of Madeira's Rectorate building in Funchal. The conference aims to explore one of HUM-TIC's main thematic areas - Body, Age and Gender - from a dialogical and transdisciplinary perspective. In this context, proposals of a theoretical or empirical nature, including case studies, are welcome across the Humanities. These may include, among others, Art, Communication, Culture, Design, History, Linguistics, Literature, Psychology and Sociology. Discussion Topics (some suggestions): - Discourses, narratives and representations of the body, age and gender. - The body, space and territoriality: real, symbolic and imaginary places. - Rethinking the Human: AI and representations of the body, age and gender. - Aesthetics of the body, beauty and ugliness, the monstrous and the abject. - Building Self and the Other in different cultural contexts. - Stages of life: representations, experiences and intergenerational relationships. - Double standards of ageing in a consumer society. - Embodiment: inner and outer, personal and social, physical and idealised. - Body and gender: sexuality, emotions, ethics, violence. - Myths, stereotypes and imagined representations of the body, age and gender. - Ecologies of the body and environmental humanities. - Gender-based violence in the digital sphere. - The manosphere and social media impact. - Intersectionality and multiple forms of discrimination. - Gender, natural disasters and climate change. Abstract Submissions: - Submission deadline: 15th January, 2027 - Working languages: Portuguese, English, Spanish - 20-minute Paper/ Panel (up to three papers): Microsoft Forms https://forms.cloud.microsoft/pages/responsepage.aspx?id=21zvRr7bJE6SsSdesroEW_Wv92T_NzBPkLLdceU3SMlUMkRYQjNBQllBTlhIT1BCRTlMQlFLWkJUMS4u&route=shorturl - Notification of acceptance: 15th February, 2027 - Conference email: 1cong.ch2027@mail.uma.pt Registration Fees: - Registration fee: &euro;80 - MA and PhD. student registration fee: &euro;40 - UMa lecturers and researchers registration fee: &euro;40 - Non-speaking participants (with certificate of attendance): &euro;10 Registration Deadlines: - Speaking participants: 30th April, 2027 - Non-speaking participants: 18th June, 2027 Location: Colégio dos Jesu&iacute;tas Reitoria da Universidade da Madeira Rua dos Ferreiros, 9000-082 Funchal Madeira, Portugal Publication: Selected papers will be published in a peer-reviewed volume. Details on deadlines, guidelines, and reviewing process will follow. Organising Committee Cristina Santos Pinheiro In&ecirc;s Tadeu Jane Sp&iacute;nola Diogo Rui Carlos Fonseca Lu&iacute;s Pimenta Lopes Paulo Nascimento Congress Support Assistant: Valéria Paix&atilde;o (coord.) Scientific Committee Ana Isabel Mart&iacute;n Ferreira, University of Valladolid Elena Bollinger, University of Madeira Gregorio Rodr&iacute;guez Herrera, University of Las Palmas de Gran Canaria Henrique Pereira, University of Beira Interior Joaquim Pinheiro, University of Madeira Jorge Gato, University of Oporto Julia Nitz, University of Martin Luther Halle-Wittenberg Margarida Esteves Pereira, University of Minho Maria Lu&iacute;sa Malato, University of Oporto Mario Franco Barros, University of Madeira Paulo Sim&otilde;es Rodrigues, University of &Eacute;vora Samuel Mateus, University of Madeira Telmo Reis, University of Madeira Keynote Speakers Orla Murphy, University College Cork Paula Mor&atilde;o, University of Lisbon",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
+      "title": "\"Loving Roland Barthes: An Interdisciplinary Conference\"",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50536",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-15",
+      "eventDate": "2027-10-14",
+      "location": "Mobile, Alabama · University of South Alabama",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Film / Media",
+        "Art / Media Practice",
+        "Theory"
+      ],
+      "excerpt": "Call for Papers: \"Loving Roland Barthes\" University of South Alabama (Mobile, AL) October 14-16, 2027 Loving [Barthes], doing so in a certain fashion against the age [. . .], can only be a responsible way of living: it inevitably leads the subject who does so and says so to posit himself in his time according to the injunctions of his desire and not accor...",
+      "fullDescription": "Call for Papers: \"Loving Roland Barthes\" University of South Alabama (Mobile, AL) October 14-16, 2027 Loving [Barthes], doing so in a certain fashion against the age [. . .], can only be a responsible way of living: it inevitably leads the subject who does so and says so to posit himself in his time according to the injunctions of his desire and not according to those of his sociality. -Roland Barthes, \"Loving Schumann\" Proposals for panels and papers are invited for a conference entitled \"Loving Roland Barthes: Celebrating the Fiftieth Anniversary of the Publication of A Lover's Discourse: Fragments ,\" to be hosted by the University of South Alabama's Department of English and held at the historic Malaga Inn in downtown Mobile, city of the oldest Mardi Gras in the U.S. As conference organizers, we envision a relatively concentrated event in which scholars working in various disciplines and artists working in various genres will present new ideas about Roland Barthes, A Lover's Discourse , and his adjacent texts. This conference celebrates a peculiar form of love: an amorousness that compels the one faithful to \"the specialty of [one's] desire\" ( Lover's Discourse 20) to return again and again to Fragments d'un discours amoureux . Published in 1977 and translated a year later by Richard Howard as A Lover's Discourse: Fragments , Roland Barthes's tortured love song retains a strong attachment for scholars and artists alike. We might be tempted to call those strange lovers \"amateurs.\" For, as Barthes reminded us, the word derives from \"amator: one who loves and loves again\" (Roland Barthes 52). Across the last five decades, the book has inspired not only articles and artwork but also autotheory, \"an emergent discourse with historical precedents\" (McLaughlin et al., Autotheory and Its Others 15). Often recognizable by its copious citations, autotheoretical practice pays homage to A Lover's Discourse: Fragments as one way of loving Barthes. Yet there is no limit to the modes of loving Barthes. For some, it might be collage, an assemblage of the very fragments that Barthes favored. For others, it might be singing a song (such as Annie Lennox's \"No More 'I Love You's'\") or writing notations (one of Barthes's preferred activities). For still others, it might be searching for \"a little corner of sloth,\" \"twiddl[ing one's] wound,\" or accepting \"[t]he lover's fatal identity [. . .]: I am the one who waits\" (Lover's Discourse 64, 161, 40). Whatever one's manner of loving Barthes, this conference invites scholars and artists to a celebration of A Lover's Discourse: Fragments . Contributions can take the form of traditional papers as well as of visual art, short film, skits, songs, and other Barthesian types of work or play. Possible topics include but are not limited to the following: · Figures and images in A Lover's Discourse: Fragments ; · Fragments and citations; · \"[C]ontrolled accident\" (\"An Almost Obsessive Relation to Writing Instruments\" 182) and the text's other structural and organizational features; · Barthes's use of Goethe's Werther; · \"[T]he history of tears,\" \"a scenography of waiting,\" and other extrapolations from the text (180, 37); · Relationships between this text and other works by Barthes, especially from the 1970s; · Barthes's (post)structuralist discussions of substitution, replication, and supplement; · Translation and differences between the French and English versions of the text; · Autotheory and other experimental, creative-critical practices inspired by Barthes; · (Loving) parodies of A Lover's Discourse ; · Anachronism in A Lover's Discourse both at the point of publication and now. As much as we trust that this conference will generate exciting new art and scholarship, we also hope to foster a substantial exchange of ideas and perspectives among all participants as well as personal interaction among scheduled presentations. Therefore, conference panels will be scheduled sequentially rather than concurrently so that all participants will be able to attend all panels, and we strongly encourage participants to stay for the duration of the conference. We believe that much good work will come from the conference, and we hope to assemble a collection of that work in the months following the conference in order to share it with the widest possible audience. Kicking off the conference will be a keynote address by Tufts professor John Lurz, author of The Barthes Fantastic: Literature, Criticism, and the Practice of Language . Please submit proposals of 350-500 words by email to Becky McLaughlin (email address: bmclaugh@southalabama.edu) and Eric Daffron (email address: edaffron@ramapo.edu) or by snail mail to Becky McLaughlin, Department of English, HUMB 240, University of South Alabama, Mobile, AL 36688. Due date: January 15, 2027.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
       "publish": true
     },
     {
@@ -5898,30 +5925,6 @@
       "excerpt": "Call for Papers: International Journal of Sustainable Fashion & Textiles Special Issue: ‘Sustainable Fashion and Textile Futures: Intersections of Heritage, Craft and Innovation’ Special Issue Guest Editors Pratibha Mishra Professor & HoD, Department of Fashion Design & Department of Interior Design, School of Architecture & Design, Manipal University Jai...",
       "fullDescription": "Call for Papers: International Journal of Sustainable Fashion & Textiles Special Issue: ‘Sustainable Fashion and Textile Futures: Intersections of Heritage, Craft and Innovation’ Special Issue Guest Editors Pratibha Mishra Professor & HoD, Department of Fashion Design & Department of Interior Design, School of Architecture & Design, Manipal University Jaipur, India pratibha.mishra@jaipur.manipal.edu Deepshikha Sharma",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Twenty-Seventh International Conference on Knowledge, Culture, and Change in Organizations, Berlin, Germany,",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50478",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-04-30",
-      "eventDate": "2027-05-31",
-      "location": "· Common Ground Research Networks",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Twenty-Seventh International Conference on Knowledge, Culture, and Change in Organizations, Berlin, Germany, 31 May-1 June 2027 Founded in 1993, the Organization Studies Research Network was brought together around a common concern for and interest in exploring new possibilities in knowledge, culture, and change management within the broader context of th...",
-      "fullDescription": "Twenty-Seventh International Conference on Knowledge, Culture, and Change in Organizations, Berlin, Germany, 31 May-1 June 2027 Founded in 1993, the Organization Studies Research Network was brought together around a common concern for and interest in exploring new possibilities in knowledge, culture, and change management within the broader context of the nature and future of organizations and their impact on modern society. The Twenty-Seventh International Conference on Knowledge, Culture, and Change in Organizations calls for research addressing the following themes. 2027 Special Focus-Entangling Worlds: Connection, Coordination, Collaboration in Organization Research and Practice Theme 1: Organizational Cultures, Knowledge, and Change Theme 2: Coordination, Governance, and Public Purpose Theme 3: Work, Technology, and Organizational Futures Theme 4: Collaboration, Equity, and Sustainable Systems",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
       "publish": true
     },
     {
