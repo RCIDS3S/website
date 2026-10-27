@@ -72,6 +72,13 @@
       "description": "Meeting notes and shared S3S files.",
       "url": "https://drive.google.com/drive/u/0/folders/1EAqxaXTqEHFEQByhgGr89qyYo0JnlZ6w",
       "style": "normal"
+    },
+    {
+      "label": "Shared",
+      "title": "S3S Shared Folder",
+      "description": "Additional shared S3S files and resources.",
+      "url": "https://drive.google.com/drive/folders/1iEJU3AG6t82tLHDRwua0RFmrkGCBJkXN",
+      "style": "normal"
     }
   ]
 }
