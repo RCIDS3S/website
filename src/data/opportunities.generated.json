@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -27,16 +27,16 @@
       "count": 17
     },
     {
-      "source": "ACLS Competitions and Deadlines",
-      "count": 16
-    },
-    {
       "source": "UPenn CFP: Rhetoric and Composition",
       "count": 15
     },
     {
       "source": "UPenn CFP: Journals and Collections",
       "count": 14
+    },
+    {
+      "source": "ACLS Competitions and Deadlines",
+      "count": 12
     },
     {
       "source": "UPenn CFP: Fan Studies and Fandom",
@@ -67,20 +67,24 @@
       "count": 7
     },
     {
+      "source": "UPenn CFP: Modernist Studies",
+      "count": 6
+    },
+    {
+      "source": "UPenn CFP: Graduate Conferences",
+      "count": 5
+    },
+    {
       "source": "UPenn CFP: Ethnicity and National Identity",
       "count": 5
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
-      "count": 5
-    },
-    {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 4
-    },
-    {
       "source": "CLIR Programs and Grants",
       "count": 4
+    },
+    {
+      "source": "CFPList: Philosophy",
+      "count": 3
     },
     {
       "source": "UPenn CFP: Interdisciplinary",
@@ -107,10 +111,6 @@
       "count": 2
     },
     {
-      "source": "CFPList: Philosophy",
-      "count": 2
-    },
-    {
       "source": "CFPList: Technical Communication Search",
       "count": 2
     },
@@ -119,7 +119,7 @@
       "count": 2
     },
     {
-      "source": "CFPList",
+      "source": "UPenn CFP: Theatre and Performance Studies",
       "count": 2
     },
     {
@@ -135,11 +135,11 @@
       "count": 1
     },
     {
-      "source": "UPenn CFP: Science and Culture",
+      "source": "CFPList",
       "count": 1
     },
     {
-      "source": "UPenn CFP: Theatre and Performance Studies",
+      "source": "UPenn CFP: Science and Culture",
       "count": 1
     }
   ],
@@ -151,7 +151,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50170",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-01-31",
       "location": "CFPList",
       "status": "open",
@@ -172,37 +172,13 @@
       "publish": true
     },
     {
-      "title": "PM ET Luce/ACLS Dissertation Fellowships in American Art",
-      "source": "ACLS",
-      "sourceName": "ACLS Competitions and Deadlines",
-      "sourceUrl": "https://www.acls.org/competitions-and-deadlines/",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Fellowship",
-      "deadline": "2026-10-28",
-      "eventDate": "",
-      "location": "American Council of Learned Societies",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Funding",
-        "Art / Media Practice"
-      ],
-      "excerpt": "PM ET Luce/ACLS Dissertation Fellowships in American Art is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "fullDescription": "PM ET Luce/ACLS Dissertation Fellowships in American Art is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Funding, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Creating the Conditions: Empowering Communities in Writing and General Education",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -226,7 +202,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -250,7 +226,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -274,7 +250,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -299,7 +275,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50363",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-04",
       "location": "New York · Columbia",
       "status": "open",
@@ -317,82 +293,13 @@
       "publish": true
     },
     {
-      "title": "Mellon/ACLS Dissertation Innovation Fellowships",
-      "source": "ACLS",
-      "sourceName": "ACLS Competitions and Deadlines",
-      "sourceUrl": "https://www.acls.org/competitions-and-deadlines/",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Fellowship",
-      "deadline": "2026-10-28",
-      "eventDate": "",
-      "location": "American Council of Learned Societies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Funding"
-      ],
-      "excerpt": "Mellon/ACLS Dissertation Innovation Fellowships is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "fullDescription": "Mellon/ACLS Dissertation Innovation Fellowships is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
-      "publish": true
-    },
-    {
-      "title": "PM ET The Robert H. N. Ho Family Foundation Dissertation Fellowships in Buddhist Studies",
-      "source": "ACLS",
-      "sourceName": "ACLS Competitions and Deadlines",
-      "sourceUrl": "https://www.acls.org/competitions-and-deadlines/",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Fellowship",
-      "deadline": "2026-10-28",
-      "eventDate": "",
-      "location": "American Council of Learned Societies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Funding"
-      ],
-      "excerpt": "PM ET The Robert H. N. Ho Family Foundation Dissertation Fellowships in Buddhist Studies is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "fullDescription": "PM ET The Robert H. N. Ho Family Foundation Dissertation Fellowships in Buddhist Studies is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
-      "publish": true
-    },
-    {
-      "title": "The Robert H. N. Ho Family Foundation Early Career Research Fellowships in Buddhist Studies",
-      "source": "ACLS",
-      "sourceName": "ACLS Competitions and Deadlines",
-      "sourceUrl": "https://www.acls.org/competitions-and-deadlines/",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Fellowship",
-      "deadline": "2026-10-28",
-      "eventDate": "",
-      "location": "American Council of Learned Societies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Funding"
-      ],
-      "excerpt": "The Robert H. N. Ho Family Foundation Early Career Research Fellowships in Buddhist Studies is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "fullDescription": "The Robert H. N. Ho Family Foundation Early Career Research Fellowships in Buddhist Studies is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
-      "publish": true
-    },
-    {
       "title": "Material, Metaphor and Modernity: Ruskin and Architecture",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49758",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-03",
       "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
       "status": "open",
@@ -415,7 +322,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -439,7 +346,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50231",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-05-15",
       "location": "Virtual · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -462,7 +369,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -485,7 +392,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -508,7 +415,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -531,7 +438,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -555,7 +462,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -578,7 +485,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -601,7 +508,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -624,7 +531,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -647,7 +554,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -670,7 +577,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -693,7 +600,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -719,7 +626,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -742,7 +649,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -765,7 +672,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -788,7 +695,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -811,7 +718,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -834,7 +741,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -857,7 +764,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -880,7 +787,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -903,7 +810,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50109",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -926,7 +833,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -949,7 +856,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -972,7 +879,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49395",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-10-28",
+      "deadline": "2026-10-29",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -1467,8 +1374,7 @@
       "score": 46,
       "fields": [
         "Digital Humanities / Design",
-        "Funding",
-        "Theory"
+        "Funding"
       ],
       "excerpt": "Popular Culture Association (PCA): Health, Humanities, and Popular Culture 2027 Conference, Boston, USA, March 24-27 2027 CFP DEADLINE FOR ABSTRACTS 31ST OCTOBER 2026 Travel Grant Applications due 15th November The mission of the Popular Culture Association is to promote the appreciation and study of popular culture, as well as to advance rigorous, interd...",
       "fullDescription": "Popular Culture Association (PCA): Health, Humanities, and Popular Culture 2027 Conference, Boston, USA, March 24-27 2027 CFP DEADLINE FOR ABSTRACTS 31ST OCTOBER 2026 Travel Grant Applications due 15th November The mission of the Popular Culture Association is to promote the appreciation and study of popular culture, as well as to advance rigorous, interdisciplinary research that illuminates the complexity, significance, and impact of popular culture across time and around the globe. We welcome and amplify voices from diverse backgrounds, disciplines, and perspectives by creating spaces-both physical and virtual-for scholars, educators, creators, and enthusiasts to connect, share ideas, and engage in meaningful dialogue about popular culture. The Health, Humanities, and Popular Culture Area is excited to receive proposals for the 2027 Popular Culture and American Culture Association Conference in Boston, USA, March 24-27 2027. Proposal topics should fall within the realm of how health is represented in popular culture through the humanities lens (art, books, comics, journalism and news, cinema, music, theatre, television, etc&hellip;). We are interested in receiving papers linked to various related Health issues: drugs or narcotics and popular fiction; vaccinations and popular culture; mental health care and the humanities; and clinical care and the arts. For the 2027 conference we are particularly interested again in examining relationships between health and sustainability/biodiversity/climate change in media and popular culture. The WHO (2023) argued that: \"Research shows that 3.6 billion people already live in areas highly susceptible to climate change. Between 2030 and 2050, climate change is expected to cause approximately 250 000 additional deaths per year, from undernutrition, malaria, diarrhoea and heat stress alone. The direct damage costs to health (excluding costs in health-determining sectors such as agriculture and water and sanitation) is estimated to be between US$ 2-4 billion per year by 2030. Areas with weak health infrastructure - mostly in developing countries - will be the least able to cope without assistance to prepare and respond. Reducing emissions of greenhouse gases through better transport, food and energy use choices can result in very large gains for health, particularly through reduced air pollution\". (WHO, 2023: https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health) We therefore invite papers that discuss the key role of communications and media in representing the sustainability/biodiversity/climate change threat demonstrating ways in which its significance are presented or, alternatively, ways in which denial are discussed in popular cultural forms. What are the likely ways in which communications can shape our understanding of this important economic, political and social issue? Proposals should be 250-300 words and exhibit a clear connection between health and popular culture. Submission from current paid members will be accepted through the PCA website. Deadline is 31st October 2026. https://sites.google.com/view/2026pcaconference/call-for-papers",
@@ -2793,6 +2699,29 @@
       "publish": true
     },
     {
+      "title": "Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Modernist Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108727",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-15",
+      "eventDate": "",
+      "location": "Md. Rakibul Islam, Aligarh Muslim University Centre, Murshidabad & Md Jakir Hossain, Murshidabad Maharaja Krishnanath University, Berhampore, Murshidabad, West Bengal, India.",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Proposed Book Title Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature Editors: Md Rakibul Islam* & Md Jakir Hossain**",
+      "fullDescription": "Proposed Book Title Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature Editors: Md Rakibul Islam* & Md Jakir Hossain**",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "Intersections 2027 on 'Embodiment: Performance, Technology and Equity",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Film and Television",
@@ -2936,29 +2865,6 @@
       "fullDescription": "The Robert H. N. Ho Family Foundation Public Impact Grants in Buddhist Studies is listed by ACLS under upcoming fellowship and grant deadlines.",
       "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
       "publish": true
-    },
-    {
-      "title": "(Tentative) Conjure and Obeah Women: Revisiting African American and African Caribbean Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50559",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
-      "eventDate": "2027-11-22",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 20,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Every culture possesses a set of religious practices that remain unique to it. It is the role of religious custodians to ensure the survival of such practices and preserve them for future generations. Dragged out of their land, uprooted by force, and tied up in chains, the first enslaved Africans landed at the shores of the Atlantic coast during the perio...",
-      "fullDescription": "Every culture possesses a set of religious practices that remain unique to it. It is the role of religious custodians to ensure the survival of such practices and preserve them for future generations. Dragged out of their land, uprooted by force, and tied up in chains, the first enslaved Africans landed at the shores of the Atlantic coast during the period of seventeenth to nineteenth century. Most men and women that were captured and enslaved were predominantly from West Africa. According to Leslie Alexander, they brought with them cultural practices, labor systems as well as spiritual knowledge that was born in their homeland. It is for this reason that African American history finds its origins in pre colonial West Africa. A crucial aspect of West African tradition was that of conjure practices embedded in religions such as Yoruba, Bakongo, and Igbo belief systems. Shortly after arriving on American soil and obtaining access to the English language, enslaved Africans began to exercise conjure practices. In amalgamation with European folk magic and biblical tradition the practice came to be known as Hoodoo or rootwork with conjure women being at the center of it. Conjure women would often perform hexing, folk healing, and divination for other members of the community. Similarly, its sibling tradition, Obeah, found its roots predominantly in the former British colonies of the Caribbean. During the era of slavery, conjure and obeah women were midwives, healers, spiritual protectors, as well as justice seekers. Enslaved and post emancipation Obeah and conjure women were regarded as healers of the community. Obeah practice, in particular, gave women means of bodily agency with the help of herbal contraception as well as abortion that colonial biopolitics sought to control. The term Obeah is referred to and spelled variously as Obiya, Obia, or Obi. It denotes channeling of supernatural forces, spell casting practices, and healing traditions that remain deeply rooted in African and African diasporic religions. In fact, the word \"Obia\" in Igbo means a doctor or healer. While both of these practices center the figure of a community healer, the slaveholding as well as colonial authorities suppressed and demonised conjure and obeah women. For this reason, conjure and obeah women would often hide behind Christian symbolism, thereby evoking a sense of respect in the enslaved people who viewed them as sacred figures and fear in white slave owners who perceived them as dangerous witches. The proposed book will examine the tradition and evolution of conjure and obeah women within the African American as well as Caribbean context. The proposed book will cover the following sub themes: Obeah/Conjure women and Healing Obeah/Conjure women and Resistance Obeah/Conjure women and Myths Obeah/Conjure women and Culture Obeah/Conjure women and Diasporic Spirituality Obeah/Conjure women and Black Feminism Obeah/Conjure women and Racial Identity Obeah/Conjure women and Folk Traditions The proposed book invites original and unpublished chapters on the above mentioned themes. However, the proposed list is only suggestive in nature rather than exhaustive. Additionally, the proposed book will be submitted to Brill for consideration. Important Deadline: The last date for submission of abstracts is 22nd November 2026. Please read the following submission guidelines carefully before submitting your abstract: Submission Format: Authors must submit an abstract of 200-250 words. A brief bio-note of approximately 100 words must be included. Abstract, bio-note, and keywords must be compiled in a single Microsoft Word document (.doc/.docx). The document should be emailed to: africanliterarystudies15@gmail.com Authors are required to include 3-5 keywords along with the abstract. Detailed guidelines regarding formatting and submission of full-length papers will be shared with shortlisted contributors. For any query or abstract submission, contact africanliterarystudies15@gmail.com",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
     },
     {
       "title": "No Right Way to Be a Woman: Comment Culture and the Digital Policing of Femininity",
@@ -3418,29 +3324,6 @@
       "publish": true
     },
     {
-      "title": "Star Wars at 50: Forces, Forms, Legacies",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Fan Studies and Fandom",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/01/star-wars-at-50-forces-forms-legacies",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-12-01",
-      "eventDate": "",
-      "location": "Dr Sam Thomas / Durham University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "2027 marks the 50th anniversary of the film now generally known as Episode IV: A New Hope , the first instalment in the hugely successful Star Wars franchise created by George Lucas. As beloved as it is divisive, Star Wars now straddles multiple decades and generations while proliferating across narrative media (novels, comics, games, animation, TV). It p...",
-      "fullDescription": "2027 marks the 50th anniversary of the film now generally known as Episode IV: A New Hope , the first instalment in the hugely successful Star Wars franchise created by George Lucas. As beloved as it is divisive, Star Wars now straddles multiple decades and generations while proliferating across narrative media (novels, comics, games, animation, TV). It provides a series of compelling case studies in the relationship between creativity and commerce, from the foundation of Lucasfilm during the New Hollywood period to the 21st century Disney-era, and it has developed via a complex interplay between cutting-edge technological innovation, nostalgia, and mythmaking.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Call for Abstracts Workshop & Themed Issue “Affective Forensic Fandom: Emotion, Evidence, and Investigative Participation in Contemporary Media Cultur",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Fan Studies and Fandom",
@@ -3561,6 +3444,29 @@
       "publish": true
     },
     {
+      "title": "Cultivating Joy: Affect, Capacity, and Radical (Im)possibilities",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109554",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-01",
+      "eventDate": "2027-04-09",
+      "location": "School of Languages, Literatures, and Cultures | University of Maryland",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "SLLC’s Biennial Graduate Student Conference Cultivating Joy: Affect, Capacity, and Radical (Im)possibilities 9–10 April 2027 School of Languages, Literatures, and Cultures, University of Maryland, College Park (Hybrid) The graduate students of the School of Languages, Literatures, and Cultures (SLLC) at the University of Maryland, College Park, invite sub...",
+      "fullDescription": "SLLC’s Biennial Graduate Student Conference Cultivating Joy: Affect, Capacity, and Radical (Im)possibilities 9–10 April 2027 School of Languages, Literatures, and Cultures, University of Maryland, College Park (Hybrid) The graduate students of the School of Languages, Literatures, and Cultures (SLLC) at the University of Maryland, College Park, invite submissions for their biennial graduate student conference, Cultivating Joy: Affect, Capacity, and Radical (Im)possibilities , to be held in hybrid format on April 9–10, 2027.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "Call for Chapter Abstracts: K-Pop and Philosophy",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Journals and Collections",
@@ -3582,31 +3488,6 @@
       "excerpt": "Call for Abstracts K-Pop and Philosophy Edited by Catherine M. Robb, Natasha Haddal, and Gah-Kai Leung The Blackwell Philosophy and Pop Culture Series",
       "fullDescription": "Call for Abstracts K-Pop and Philosophy Edited by Catherine M. Robb, Natasha Haddal, and Gah-Kai Leung The Blackwell Philosophy and Pop Culture Series",
       "relevance": "Automatically surfaced as a likely RCID fit across Theory, Publication.",
-      "publish": true
-    },
-    {
-      "title": "CFP: The Artificial Body: Cyborgs, Clones and Humanoids in Literature and Media",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50515",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-04",
-      "eventDate": "2027-12-04",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice",
-        "Theory"
-      ],
-      "excerpt": "CALL FOR PAPERS The Artificial Body: Cyborgs, Clones and Humanoids in Literature and Media Edited by ?rem Atasoy and Habib Tekin The edited volume The Artificial Body: Cyborgs, Clones and Humanoids in Literature and Media seeks to explore representations and conceptualizations of artificial, technologically modified, replicated, and human-like bodies from...",
-      "fullDescription": "CALL FOR PAPERS The Artificial Body: Cyborgs, Clones and Humanoids in Literature and Media Edited by ?rem Atasoy and Habib Tekin The edited volume The Artificial Body: Cyborgs, Clones and Humanoids in Literature and Media seeks to explore representations and conceptualizations of artificial, technologically modified, replicated, and human-like bodies from interdisciplinary perspectives. Rather than approaching the artificial body merely as a product of technological development, the volume considers it as a cultural and semiotic site through which changing ideas of embodiment, identity, agency, consciousness, corporeality, and human-machine relations are negotiated. Cyborgs, clones, androids, humanoid robots, synthetic beings, technologically augmented humans, and other forms of artificial or hybrid embodiment have long occupied the cultural imagination. Their representations raise fundamental questions concerning the limits of the human: Where does the human body end and the artificial begin? What happens to identity when the body can be modified, replicated, reconstructed, or manufactured? How do artificial bodies challenge established distinctions between subject and object, organism and machine, self and other? And how do literature and media participate in constructing, questioning, or transforming these boundaries? Situated at the intersections of literary studies, media studies, cultural studies, semiotics, philosophy, and posthumanist and transhumanist thought, the volume welcomes both theoretical contributions and analyses of individual or comparative works. Possible topics include, but are not limited to: · cyborgs and hybrid embodiment · clones, replication, and biological identity · humanoids, androids, and human-like artificial beings · artificial bodies and posthuman subjectivity · transhumanism and technological enhancement · human-machine boundaries · embodiment and artificial intelligence · synthetic and technologically constructed bodies · body modification and augmentation · artificial bodies and questions of identity, memory, and consciousness · the body as sign and the semiotics of artificial embodiment · gender, sexuality, and artificial bodies · artificial bodies in science fiction and cyberpunk · utopian and dystopian representations of technologically transformed bodies · virtual, digital, and simulated bodies · avatars and disembodied/re-embodied identities · artificial bodies and questions of agency and autonomy · the uncanny, the monstrous, and the artificial human · ethics and politics of creating, modifying, and replicating bodies · historical transformations in representations of artificial humans Contributions may examine literary texts, films, television series, graphic narratives, video games, digital narratives, or other relevant media and may employ approaches from literary and cultural studies, media and film studies, semiotics, multimodality, narratology, posthumanism, transhumanism, critical theory, gender studies, or related fields. The volume will be published as part of Interdisciplinary Studies on Philology by Maurer Press, an interdisciplinary series bringing philological research into dialogue with contemporary approaches from literary, linguistic, cultural, media, and related fields. Submission Guidelines Abstract length: 300-500 words Include: title, author name, affiliation, ORCID Formatting: Times New Roman, 12 pt, 1.5 line spacing Abstract submission deadline: December 4, 2026 CPC: The CPC for publication in this volume is 150 Euro per chapter. Publisher: Maurer Press, Germany Important Notes Full chapter length, style sheet, and timeline will be communicated upon abstract acceptance. All submissions should be original and not under consideration elsewhere. The editors and publisher reserve the right to make final selections based on peer review and fit with the volume. Please send abstracts and inquiries to: irem.atasoy@istanbul.edu.tr and habib.tekin@marmara.edu.tr",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
       "publish": true
     },
     {
@@ -3699,8 +3580,8 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Art / Media Practice",
         "Film / Media",
+        "Art / Media Practice",
         "Theory",
         "Pedagogy"
       ],
@@ -4605,6 +4486,30 @@
       "publish": true
     },
     {
+      "title": "NARRATING CARE: ECONOMIES OF EMBODIMENT, AFFECT, AND BELONGING",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50673",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-01-20",
+      "location": "· Indian Institute of Technology (ISM) Dhanbad; National Institute of Technology Warangal, India",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Care is both intimate and structural. It is experienced through bodies that tend, heal and depend on each other but it is also organized by markets, institutions and unequal distributions of labor and recognition. These economies exemplify how narratives can naturalize care as feminine, familial, altruistic, or culturally prescribed, and conceal the labor...",
+      "fullDescription": "Care is both intimate and structural. It is experienced through bodies that tend, heal and depend on each other but it is also organized by markets, institutions and unequal distributions of labor and recognition. These economies exemplify how narratives can naturalize care as feminine, familial, altruistic, or culturally prescribed, and conceal the labor, power relations, and affective costs written into it. Counter-narratives - memoir, fiction, testimonies, oral histories, film and digital media, critical-creative writing - have the potential to unsettle dominant matrices of value by making visible experiences of exhaustion, dependency, vulnerability, reciprocity, resistance, and collective care. The concept thus situates narrative itself as a site of contestation over visibility, value, embodiment, affect, labor and belonging. It asks how stories of care reproduce existing hierarchies, but also open up possibilities for different kinds of relationality, recognition and social life. The volume proposes to examine how care is represented, circulated, and contested in various forms of narrative. It sees embodiment, affect and belonging as interconnected \"economies\" - sites of exchange, withholding, and uneven distribution of value, obligation and vulnerability. Moreover, it also reflects on the ways in which care is inscribed in structures of class, caste, race, gender, sexuality, disability, age, migration, religion and citizenship. For instance, nurses, mothers, domestic workers, and healthcare professionals occupy uneven positions within economies that rely on their labor even as those economies destabilize and devalue it. On the other end of the spectrum, children, the elderly, people with disabilities, and displaced populations are among those in need of care who are caught in conflicting narratives of dependency and deservingness. These narratives do more than describe vulnerability; they also decide who is entitled to care and who must earn it. This volume begins with the premise that care cannot be theorized through labor and economy alone; it must also be understood through embodiment, the lived, sensory experience of giving and receiving care, and through affect, the feelings that circulate around dependency, illness and vulnerability. Nancy Fraser's account of the \"crisis of care,\" Eva Feder Kittay's theorization of dependency work, and Joan Tronto's ethics of care together establish that caring is constitutive of economic life, a hidden infrastructure on which markets, states and families depend. Tronto's insistence that care is both a practice and a disposition redefines caregiving as political rather than virtuous, always accompanied by questions of power: who cares, who is cared for and who decides. This builds on the earlier feminist ethics of care associated with Carol Gilligan, who showed a moral register structured around relation and context rather than any abstract principle, and with Nell Noddings, who defined \"caring-for,\" the direct, situated encounter with another's needs, as opposed to mere \"caring-about,\" a detached concern that risks hardening into abstraction. Through the theoretical framework of Gilligan's relational voice, Noddings' ethics of encounter and Tronto's political economy, care is felt, narrated and structured simultaneously and its ethical force can not be separated from its ability to be claimed and unequally distributed. In addition to embodiment, affect is also central to the volume's theorization of care as felt, transmitted and made social. The work of Sara Ahmed is instructive here: for her, emotions are not private but circulate between bodies, aligning some subjects and marking others as burdensome. Brian Massumi's concept of affect as bodily intensity gestures toward the pre cognitive registers through which care is enacted before it is narrated. Lauren Berlant's \"cruel optimism\" concerns how attachments to care and belonging sustain life even as they wear it down. Together, these perspectives ask how narratives register the fatigue, tenderness, and ambivalence of caregiving, and how such affects structure who is recognized as a legitimate subject of care and who is cast as illegitimate, undeserving, or excessive in their need. It examines how care can give rise to intimacy while at the same time producing obligation, exhaustion, and surveillance. Further, the concept of belongingness broadens the question from interpersonal relations to community, citizenship and identity. To care for someone, or be cared for, is often to enter into a relation of belonging, and families, communities and nations craft narratives of who belongs, even as queer kinship, disability communities and mutual-aid networks generate alternative practices of care that challenge exclusionary belonging. Yet belonging secured through care is rarely innocent, and this volume treats the possessive dimension of caregiving as central rather than incidental. Because caregiving accrues moral capital within the narrative economies described above, the claim \"I care for you\" frequently operates less as a description of practice than as a bid for exclusive relational authority, converting labour, proximity, or sacrifice into a monopoly over love, decision-making, and belonging. This logic recurs across families, institutions, and nations alike: caregiving is quietly conscripted into a claim on love itself, as though the labour of tending were a deed of ownership, entitling whoever performs it to stand as the truest, most rightful claimant to the cared-for's affection, while any other closeness is left to seem suspect, excessive, or somehow less earned. Noddings' account of caring-for anticipated this danger, cautioning that a caregiver's need to be recognized as indispensable can eclipse the cared-for's own needs and freedom to be cared for by others as well. Tronto's political vocabulary makes the stakes explicit: the question of who cares is inseparable from who holds the power to define and authorize care, and thus to gatekeep belonging itself. Gilligan's relational voice reminds us that care articulated as one party's private moral achievement, detached from the other's voice and consent, risks becoming a monologue mistaken for a relationship. Read this way, caregiving becomes a site of contest: a primary caregiver for an ageing parent may invoke sacrifice to marginalize siblings from decision-making; a spouse may cite devotion to isolate a partner from friends or independent medical opinion; a state may claim to care for its citizens or colonial subjects to justify surveillance; a family authority may frame control over a woman's, a children's, or a disabled person's life as protective love rather than domination. In each instance, care functions simultaneously as a genuine relational practice and as a technology of possession, converting proximity to another's vulnerability into an exclusive claim on their belonging, loyalty, and story. The volume also attends to the changing conditions under which care is produced in a globalized, technologically mediated world, from traditional chains of care and neoliberal restructuring to digital performances of caregiving in which the public display of devotion itself becomes a claim to moral authority. Literature, film, memoir, testimony, and popular culture remain crucial sites for representing and contesting the meanings of care, interrogating figures such as the \"good mother\" or the selfless caregiver whose moral authority is often secured precisely through the possessive claim to caring most. Extending this inquiry beyond the human, the volume also turns to posthuman and speculative ethics of care. It begins from the recognition that we now live in a world of assemblages, where the human's claim to sovereignty has become increasingly untenable. Relations of care now extend to animals, ecologies, technologies, and nonhuman assemblages, including AI companions and care-bots that are summoned for intimacy on demand and discarded just as easily. In such figures, care itself begins to look disposable, reduced to a function that can be switched on, used, and abandoned without residue. Following Nira Yuval-Davis's work on the politics of belonging, this volume treats belonging not as a fixed identity category but as a continual negotiation, enacted and contested through narrative itself: who is granted proximity within circuits of care, and who is permitted to claim that their proximity is love, while another's is merely help or interference. Fiction, memoir, and cultural texts stage the conditions under which someone comes to be recognized, or fails to be recognized, as worthy of care, and under which one carer's claim to love is legitimised at another's expense. This reframing allows the volume to move fluidly between the intimate and the political, the felt and the systemic: a chapter on illness memoir sits comfortably beside one on queer chosen kinship, because all are, at root, narratives of embodied belonging within uneven, and often contested, economies of care. Expected contributions may address, but are not limited to, the following possible thematic strands: ? Embodied Caregiving: Touch, Proximity, and the Sensory Life of Care ? Narrative Medicine and the Ethics of Care ? Illness, Disability, and the Politics of Bodily Dependency ? Gendered and Queer Kinship: Belonging Beyond the Normative Family ? Motherhood, Ambivalence, and the Embodied Politics of Care ? Migration, Diaspora, and the Affective Labour of Distant Caregiving ? Affective Circuits: Shame, Tenderness, and Resentment in Caregiving Narratives ? Caste, Class, and the Uneven Distribution of Embodied Care ? Archives of Feeling: Testimony, Memoir, and the Historiography of Caregiving ? Theorizing Narrative Economies of Care: Concepts, Debates, and Methodologies ? Gender, Unpaid Labour, and the Fiction of Domestic Caregiving ? Disability, Chronic Illness, and Narratives of Dependency ? Ageing, Elder Care, and Intergenerational Belonging ? Queer and Chosen Kinship: Alternative Economies of Care ? Motherhood, Reproduction, and the Cultural Politics of Caregiving ? Migration, Diaspora, and Transnational Care Chains ? Caste, Class, and the Stratification of Caring Labour in South Asian Literature ? Mental Health, Trauma, and Narratives of Emotional Labour ? Care in Popular Fiction, Film, and Digital/Online Cultures ? Postcolonial and Global South Perspectives on Health and Belonging ? Precarity, Neoliberalism, and the Economies of Institutional Care ? Possessive Care: Gatekeeping, Jealousy, and the Politics of \"I Care, Therefore I Love\" ? Care as Control: Coercion, Benevolent Domination, and the Family ? Archives, Testimony, and the Historiography of Caregiving ? New Directions in Health Humanities and Feminist Care Theory ? Posthuman and Speculative Ethics of Care We invite abstracts of 200-350 words by 31th December 2026. Acceptance of the contribution will be notified by 20th January 2027. You may send e-mail submissions to narratingcare26@gmail.com using the subject line \"Proposals for Narrating Care: Economies of Embodiment, Affect, and Belonging\", which should include a short biographical note along with the abstract. The final volume will be proposed to a leading international academic press, and all submitted chapters will undergo rigorous double-blind peer review to ensure original, theoretically grounded, and critically engaged scholarship. EDITORS: Prof. Rajni Singh [Professor, Indian Institute of Technology (ISM) Dhanbad, India] & Dr. Neha Hejaz [Assistant Professor, National Institute of Technology Warangal, India].",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "Social Moments: A Student Journal of Social Relations",
       "source": "CFPList",
       "sourceName": "CFPList: Graduate Conferences",
@@ -4648,6 +4553,29 @@
       ],
       "excerpt": "Second newsletter by end of September , and conference panel plans soon, from a new scholarly society - SSUPFUS- for studying unconventional US fiction from the era usually called \"postmodern\" - sign up here - https://docs.google.com/forms/d/13ZGTYU1vgzj-WMtrtKIYkpE8I1FmYY_kZH0Sldnxbfo - and see below for more details...",
       "fullDescription": "Second newsletter by end of September , and conference panel plans soon, from a new scholarly society - SSUPFUS- for studying unconventional US fiction from the era usually called \"postmodern\" - sign up here - https://docs.google.com/forms/d/13ZGTYU1vgzj-WMtrtKIYkpE8I1FmYY_kZH0Sldnxbfo - and see below for more details...",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
+      "title": "Stupid Sexy Sauron: Essays on Tolkien’s Transformative Dark Lord",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Fan Studies and Fandom",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108653",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-31",
+      "eventDate": "",
+      "location": "Danna Petersen-Deeprose and Robinson Jay Ensz",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "The Dark Lord Sauron, the titular Lord of the Rings in Tolkien’s magnum opus, plays many roles and takes many forms throughout The Lord of the Rings, The Silmarillion, and the rest of Tolkien’s Legendarium, and even more in the various adaptations and reimaginings that have since emerged. Over years of varying interpretations, Sauron has evolved into a fi...",
+      "fullDescription": "The Dark Lord Sauron, the titular Lord of the Rings in Tolkien’s magnum opus, plays many roles and takes many forms throughout The Lord of the Rings, The Silmarillion, and the rest of Tolkien’s Legendarium, and even more in the various adaptations and reimaginings that have since emerged. Over years of varying interpretations, Sauron has evolved into a figure of vast significance. From his early depictions as a looming, disembodied threat to his more recent portrayals as a visually captivating \"sexy\" villain in contemporary pop culture, Sauron’s image has undergone a transformation, revealing much about changing attitudes toward power, corruption, and desire.",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
@@ -5091,7 +5019,7 @@
     {
       "title": "\"Loving Roland Barthes: An Interdisciplinary Conference\"",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
+      "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/50536",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
@@ -5104,13 +5032,12 @@
       "publishMode": "auto",
       "score": 38,
       "fields": [
-        "Film / Media",
-        "Art / Media Practice",
-        "Theory"
+        "Theory",
+        "Art / Media Practice"
       ],
       "excerpt": "Call for Papers: \"Loving Roland Barthes\" University of South Alabama (Mobile, AL) October 14-16, 2027 Loving [Barthes], doing so in a certain fashion against the age [. . .], can only be a responsible way of living: it inevitably leads the subject who does so and says so to posit himself in his time according to the injunctions of his desire and not accor...",
       "fullDescription": "Call for Papers: \"Loving Roland Barthes\" University of South Alabama (Mobile, AL) October 14-16, 2027 Loving [Barthes], doing so in a certain fashion against the age [. . .], can only be a responsible way of living: it inevitably leads the subject who does so and says so to posit himself in his time according to the injunctions of his desire and not according to those of his sociality. -Roland Barthes, \"Loving Schumann\" Proposals for panels and papers are invited for a conference entitled \"Loving Roland Barthes: Celebrating the Fiftieth Anniversary of the Publication of A Lover's Discourse: Fragments ,\" to be hosted by the University of South Alabama's Department of English and held at the historic Malaga Inn in downtown Mobile, city of the oldest Mardi Gras in the U.S. As conference organizers, we envision a relatively concentrated event in which scholars working in various disciplines and artists working in various genres will present new ideas about Roland Barthes, A Lover's Discourse , and his adjacent texts. This conference celebrates a peculiar form of love: an amorousness that compels the one faithful to \"the specialty of [one's] desire\" ( Lover's Discourse 20) to return again and again to Fragments d'un discours amoureux . Published in 1977 and translated a year later by Richard Howard as A Lover's Discourse: Fragments , Roland Barthes's tortured love song retains a strong attachment for scholars and artists alike. We might be tempted to call those strange lovers \"amateurs.\" For, as Barthes reminded us, the word derives from \"amator: one who loves and loves again\" (Roland Barthes 52). Across the last five decades, the book has inspired not only articles and artwork but also autotheory, \"an emergent discourse with historical precedents\" (McLaughlin et al., Autotheory and Its Others 15). Often recognizable by its copious citations, autotheoretical practice pays homage to A Lover's Discourse: Fragments as one way of loving Barthes. Yet there is no limit to the modes of loving Barthes. For some, it might be collage, an assemblage of the very fragments that Barthes favored. For others, it might be singing a song (such as Annie Lennox's \"No More 'I Love You's'\") or writing notations (one of Barthes's preferred activities). For still others, it might be searching for \"a little corner of sloth,\" \"twiddl[ing one's] wound,\" or accepting \"[t]he lover's fatal identity [. . .]: I am the one who waits\" (Lover's Discourse 64, 161, 40). Whatever one's manner of loving Barthes, this conference invites scholars and artists to a celebration of A Lover's Discourse: Fragments . Contributions can take the form of traditional papers as well as of visual art, short film, skits, songs, and other Barthesian types of work or play. Possible topics include but are not limited to the following: · Figures and images in A Lover's Discourse: Fragments ; · Fragments and citations; · \"[C]ontrolled accident\" (\"An Almost Obsessive Relation to Writing Instruments\" 182) and the text's other structural and organizational features; · Barthes's use of Goethe's Werther; · \"[T]he history of tears,\" \"a scenography of waiting,\" and other extrapolations from the text (180, 37); · Relationships between this text and other works by Barthes, especially from the 1970s; · Barthes's (post)structuralist discussions of substitution, replication, and supplement; · Translation and differences between the French and English versions of the text; · Autotheory and other experimental, creative-critical practices inspired by Barthes; · (Loving) parodies of A Lover's Discourse ; · Anachronism in A Lover's Discourse both at the point of publication and now. As much as we trust that this conference will generate exciting new art and scholarship, we also hope to foster a substantial exchange of ideas and perspectives among all participants as well as personal interaction among scheduled presentations. Therefore, conference panels will be scheduled sequentially rather than concurrently so that all participants will be able to attend all panels, and we strongly encourage participants to stay for the duration of the conference. We believe that much good work will come from the conference, and we hope to assemble a collection of that work in the months following the conference in order to share it with the widest possible audience. Kicking off the conference will be a keynote address by Tufts professor John Lurz, author of The Barthes Fantastic: Literature, Criticism, and the Practice of Language . Please submit proposals of 350-500 words by email to Becky McLaughlin (email address: bmclaugh@southalabama.edu) and Eric Daffron (email address: edaffron@ramapo.edu) or by snail mail to Becky McLaughlin, Department of English, HUMB 240, University of South Alabama, Mobile, AL 36688. Due date: January 15, 2027.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
       "publish": true
     },
     {
@@ -5135,6 +5062,30 @@
       "excerpt": "In his seminal and final film Black Is&hellip;Black Ain't , the documentarian Marlon Riggs utilizes a pot of gumbo to articulate his thesis that Blackness necessitates an identity built on multiplicity, complication, and depth (Riggs 1995). Such a vision contests and destabilizes narratives depicted within the film that sought to limit Black identities an...",
       "fullDescription": "In his seminal and final film Black Is&hellip;Black Ain't , the documentarian Marlon Riggs utilizes a pot of gumbo to articulate his thesis that Blackness necessitates an identity built on multiplicity, complication, and depth (Riggs 1995). Such a vision contests and destabilizes narratives depicted within the film that sought to limit Black identities and identifications, and it cuts against the second half of his title, which suggests Blackness in terms of negation, evasion, and minimization. His articulation becomes not just an evocation of Black identifications but a creation of what a Black identity can be. Riggs continues a conversation with Ralph Ellison, Ama Ata Aidoo, Toni Morrison, Stuart Hall, and centuries of international Black thought. By doubling down on the \"is\" and considering contradictory, harmonious, and contrapuntal accounts of the many ways Blackness is and can be, the Gregory J. Hampton Graduate English Student Association hopes to join this dialogue with its March 25-26, 2027 conference. We invite papers that contemplate how storytelling produces and shapes Black identities as much as it narrates them, forming, revising, and improvising senses of self and community. This conference also does commemorative work. We are honoring the career of Dr. Jimisha Relerford, a graduate of our program and member of the Howard community who passed recently. Her dissertation broke critical ground in its study of Black women's satire. We thus encourage the submission of papers about Black satire, especially Black women's work in the genre. Writers such as Leone Ross, Danzy Senna, Fran Ross, and Zadie Smith, all of whom were discussed in Dr. Relerford's dissertation, use satire to comment on and transform notions of Blackness. We hope to continue Dr. Relerford's project by reflecting on how storytellers work within this genre to talk about identity. We additionally encourage studies of Afrofuturist and speculative Black texts in reference to our organization's namesake, a pillar in Afrofuturist study. In addition to recognizing the intellectual impacts of Drs. Relerford and Hampton, this conference serves as a milestone, marking the tenth conference our organization has hosted in honor of Black literary study. Given Black academia and HBCUs's influence on identity and storytelling around it, we also welcome papers pondering scholarly impacts on identity as seen in criticism, productions, and protest. We additionally invite papers in the following areas that intersect with identity and identification study in story: African Studies African-American Studies Caribbean Studies Disability Studies Ecocriticism and Ecopoetics Diaspora, Ethnicity, and Migration Studies Food Studies Hip Hop Humor Literary History Protest and Rhetoric Queer Studies Television and Film Theater and Performance To submit a paper or panel to our conference, please email an abstract of 250-300 words to gesasecretary@gmail.com no later than January 15, 2027. In your email include your name, affiliation, contact information, and a brief biographical blurb.",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Call for Abstracts for Issue 22 of On_Culture (Winter 2027): \"Darkness\"",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50674",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-15",
+      "eventDate": "2028-01-15",
+      "location": "N/A · On_Culture: The Open Journal for the Study of Culture",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Theory",
+        "Film / Media"
+      ],
+      "excerpt": "Call for Abstracts for Issue 22 (Winter 2027): Darkness What emerges out of darkness? Who and what thrives in the dark? What happens when we conceive of darkness as a tool for re-framing theory, critique and interpretation? A growing body of scholarship has taken to these questions and suggests an examination of darkness as a phenomenon, an experience and...",
+      "fullDescription": "Call for Abstracts for Issue 22 (Winter 2027): Darkness What emerges out of darkness? Who and what thrives in the dark? What happens when we conceive of darkness as a tool for re-framing theory, critique and interpretation? A growing body of scholarship has taken to these questions and suggests an examination of darkness as a phenomenon, an experience and a cultural category with its own history, geography and politics, prompting what some have termed a phenomenology, or even 'skotology,' of darkness (Handelman 2005; Pint 2017). When approached in this way, darkness emerges as more than just a moral or epistemological void. It is also a space of rest and recovery for the human body, habitat for countless non-human species, a realm of resistance and concealment, and a category whose meaning shifts considerably across cultures, religious traditions and historical periods. In its 22nd issue, On_Culture takes darkness as its central concept to ask what becomes visible when darkness is not considered merely as the absence of light, but as a subject of study in its own right. Taking darkness as a conceptual framework offers fruitful insights into cultural and political spheres. A prominent example of the intersection between blackness, aesthetics, and politics is (the discourse around) the 'Hottentot Venus' figure (Gilman 1985). The woman behind this figure, Sara Bartmaan, a South African Khoisan woman was objectified as a symbol of the alleged ugliness and excessive sexuality of African peoples (Hobson 2005). The concepts of beauty, identity and desire(ability) have become deeply embedded in our cultural consciousness through the legacies of imperial visual language, iconography, colonial narratives and racialized thought-something that can still be felt today through, for example, the inherent biases of visual technologies such as photographic film calibrated to lighter skin tones (Roth 2009) or dating app algorithms that disadvantage darker-skinned users (Hutson et al. 2018). Thus, demonstrating how the devaluation of darkness has been encoded in technical infrastructures. Darkness plays a comparable role in the entertainment industry, where it is either avoided or cultivated. Casinos eliminate any trace of daylight, replacing it with spectacular artificial illumination designed to keep patrons immersed and disoriented from the passage of time (Schüll 2012), while the film industry uses darkness as an aesthetic and narrative tool to create a mystical and spooky atmosphere in horror and noir as well as symbolizing a space of peace and rest (Keating 2024). Certain music genres and subcultures, such as punk, metal and goth, take darkness as a central point of reference, using it to express melancholy and a sense of theatricality, as well as an artful way to style oneself (van Elferen 2017, Robb 2026). Issue 22 also explores the social implications of darkness, asking how its uneven distribution across spaces and populations shapes everyday practices, social relations, and even produces inequalities. Historical scholarship traces nocturnal labour and sociability before the \"colonisation\" of the night by church, state, and commerce (Ekirch 2005; Koslofsky 2011), to its complete \"disenchantment\" through nineteenth-century urban illumination (Schivelbusch 1995). Modernist architecture's ideal of \"Licht, Luft, Sonne\" [light, air, sun] extended these efforts to reorganize everyday life through access to light (Horvat 2024). It thus produced specific domestic and urban settings in which sunlight, shadow, and artificial illumination together structured social rhythms, including altering gender roles. Yet these transformations were neither linear nor irreversible. In contemporary post-socialist cities such as Mitrovica (Kosovo), which developed and electrified through the Trepça mining complex, recurrent power outages accompany the city's industrial decline and its growing peripheralization within the global economic system. Alongside job losses, the resulting darkness meant a new set of social practices: in place of everyday routines organized around industrial employment, there were now religious observances that gave rhythm to the day and night (Berisha 2024). The ambivalent cultural meanings of darkness can furthermore be deduced from workers' responses to nocturnal labour. In post-WWII socialist societies, some female factory workers resisted proposals to abolish night shifts, defending work at night as a source of economic independence (Simi? 2018). Contemporary ethnographies likewise reveal that the night-shift workers experience both a sense of peace and security, as well as uncertainty, in their work regimes (Duijzings 2012). An often-disregarded aspect of darkness is its significance for mental health and the environment. Darkness is not just a space of danger or the 'shady' side of society. It is also a necessary condition for health and recovery, as in the case of sleep and the circadian rhythm. It is also essential for ecological well-being, sustaining nocturnal and light-averse species whose habitats are shrinking due to light pollution and relentless illumination from the built environment. Bats, moths and countless other species that are either nocturnal or sensitive to light depend on unlit night skies in order to feed, navigate and reproduce, making artificial light at night a significant driver of biodiversity loss (Gaston et al. 2013). Darkness is essential for the human body as well. Circadian rhythms, sleep quality and mental health depend on adequate exposure to darkness (Bonmati-Carrion et al. 2014). This begs the question of what forms of living, working and resting for the human and more-than-human world might be possible when the potential of darkness is appreciated more fully? The seemingly oppositional conceptualization of darkness and light has significantly influenced our structures of thought in philosophy and literature. For instance, in his seminal 1952 study Black Skin, White Masks, Frantz Fanon posits darkness (Black) and light (White) as forces that establish not only 'good' and 'evil,' but also who is considered human and who is not, who is sovereign and who is beast, who is French and who is Other. The association of darkness with evil and light with goodness can be traced through the long history of Western metaphysics, from Neoplatonic hierarchies of light to Enlightenment epistemology, in which reason itself figures as illumination and its absence as a 'dark age' to be overcome (Burik 2019). The concept of good versus evil has also shaped literary plots. One of the oldest examples is the Epic of Gilgamesh, which features a two-character narrative later defined as the 'Heavenly Twins,' representing two opposing forces (George 2003). Gothic literature, in turn, has embraced darkness as its dominant aesthetic, portraying night, shadow and obscurity as sites of terror, transgression, and the supernatural (Punter 2013). Through its entanglement with empire, the Gothic genre also features darkness in relation to race, landscape and desire (Smith and Hughes 2003). Postcolonial writers have since appropriated and reworked this darkness to explore the anxieties and traumatic legacies of colonialism (Rudd 2010). We invite scholars from a broad spectrum of disciplines such as ethnography and anthropology, art and art history, architecture and urban planning, literary and media studies, religious studies, environmental humanities, and postcolonial studies to contribute to this issue with approaches that foreground and complicate the understandings of darkness. We are especially interested in contributions that ask: In what contexts and cultures does darkness signify something other than danger or evil? How have artificial light and its absence been distributed as privilege, discipline, or tradition? How do cultural and social concepts of darkness reinforce or unsettle stereotypes and structures of discrimination? And what might it mean-politically, ecologically, aesthetically-to take darkness seriously on its own terms? Possible topics include, but are not limited to: Epistemological approaches to darkness Darkness in post- and decolonial discourses Ecological notions of darkness: light pollution, biodiversity, and more-than-human habitats Darkness and physical or mental health: rest, recovery, and the circadian body Religious and spiritual conceptions of darkness and light Electrification, infrastructure, and the politics of artificial light Urban planning and architecture: darkness as unsafe space, or as a resource to be protected Night work and the ethnography of nocturnal labour Darkness, race, and technology: photography, algorithms, beauty standards Symbolism and metaphors of darkness and light in language and literature Darkness as a philosophical, cinematographic and aesthetic tool Darkness in consumption, entertainment, and nightlife economies If you are interested in having a peer reviewed academic article featured in this issue of On_Culture, please submit an abstract of 300 words with the article title, 5-6 keywords, a short biographical note, and your email address to content@on-culture.org (subject line \"Abstract Submission\") no later than January 15, 2027. You will be notified by February 15, 2027 whether your paper proposal has been accepted. The final date for full paper submissions is May 31, 2027 and the issue will be published in December 2027. Please note: On_Culture also features _Perspectives, a section devoted to shorter, creative pieces pertaining to each issue topic. These can be interviews, essays, opinion pieces, reviews of exhibitions, analyses of cultural artifacts and events, photo galleries, videos, works of art&hellip; and more! These contributions are uploaded on a rolling basis and can be connected to every one of On_Culture's issues. Interested in contributing? Send your ideas to the Editorial Team at any time: content@on-culture.org About On_Culture: The Open Journal for the Study of Culture On_Culture: The Open Journal for the Study of Culture (ISSN: 2366-4142) is a biannual, Open Access peer-reviewed scholar-led journal edited by doctoral researchers, postdocs, and professors working at the International Graduate Centre for the Study of Culture (GCSC) at Justus Liebig University Giessen. It provides a forum for reflecting on the study of culture. It investigates, problematizes, and develops key concepts and methods in the field by means of a collaborative and collective process. On_Culture is dedicated to fostering such engagements as well as the cultural dynamics at work in thinking about and reflecting on culture. The journal consists of three sections: peer-reviewed academic _Articles, as well as _Essays, and the aforementioned _Perspectives. On_Culture brings new approaches and emerging topics in the (trans)national study of culture 'on the line' and, in so doing, fills the gap__ between 'on' and 'culture.' There are numerous ways of filling the gap, and a plurality of approaches is something for which the journal strives with each new issue. Please note: As a commitment to the open access to scholarship, On_Culture does not charge any Article Processing Charges (APCs) for the publication of your contribution. Visit our website for more information: www.on-culture.org",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Theory.",
       "publish": true
     },
     {
@@ -5183,6 +5134,29 @@
       "fullDescription": "The Asian Studies section is currently accepting paper and panel proposals for the 69th Annual Conference of the World Social Science Association. The conference will be held at the Hilton Denver City Center in Denver, CO from March 31st through April 3rd. The Asian Studies section welcomes research on the historical, cultural, social, and political aspects of the Middle East, South Asia, Southeast Asia, Pacific, and East Asia. Previous panels have explored Asian immigrant women's participation management, governance in China, contemporary Japanese digital culture, and feminist readings of the Bh?gavata Pur??a. We encourage innovative and critical approaches that address contemporary and historical issues. The Asian Studies section is particularly eager to include the voices of graduate students and early-career scholars. This is an excellent opportunity for emerging researchers to share their work and engage with a broader academic community. The WSSA also holds several competitions and awards, including cash prizes for undergraduate and graduate papers. Winners of the John Wicks Dissertation Paper Award are eligible to receive a prize of $250 (USD) and the refunding of registration and conference fees. Winners of the Bert & Phyllis Lamb Prize in Political Science will receive partial or full reimbursement of travel costs and a $1,000 (USD) prize. The deadline for paper abstracts and panel proposals is January 15th, 2027. Early registration for the conference and discounted registration fees end on November 30th, 2026. Virtual participation in the conference is permitted; however, additional registration fees are required. In-person participation is highly recommended. Please visit the WSSA conference page for further information or to submit a paper or panel proposal at https://www.wssaconference.com/ Please direct any questions concerning the Asian Studies section to Dr. Barbara Greene at greene-barbara(AT)Jissen.ac.jp",
       "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
       "publish": false
+    },
+    {
+      "title": "CALL FOR SUBMISSIONS | The Soliloquist Journal | WINTER 2027 ISSUE",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109470",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-20",
+      "eventDate": "",
+      "location": "The Soliloquist Journal",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Publication"
+      ],
+      "excerpt": "CALL FOR SUBMISSIONS | The Soliloquist Journal | WINTER 2027 ISSUE The Soliloquist Journal seeks submissions of poems and soliloquies for its Winter 2027 Issue. Website: https://thesoliloquistmagazine.my.canva.site/#submit Email: thesoliloquistmag@gmail.com Issue Theme: The Person I Pretended to Be Deadline: January 20, 2027 Publication: January 25, 2027...",
+      "fullDescription": "CALL FOR SUBMISSIONS | The Soliloquist Journal | WINTER 2027 ISSUE The Soliloquist Journal seeks submissions of poems and soliloquies for its Winter 2027 Issue. Website: https://thesoliloquistmagazine.my.canva.site/#submit Email: thesoliloquistmag@gmail.com Issue Theme: The Person I Pretended to Be Deadline: January 20, 2027 Publication: January 25, 2027 Who are you when no one is watching? And who have you become after years of performing a version of yourself that the world finds acceptable?",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
+      "publish": true
     },
     {
       "title": "\"Somewhere in Between: Borders and Borderlands\" International Conference",
