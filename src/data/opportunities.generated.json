@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -12,7 +12,7 @@
     },
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 23
+      "count": 22
     },
     {
       "source": "CFPList: Film, TV & Media",
@@ -27,16 +27,16 @@
       "count": 16
     },
     {
+      "source": "ACLS Competitions and Deadlines",
+      "count": 12
+    },
+    {
       "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 14
+      "count": 11
     },
     {
       "source": "UPenn CFP: Journals and Collections",
-      "count": 13
-    },
-    {
-      "source": "ACLS Competitions and Deadlines",
-      "count": 12
+      "count": 11
     },
     {
       "source": "CFPList: Pedagogy",
@@ -47,11 +47,7 @@
       "count": 7
     },
     {
-      "source": "UPenn CFP: Film and Television",
-      "count": 6
-    },
-    {
-      "source": "UPenn CFP: Cultural Studies",
+      "source": "UPenn CFP: Modernist Studies",
       "count": 6
     },
     {
@@ -59,7 +55,7 @@
       "count": 6
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 6
     },
     {
@@ -67,20 +63,20 @@
       "count": 6
     },
     {
-      "source": "UPenn CFP: Professional Topics",
+      "source": "UPenn CFP: Cultural Studies",
       "count": 5
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 5
+      "source": "UPenn CFP: Film and Television",
+      "count": 4
+    },
+    {
+      "source": "UPenn CFP: Professional Topics",
+      "count": 4
     },
     {
       "source": "CLIR Programs and Grants",
       "count": 4
-    },
-    {
-      "source": "UPenn CFP: Interdisciplinary",
-      "count": 3
     },
     {
       "source": "UPenn CFP: Theatre and Performance Studies",
@@ -111,7 +107,7 @@
       "count": 2
     },
     {
-      "source": "UPenn CFP: Popular Culture",
+      "source": "UPenn CFP: Interdisciplinary",
       "count": 2
     },
     {
@@ -124,6 +120,10 @@
     },
     {
       "source": "UPenn CFP: Pedagogy",
+      "count": 1
+    },
+    {
+      "source": "UPenn CFP: Popular Culture",
       "count": 1
     },
     {
@@ -147,7 +147,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50170",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-01-31",
       "location": "CFPList",
       "status": "open",
@@ -168,171 +168,26 @@
       "publish": true
     },
     {
-      "title": "\"Animal Advocacy Nonfiction Film and Moving-Image Media\"",
+      "title": "Hybrid Beckettian Ecosystems in Performance. Samuel Beckett Working Group meeting at IFTR annual conference, 28 June-2 July, 2027, Nafplio, Greece",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/animal-advocacy-nonfiction-film-and-moving-image-media",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "",
-      "location": "CULIVIAN Research Group - University of Valencia",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 62,
-      "fields": [
-        "Film / Media",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Nonfiction film and media have played a crucial role in advocating for animal welfare, rights and liberation. Although short videos and a number of documentaries were produced and distributed with activist purposes during the 1980s, it is during the so-called “documentary renaissance” of the early twenty-first century, together with the communicative adva...",
-      "fullDescription": "Nonfiction film and media have played a crucial role in advocating for animal welfare, rights and liberation. Although short videos and a number of documentaries were produced and distributed with activist purposes during the 1980s, it is during the so-called “documentary renaissance” of the early twenty-first century, together with the communicative advances of digital media, that nonfiction moving images emerged as a medium capable of reaching more mainstream audiences, becoming a central cultural tool for instigating transformative change in humans’ speciesist practices and attitudes toward nonhuman animals.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "PEDAGOGY AT THE CEA ANNUAL CONFERENCE",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107633",
+      "sourceName": "UPenn CFP: Modernist Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107781",
       "type": "Conference CFP",
       "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-04-01",
-      "location": "College English Association (CEA)",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 58,
-      "fields": [
-        "Rhetoric",
-        "AI",
-        "Pedagogy"
-      ],
-      "excerpt": "CALL FOR PAPERS/PEDAGOGY COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 The rapid integration of Generative AI (GenAI) into higher education has disrupted the traditional landscapes of college composition and literary studies. Acts of human express...",
-      "fullDescription": "CALL FOR PAPERS/PEDAGOGY COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE APRIL 1-3, 2027 / ST LOUIS, MO SUBMISSION SITE IS OPEN: https://www.conftool.pro/cea2027 DEADLINE: 11/01/2026 The rapid integration of Generative AI (GenAI) into higher education has disrupted the traditional landscapes of college composition and literary studies. Acts of human expression—such as brainstorming, drafting, critical",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, AI, Pedagogy.",
-      "publish": true
-    },
-    {
-      "title": "Yale 6th Annual Disability and Accessibility Symposium",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108362",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "",
-      "location": "Disability and Accessibility at Yale Symposium",
+      "location": "Samuel Beckett Working Group (International Federation for Theatre Research)",
       "status": "open",
-      "priority": "high",
+      "priority": "medium",
       "confidence": "high",
       "publishMode": "auto",
-      "score": 54,
+      "score": 46,
       "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Yale 6th Annual Symposium for Accessibility and Disability: Call for Proposals Crip Translations: Access, Technology, Context",
-      "fullDescription": "Yale 6th Annual Symposium for Accessibility and Disability: Call for Proposals Crip Translations: Access, Technology, Context",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Watching Cinema Theoretically: Psychoanalytic Perspectives on Film",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107519",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "",
-      "location": "Chris Vanderwees",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Film / Media",
-        "Theory",
         "Art / Media Practice"
       ],
-      "excerpt": "The relation between a theory and its so-called “object” always poses the danger of reducing an art form (in this case film) to a mere instance testifying to the validity of the theory. In this way, the theory provides the “genus” of which a given film will be a mere “species”. The application of psychoanalytic ideas or Marxist concepts to film would ther...",
-      "fullDescription": "The relation between a theory and its so-called “object” always poses the danger of reducing an art form (in this case film) to a mere instance testifying to the validity of the theory. In this way, the theory provides the “genus” of which a given film will be a mere “species”. The application of psychoanalytic ideas or Marxist concepts to film would therefore run the risk of depriving the specificity and singularity of the object in favour of the hegemony of the theory. Here, theory would truly live up to its theological vocation (the “theo” in theory refers to God) standing transcendentally above its “object” upon which it would cast its daunting shadow.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Composition & Rhetoric: Practice (CEA 4/1/27-4/3/27)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107887",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-04-01",
-      "location": "College English Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "Call for Papers: Composition and Rhetoric: Practice at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teachers in English studies, welcomes proposals for presentations on Composition and Rhetoric: Practice for our 57th annual conferen...",
-      "fullDescription": "Call for Papers: Composition and Rhetoric: Practice at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teachers in English studies, welcomes proposals for presentations on Composition and Rhetoric: Practice for our 57th annual conference. Submit your proposal at www.cea-web.org",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "PROPOSED EDITED VOLUME: Women Who Wander: Gender, Mobility, and the Cultural Imagination",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107499",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "",
-      "location": "Editors: Sara Rutkowski, City University of New York and Sara Steinert Borella, Virginia Tech Steger Center for International Scholarship",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media",
-        "Publication"
-      ],
-      "excerpt": "The figure of the woman traveler has long occupied a distinctive place in the cultural imagination. At once celebrated and contested, she has been represented as explorer, observer, adventurer, ethnographer, journalist, tourist, and pilgrim—but nearly always an antidote to feminine domesticity. We are currently seeking contributors from across the discipl...",
-      "fullDescription": "The figure of the woman traveler has long occupied a distinctive place in the cultural imagination. At once celebrated and contested, she has been represented as explorer, observer, adventurer, ethnographer, journalist, tourist, and pilgrim—but nearly always an antidote to feminine domesticity. We are currently seeking contributors from across the disciplines for a proposed collection of essays on “the woman traveler.” This volume will explore the enduring and evolving cultural figure across genres and media—from travel writing and photography to film, blogs, Instagram, and TikTok.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
-      "publish": true
-    },
-    {
-      "title": "Call for Papers: ‘Konpa Dirèk: Popular Music and Social Relations in Haiti and the Haitian Diaspora’",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Journals and Collections",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106874",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "",
-      "location": "Journal of Caribbean Music & Sound Cultures",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Apologies for crossposting. Call for Papers: Journal of Caribbean Music & Sound Cultures Special Issue: ‘Konpa Dirèk: Popular Music and Social Relations in Haiti and the Haitian Diaspora’ Guest Editors Cécile Accilien, University of Maryland, USA, cecileaccilien22@gmail.com Sabine Lamour, University of Montréal, Canada Alexandra Cenatus, University of Mar...",
-      "fullDescription": "Apologies for crossposting. Call for Papers: Journal of Caribbean Music & Sound Cultures Special Issue: ‘Konpa Dirèk: Popular Music and Social Relations in Haiti and the Haitian Diaspora’ Guest Editors Cécile Accilien, University of Maryland, USA, cecileaccilien22@gmail.com Sabine Lamour, University of Montréal, Canada Alexandra Cenatus, University of Maryland, USA Deadlines 1 November 2026: 250–300-word abstract 15 November 2026: Successful authors notified 15 February 2027: First draft of article due to editors",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
+      "excerpt": "The Samuel Beckett Working Group is an evolving international community of researchers, which seeks to support the development of excellent research on Beckett’s drama and Beckett in performance. It meets everywhere at the annual IFTR conferences. We welcome postgraduate and early-career researchers, as well as faculty, independent researchers and artists...",
+      "fullDescription": "The Samuel Beckett Working Group is an evolving international community of researchers, which seeks to support the development of excellent research on Beckett’s drama and Beckett in performance. It meets everywhere at the annual IFTR conferences. We welcome postgraduate and early-career researchers, as well as faculty, independent researchers and artists. We value the participation of Beckett and non-Beckett experts alike, as both categories partake in the maintenance of a healthy interdisciplinary ecosystem.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
       "publish": true
     },
     {
@@ -342,7 +197,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -366,7 +221,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50511",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-24",
       "location": "Boston · PCA",
       "status": "open",
@@ -390,7 +245,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -408,60 +263,13 @@
       "publish": true
     },
     {
-      "title": "College English Association Annual Conference",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/106654",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "",
-      "location": "College English Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Rhetoric",
-        "Pedagogy"
-      ],
-      "excerpt": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of “Gateways” and their significance in literatur...",
-      "fullDescription": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference,the College English Association (CEA) invites proposals for papers and panels that explore the theme of “Gateways” and their significance in literature, criticism, and pedagogy.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Pedagogy.",
-      "publish": true
-    },
-    {
-      "title": "\"Refugee Archives\" Panel",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Interdisciplinary",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109192",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-05-13",
-      "location": "Laura Winkiel / Society for Novel Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Geographies” Conference, Vancouver, British Columbia, May 13-16, 2027. Refugee Archives How has the novel been adapted to account for refugee crises around the world? In an essay first published in 1943, Hannah Arendt proclaimed that “Contemporary history has created a new kind of human beings [sic]—the kind that are put in concentration camps by their fo...",
-      "fullDescription": "Geographies” Conference, Vancouver, British Columbia, May 13-16, 2027. Refugee Archives How has the novel been adapted to account for refugee crises around the world? In an essay first published in 1943, Hannah Arendt proclaimed that “Contemporary history has created a new kind of human beings [sic]—the kind that are put in concentration camps by their foes and in internment camps by their friends.” Displaced persons belong nowhere and their stories—as mediated through the novel—disrupt the novel’s national horizons. Their experiences demand",
-      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities (NeMLA)",
       "source": "CFPList",
       "sourceName": "CFPList: Digital Humanities",
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -485,7 +293,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -510,7 +318,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50226",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-12-31",
       "location": "N/A · N/A",
       "status": "open",
@@ -534,7 +342,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50516",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-24",
       "location": "Boston, MA",
       "status": "open",
@@ -559,7 +367,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50363",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-04",
       "location": "New York · Columbia",
       "status": "open",
@@ -583,7 +391,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50364",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-13",
       "location": "Vancouver, BC · Society for Novel Studies",
       "status": "open",
@@ -607,7 +415,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50312",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-02-28",
       "location": "University of Pennsylvania (Philadelphia) · Penn Graduate Jewish Studies",
       "status": "open",
@@ -631,7 +439,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -656,7 +464,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -666,7 +474,6 @@
       "score": 38,
       "fields": [
         "Digital Humanities / Design",
-        "Pedagogy",
         "Technical Communication"
       ],
       "excerpt": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
@@ -681,7 +488,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50576",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-24",
       "location": "Boston · Popular Culture Association/American Culture Association",
       "status": "open",
@@ -707,7 +514,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50507",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-24",
       "location": "Boston, MA · PCA/ACA",
       "status": "open",
@@ -730,7 +537,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49758",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-03",
       "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
       "status": "open",
@@ -753,7 +560,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -777,7 +584,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50231",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-15",
       "location": "Virtual · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -800,7 +607,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50218",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-20",
       "location": "Houston/Texas · American Comarative Literature Association / ICLA Research Committee on Religion, Ethics, and Liter",
       "status": "open",
@@ -823,7 +630,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50577",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-24",
       "location": "Boston · Popular Culture Association/American Culture Association",
       "status": "open",
@@ -846,7 +653,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -869,7 +676,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -886,59 +693,13 @@
       "publish": true
     },
     {
-      "title": "\"The Profession\" (CEA 4/1-4/3/27",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Professional Topics",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108330",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-04-01",
-      "location": "College English Association",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Pedagogy"
-      ],
-      "excerpt": "Conference Theme: Gateways For its 2027 annual conference, the College English Association (CEA) invites proposals for papers and panels that explore the theme of “Gateways” and their significance in literature, criticism, and pedagogy. Call for Papers: Special Topic \"The Profession\" at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Ho...",
-      "fullDescription": "Conference Theme: Gateways For its 2027 annual conference, the College English Association (CEA) invites proposals for papers and panels that explore the theme of “Gateways” and their significance in literature, criticism, and pedagogy. Call for Papers: Special Topic \"The Profession\" at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
-      "publish": true
-    },
-    {
-      "title": "Fairytale Area PCA/ACA Annual Meeting",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Cultural Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109198",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "2027-03-24",
-      "location": "Popular Culture Association",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Call for Papers (submission deadline October 31, 2026 ) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24–27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for individual papers, panels, and roundtables for the 2027 annual conference in Boston, MA, March 24-27.",
-      "fullDescription": "Call for Papers (submission deadline October 31, 2026 ) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24–27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for individual papers, panels, and roundtables for the 2027 annual conference in Boston, MA, March 24-27.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "Taylor Swift & Swiftie Studies - SWPACA 2027",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/50036",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-02-17",
       "location": "Albuquerque, New Mexico · Southwest Popular/American Culture Association",
       "status": "open",
@@ -961,7 +722,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -985,7 +746,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -1008,7 +769,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -1031,7 +792,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -1054,7 +815,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49501",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "virtual · Modern Language Association",
       "status": "open",
@@ -1077,7 +838,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -1100,7 +861,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -1123,7 +884,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -1146,7 +907,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -1169,7 +930,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -1189,36 +950,13 @@
       "publish": true
     },
     {
-      "title": "Now We Are Six at One Hundred: Affect, Atmosphere, and Ordinary Feeling in A. A. Milne's Hundred Acre Wood",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Popular Culture",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/now-we-are-six-at-one-hundred-affect-atmosphere-and-ordinary-feeling-in-a-a-milnes",
-      "type": "Edited Collection",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-01",
-      "eventDate": "",
-      "location": "University of New England",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Publication"
-      ],
-      "excerpt": "Now We Are Six at One Hundred: Affect, Atmosphere, and Ordinary Feeling in A. A. Milne's Hundred Acre Wood Edited Collection for the Children's Literature Association Series: Centennial Studies Call for Abstracts In 2027, A. A. Milne's Now We Are Six reaches its centenary. This is the second collection of children's verse and the third book in the Pooh se...",
-      "fullDescription": "Now We Are Six at One Hundred: Affect, Atmosphere, and Ordinary Feeling in A. A. Milne's Hundred Acre Wood Edited Collection for the Children's Literature Association Series: Centennial Studies Call for Abstracts In 2027, A. A. Milne's Now We Are Six reaches its centenary. This is the second collection of children's verse and the third book in the Pooh sequence, following When We Were Very Young (1924) and Winnie-the-Pooh (1926). It contains 35 poems, all illustrated by Ernest H. Shepard. Unlike the prose Pooh books, it is a collection of self-contained poems. The poems move between several interconnected worlds:",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
-      "publish": true
-    },
-    {
       "title": "Virtual Panel (NeMLA 2027) -- Supporting the Well-Being of Students and Instructors in a Transitional Time",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -1241,7 +979,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -1264,7 +1002,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -1287,7 +1025,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -1310,7 +1048,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -1333,7 +1071,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49434",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-11-04",
       "location": "Niterói · Universidade Federal Fluminense",
       "status": "open",
@@ -1356,7 +1094,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -1379,7 +1117,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -1402,7 +1140,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50106",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-02-17",
       "location": "Albuquerque, New Mexico, USA · Southwest Popular/American Culture Association",
       "status": "open",
@@ -1425,7 +1163,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -1448,7 +1186,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49340",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2026-11-09",
       "location": "V&A East Storehouse · British Association for American Studies",
       "status": "open",
@@ -1471,7 +1209,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49447",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-05-20",
       "location": "Houston · American Comparative Literature Association",
       "status": "open",
@@ -1494,7 +1232,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49395",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-02",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -1509,29 +1247,6 @@
       "fullDescription": "This panel examines how literary and cultural texts from diverse global traditions imagine masculinity not merely as an individual identity but as a relational and communal practice. In an era marked by migration, political polarization, social fragmentation, environmental cri",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
-    },
-    {
-      "title": "Hybrid Beckettian Ecosystems in Performance. Samuel Beckett Working Group meeting at IFTR annual conference, 28 June-2 July, 2027, Nafplio, Greece",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Modernist Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107781",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-02",
-      "eventDate": "",
-      "location": "Samuel Beckett Working Group (International Federation for Theatre Research)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Samuel Beckett Working Group is an evolving international community of researchers, which seeks to support the development of excellent research on Beckett’s drama and Beckett in performance. It meets everywhere at the annual IFTR conferences. We welcome postgraduate and early-career researchers, as well as faculty, independent researchers and artists...",
-      "fullDescription": "The Samuel Beckett Working Group is an evolving international community of researchers, which seeks to support the development of excellent research on Beckett’s drama and Beckett in performance. It meets everywhere at the annual IFTR conferences. We welcome postgraduate and early-career researchers, as well as faculty, independent researchers and artists. We value the participation of Beckett and non-Beckett experts alike, as both categories partake in the maintenance of a healthy interdisciplinary ecosystem.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
     },
     {
       "title": "ACLS Digital Justice Seed Grants",
@@ -1650,30 +1365,6 @@
       "excerpt": "CFP: Community Confidence: A Collection of Writing Center Self-Efficacies Edited by Kendyl Harmeling, Katie Garahan, and Megan Keaton University of North Carolina at Charlotte",
       "fullDescription": "CFP: Community Confidence: A Collection of Writing Center Self-Efficacies Edited by Kendyl Harmeling, Katie Garahan, and Megan Keaton University of North Carolina at Charlotte",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Publication.",
-      "publish": true
-    },
-    {
-      "title": "Call for Papers — III International Congress on Industrial Property and Advertising in Fashion and Cosmetics",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50543",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
-      "eventDate": "2026-11-20",
-      "location": "Online · Madrid, Spain · Universidad Rey Juan Carlos and Asociación de Expertos en Derecho de la Moda",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "CALL FOR PAPERS III International Congress on Industrial Property and Advertising in Fashion and Cosmetics Online · 20 November 2026 · Universidad Rey Juan Carlos (Madrid, Spain) The Universidad Rey Juan Carlo",
-      "fullDescription": "CALL FOR PAPERS III International Congress on Industrial Property and Advertising in Fashion and Cosmetics Online · 20 November 2026 · Universidad Rey Juan Carlos (Madrid, Spain) The Universidad Rey Juan Carlo",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -1815,6 +1506,31 @@
       "excerpt": "ACLS HBCU Faculty Grants is listed by ACLS under upcoming fellowship and grant deadlines.",
       "fullDescription": "ACLS HBCU Faculty Grants is listed by ACLS under upcoming fellowship and grant deadlines.",
       "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
+      "publish": true
+    },
+    {
+      "title": "TTT2027 Vienna: Call for Papers, Artist Talks and Artwork Presentations",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50716",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-11",
+      "eventDate": "2027-09-14",
+      "location": "University of Applied Arts Vienna (Angewandte), Austria",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Art / Media Practice",
+        "Theory"
+      ],
+      "excerpt": "The Call for Proposals for the 7th Interdisciplinary Conference Taboo — Transgression — Transcendence in Art & Science (TTT2027 Vienna) is now open. Taking place from 14 to 17 September 2027 at the University of Applied Arts Vienna (Angewandte), Austria",
+      "fullDescription": "The Call for Proposals for the 7th Interdisciplinary Conference Taboo — Transgression — Transcendence in Art & Science (TTT2027 Vienna) is now open. Taking place from 14 to 17 September 2027 at the University of Applied Arts Vienna (Angewandte), Austria",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
       "publish": true
     },
     {
@@ -2039,32 +1755,6 @@
       "publish": true
     },
     {
-      "title": "Consuming US Popular Culture | Virtual Conference + postgrad session",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50567",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-15",
-      "eventDate": "2026-11-27",
-      "location": "· PopMeC Association for US Popular Culture Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Interdisciplinary",
-        "Digital Humanities / Design",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27—28 November 2026 POSTGRAD SESSION CALL: The conference will integrate a session dedicated to postgrad",
-      "fullDescription": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27—28 November 2026 POSTGRAD SESSION CALL: The conference will integrate a session dedicated to postgrad",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean i",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
@@ -2086,6 +1776,31 @@
       "excerpt": "The First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean in the Digital Age\" will be held on March 29—31, 2027, at the University of Costa Rica, Western Campus (Sede de Occide",
       "fullDescription": "The First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean in the Digital Age\" will be held on March 29—31, 2027, at the University of Costa Rica, Western Campus (Sede de Occide",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Digital Humanities / Design.",
+      "publish": true
+    },
+    {
+      "title": "Consuming US Popular Culture | Virtual Conference + postgrad session",
+      "source": "CFPList",
+      "sourceName": "CFPList: Digital Humanities",
+      "sourceUrl": "https://www.cfplist.com/CFP/50567",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-15",
+      "eventDate": "2026-11-27",
+      "location": "· PopMeC Association for US Popular Culture Studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Digital Humanities / Design",
+        "Film / Media",
+        "Theory"
+      ],
+      "excerpt": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27—28 November 2026 POSTGRAD SESSION CALL: The conference will integrate a session dedicated to postgrad",
+      "fullDescription": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27—28 November 2026 POSTGRAD SESSION CALL: The conference will integrate a session dedicated to postgrad",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -3247,6 +2962,29 @@
       "publish": true
     },
     {
+      "title": "Loss and Absence, 1100-1800",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109387",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-11",
+      "eventDate": "2027-03-04",
+      "location": "University of California - Santa Barbara (Early Modern Center)",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "The Early Modern Center at the University of California, Santa Barbara is excited to announce our annual conference, “Loss and Absence, 1100-1800,” to be held from March 4-6, 2027. The conference is open globally to faculty, graduate students, and independent scholars across a broad spectrum of disciplines working across the medieval period to the long ei...",
+      "fullDescription": "The Early Modern Center at the University of California, Santa Barbara is excited to announce our annual conference, “Loss and Absence, 1100-1800,” to be held from March 4-6, 2027. The conference is open globally to faculty, graduate students, and independent scholars across a broad spectrum of disciplines working across the medieval period to the long eighteenth century.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "The Hungry Glass: Mirrors, Films, Stars",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Fan Studies and Fandom",
@@ -3995,6 +3733,32 @@
       "excerpt": "Beginning in the nineteenth century, the world witnessed the emergence of national movements that advocated the construction of states founded upon the historical and cultural identity of peoples, as well as upon their independence and strategic autonomy. This wave, which mani",
       "fullDescription": "Beginning in the nineteenth century, the world witnessed the emergence of national movements that advocated the construction of states founded upon the historical and cultural identity of peoples, as well as upon their independence and strategic autonomy. This wave, which mani",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
+      "title": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan–Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and C",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50705",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-11-15",
+      "location": "N/A · Azerbaijan–Urdu Research Center, Government College University Lahore, Pakistan",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Publication",
+        "Film / Media",
+        "Theory",
+        "Pedagogy"
+      ],
+      "excerpt": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan—Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and Contemporary Perspectives Azerbaijan—Urdu Research Center, Government College Univer",
+      "fullDescription": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan—Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and Contemporary Perspectives Azerbaijan—Urdu Research Center, Government College Univer",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
       "publish": true
     },
     {
@@ -5632,32 +5396,6 @@
       "fullDescription": "Eighteenth International Conference on The Image, Toronto Metropolitan University, Toronto, Canada, 13-15 October 2027 Founded in 2010, The Image Research Network is brought together around a shared interest in the nature and function of image making and images. We see",
       "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
       "publish": false
-    },
-    {
-      "title": "evolution/technology/culture",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50550",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-09-15",
-      "eventDate": "2028-09-15",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "high",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Film / Media",
-        "Digital Humanities / Design",
-        "Theory",
-        "Publication"
-      ],
-      "excerpt": "Dear Colleagues , On behalf of the Editorial Board of Er(r)go: Theory — Literature — Culture (100 points on the Polish Ministry of Science and Higher Education journal ranking; indexed in Scopus; Gold Open Access), as Guest Editors,",
-      "fullDescription": "Dear Colleagues , On behalf of the Editorial Board of Er(r)go: Theory — Literature — Culture (100 points on the Polish Ministry of Science and Higher Education journal ranking; indexed in Scopus; Gold Open Access), as Guest Editors,",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design, Theory, Publication.",
-      "publish": true
     },
     {
       "title": "Call for Papers: ‘Fatness, Fashion and Profession in India’",
