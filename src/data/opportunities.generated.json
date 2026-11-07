@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -7,11 +7,11 @@
   },
   "sourceSummary": [
     {
-      "source": "CFPList: Digital Humanities",
-      "count": 25
+      "source": "UPenn CFP: Humanities Computing and the Internet",
+      "count": 26
     },
     {
-      "source": "UPenn CFP: Humanities Computing and the Internet",
+      "source": "CFPList: Digital Humanities",
       "count": 25
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "source": "CFPList: Graduate Conferences",
-      "count": 17
+      "count": 16
     },
     {
       "source": "CFPList: Film, TV & Media",
@@ -31,12 +31,12 @@
       "count": 14
     },
     {
-      "source": "UPenn CFP: Rhetoric and Composition",
+      "source": "UPenn CFP: Journals and Collections",
       "count": 12
     },
     {
-      "source": "UPenn CFP: Journals and Collections",
-      "count": 12
+      "source": "UPenn CFP: Rhetoric and Composition",
+      "count": 11
     },
     {
       "source": "ACLS Competitions and Deadlines",
@@ -45,10 +45,6 @@
     {
       "source": "UPenn CFP: Fan Studies and Fandom",
       "count": 8
-    },
-    {
-      "source": "UPenn CFP: Theory",
-      "count": 7
     },
     {
       "source": "UPenn CFP: Film and Television",
@@ -67,7 +63,15 @@
       "count": 6
     },
     {
+      "source": "UPenn CFP: Theory",
+      "count": 6
+    },
+    {
       "source": "CFPList: Technical Communication Search",
+      "count": 4
+    },
+    {
+      "source": "UPenn CFP: Science and Culture",
       "count": 4
     },
     {
@@ -80,10 +84,6 @@
     },
     {
       "source": "UPenn CFP: Translation Studies",
-      "count": 3
-    },
-    {
-      "source": "UPenn CFP: Science and Culture",
       "count": 3
     },
     {
@@ -151,7 +151,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50170",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-01-31",
       "location": "CFPList",
       "status": "open",
@@ -172,38 +172,13 @@
       "publish": true
     },
     {
-      "title": "Community Confidence: A Collection of Writing Center Self-Efficacies",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108699",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-06",
-      "eventDate": "",
-      "location": "Kendyl Harmeling, Katie Garahan, and Megan Keaton",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Rhetoric",
-        "Publication",
-        "Pedagogy"
-      ],
-      "excerpt": "CFP: Community Confidence: A Collection of Writing Center Self-Efficacies Edited by Kendyl Harmeling, Katie Garahan, and Megan Keaton University of North Carolina at Charlotte",
-      "fullDescription": "CFP: Community Confidence: A Collection of Writing Center Self-Efficacies Edited by Kendyl Harmeling, Katie Garahan, and Megan Keaton University of North Carolina at Charlotte",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Publication.",
-      "publish": true
-    },
-    {
       "title": "Creating the Conditions: Empowering Communities in Writing and General Education",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/49606",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -227,7 +202,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50511",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-24",
       "location": "Boston · PCA",
       "status": "open",
@@ -251,7 +226,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -275,7 +250,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50245",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Newport, RI · 58th NeMLA Convention",
       "status": "open",
@@ -299,7 +274,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50516",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-24",
       "location": "Boston, MA",
       "status": "open",
@@ -324,7 +299,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50363",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-04",
       "location": "New York · Columbia",
       "status": "open",
@@ -348,7 +323,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50364",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-05-13",
       "location": "Vancouver, BC · Society for Novel Studies",
       "status": "open",
@@ -372,7 +347,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50312",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-02-28",
       "location": "University of Pennsylvania (Philadelphia) · Penn Graduate Jewish Studies",
       "status": "open",
@@ -396,7 +371,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50490",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-04-29",
       "location": "Scranton, PA, USA · University of Scranton",
       "status": "open",
@@ -421,7 +396,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50507",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-24",
       "location": "Boston, MA · PCA/ACA",
       "status": "open",
@@ -444,7 +419,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49758",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-03",
       "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
       "status": "open",
@@ -467,7 +442,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50314",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Newport, RI",
       "status": "open",
@@ -491,7 +466,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49650",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Rhode Island · Salve Regina University in Newport,",
       "status": "open",
@@ -514,7 +489,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49365",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "· Northeast Modern Language Association (NeMLA)",
       "status": "open",
@@ -531,36 +506,13 @@
       "publish": true
     },
     {
-      "title": "D. H. Lawrence and French Literature, Philosophy and Theory",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/d-h-lawrence-and-french-literature-philosophy-and-theory",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-06",
-      "eventDate": "2027-03-18",
-      "location": "40th INTERNATIONAL D. H. LAWRENCE CONFERENCE",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 32,
-      "fields": [
-        "Theory"
-      ],
-      "excerpt": "40th INTERNATIONAL D. H. LAWRENCE CONFERENCE March 18-19, 2027 L'Université Paris Nanterre D. H. Lawrence and French literature, philosophy and theory The ambition of this conference is to explore various kinds of connections between D. H. Lawrence’s oeuvre and French theory, philosophy and literature.",
-      "fullDescription": "40th INTERNATIONAL D. H. LAWRENCE CONFERENCE March 18-19, 2027 L'Université Paris Nanterre D. H. Lawrence and French literature, philosophy and theory The ambition of this conference is to explore various kinds of connections between D. H. Lawrence’s oeuvre and French theory, philosophy and literature.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
-      "publish": true
-    },
-    {
       "title": "Taylor Swift & Swiftie Studies - SWPACA 2027",
       "source": "CFPList",
       "sourceName": "CFPList: Rhetoric & Composition",
       "sourceUrl": "https://www.cfplist.com/CFP/50036",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-02-17",
       "location": "Albuquerque, New Mexico · Southwest Popular/American Culture Association",
       "status": "open",
@@ -583,7 +535,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50022",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas",
       "status": "open",
@@ -607,7 +559,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49814",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-05-20",
       "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
       "status": "open",
@@ -630,7 +582,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49712",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-01-29",
       "location": "Online · University of Southern California Writing Program",
       "status": "open",
@@ -653,7 +605,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49573",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · Northeast Modern Language Association",
       "status": "open",
@@ -676,7 +628,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49501",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "virtual · Modern Language Association",
       "status": "open",
@@ -699,7 +651,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50229",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -723,7 +675,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -747,7 +699,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49496",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2026-11-17",
       "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
       "status": "open",
@@ -770,7 +722,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49396",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -787,36 +739,13 @@
       "publish": true
     },
     {
-      "title": "Narrating the Self Today: Contemporary Directions in Biography, Memoir, and Life Writing",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/48930",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
-      "eventDate": "2026-11-12",
-      "location": "Seattle, WA · PAMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays",
-      "fullDescription": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays",
-      "relevance": "Automatically surfaced as a possible RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
       "source": "CFPList",
       "sourceName": "CFPList: Technical Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -839,7 +768,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -862,7 +791,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -885,7 +814,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -911,7 +840,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50169",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Virtual/Newport, RI · NeMLA",
       "status": "open",
@@ -934,7 +863,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50108",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
       "status": "open",
@@ -957,7 +886,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49811",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-05-20",
       "location": "Houston · ACLA",
       "status": "open",
@@ -980,7 +909,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49587",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2026-12-03",
       "location": "Ankara, Türkiye · Middle East Technical University",
       "status": "open",
@@ -1003,7 +932,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50576",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-24",
       "location": "Boston · Popular Culture Association/American Culture Association",
       "status": "open",
@@ -1026,7 +955,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50135",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2026-11-08",
       "location": "CFPList",
       "status": "open",
@@ -1049,7 +978,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50267",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-06",
       "location": "Newport, Rhode Island · NeMLA",
       "status": "open",
@@ -1072,7 +1001,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50228",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-03-04",
       "location": "Newport, RI · NeMLA",
       "status": "open",
@@ -1095,7 +1024,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50106",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-02-17",
       "location": "Albuquerque, New Mexico, USA · Southwest Popular/American Culture Association",
       "status": "open",
@@ -1118,7 +1047,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49888",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2027-05-20",
       "location": "Houston, Texas · American Comparative Literature Association",
       "status": "open",
@@ -1141,7 +1070,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49340",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "eventDate": "2026-11-09",
       "location": "V&A East Storehouse · British Association for American Studies",
       "status": "open",
@@ -1154,52 +1083,6 @@
       ],
       "excerpt": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a",
       "fullDescription": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "The Poverty of Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49447",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
-      "eventDate": "2027-05-20",
-      "location": "Houston · American Comparative Literature Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quig",
-      "fullDescription": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quig",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "Beyond Hegemony: Masculinities in World and Comparative Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49395",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-06",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "This panel examines how literary and cultural texts from diverse global traditions imagine masculinity not merely as an individual identity but as a relational and communal practice. In an era marked by migration, political polarization, social fragmentation, environmental cri",
-      "fullDescription": "This panel examines how literary and cultural texts from diverse global traditions imagine masculinity not merely as an individual identity but as a relational and communal practice. In an era marked by migration, political polarization, social fragmentation, environmental cri",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
     },
@@ -1223,6 +1106,52 @@
       ],
       "excerpt": "Confound the Time welcomes papers that investigate the ways in which texts, objects, and images from the medieval and early modern periods re-envision and reconstruct the past or imagine and anticipate the future. We also welcome papers that explore the ways in which medieval",
       "fullDescription": "Confound the Time welcomes papers that investigate the ways in which texts, objects, and images from the medieval and early modern periods re-envision and reconstruct the past or imagine and anticipate the future. We also welcome papers that explore the ways in which medieval",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
+      "title": "The Poverty of Literature",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/49447",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-07",
+      "eventDate": "2027-05-20",
+      "location": "Houston · American Comparative Literature Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 12,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quig",
+      "fullDescription": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quig",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
+      "title": "Beyond Hegemony: Masculinities in World and Comparative Literature",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/49395",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-07",
+      "eventDate": "2027-03-06",
+      "location": "Newport, RI",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 12,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "This panel examines how literary and cultural texts from diverse global traditions imagine masculinity not merely as an individual identity but as a relational and communal practice. In an era marked by migration, political polarization, social fragmentation, environmental cri",
+      "fullDescription": "This panel examines how literary and cultural texts from diverse global traditions imagine masculinity not merely as an individual identity but as a relational and communal practice. In an era marked by migration, political polarization, social fragmentation, environmental cri",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
     },
@@ -2689,7 +2618,6 @@
       "publishMode": "auto",
       "score": 38,
       "fields": [
-        "Interdisciplinary",
         "Film / Media",
         "Theory"
       ],
@@ -3395,7 +3323,8 @@
       "publishMode": "auto",
       "score": 28,
       "fields": [
-        "Interdisciplinary"
+        "Interdisciplinary",
+        "Art / Media Practice"
       ],
       "excerpt": "The Form of the Body Brown University | Providence, RI | April 23-24, 2027",
       "fullDescription": "The Form of the Body Brown University | Providence, RI | April 23-24, 2027",
@@ -4801,6 +4730,29 @@
       "publish": true
     },
     {
+      "title": "Uncertainty: A Science, Technology, and Society symposium",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Science and Culture",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109383",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-02-01",
+      "eventDate": "",
+      "location": "STS program at South Dakota Mines",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "Call for Proposals: 2027 Science, Technology, and Society Symposium on Uncertainty We live in a moment of uncertainty – politically, ecologically, technologically. This uncertainty is not unique to now, of course, but it prompts us to think about how we respond to it, both in this moment and in relation to its historical context. On the 100th anniversary...",
+      "fullDescription": "Call for Proposals: 2027 Science, Technology, and Society Symposium on Uncertainty We live in a moment of uncertainty – politically, ecologically, technologically. This uncertainty is not unique to now, of course, but it prompts us to think about how we respond to it, both in this moment and in relation to its historical context. On the 100th anniversary of Werner Heisenberg’s uncertainty principle, we invite STS scholars to join us for a conference addressing uncertainty.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
       "title": "CFP for PNRS 2027, 21-23 October Sidney, BC: Renaissance Bodies of Knowledge: Human Ingenuity in Ages of Artifice",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Graduate Conferences",
@@ -4942,6 +4894,33 @@
       "excerpt": "2027 Imagining Social WorldsOnline Symposium, 17–18 March 2027 We invite proposals for 2027 Imagining Social Worlds, an annual online symposium in the Common Ground Imagining Futures Series, taking place 17–18 March 2027. The symposium brings together scholars, researchers, educators, policy thinkers, practitioners, community leaders, organizers, and publ...",
       "fullDescription": "2027 Imagining Social WorldsOnline Symposium, 17–18 March 2027 We invite proposals for 2027 Imagining Social Worlds, an annual online symposium in the Common Ground Imagining Futures Series, taking place 17–18 March 2027. The symposium brings together scholars, researchers, educators, policy thinkers, practitioners, community leaders, organizers, and public-facing professionals working across social, political, civic, organizational, and global fields. We welcome proposals that explore how social worlds are formed, governed, connected, contested, sustained, and transformed.",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
+      "title": "Playing Antiquity: Video Games, Teaching and Historical Knowledge",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108271",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-02-28",
+      "eventDate": "",
+      "location": "Carlos Heredia (Center for Innovation in Ancient Worlds)",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 66,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Pedagogy",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "AI & Antiquity: Journal of Teaching and Technology in Ancient Studies invites contributions for its first Special Issue, Playing Antiquity: Video Games, Teaching and Historical Knowledge, to be published in June 2027. Video games have become one of the major environments through which students and wider audiences encounter the ancient world. Yet their sig...",
+      "fullDescription": "AI & Antiquity: Journal of Teaching and Technology in Ancient Studies invites contributions for its first Special Issue, Playing Antiquity: Video Games, Teaching and Historical Knowledge, to be published in June 2027. Video games have become one of the major environments through which students and wider audiences encounter the ancient world. Yet their significance for Ancient Studies extends beyond questions of historical accuracy. Through mechanics, rules, maps, narratives, economies, political systems, and player choice, games transform particular interpretations of Antiquity into interactive and playable systems.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Pedagogy, Publication, Art / Media Practice.",
       "publish": true
     },
     {
