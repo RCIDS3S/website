@@ -2301,3 +2301,53 @@ h3 {
   font-size: 0.8rem;
   line-height: 1.5;
 }
+
+/* Shared calendar help and month view */
+.calendar-help { margin: 24px 0; padding: 18px 22px; border: 1px solid var(--line); border-radius: 8px; background: var(--paper-soft); }
+.calendar-help summary { cursor: pointer; color: var(--navy); font-weight: 700; }
+.calendar-help li { margin: 10px 0; }
+.calendar-help p { max-width: 80ch; }
+.calendar-page { max-width: 1240px; margin: auto; padding: 48px 24px 64px; }
+.calendar-intro { max-width: 820px; }
+.calendar-intro h1 { font-size: clamp(2.8rem,6vw,5rem); margin: 12px 0 20px; line-height: 1.05; }
+.month-toolbar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:16px; margin-top:36px; }
+.month-toolbar h2 { margin:0; font-size:2rem; }
+.month-controls { display:flex; flex-wrap:wrap; align-items:center; gap:8px; }
+.month-controls button, .month-controls input { min-height:44px; border:1px solid var(--line); background:var(--paper-soft); border-radius:6px; padding:8px 12px; font:inherit; color:var(--navy); }
+.month-controls button { cursor:pointer; font-weight:700; }
+.month-controls button:disabled { opacity:.4; cursor:default; }
+.month-controls label { display:flex; align-items:center; gap:8px; font-size:.85rem; }
+.month-controls :focus-visible, .month-event:focus-visible { outline:3px solid var(--navy); outline-offset:2px; }
+.calendar-hint { color:var(--muted); }
+.month-table { width:100%; table-layout:fixed; border-collapse:collapse; background:var(--paper-soft); }
+.month-table th { padding:12px 4px; background:var(--navy); color:white; font-size:.8rem; }
+.month-table abbr { text-decoration:none; }
+.month-table td { height:120px; padding:8px; vertical-align:top; border:1px solid var(--line); }
+.month-table .empty-day { background:rgba(216,206,192,.22); }
+.day-number { display:inline-flex; align-items:center; justify-content:center; width:28px; height:28px; font-weight:600; font-size:.85rem; }
+.is-today .day-number { color:white; background:var(--navy); border-radius:50%; }
+.month-event { display:block; margin-top:6px; padding:6px; background:rgba(82,45,128,.09); color:var(--navy); border-left:3px solid var(--gold); border-radius:3px; font-size:.75rem; font-weight:650; text-decoration:none; overflow-wrap:anywhere; }
+.month-event:hover { background:rgba(82,45,128,.17); }
+.month-event-dot { display:none; }
+.calendar-agenda { margin-top:36px; }
+.calendar-agenda-list { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; }
+.calendar-agenda-card { padding:24px; border:1px solid var(--line); border-radius:8px; background:var(--paper-soft); scroll-margin-top:110px; }
+.calendar-agenda-card[hidden], #month-empty[hidden], #month-view[hidden] { display:none; }
+.calendar-agenda-card time { color:var(--navy); font-weight:700; font-size:.85rem; }
+.calendar-agenda-card h3 { margin:14px 0; line-height:1.25; }
+.calendar-location { font-size:.9rem; color:var(--muted); }
+.calendar-footer { margin-top:32px; }
+.calendar-download { color:var(--navy); border-color:var(--navy); }
+@media (max-width: 700px) {
+  .calendar-page { padding:32px 16px; }
+  .month-table td { height:76px; padding:4px 2px; }
+  .month-table th { font-size:.7rem; }
+  .month-event { margin:4px 0 0; padding:4px 0; min-height:30px; text-align:center; border-left:0; }
+  .month-event-title { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); }
+  .month-event-dot { display:inline; }
+  .calendar-agenda-list { grid-template-columns:1fr; }
+  .month-controls label { flex-basis:100%; margin-top:8px; }
+  .calendar-help { padding:16px; }
+  .calendar-help ol { padding-left:22px; }
+}
+#month-view, #calendar-help { scroll-margin-top: 110px; }

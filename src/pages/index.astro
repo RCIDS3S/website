@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import CalendarHelp from "../components/CalendarHelp.astro";
 import identity from "../data/site/identity.json";
 import navigation from "../data/site/navigation.json";
 import hero from "../data/site/hero.json";
@@ -44,6 +45,7 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
     </button>
     <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
       <a href="#events">{navigation.eventsText}</a>
+      <a href="/calendar/">Calendar</a>
       <a href="#resources">{navigation.resourcesText}</a>
       <a href="/organizations/">{navigation.fieldLinksText}</a>
       <a href="/opportunities/">{navigation.opportunitiesText}</a>
@@ -88,6 +90,7 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
         <h2 id="events-title">{events.title}</h2>
         <div>
           <p>{events.text}</p>
+          <a class="calendar-link" href="/calendar/">View event calendar →</a>
           {
             hasCalendarLink && (
               <a class="calendar-link" href={calendar.publicUrl} {...externalLinkAttrs}>
@@ -111,6 +114,7 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
         )
       }
 
+      <CalendarHelp />
       <div class="event-strip" aria-label="Featured events">
         {
           events.items.map((event) => {

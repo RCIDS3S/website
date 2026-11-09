@@ -1,0 +1,132 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CalendarHelp from '../components/CalendarHelp.astro';
+import identity from '../data/site/identity.json';
+import events from '../data/events.json';
+import { hasCalendarDownload } from '../lib/event-calendar.mjs';
+import { easternDateKey } from '../lib/calendar-month.mjs';
+const scheduled = events.items.filter(hasCalendarDownload).sort((a,b) => Date.parse(a.datetime)-Date.parse(b.datetime));
+---
+<BaseLayout title={`Event calendar | ${identity.title}`} description="Browse S3S and RCID events by month and save an event to your own calendar.">
+  <a class="skip-link" href="#calendar-main">Skip to calendar</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label={`${identity.title} home`}>
+      <img src="/assets/images/third-sophistic.png" alt="" width="48" height="48" />
+      <span><strong>{identity.title}</strong><small>{identity.subtitle}</small></span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span></button>
+    <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
+      <a href="/">Home</a><a href="/calendar/" aria-current="page">Calendar</a><a href="/#resources">Resources</a><a href="/opportunities/">Radar</a><a href="/#contact">Contact</a>
+    </nav>
+  </header>
+  <main id="calendar-main" class="calendar-page">
+    <div class="calendar-intro">
+      <p class="eyebrow">S3S / CLEMSON RCID</p>
+      <h1>Event calendar.</h1>
+      <p class="dek">Make room for what’s next. Browse confirmed events, explore the details, and save a date to your own calendar.</p>
+      <p>All times shown here are Eastern Time. More events will appear as details are confirmed.</p>
+    </div>
+    <CalendarHelp />
+    <section id="month-view" aria-label="Monthly calendar" hidden>
+      <div class="month-toolbar">
+        <h2 id="month-title" aria-live="polite" aria-atomic="true"></h2>
+        <div class="month-controls">
+          <button id="previous-month" type="button" aria-label="Previous month">←</button>
+          <button id="current-month" type="button">Today</button>
+          <button id="next-month" type="button" aria-label="Next month">→</button>
+          <label>Jump to month <input id="month-picker" type="month" min="1900-01" max="2100-12" /></label>
+        </div>
+      </div>
+      <p class="calendar-hint">Select an event in the calendar to see its details below.</p>
+      <table class="month-table" aria-labelledby="month-title">
+        <thead><tr>{['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'].map((day) => <th scope="col"><abbr title={day}>{day.slice(0,3)}</abbr></th>)}</tr></thead>
+        <tbody id="month-days"></tbody>
+      </table>
+    </section>
+    <section class="calendar-agenda" aria-labelledby="agenda-title">
+      <h2 id="agenda-title">Scheduled events</h2>
+      <p id="month-count" role="status" aria-live="polite"></p>
+      <p id="month-empty" hidden>No confirmed events for this month yet. Try another month or check back soon.</p>
+      <noscript><p>The month view needs JavaScript. All confirmed events and calendar downloads are listed below.</p></noscript>
+      <div class="calendar-agenda-list">
+        {scheduled.map((event) => <article class="calendar-agenda-card" id={event.calendarId} data-day={easternDateKey(event.datetime)} data-start={event.datetime} data-title={event.title}>
+          <time datetime={event.datetime}>{event.date}</time>
+          <h3 tabindex="-1">{event.title}</h3>
+          <p>{event.description}</p>
+          <p class="calendar-location">{event.location || event.status}</p>
+          <div class="event-calendar-actions">
+            <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>Add to calendar</a>
+            {event.url && <a href={event.url} target="_blank" rel="noreferrer">Event details ↗</a>}
+          </div>
+        </article>)}
+      </div>
+    </section>
+    <p class="calendar-footer"><a href="https://events.clemson.edu/all/categories/Academic%20Calendar" target="_blank" rel="noreferrer">Clemson academic calendar ↗</a> · <a href="/#events">Back to event cards</a></p>
+  </main>
+</BaseLayout>
+<script>
+  import { easternDateKey, monthCells, CALENDAR_TIME_ZONE } from '../lib/calendar-month.mjs';
+  const cards = Array.from(document.querySelectorAll<HTMLElement>('.calendar-agenda-card'));
+  const today = easternDateKey(new Date());
+  const picker = document.querySelector<HTMLInputElement>('#month-picker')!;
+  const previous = document.querySelector<HTMLButtonElement>('#previous-month')!;
+  const next = document.querySelector<HTMLButtonElement>('#next-month')!;
+  let selected = today.slice(0,7);
+  const linked = cards.find((card) => '#'+card.id === window.location.hash);
+  if (linked) selected = linked.dataset.day!.slice(0,7);
+  const timeFormat = new Intl.DateTimeFormat('en-US',{timeZone:CALENDAR_TIME_ZONE,hour:'numeric',minute:'2-digit'});
+  function renderMonth() {
+    const [year, monthNumber] = selected.split('-').map(Number);
+    const label = new Intl.DateTimeFormat('en-US',{timeZone:'UTC',month:'long',year:'numeric'}).format(new Date(Date.UTC(year,monthNumber-1,1)));
+    document.querySelector('#month-title')!.textContent = label;
+    document.querySelector('#agenda-title')!.textContent = `Events in ${label}`;
+    picker.value = selected;
+    previous.disabled = selected === '1900-01';
+    next.disabled = selected === '2100-12';
+    const visible = cards.filter((card) => card.dataset.day!.startsWith(selected));
+    cards.forEach((card) => { card.hidden = !visible.includes(card); });
+    document.querySelector('#month-count')!.textContent = `${visible.length} confirmed ${visible.length === 1 ? 'event' : 'events'}`;
+    (document.querySelector('#month-empty') as HTMLElement).hidden = visible.length > 0;
+    const body = document.querySelector('#month-days')!;
+    body.replaceChildren();
+    let row: HTMLTableRowElement;
+    monthCells(year,monthNumber-1).forEach((day: string | null,index: number) => {
+      if (index % 7 === 0) { row = document.createElement('tr'); body.append(row); }
+      const cell = document.createElement('td');
+      row.append(cell);
+      if (!day) { cell.className = 'empty-day'; return; }
+      const date = document.createElement('time');
+      date.dateTime = day;
+      date.textContent = String(Number(day.slice(-2)));
+      date.className = 'day-number';
+      if (day === today) { date.setAttribute('aria-current','date'); cell.classList.add('is-today'); }
+      cell.append(date);
+      const matches = visible.filter((card) => card.dataset.day === day);
+      if (matches.length) cell.classList.add('has-events');
+      matches.forEach((card) => {
+        const link = document.createElement('a');
+        link.href = '#'+card.id;
+        link.className = 'month-event';
+        const time = timeFormat.format(new Date(card.dataset.start!));
+        link.setAttribute('aria-label',`${day}: ${card.dataset.title}, ${time} Eastern Time`);
+        const title = document.createElement('span'); title.className = 'month-event-title'; title.textContent = `${time} · ${card.dataset.title}`;
+        const dot = document.createElement('span'); dot.className = 'month-event-dot'; dot.textContent = '●'; dot.setAttribute('aria-hidden','true');
+        link.append(title,dot);
+        link.addEventListener('click',() => { card.querySelector('h3')!.focus({preventScroll:true}); });
+        cell.append(link);
+      });
+    });
+  }
+  function moveMonth(offset: number) {
+    const [year,month] = selected.split('-').map(Number);
+    const date = new Date(Date.UTC(year,month-1+offset,1));
+    selected = date.toISOString().slice(0,7);
+    renderMonth();
+  }
+  previous.addEventListener('click',()=>moveMonth(-1));
+  next.addEventListener('click',()=>moveMonth(1));
+  document.querySelector('#current-month')!.addEventListener('click',()=> { selected=easternDateKey(new Date()).slice(0,7); renderMonth(); });
+  picker.addEventListener('change',()=> { if (/^\d{4}-(0[1-9]|1[0-2])$/.test(picker.value) && picker.value >= '1900-01' && picker.value <= '2100-12') { selected=picker.value; renderMonth(); } });
+  renderMonth();
+  document.querySelector<HTMLElement>('#month-view')!.hidden = false;
+</script>
