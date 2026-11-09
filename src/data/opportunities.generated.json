@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,27 +8,11 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 26
-    },
-    {
-      "source": "CFPList: Digital Humanities",
-      "count": 25
-    },
-    {
-      "source": "CFPList: Rhetoric & Composition",
-      "count": 20
-    },
-    {
-      "source": "CFPList: Graduate Conferences",
-      "count": 16
-    },
-    {
-      "source": "CFPList: Film, TV & Media",
-      "count": 15
+      "count": 27
     },
     {
       "source": "CFPList: Pedagogy",
-      "count": 14
+      "count": 16
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -37,6 +21,14 @@
     {
       "source": "UPenn CFP: Rhetoric and Composition",
       "count": 11
+    },
+    {
+      "source": "UPenn CFP: Graduate Conferences",
+      "count": 9
+    },
+    {
+      "source": "CFPList: Film, TV & Media",
+      "count": 9
     },
     {
       "source": "ACLS Competitions and Deadlines",
@@ -59,7 +51,7 @@
       "count": 7
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
+      "source": "UPenn CFP: Theatre and Performance Studies",
       "count": 7
     },
     {
@@ -67,15 +59,23 @@
       "count": 6
     },
     {
-      "source": "CFPList: Technical Communication Search",
-      "count": 4
+      "source": "CFPList: Philosophy",
+      "count": 6
     },
     {
-      "source": "UPenn CFP: Science and Culture",
-      "count": 4
+      "source": "CFPList: Technical Communication Search",
+      "count": 5
     },
     {
       "source": "UPenn CFP: Modernist Studies",
+      "count": 5
+    },
+    {
+      "source": "UPenn CFP: Science and Culture",
+      "count": 5
+    },
+    {
+      "source": "CFPList",
       "count": 4
     },
     {
@@ -87,11 +87,11 @@
       "count": 3
     },
     {
-      "source": "UPenn CFP: Theatre and Performance Studies",
+      "source": "UPenn CFP: Ethnicity and National Identity",
       "count": 3
     },
     {
-      "source": "UPenn CFP: Ethnicity and National Identity",
+      "source": "CFPList: Graduate Conferences",
       "count": 3
     },
     {
@@ -107,6 +107,10 @@
       "count": 2
     },
     {
+      "source": "UPenn CFP: Online Conferences",
+      "count": 2
+    },
+    {
       "source": "UPenn CFP: Awards",
       "count": 2
     },
@@ -115,23 +119,15 @@
       "count": 2
     },
     {
-      "source": "CFPList",
-      "count": 2
-    },
-    {
       "source": "UPenn CFP: Interdisciplinary",
       "count": 2
     },
     {
-      "source": "UPenn CFP: Online Conferences",
-      "count": 1
+      "source": "CFPList: Rhetoric & Composition",
+      "count": 2
     },
     {
       "source": "UPenn CFP: Pedagogy",
-      "count": 1
-    },
-    {
-      "source": "CFPList: Philosophy",
       "count": 1
     },
     {
@@ -145,88 +141,13 @@
   ],
   "items": [
     {
-      "title": "Proposed Volume: Teaching without GenAI in the Age of AI",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50170",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-01-31",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "high",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 70,
-      "fields": [
-        "Rhetoric",
-        "AI",
-        "Digital Humanities / Design",
-        "Pedagogy",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Since the widespread emergence of Generative AI a few years ago, educators across disciplines have been reconsidering how technology shapes teaching, learning, writing, and assessment. While some departments and faculty have leaned into these new Large Language Models and the",
-      "fullDescription": "Since the widespread emergence of Generative AI a few years ago, educators across disciplines have been reconsidering how technology shapes teaching, learning, writing, and assessment. While some departments and faculty have leaned into these new Large Language Models and the",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, AI, Digital Humanities / Design, Pedagogy, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Creating the Conditions: Empowering Communities in Writing and General Education",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/49606",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Rhetoric",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "How do writing and general education programs create conditions for communities that empower themselves-sustaining, growing, and often exceeding their original design? This panel invites papers that examine collaborative relationships among students, near-peers, tutors,",
-      "fullDescription": "How do writing and general education programs create conditions for communities that empower themselves-sustaining, growing, and often exceeding their original design? This panel invites papers that examine collaborative relationships among students, near-peers, tutors,",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Popular Culture Association (PCA): Health, Humanities, and Popular Culture 2027 Conference, Boston, USA, March 24-27 2027 CFP",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50511",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-24",
-      "location": "Boston · PCA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Digital Humanities / Design",
-        "Funding"
-      ],
-      "excerpt": "Popular Culture Association (PCA): Health, Humanities, and Popular Culture 2027 Conference, Boston, USA, March 24-27 2027 CFP DEADLINE FOR ABSTRACTS 31ST OCTOBER 2026 Travel Grant Applications due 15th November",
-      "fullDescription": "Popular Culture Association (PCA): Health, Humanities, and Popular Culture 2027 Conference, Boston, USA, March 24-27 2027 CFP DEADLINE FOR ABSTRACTS 31ST OCTOBER 2026 Travel Grant Applications due 15th November",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Funding.",
-      "publish": true
-    },
-    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
+      "deadline": "2026-11-09",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -244,531 +165,13 @@
       "publish": true
     },
     {
-      "title": "Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities (NeMLA)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50245",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI · 58th NeMLA Convention",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Digital Humanities / Design",
-        "Theory"
-      ],
-      "excerpt": "Call for Papers NeMLA 2027 Annual Convention Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities What makes a text fantastic? While traditional definitions often emphasize the supernatural or the uncanny, many literary works generate",
-      "fullDescription": "Call for Papers NeMLA 2027 Annual Convention Rethinking the Fantastic: Impossibility, Ontology, and Alternative Realities What makes a text fantastic? While traditional definitions often emphasize the supernatural or the uncanny, many literary works generate",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory.",
-      "publish": true
-    },
-    {
-      "title": "National Conference of the Popular and American Culture Conference -Music Area",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50516",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-24",
-      "location": "Boston, MA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Rhetoric",
-        "Art / Media Practice",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "The Music Area in the Popular Culture Association invites submissions from individuals or organized panels (3 or preferably 4 persons) focusing on any topic relating to any genre of music. Topics can include but are not limited to individual artists, albums, CDs, genres, scene",
-      "fullDescription": "The Music Area in the Popular Culture Association invites submissions from individuals or organized panels (3 or preferably 4 persons) focusing on any topic relating to any genre of music. Topics can include but are not limited to individual artists, albums, CDs, genres, scene",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Call for Papers: Post45 Graduate Symposium 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50363",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-04",
-      "location": "New York · Columbia",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Rhetoric",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Papers: Post45 Graduate Symposium 2027 The Department of English and Comparative Literature at Columbia University is thrilled to host the 12th annual Post45 Graduate Symposium on March 4-6, 2027. The Post4",
-      "fullDescription": "Call for Papers: Post45 Graduate Symposium 2027 The Department of English and Comparative Literature at Columbia University is thrilled to host the 12th annual Post45 Graduate Symposium on March 4-6, 2027. The Post4",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Red Reading the Modern Novel",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50364",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-05-13",
-      "location": "Vancouver, BC · Society for Novel Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy"
-      ],
-      "excerpt": "CFP: Red Reading the Modern Novel Society for Novel Studies (Vancouver, BC; 13-16 May 2027) The organizer seeks papers that apply Red Reading to twentieth- and twenty-first century novels. The literary canon has been expanded brilliantly in the last few decades, a",
-      "fullDescription": "CFP: Red Reading the Modern Novel Society for Novel Studies (Vancouver, BC; 13-16 May 2027) The organizer seeks papers that apply Red Reading to twentieth- and twenty-first century novels. The literary canon has been expanded brilliantly in the last few decades, a",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Penn Graduate Conference in Jewish Studies: Jewish Life between Locality and Mobility",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50312",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-02-28",
-      "location": "University of Pennsylvania (Philadelphia) · Penn Graduate Jewish Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Interdisciplinary"
-      ],
-      "excerpt": "Jewish Life between Locality and Mobility Penn Graduate Conference in Jewish Studies, February 28—March 1, 2027 Throughout many periods of their histories, Jews and Jewish communities have developed an ambi",
-      "fullDescription": "Jewish Life between Locality and Mobility Penn Graduate Conference in Jewish Studies, February 28—March 1, 2027 Throughout many periods of their histories, Jews and Jewish communities have developed an ambi",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Confronting the Ethics of Artificial Intelligence",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50490",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-04-29",
-      "location": "Scranton, PA, USA · University of Scranton",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "AI",
-        "Pedagogy",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Conference Themes We invite submissions that engage with the ethics of artificial intelligence in both specific and general applications. Topics may include, but are not limited to: Arts & Humanities: AI in creativity, authorship, performance, and cultural ide",
-      "fullDescription": "Conference Themes We invite submissions that engage with the ethics of artificial intelligence in both specific and general applications. Topics may include, but are not limited to: Arts & Humanities: AI in creativity, authorship, performance, and cultural ide",
-      "relevance": "Automatically surfaced as a likely RCID fit across AI, Pedagogy, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Fairytale Area Popular Culture Association Annual Meeting",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50507",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-24",
-      "location": "Boston, MA · PCA/ACA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "Call for Papers (submission deadline October 31, 2026) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24—27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for indiv",
-      "fullDescription": "Call for Papers (submission deadline October 31, 2026) Fairy Tales Area, American Popular Culture Association Annual Conference, 2027 Boston, MA, March 24—27, 2027 The Fairy Tales Area of the Popular Culture Association invites proposals for indiv",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "Material, Metaphor and Modernity: Ruskin and Architecture",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/49758",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-03",
-      "location": "Ghent, Belgium · Department Architecture and Urban Planning Ghent University, The Ruskin, Lancaster University, etc.",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "We are pleased to share the Call for Papers for the upcoming Symposium, Material, Metaphor and Modernity: Ruskin and Architecture. Symposium 3-5 March 2027 Boekentoren, Universiteit Gent Library Submission of abstract via email to the-r",
-      "fullDescription": "We are pleased to share the Call for Papers for the upcoming Symposium, Material, Metaphor and Modernity: Ruskin and Architecture. Symposium 3-5 March 2027 Boekentoren, Universiteit Gent Library Submission of abstract via email to the-r",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "\"Frozen\" Cold War Narrative",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50314",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design",
-        "Interdisciplinary"
-      ],
-      "excerpt": "In Asian context, the Cold War has not ended but became an ongoing structural condition that determines the social, political, and economic dimensions of everyday lives. The unresolved nature of the war has also left traces on a personal level, expressing through one's body, p",
-      "fullDescription": "In Asian context, the Cold War has not ended but became an ongoing structural condition that determines the social, political, and economic dimensions of everyday lives. The unresolved nature of the war has also left traces on a personal level, expressing through one's body, p",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Decolonization, Digital Sphere, and Empowered Communities",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49650",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Rhode Island · Salve Regina University in Newport,",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "The digital infrastructure in today's world mirrors the colonial administrative structure with its control over data, policing user's behavior, and pushing narratives for the majoritarian political power. The global tech giants have as much sway in geopolitics as t",
-      "fullDescription": "The digital infrastructure in today's world mirrors the colonial administrative structure with its control over data, policing user's behavior, and pushing narratives for the majoritarian political power. The global tech giants have as much sway in geopolitics as t",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Déplacements dans les réseaux transcoloniaux : l'Asie, l’Afrique et l’Europe reliés",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49365",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "· Northeast Modern Language Association (NeMLA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Pendant la période de l'Indochine française, les premiers vietnamiens sont acheminés en Nouvelle-Calédonie en tant que travailleurs sous-contrat dans les mines de nickel. Cette période marque en parall&egrave;le la rébellion tr&e",
-      "fullDescription": "Pendant la période de l'Indochine française, les premiers vietnamiens sont acheminés en Nouvelle-Calédonie en tant que travailleurs sous-contrat dans les mines de nickel. Cette période marque en parall&egrave;le la rébellion tr&e",
-      "relevance": "Automatically surfaced as a likely RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "Taylor Swift & Swiftie Studies - SWPACA 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50036",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-02-17",
-      "location": "Albuquerque, New Mexico · Southwest Popular/American Culture Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "Call for Papers Taylor Swift & Swiftie Studies Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://swpaca.org Pro",
-      "fullDescription": "Call for Papers Taylor Swift & Swiftie Studies Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://swpaca.org Pro",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "Thinking in Images: Visualization, Imagination, and Empathy in Reading",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50022",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-05-20",
-      "location": "Houston, Texas",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Visualization and imagination have long been recognized as vital to the act of reading. While Russian Formalist Viktor Shklovsky may have denounced the maxim \"Art is thinking in images\" in his seminal essay \"Art as Device\" (1917), in favor of strategies of defamiliarization, m",
-      "fullDescription": "Visualization and imagination have long been recognized as vital to the act of reading. While Russian Formalist Viktor Shklovsky may have denounced the maxim \"Art is thinking in images\" in his seminal essay \"Art as Device\" (1917), in favor of strategies of defamiliarization, m",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Across Borders, Across Texts: Echoes, Revision, and Rewritings in Black Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/49814",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-05-20",
-      "location": "University of Houston, Houston, Texas. · American Comparative Literature Association (ACLA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "In the introduction to the Fourth Edition of The Norton Anthology of African American Literature, Henry Louis Gates Jr. and Valerie Smith emphasize the imitativeness of literature-Black literature, specifically. To them, literature begets newer literature. At the same ti",
-      "fullDescription": "In the introduction to the Fourth Edition of The Norton Anthology of African American Literature, Henry Louis Gates Jr. and Valerie Smith emphasize the imitativeness of literature-Black literature, specifically. To them, literature begets newer literature. At the same ti",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "National Advanced Writing Symposium",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/49712",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-01-29",
-      "location": "Online · University of Southern California Writing Program",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "2027 National Advanced Writing Symposium \"Evolving Possibilities: Futures of Advanced Writing FREE & ONLINE, Hosted by the University of Southern California Event Date: Friday, January 29",
-      "fullDescription": "2027 National Advanced Writing Symposium \"Evolving Possibilities: Futures of Advanced Writing FREE & ONLINE, Hosted by the University of Southern California Event Date: Friday, January 29",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "“The Real “Tethered”: A Critical Analysis of Double Consciousness, People, and Society”",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/49573",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Newport, Rhode Island · Northeast Modern Language Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "Jordan Peele's Us is a critically acclaimed horror original about government-manufactured clones that are forced to mimic the lives of the people who live on the surface like stringless puppets. While Peele focuses more on a physical tethering, there is a",
-      "fullDescription": "Jordan Peele's Us is a critically acclaimed horror original about government-manufactured clones that are forced to mimic the lives of the people who live on the surface like stringless puppets. While Peele focuses more on a physical tethering, there is a",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "Embracing Inconvenience, Writing Resistance",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/49501",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "virtual · Modern Language Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "In the United States, our lives are marked by an abundance of convenience. From fresh produce year-round to two-day shipping, convenient choices feel soft, easy, and frictionless, as they have specifically been engineered to feel. Until relatively recently, it has been possibl",
-      "fullDescription": "In the United States, our lives are marked by an abundance of convenience. From fresh produce year-round to two-day shipping, convenient choices feel soft, easy, and frictionless, as they have specifically been engineered to feel. Until relatively recently, it has been possibl",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": true
-    },
-    {
-      "title": "It Takes a Village: Building Communities of Learning in Times of Collapse",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50229",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-04",
-      "location": "Newport, RI · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Pedagogy",
-        "Art / Media Practice"
-      ],
-      "excerpt": "This panel invites participants to enlarge on the theoretical, scholarly, and humanistic aspects of community building. Beginning with the idea that the humanities are about nurturing community when so much in our world seeks to drive us apart, we will consider such life-givin",
-      "fullDescription": "This panel invites participants to enlarge on the theoretical, scholarly, and humanistic aspects of community building. Beginning with the idea that the humanities are about nurturing community when so much in our world seeks to drive us apart, we will consider such life-givin",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Call for Papers: Children’s and Young Adult Literature at CEA 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50202",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, Missouri · College English Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Pedagogy",
-        "Technical Communication"
-      ],
-      "excerpt": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
-      "fullDescription": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "IX International Congress of Fantastic Genre, Audiovisuals and New Technologies",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49496",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2026-11-17",
-      "location": "Elche, Spain · Elche International Fantastic Film Festival – FANTAELX",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "The IX edition of the Congress will take place on 17, 18, 19 and 20 November 2026 . Sessions on 17 and 18 November will be held online, while sessions on 19 and 20 November will take place in person at the Auditorium of the Congress Centre \"Ciutat d'Elx\" (Elche",
-      "fullDescription": "The IX edition of the Congress will take place on 17, 18, 19 and 20 November 2026 . Sessions on 17 and 18 November will be held online, while sessions on 19 and 20 November will take place in person at the Auditorium of the Congress Centre \"Ciutat d'Elx\" (Elche",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "Tracing Female Body, Art & Economy in the Global South",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49396",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Salve Regina University, Newport, Rhode Island · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Papers NeMLA's 58th Annual Convention — \"Empowering Communities March 6—9, 2027 | Salve Regina University, Newport, Rhode Island (Hybrid Conference) Panel Title",
-      "fullDescription": "Call for Papers NeMLA's 58th Annual Convention — \"Empowering Communities March 6—9, 2027 | Salve Regina University, Newport, Rhode Island (Hybrid Conference) Panel Title",
-      "relevance": "Automatically surfaced as a possible RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Narrating the Self Today: Contemporary Directions in Biography, Memoir, and Life Writing",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/48930",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2026-11-12",
-      "location": "Seattle, WA · PAMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays",
-      "fullDescription": "Abstract : This roundtable explores contemporary directions in life writing, biography, and memoir, with a particular interest in how we narrate the self amidst evolving issues of identity, culture, and power. We welcome both traditional scholarly essays",
-      "relevance": "Automatically surfaced as a possible RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
       "source": "CFPList",
       "sourceName": "CFPList: Technical Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
+      "deadline": "2026-11-09",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -785,13 +188,36 @@
       "publish": true
     },
     {
+      "title": "Call for Papers: Children’s and Young Adult Literature at CEA 2027",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50202",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-09",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, Missouri · College English Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
+      "fullDescription": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
       "title": "BIPOC & Asian American Literature (CEA 4/1-4/3/27)",
       "source": "CFPList",
       "sourceName": "CFPList: Technical Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
+      "deadline": "2026-11-09",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -814,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
+      "deadline": "2026-11-09",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -837,7 +263,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
+      "deadline": "2026-11-09",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -855,305 +281,6 @@
       "fullDescription": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
       "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric, Communication, Publication, Art / Media Practice.",
       "publish": true
-    },
-    {
-      "title": "Virtual Panel (NeMLA 2027) -- Supporting the Well-Being of Students and Instructors in a Transitional Time",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50169",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Virtual/Newport, RI · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 26,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "Northeast MLA 2027: March 6-9, 2027 Panel Title: Supporting the Well-Being of Students and Instructors in a Transitional Time Modality: Virtual Only: All presentations will be delivered via Zoom regardless of whether",
-      "fullDescription": "Northeast MLA 2027: March 6-9, 2027 Panel Title: Supporting the Well-Being of Students and Instructors in a Transitional Time Modality: Virtual Only: All presentations will be delivered via Zoom regardless of whether",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": false
-    },
-    {
-      "title": "Revisiting Closet Poets",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50108",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Salve Regina University, Newport, RI · Northeast Modern Language Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 26,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "Poetry is a perfect medium to explore all of the key issues planned for the 58th Annual NeMLA Convention. The focus of this year's convention is Empowering Communities,\" which is identified on the NeMLA website as evoking the \"process of transformation f",
-      "fullDescription": "Poetry is a perfect medium to explore all of the key issues planned for the 58th Annual NeMLA Convention. The focus of this year's convention is Empowering Communities,\" which is identified on the NeMLA website as evoking the \"process of transformation f",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": false
-    },
-    {
-      "title": "William S. Burroughs as a Problem, Not a Subject",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/49811",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-05-20",
-      "location": "Houston · ACLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 26,
-      "fields": [
-        "Rhetoric"
-      ],
-      "excerpt": "This seminar proposes to approach William S. Burroughs not simply as a subject of study, but as a problem. We invite provocative papers grounded in comparative methodologies and attentive to less-travelled texts, episodes, affiliations, and cultural encounters. Rather than ask",
-      "fullDescription": "This seminar proposes to approach William S. Burroughs not simply as a subject of study, but as a problem. We invite provocative papers grounded in comparative methodologies and attentive to less-travelled texts, episodes, affiliations, and cultural encounters. Rather than ask",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": false
-    },
-    {
-      "title": "28TH METU BRITISH NOVELISTS INTERNATIONAL CONFERENCE:",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49587",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2026-12-03",
-      "location": "Ankara, Türkiye · Middle East Technical University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 26,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Department of Foreign Language Education at Middle East Technical University is pleased to announce the call for the 28th British Novelists International Conference. This year's theme is Ali Smith and Her Work. The conference will be held on 3-4 December 2026 in Anka",
-      "fullDescription": "The Department of Foreign Language Education at Middle East Technical University is pleased to announce the call for the 28th British Novelists International Conference. This year's theme is Ali Smith and Her Work. The conference will be held on 3-4 December 2026 in Anka",
-      "relevance": "Automatically surfaced as a possible RCID fit across Art / Media Practice.",
-      "publish": false
-    },
-    {
-      "title": "Neurodivergent Studies at the Popular Culture Association 2027 Conference",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50576",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-24",
-      "location": "Boston · Popular Culture Association/American Culture Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 20,
-      "fields": [
-        "Pedagogy"
-      ],
-      "excerpt": "Neurodivergent Studies — Popular Culture Association 2027 \"Neurodivergent just means a brain that diverges. — Kassiane Asasumasu, Radical Neurodivergence Speaking Neurodivergent Studies at the PCA offers a chance for scholars to have co",
-      "fullDescription": "Neurodivergent Studies — Popular Culture Association 2027 \"Neurodivergent just means a brain that diverges. — Kassiane Asasumasu, Radical Neurodivergence Speaking Neurodivergent Studies at the PCA offers a chance for scholars to have co",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
-      "publish": false
-    },
-    {
-      "title": "Academic Freedom Now: Rights, Classrooms, and the Future of Democratic Knowledge",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50267",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Newport, Rhode Island · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Pedagogy"
-      ],
-      "excerpt": "This panel examines academic freedom not only as an individual right, but as a collective condition necessary for the production, circulation, and contestation of knowledge within democratic societies. In alignment with the theme of Empowering Communities, we consider how acad",
-      "fullDescription": "This panel examines academic freedom not only as an individual right, but as a collective condition necessary for the production, circulation, and contestation of knowledge within democratic societies. In alignment with the theme of Empowering Communities, we consider how acad",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
-      "publish": false
-    },
-    {
-      "title": "Responses to the Thomas Mann Centennial: Reflections on a Complicated Man",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50228",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-04",
-      "location": "Newport, RI · NeMLA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Pedagogy"
-      ],
-      "excerpt": "Thomas Mann, who would have been 100 in 2025, left readers a number of critical challenges. For one, the coded way in which Mann writes about his most dangerous subjects (homosexuality; knowledge of German guilt) still can fool by a credulous reader, meanwhile his essentializi",
-      "fullDescription": "Thomas Mann, who would have been 100 in 2025, left readers a number of critical challenges. For one, the coded way in which Mann writes about his most dangerous subjects (homosexuality; knowledge of German guilt) still can fool by a credulous reader, meanwhile his essentializi",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
-      "publish": false
-    },
-    {
-      "title": "Esotericism, Occultism, and Magic at Southwest Popular/American Culture Association, Feb 17-20, Albuquerque, New Mexico",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/50106",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-02-17",
-      "location": "Albuquerque, New Mexico, USA · Southwest Popular/American Culture Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Call for Papers ESOTERICISM, OCCULTISM, AND MAGIC Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://swpaca",
-      "fullDescription": "Call for Papers ESOTERICISM, OCCULTISM, AND MAGIC Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://swpaca",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "(ACLA CfP) South-South Literary Relations and the Remaking of World Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49888",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-05-20",
-      "location": "Houston, Texas · American Comparative Literature Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Please consider submitting to the ACLA seminar titled \"South-South Literary Relations and the Remaking of World Literature\" by September 21, 2026 . You can submit your abstracts here: https://www.acla.org/cfp/70fe7418-c14a-468d-be1d-809e878f2e00/submit-pap",
-      "fullDescription": "Please consider submitting to the ACLA seminar titled \"South-South Literary Relations and the Remaking of World Literature\" by September 21, 2026 . You can submit your abstracts here: https://www.acla.org/cfp/70fe7418-c14a-468d-be1d-809e878f2e00/submit-pap",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "BAAS Postgraduate Symposium at the V&A: Transatlantic Connections and the ‘Special Relationship[s]’",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49340",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2026-11-09",
-      "location": "V&A East Storehouse · British Association for American Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a",
-      "fullDescription": "Transatlantic Connections and the 'Special Relationship[s]': BAAS Postgraduate Symposium, 2026 V&A East Storehouse, London 9th November In 1946, Winston Churchill declared the need for a",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "Confound the Time",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/50132",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-02-06",
-      "location": "Virtual · Confound the Time",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Confound the Time welcomes papers that investigate the ways in which texts, objects, and images from the medieval and early modern periods re-envision and reconstruct the past or imagine and anticipate the future. We also welcome papers that explore the ways in which medieval",
-      "fullDescription": "Confound the Time welcomes papers that investigate the ways in which texts, objects, and images from the medieval and early modern periods re-envision and reconstruct the past or imagine and anticipate the future. We also welcome papers that explore the ways in which medieval",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "The Poverty of Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49447",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-05-20",
-      "location": "Houston · American Comparative Literature Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quig",
-      "fullDescription": "REMINDER: SEPTEMBER 22 SUBMISSION DEADLINE American Comparative Literature Association 2027 Annual Meeting University of Houston May 20-23 The Poverty of Literature Organizer: Gabriel Quig",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
-      "title": "Beyond Hegemony: Masculinities in World and Comparative Literature",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/49395",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-08",
-      "eventDate": "2027-03-06",
-      "location": "Newport, RI",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "This panel examines how literary and cultural texts from diverse global traditions imagine masculinity not merely as an individual identity but as a relational and communal practice. In an era marked by migration, political polarization, social fragmentation, environmental cri",
-      "fullDescription": "This panel examines how literary and cultural texts from diverse global traditions imagine masculinity not merely as an individual identity but as a relational and communal practice. In an era marked by migration, political polarization, social fragmentation, environmental cri",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
     },
     {
       "title": "Call for Papers: The Erotic Today",
@@ -1249,34 +376,9 @@
       "publish": true
     },
     {
-      "title": "TTT2027 Vienna: Call for Papers, Artist Talks and Artwork Presentations",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50716",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-11",
-      "eventDate": "2027-09-14",
-      "location": "University of Applied Arts Vienna (Angewandte), Austria",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice",
-        "Theory"
-      ],
-      "excerpt": "The Call for Proposals for the 7th Interdisciplinary Conference Taboo — Transgression — Transcendence in Art & Science (TTT2027 Vienna) is now open. Taking place from 14 to 17 September 2027 at the University of Applied Arts Vienna (Angewandte), Austria",
-      "fullDescription": "The Call for Proposals for the 7th Interdisciplinary Conference Taboo — Transgression — Transcendence in Art & Science (TTT2027 Vienna) is now open. Taking place from 14 to 17 September 2027 at the University of Applied Arts Vienna (Angewandte), Austria",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "CEA 2027 : COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE",
       "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
+      "sourceName": "CFPList: Technical Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
@@ -1289,38 +391,12 @@
       "publishMode": "auto",
       "score": 26,
       "fields": [
-        "Rhetoric",
         "Technical Communication"
       ],
       "excerpt": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference, the College English Association (",
       "fullDescription": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference, the College English Association (",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
       "publish": false
-    },
-    {
-      "title": "\"Press Start!\": An Online Video Game Music Symposium 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50588",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
-      "eventDate": "2027-03-12",
-      "location": "Denton, Texas · University of North Texas",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice",
-        "Theory"
-      ],
-      "excerpt": "The University of North Texas is pleased to announce a Call for Papers for \"Press Start!: A Video Game Music Symposium 2027. The conference will by hybrid, occurring online and in Denton, TX on March 12 — 13, 2027. We are accepting proposals for&nbsp",
-      "fullDescription": "The University of North Texas is pleased to announce a Call for Papers for \"Press Start!: A Video Game Music Symposium 2027. The conference will by hybrid, occurring online and in Denton, TX on March 12 — 13, 2027. We are accepting proposals for&nbsp",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Art / Media Practice.",
-      "publish": true
     },
     {
       "title": "Texts and Images. Dialogues, Tensions, Movements",
@@ -1366,30 +442,6 @@
       "excerpt": "DEADLINE EXTENDED! Call for Papers “Horror (Literary & Cinematic)” Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://www.southwestpca.org NEW Submission Deadline: November 14, 2026",
       "fullDescription": "DEADLINE EXTENDED! Call for Papers “Horror (Literary & Cinematic)” Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://www.southwestpca.org NEW Submission Deadline: November 14, 2026",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "DEADLINE EXTENDED! Esotericism, Occultism, and Magic at Southwest Popular/American Culture Association, Feb 17-20. Albuquerque, New Mexico",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50784",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-14",
-      "eventDate": "2027-02-17",
-      "location": "· Southwest Popular/American Culture Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "DEADLINE EXTENDED! Call for Papers ESOTERICISM, OCCULTISM, AND MAGIC Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Al",
-      "fullDescription": "DEADLINE EXTENDED! Call for Papers ESOTERICISM, OCCULTISM, AND MAGIC Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Al",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -1468,6 +520,29 @@
       "publish": true
     },
     {
+      "title": "Anurag Kashyap: Auteurship, Industry and Post-Liberalization Indian Cinema",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109321",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-15",
+      "eventDate": "",
+      "location": "St. Joseph's University, Bangalore",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "Anurag Kashyap, as an Indian film director, is to be identified as one who found himself in the crosshairs of transforming social-relations in post-liberalisation urban India and that of fast changing reception of Bollywood cinema in the wake of globalization. While Kashyap, incidentally, first tasted success in 1998, for the script to Ram Gopal Varma’s ‘...",
+      "fullDescription": "Anurag Kashyap, as an Indian film director, is to be identified as one who found himself in the crosshairs of transforming social-relations in post-liberalisation urban India and that of fast changing reception of Bollywood cinema in the wake of globalization. While Kashyap, incidentally, first tasted success in 1998, for the script to Ram Gopal Varma’s ‘Satya’, it has to be noted that the trajectory of his acknowledgement as an auteur-director has neither been consistent nor the most traditional in the strictest sense of reception. Therefore, productions, such as ‘Paanch’ (2000), ‘No Smoking’ (2007), or even for that matter ‘Gulaal’ (2009)",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "CFP for the Black Religion and Theology Unit Panels - 2027 American Academy of Religion-Western Region Conference",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Graduate Conferences",
@@ -1515,31 +590,6 @@
       "publish": true
     },
     {
-      "title": "EXTENDED DEADLINE: Travelling Cultural Heritage Circulation and Digital Afterlives",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50609",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-15",
-      "eventDate": "2026-12-10",
-      "location": "Sibiu · Lucian Blaga University of Sibiu",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Film / Media",
-        "Digital Humanities / Design",
-        "Theory"
-      ],
-      "excerpt": "Travelling Cultural Heritage Circulation and Digital Afterlives Call for Papers Cultural Heritage Lab International Conference 4th edition Lucian Blaga University of Sibiu, Romania December 10-11, 2026 Lucian Blaga University of Sibi",
-      "fullDescription": "Travelling Cultural Heritage Circulation and Digital Afterlives Call for Papers Cultural Heritage Lab International Conference 4th edition Lucian Blaga University of Sibiu, Romania December 10-11, 2026 Lucian Blaga University of Sibi",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "Living in Languages Journal: Call for Papers",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Translation Studies",
@@ -1547,7 +597,7 @@
       "type": "Journal CFP",
       "deadlineType": "Submission",
       "deadline": "2026-11-15",
-      "eventDate": "2027-01-15",
+      "eventDate": "",
       "location": "Living in Languages Journal",
       "status": "open",
       "priority": "medium",
@@ -1555,84 +605,11 @@
       "publishMode": "auto",
       "score": 42,
       "fields": [
-        "Publication",
-        "Film / Media",
-        "Theory"
+        "Publication"
       ],
       "excerpt": "Living in Languages Journal: Call for Papers traversing borders, disciplines, and media.",
       "fullDescription": "Living in Languages Journal: Call for Papers traversing borders, disciplines, and media.",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication.",
-      "publish": true
-    },
-    {
-      "title": "First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean i",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50057",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-15",
-      "eventDate": "2027-03-29",
-      "location": "Costa Rica, Alajuela, San Ramón · University of Costa Rica, CIDICER",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Rhetoric",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "The First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean in the Digital Age\" will be held on March 29—31, 2027, at the University of Costa Rica, Western Campus (Sede de Occide",
-      "fullDescription": "The First International Conference \"Genealogies of Healing: Nineteenth-Century Hispanic Culture and Dialogues with Asia, Latin America and the Caribbean in the Digital Age\" will be held on March 29—31, 2027, at the University of Costa Rica, Western Campus (Sede de Occide",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Consuming US Popular Culture | Virtual Conference + postgrad session",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50567",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-15",
-      "eventDate": "2026-11-27",
-      "location": "· PopMeC Association for US Popular Culture Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27—28 November 2026 POSTGRAD SESSION CALL: The conference will integrate a session dedicated to postgrad",
-      "fullDescription": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27—28 November 2026 POSTGRAD SESSION CALL: The conference will integrate a session dedicated to postgrad",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Heidelberg Center for American Studies Spring Academy",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50425",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-15",
-      "eventDate": "2027-04-05",
-      "location": "Heidelberg, Germany · Heidelberg Center for American Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Interdisciplinary"
-      ],
-      "excerpt": "Heidelberg Center for American Studies Annual Interdisciplinary Spring Academy Conference Heidelberg, Germany, April 5-9, 2027 Call for Papers The Heidelberg Center for America",
-      "fullDescription": "Heidelberg Center for American Studies Annual Interdisciplinary Spring Academy Conference Heidelberg, Germany, April 5-9, 2027 Call for Papers The Heidelberg Center for America",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -1681,6 +658,29 @@
       "excerpt": "Reading, Writing and Translating Early Modern Women’s Fiction: Imagined Communities Guest editors: Line Cottegnies (Sorbonne Université) and Sonia Villegas-López (University of Huelva)",
       "fullDescription": "Reading, Writing and Translating Early Modern Women’s Fiction: Imagined Communities Guest editors: Line Cottegnies (Sorbonne Université) and Sonia Villegas-López (University of Huelva)",
       "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
+      "publish": true
+    },
+    {
+      "title": "Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Modernist Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108727",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-15",
+      "eventDate": "",
+      "location": "Md. Rakibul Islam, Aligarh Muslim University Centre, Murshidabad & Md Jakir Hossain, Murshidabad Maharaja Krishnanath University, Berhampore, Murshidabad, West Bengal, India.",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Proposed Book Title Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature Editors: Md Rakibul Islam* & Md Jakir Hossain**",
+      "fullDescription": "Proposed Book Title Urban Palimpsests: Indian Cities, Identity, and Modernity in Anglophone Literature Editors: Md Rakibul Islam* & Md Jakir Hossain**",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -1859,7 +859,7 @@
     {
       "title": "Call for Chapters for an International Edited Volume On Graphic Narratives as Visual Archives: Memory, Cultural Interfaces, and Knowledge Traditions",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
+      "sourceName": "CFPList: Pedagogy",
       "sourceUrl": "https://www.cfplist.com/CFP/50704",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
@@ -1870,17 +870,15 @@
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 46,
+      "score": 42,
       "fields": [
         "Digital Humanities / Design",
         "Publication",
-        "Film / Media",
-        "Theory",
         "Pedagogy"
       ],
       "excerpt": "Call for Chapters for an International Edited Volume On Graphic Narratives as Visual Archives: Memory, Cultural Interfaces, and Knowledge Traditions Concept Note Graphic narratives have become active cultural forms in recent years, l",
       "fullDescription": "Call for Chapters for an International Edited Volume On Graphic Narratives as Visual Archives: Memory, Cultural Interfaces, and Knowledge Traditions Concept Note Graphic narratives have become active cultural forms in recent years, l",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design, Publication.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Publication.",
       "publish": true
     },
     {
@@ -1928,29 +926,6 @@
       "fullDescription": "When, in September 2026, a post declaring the actress Katrina Kaif \"finished\" following her return to public life after childbirth accumulated lakhs of views and comments, the disproportion between judgement and object became, itself, the more legible text. A comparable structure recurred that same year for the South Korean singer Jennie, whose performances at Mad Cool Festival and Lollapalooza Chicago drew, alongside widespread acclaim, a coordinated wave of \"netizen\" commentary deriding her \"leaner frame\" — two women, two national contexts, two entirely unrelated bodily \"failures\" (one insufficiently youthful, the other insufficiently substantial), and yet an identical infrastructure of mass, public, collectively affirmed judgement.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
       "publish": true
-    },
-    {
-      "title": "Destination Management and Mobility Justice for Sustainable Human and More-than-human Futures: Approaching Florence (and Destinations Beyond) in Motio",
-      "source": "CFPList",
-      "sourceName": "CFPList: Graduate Conferences",
-      "sourceUrl": "https://www.cfplist.com/CFP/50470",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
-      "eventDate": "2027-03-11",
-      "location": "Florence, Italy · Gonzaga in Florence",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018;",
-      "fullDescription": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018;",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
     },
     {
       "title": "Digital Humanities, Artificial Intelligence and the Global South: Infrastructures, Epistemologies and Stratifications - International Multi- and Inter",
@@ -2096,78 +1071,6 @@
       "excerpt": "A ALICE - Aliança Lus&oacute;fona para a Investigaç&atilde;o, Cooperaç&atilde;o e Educaç&atilde;o Digital tem o prazer de anunciar que se encontra aberta a Chamada de Artigos para a CIETIA'27 - 1.&ordf; Confer&ecirc;nc",
       "fullDescription": "A ALICE - Aliança Lus&oacute;fona para a Investigaç&atilde;o, Cooperaç&atilde;o e Educaç&atilde;o Digital tem o prazer de anunciar que se encontra aberta a Chamada de Artigos para a CIETIA'27 - 1.&ordf; Confer&ecirc;nc",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Literary Musings Online - 2584-1459 - Volume 4 Issue 2, December 2026",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50545",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-30",
-      "eventDate": "2027-11-30",
-      "location": "· Research Academy",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Publication"
-      ],
-      "excerpt": "Call for - Literary Musings Online - 2584-1459 - December 2026 Academic Journal Research Academy The primary aim of \"Literary Musings\" is to provide a platform for scholars, researchers, and professionals working in English studies to publish scholarly",
-      "fullDescription": "Call for - Literary Musings Online - 2584-1459 - December 2026 Academic Journal Research Academy The primary aim of \"Literary Musings\" is to provide a platform for scholars, researchers, and professionals working in English studies to publish scholarly",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Publication.",
-      "publish": true
-    },
-    {
-      "title": "Literary Gardens: Cultivation, Movement, and Modernism",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50431",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-30",
-      "eventDate": "2027-02-12",
-      "location": "Online · The Elizabeth von Arnimm Society",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Call for Papers: Literary Gardens: Cultivation, Movement, and Modernism An International Online Conference | February 12—13, 2027 | Online sponsored by The Elizabeth von Arnim Society in conversation with The Literary Garden: The Cultivation of Plan",
-      "fullDescription": "Call for Papers: Literary Gardens: Cultivation, Movement, and Modernism An International Online Conference | February 12—13, 2027 | Online sponsored by The Elizabeth von Arnim Society in conversation with The Literary Garden: The Cultivation of Plan",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Beyond Climate Crisis: Multidisciplinary Perspectives on Human-Environment Relationships in a Warming World",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50628",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-30",
-      "eventDate": "2027-11-30",
-      "location": "CFPList",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Publication",
-        "Theory"
-      ],
-      "excerpt": "Beyond Climate Crisis: Multidisciplinary Perspectives on Human-Environment Relationships in a Warming World Loreto College Journal of Humanities and Social Sciences, published by Loreto College (Autonomous), Kolkata The full paper should be emailed",
-      "fullDescription": "Beyond Climate Crisis: Multidisciplinary Perspectives on Human-Environment Relationships in a Warming World Loreto College Journal of Humanities and Social Sciences, published by Loreto College (Autonomous), Kolkata The full paper should be emailed",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
       "publish": true
     },
     {
@@ -2484,30 +1387,6 @@
       "publish": true
     },
     {
-      "title": "The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50480",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-01",
-      "eventDate": "2027-03-25",
-      "location": "Bloomington, Indiana, United States · Indiana University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CALL FOR PROPOSALS The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy March 25-27, Bloomington, IN, Indiana University Bloomington The first quarter of the twenty-first century has been organized, to a degree that bear",
-      "fullDescription": "CALL FOR PROPOSALS The Four Horsemen of the Bropocalypse: Power and Culture Under a Tech Oligarchy March 25-27, Bloomington, IN, Indiana University Bloomington The first quarter of the twenty-first century has been organized, to a degree that bear",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Mythology and the Environment: Science Fiction and Streaming Television",
       "source": "CFPList",
       "sourceName": "CFPList: Communication Studies Search",
@@ -2553,6 +1432,53 @@
       "excerpt": "Luce/ACLS Civic Education for Democratic Life Program (CEDLife) Grants is listed by ACLS under upcoming fellowship and grant deadlines.",
       "fullDescription": "Luce/ACLS Civic Education for Democratic Life Program (CEDLife) Grants is listed by ACLS under upcoming fellowship and grant deadlines.",
       "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
+      "publish": true
+    },
+    {
+      "title": "The Politics of Cute",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49158",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-01",
+      "eventDate": "2027-12-01",
+      "location": "· Public Humanities",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Publication"
+      ],
+      "excerpt": "Public Humanities is an international open-access, cross-disciplinary, peer-reviewed journal at the intersection of humanities scholarship and public life. The journal invites submissions for the upcoming issue The Politics of Cute, which will be guest edited by P",
+      "fullDescription": "Public Humanities is an international open-access, cross-disciplinary, peer-reviewed journal at the intersection of humanities scholarship and public life. The journal invites submissions for the upcoming issue The Politics of Cute, which will be guest edited by P",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
+      "publish": true
+    },
+    {
+      "title": "Girlboss and Puzzle-Boy: Gender in the Comic Detective TV Genre",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/49547",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-01",
+      "eventDate": "2027-12-01",
+      "location": "N/A",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "Working Title: Girlboss and Puzzle-Boy: Gender in the Comic Detective TV Genre Series: DeGruyter Brill book series, Pop Culture in Context, series editors Liz Faber, Emily Hamilton-Honey & Judith Rauscher! Editor: Dr. Marc A. Ouellette, Old Dominion Univers",
+      "fullDescription": "Working Title: Girlboss and Puzzle-Boy: Gender in the Comic Detective TV Genre Series: DeGruyter Brill book series, Pop Culture in Context, series editors Liz Faber, Emily Hamilton-Honey & Judith Rauscher! Editor: Dr. Marc A. Ouellette, Old Dominion Univers",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -2603,6 +1529,52 @@
       "publish": true
     },
     {
+      "title": "Forms of Shakespeare's Diplomacy, Seminar Papers, European Shakespeare Research Association",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50372",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-04",
+      "eventDate": "2027-07-27",
+      "location": "Bangor, Wales, UK · ESRA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "EUROPEAN SHAKESPEARE RESEARCH ASSOCIATION Congress, Shakespeare and Form: 'To set a form upon desired change' Bangor University, Wales, 27-30 July 2027 CALL FOR PAPERS : Seminar 9, Forms of Shakespeare's Diplomacy Convenors: Na",
+      "fullDescription": "EUROPEAN SHAKESPEARE RESEARCH ASSOCIATION Congress, Shakespeare and Form: 'To set a form upon desired change' Bangor University, Wales, 27-30 July 2027 CALL FOR PAPERS : Seminar 9, Forms of Shakespeare's Diplomacy Convenors: Na",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
+      "title": "“Do you not know I am a woman?” Women Embodying Shakespeare’s Male Characters",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109206",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-04",
+      "eventDate": "2027-07-27",
+      "location": "Natalia Khomenko/ European Shakespeare Research Association",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "“Do you not know I am a woman?” Women Embodying Shakespeare’s Male Characters This seminar is being organized for the European Shakespeare Research Association meeting in Bangor, Wales, July 27-30, 2027. This is a fully in-person conference. Further information about this conference can be found here: https://www.bangor.ac.uk/sah/the-european-shakespeare-...",
+      "fullDescription": "“Do you not know I am a woman?” Women Embodying Shakespeare’s Male Characters This seminar is being organized for the European Shakespeare Research Association meeting in Bangor, Wales, July 27-30, 2027. This is a fully in-person conference. Further information about this conference can be found here: https://www.bangor.ac.uk/sah/the-european-shakespeare-research-associati...",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "InPACT 2027 - International Psychological Applications Conference and Trends 2027",
       "source": "CFPList",
       "sourceName": "CFPList",
@@ -2626,30 +1598,6 @@
       "publish": false
     },
     {
-      "title": "Maintaining Sustainability through Literature, Ecology and Culture in the New Age",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50639",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-05",
-      "eventDate": "2027-02-26",
-      "location": "Roorkee, India · Department of Humanities and Social Sciences, Indian Institute of Technology Roorkee, India",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Two-day National Conference on Sustainability calls for a dialogue between Indigenous knowledge and contemporary cultural practices. Bringing Indian Knowledge Systems into critical dialogue with humanities academic discourse, this conference aims at exploring literary and cult",
-      "fullDescription": "Two-day National Conference on Sustainability calls for a dialogue between Indigenous knowledge and contemporary cultural practices. Bringing Indian Knowledge Systems into critical dialogue with humanities academic discourse, this conference aims at exploring literary and cult",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Indian Cultural Heritage: Perspectives",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Ethnicity and National Identity",
@@ -2671,6 +1619,29 @@
       "excerpt": "About the Book Indian Cultural Heritage: Perspectives is an edited volume that invites interdisciplinary scholarship on the diverse and dynamic dimensions of India's cultural heritage. The volume welcomes original contributions exploring tangible and intangible heritage, indigenous knowledge systems, languages, literature, folklore, performing arts, archi...",
       "fullDescription": "About the Book Indian Cultural Heritage: Perspectives is an edited volume that invites interdisciplinary scholarship on the diverse and dynamic dimensions of India's cultural heritage. The volume welcomes original contributions exploring tangible and intangible heritage, indigenous knowledge systems, languages, literature, folklore, performing arts, architecture, material culture, cultural memory, museums, heritage conservation, digital heritage, and contemporary issues of identity, sustainability, and cultural preservation. By bringing together diverse academic perspectives, the volume seeks to advance critical understanding of India's rich cultural traditions and their continuing significance in a rapidly changing world.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "\"Lost and Found\"-Univeristy of Maryland Graduate English Conference 2027 (creative writing)",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109301",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-06",
+      "eventDate": "2027-03-05",
+      "location": "University of Maryland Graduate English Organization",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 32,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Lost & Found The University of Maryland’s Graduate English Organization (GEO) invites submissions of creative work engaging with the theme of “Lost & Found” for our 20th annual graduate student conference, to be held in person on Friday, March 5, 2027, at the University of Maryland, College Park.",
+      "fullDescription": "Lost & Found The University of Maryland’s Graduate English Organization (GEO) invites submissions of creative work engaging with the theme of “Lost & Found” for our 20th annual graduate student conference, to be held in person on Friday, March 5, 2027, at the University of Maryland, College Park.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -2793,31 +1764,6 @@
       "publish": true
     },
     {
-      "title": "One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecra",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50407",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-10",
-      "eventDate": "2027-06-30",
-      "location": "N/A · N/A",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Chapters: One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft For thousands of years, embroidery and embroidered work",
-      "fullDescription": "Call for Chapters: One Stitch at a Time: Telling Stories, Archiving Histories, and Threading Narratives of Resistance and Rebellion through Embroidered Art and Needlecraft For thousands of years, embroidery and embroidered work",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "Imagining the Impossible Vol. 6: Immersion and Emergence in the Fantastic",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Fan Studies and Fandom",
@@ -2825,7 +1771,7 @@
       "type": "Journal CFP",
       "deadlineType": "Submission",
       "deadline": "2026-12-11",
-      "eventDate": "",
+      "eventDate": "2027-12-11",
       "location": "Imagining the Impossible: international journal for the fantastic in contemporary media",
       "status": "open",
       "priority": "high",
@@ -2839,6 +1785,29 @@
       "excerpt": "Immersion is a key concept in the fantastic. From the 3D worlds of Avatar to the in-depth lore of The Lord of the Rings, fantastic narratives thrive on the idea of immersing us in worlds so detailed that we feel as if we are really there. Fantastic worlds often come with their own detailed maps, histories, languages, and cultures, creating the illusion of...",
       "fullDescription": "Immersion is a key concept in the fantastic. From the 3D worlds of Avatar to the in-depth lore of The Lord of the Rings, fantastic narratives thrive on the idea of immersing us in worlds so detailed that we feel as if we are really there. Fantastic worlds often come with their own detailed maps, histories, languages, and cultures, creating the illusion of being a real place. Media industries invest heavily in producing technologies of immersion, such as 4D cinema or VR games. Immersion is one of Henry Jenkins’ “Seven Core Principles of Transmedia Storytelling”, while Mark J.P.",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Publication.",
+      "publish": true
+    },
+    {
+      "title": "Loss and Absence, 1100-1800",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109387",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-11",
+      "eventDate": "2027-03-04",
+      "location": "University of California - Santa Barbara (Early Modern Center)",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "The Early Modern Center at the University of California, Santa Barbara is excited to announce our annual conference, “Loss and Absence, 1100-1800,” to be held from March 4-6, 2027. The conference is open globally to faculty, graduate students, and independent scholars across a broad spectrum of disciplines working across the medieval period to the long ei...",
+      "fullDescription": "The Early Modern Center at the University of California, Santa Barbara is excited to announce our annual conference, “Loss and Absence, 1100-1800,” to be held from March 4-6, 2027. The conference is open globally to faculty, graduate students, and independent scholars across a broad spectrum of disciplines working across the medieval period to the long eighteenth century.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -2918,6 +1887,31 @@
       "publish": true
     },
     {
+      "title": "Performing the Past, Witnessing (for) the Future: Memory in the Posthumanist Era",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108170",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-15",
+      "eventDate": "",
+      "location": "Wilfrid Laurier University - Department of English and Film Studies, and Futures of Memory",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 58,
+      "fields": [
+        "Film / Media",
+        "Digital Humanities / Design",
+        "Art / Media Practice"
+      ],
+      "excerpt": "CFP for Futures of Memory Conference 2027 Performing the Past, Witnessing (for) the Future: Memory in the Posthumanist Era",
+      "fullDescription": "CFP for Futures of Memory Conference 2027 Performing the Past, Witnessing (for) the Future: Memory in the Posthumanist Era",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "CFP: TECHGNOSIS, Critical Themes 2027 (Graduate Student Conference)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theory",
@@ -2991,30 +1985,6 @@
       "publish": true
     },
     {
-      "title": "\"Creativity, Resistance and Social Change\" International Conference",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50625",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-15",
-      "eventDate": "2027-02-27",
-      "location": "London / Online · London Centre for Interdisciplinary Research",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "\"Creativity, Resistance and Social Change International Conference 27-28 February 2027 St Anne's College, University of Oxford & Online organised by London Centre for Interdisciplinary Research Across history and cultures, crea",
-      "fullDescription": "\"Creativity, Resistance and Social Change International Conference 27-28 February 2027 St Anne's College, University of Oxford & Online organised by London Centre for Interdisciplinary Research Across history and cultures, crea",
-      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
-      "publish": true
-    },
-    {
       "title": "Collections Stewardship",
       "source": "NEH",
       "sourceName": "National Endowment for the Humanities Grants",
@@ -3041,8 +2011,33 @@
     {
       "title": "Inclusive Diversity in European Education: From Policy Frameworks to Classroom Practices",
       "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
+      "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/50338",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-15",
+      "eventDate": "2027-12-15",
+      "location": "· Cogitatio Press",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 20,
+      "fields": [
+        "Theory",
+        "Pedagogy",
+        "Publication"
+      ],
+      "excerpt": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Inclusive Diversity in European Education: From Policy Frameworks to Classroom Practices,\" edited by Roberto Bael",
+      "fullDescription": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Inclusive Diversity in European Education: From Policy Frameworks to Classroom Practices,\" edited by Roberto Bael",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Pedagogy, Publication.",
+      "publish": false
+    },
+    {
+      "title": "Legal Perspectives on Balancing Life and Work in the 21st Century",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50185",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
       "deadline": "2026-12-15",
@@ -3054,12 +2049,12 @@
       "publishMode": "auto",
       "score": 16,
       "fields": [
-        "Pedagogy",
+        "Theory",
         "Publication"
       ],
-      "excerpt": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Inclusive Diversity in European Education: From Policy Frameworks to Classroom Practices,\" edited by Roberto Bael",
-      "fullDescription": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Inclusive Diversity in European Education: From Policy Frameworks to Classroom Practices,\" edited by Roberto Bael",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Publication.",
+      "excerpt": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Legal Perspectives on Balancing Life and Work in the 21st Century,\" edited by Melanie Hack (University of Bergen)",
+      "fullDescription": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Legal Perspectives on Balancing Life and Work in the 21st Century,\" edited by Melanie Hack (University of Bergen)",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
       "publish": false
     },
     {
@@ -3172,12 +2167,13 @@
       "priority": "high",
       "confidence": "high",
       "publishMode": "auto",
-      "score": 50,
+      "score": 54,
       "fields": [
         "Rhetoric",
         "AI",
         "Publication",
         "Digital Humanities / Design",
+        "Film / Media",
         "Pedagogy"
       ],
       "excerpt": "Call for Proposals Audiovisual Creation in the Age of AI Special Issue for 2027",
@@ -3202,8 +2198,6 @@
       "score": 50,
       "fields": [
         "Digital Humanities / Design",
-        "Film / Media",
-        "Theory",
         "Pedagogy"
       ],
       "excerpt": "Call for Abstracts DH 2.0: Transdisciplinary Conversations on Digital Humanities A Hybrid International Conference organized by AIESR, Amity University, Noida Pre-Conference Workshops on 02 March 2027 Conference on 03-05 March 2027 (Online and In-Person)",
@@ -3426,28 +2420,28 @@
       "publish": true
     },
     {
-      "title": "Eastern Thought in the Americas — Review of International American Studies, Vol. 21, Fall-Winter (1/2028)",
+      "title": "Call for Papers — H2D: Digital Humanities Journal — Volume 8 (Continuous Publication)",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50743",
-      "type": "CFP",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/47945",
+      "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
       "deadline": "2026-12-30",
-      "eventDate": "2027-12-30",
-      "location": "· Review of International American Studies",
+      "eventDate": "2026-12-31",
+      "location": "CFPList",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 34,
+      "score": 42,
       "fields": [
         "Digital Humanities / Design",
-        "Film / Media",
-        "Theory"
+        "Pedagogy",
+        "Publication"
       ],
-      "excerpt": "Eastern Thought in the Americas Edited by Anjali Singh and Anita Patterson Staff Editors: Gabriela Vargas Cetina and Pawe? J?drzejko RIAS Vol. 21, Fall-Winter (1/2028) (Call open until December 30th, 2026) Eastern philosophies, such as Hinduism",
-      "fullDescription": "Eastern Thought in the Americas Edited by Anjali Singh and Anita Patterson Staff Editors: Gabriela Vargas Cetina and Pawe? J?drzejko RIAS Vol. 21, Fall-Winter (1/2028) (Call open until December 30th, 2026) Eastern philosophies, such as Hinduism",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
+      "excerpt": "H2D — Digital Humanities Journal is an interdisciplinary Diamond Open Access publication dedicated to advancing research and dialogue in Digital Humanities. As the digital era transforms how we study, interpret, and engage with the humanities, H2D provides a platform for",
+      "fullDescription": "H2D — Digital Humanities Journal is an interdisciplinary Diamond Open Access publication dedicated to advancing research and dialogue in Digital Humanities. As the digital era transforms how we study, interpret, and engage with the humanities, H2D provides a platform for",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Publication.",
       "publish": true
     },
     {
@@ -3594,6 +2588,33 @@
       "publish": true
     },
     {
+      "title": "Call for Papers: Curatone Art & Research Journal — Vol. 1, Issue 2 (2026)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/47440",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-12-31",
+      "location": "· Curatone.art",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Film / Media",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice",
+        "Pedagogy"
+      ],
+      "excerpt": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
+      "fullDescription": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Call for Articles: Special Issue on William Faulkner",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Modernist Studies",
@@ -3618,76 +2639,28 @@
       "publish": true
     },
     {
-      "title": "[Edited book] Handbook of National Revolutions. National Revolutions in the World: Theories, Practices, International Relations",
+      "title": "Acta Ludologica (Vol. 10, No. 1, 2027)",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50428",
-      "type": "CFP",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50061",
+      "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
       "deadline": "2026-12-31",
       "eventDate": "2027-12-31",
-      "location": "CFPList",
+      "location": "N/A · Acta Ludologica",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
       "score": 38,
       "fields": [
-        "Digital Humanities / Design"
+        "Digital Humanities / Design",
+        "Pedagogy",
+        "Publication"
       ],
-      "excerpt": "Beginning in the nineteenth century, the world witnessed the emergence of national movements that advocated the construction of states founded upon the historical and cultural identity of peoples, as well as upon their independence and strategic autonomy. This wave, which mani",
-      "fullDescription": "Beginning in the nineteenth century, the world witnessed the emergence of national movements that advocated the construction of states founded upon the historical and cultural identity of peoples, as well as upon their independence and strategic autonomy. This wave, which mani",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan–Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and C",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50705",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-31",
-      "eventDate": "2027-11-15",
-      "location": "N/A · Azerbaijan–Urdu Research Center, Government College University Lahore, Pakistan",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Publication",
-        "Film / Media",
-        "Theory",
-        "Pedagogy"
-      ],
-      "excerpt": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan—Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and Contemporary Perspectives Azerbaijan—Urdu Research Center, Government College Univer",
-      "fullDescription": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan—Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and Contemporary Perspectives Azerbaijan—Urdu Research Center, Government College Univer",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
-      "publish": true
-    },
-    {
-      "title": "NARRATING CARE: ECONOMIES OF EMBODIMENT, AFFECT, AND BELONGING",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50673",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-31",
-      "eventDate": "2027-01-20",
-      "location": "· Indian Institute of Technology (ISM) Dhanbad; National Institute of Technology Warangal, India",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "Care is both intimate and structural. It is experienced through bodies that tend, heal and depend on each other but it is also organized by markets, institutions and unequal distributions of labor and recognition. These economies exemplify how narratives can naturalize care as",
-      "fullDescription": "Care is both intimate and structural. It is experienced through bodies that tend, heal and depend on each other but it is also organized by markets, institutions and unequal distributions of labor and recognition. These economies exemplify how narratives can naturalize care as",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "excerpt": "Acta Ludologica (ISSN 2585-8599, e-ISSN 2585-9218) is a double-blind peer-reviewed scientific journal published twice a year in both online and print versions. It focuses on the comprehensive discourse of games and digital games, including theoretical and",
+      "fullDescription": "Acta Ludologica (ISSN 2585-8599, e-ISSN 2585-9218) is a double-blind peer-reviewed scientific journal published twice a year in both online and print versions. It focuses on the comprehensive discourse of games and digital games, including theoretical and",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Publication.",
       "publish": true
     },
     {
@@ -3712,6 +2685,29 @@
       "excerpt": "SOCIAL MOMENTS: A Student Journal of Social Relations is a free, online, interdisciplinary, peer-reviewed journal examining the social and cultural world through a social science lens. All graduate and undergraduate students of the social sciences are invited to submit article",
       "fullDescription": "SOCIAL MOMENTS: A Student Journal of Social Relations is a free, online, interdisciplinary, peer-reviewed journal examining the social and cultural world through a social science lens. All graduate and undergraduate students of the social sciences are invited to submit article",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "“Feel the Force”: The first 50 years of Star Wars",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/47628",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-05-04",
+      "location": "Online · PopCRN - The Popular Culture Research Network",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "\"Feel the Force: The first 50 years of Star Wars A PopCRN Conference Join us for a free virtual conference exploring the Star Wars universe and its enduring cultural impact to be held online from 4th-5th May 2027. From a su",
+      "fullDescription": "\"Feel the Force: The first 50 years of Star Wars A PopCRN Conference Join us for a free virtual conference exploring the Star Wars universe and its enduring cultural impact to be held online from 4th-5th May 2027. From a su",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -3761,6 +2757,29 @@
       "publish": true
     },
     {
+      "title": "Invitation to WG Meeting",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Online Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109460",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-31",
+      "eventDate": "",
+      "location": "Working Group on LGBTQ+ Life Writing",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "New Working Group on LGBTQ+ Life Writing",
+      "fullDescription": "New Working Group on LGBTQ+ Life Writing",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "International Journal of English Literature, Linguistics, and Social Sciences: A Multidisciplinary Journal",
       "source": "CFPList",
       "sourceName": "CFPList: Communication Studies Search",
@@ -3783,6 +2802,30 @@
       "excerpt": "The International Journal of English Literature, Social Sciences, and Multidisciplinary Studies (IJELS) publishes original research papers, review articles, and case studies that advance scholarly knowledge across English literature, social sciences, and multidisciplinary",
       "fullDescription": "The International Journal of English Literature, Social Sciences, and Multidisciplinary Studies (IJELS) publishes original research papers, review articles, and case studies that advance scholarly knowledge across English literature, social sciences, and multidisciplinary",
       "relevance": "Automatically surfaced as a possible RCID fit across Communication, Publication, Art / Media Practice.",
+      "publish": false
+    },
+    {
+      "title": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan–Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and C",
+      "source": "CFPList",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50705",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-11-15",
+      "location": "N/A · Azerbaijan–Urdu Research Center, Government College University Lahore, Pakistan",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 20,
+      "fields": [
+        "Publication",
+        "Pedagogy"
+      ],
+      "excerpt": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan—Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and Contemporary Perspectives Azerbaijan—Urdu Research Center, Government College Univer",
+      "fullDescription": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan—Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and Contemporary Perspectives Azerbaijan—Urdu Research Center, Government College Univer",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Publication.",
       "publish": false
     },
     {
@@ -3865,7 +2908,7 @@
       "type": "Journal CFP",
       "deadlineType": "Submission",
       "deadline": "2027-01-01",
-      "eventDate": "",
+      "eventDate": "2028-01-01",
       "location": "Public Humanities - Cambridge University Press",
       "status": "open",
       "priority": "medium",
@@ -3874,7 +2917,8 @@
       "score": 46,
       "fields": [
         "Publication",
-        "Art / Media Practice"
+        "Art / Media Practice",
+        "Theory"
       ],
       "excerpt": "How is everyone doing? At a routine meeting of the Editorial Board of this journal in March 2026, this innocuous question erupted into disquiet, tension, unease. Speaking from vastly different parts of the world, there was an unmistakable sense of a planet slipping beyond available comprehension and unplugging us from work and life routines. As wars in th...",
       "fullDescription": "How is everyone doing? At a routine meeting of the Editorial Board of this journal in March 2026, this innocuous question erupted into disquiet, tension, unease. Speaking from vastly different parts of the world, there was an unmistakable sense of a planet slipping beyond available comprehension and unplugging us from work and life routines. As wars in the Middle East expand and fires spread from apartment blocks reduced to rubble to bombed oil refineries and shipping corridors, profound geopolitical, personal, even psychic rifts leave us grasping for the language and feel of the moment, the falling apart of things, the zeitgeist of an endangered now.",
@@ -3907,7 +2951,7 @@
     {
       "title": "CFP: New Perspectives in Critical Ecolinguistics",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
+      "sourceName": "CFPList: Film, TV & Media",
       "sourceUrl": "https://www.cfplist.com/CFP/50754",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
@@ -3918,45 +2962,20 @@
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 38,
+      "score": 34,
       "fields": [
-        "Digital Humanities / Design",
         "Film / Media",
         "Theory"
       ],
       "excerpt": "CALL FOR PAPERS New Perspectives in Critical Ecolinguistics Edited by ?rem Atasoy and Habib Tekin The edited volume New Perspectives in Critical Ecolinguistics invites contributions examining the relationships between langu",
       "fullDescription": "CALL FOR PAPERS New Perspectives in Critical Ecolinguistics Edited by ?rem Atasoy and Habib Tekin The edited volume New Perspectives in Critical Ecolinguistics invites contributions examining the relationships between langu",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Animal Studies Across Disciplines",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50302",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-05",
-      "eventDate": "2027-04-07",
-      "location": "Arizona State University · Arizona State University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy"
-      ],
-      "excerpt": "Animal Studies Across Disciplines Symposium &nbs",
-      "fullDescription": "Animal Studies Across Disciplines Symposium &nbs",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
       "title": "Derrick Bell and the History of Africana Philosophy",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
+      "sourceName": "CFPList: Pedagogy",
       "sourceUrl": "https://www.cfplist.com/CFP/50286",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
@@ -3967,22 +2986,21 @@
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 46,
+      "score": 28,
       "fields": [
-        "Digital Humanities / Design",
         "Theory",
-        "Publication",
-        "Pedagogy"
+        "Pedagogy",
+        "Publication"
       ],
       "excerpt": "The Journal for the New Narratives in the History of Philosophy (JNNHP) invites submissions for its special on Derrick Bell and the History of Africana Philosophy, to be published in Fall 2027. Derrick Bell, the founder of Critical Race Theory, produced one of the most innovat",
       "fullDescription": "The Journal for the New Narratives in the History of Philosophy (JNNHP) invites submissions for its special on Derrick Bell and the History of Africana Philosophy, to be published in Fall 2027. Derrick Bell, the founder of Critical Race Theory, produced one of the most innovat",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory, Publication.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Pedagogy, Publication.",
       "publish": true
     },
     {
       "title": "Open Call for a Thematic Issue/Dossier for Volume 25, Issue 48 (January–June 2028)",
       "source": "CFPList",
-      "sourceName": "CFPList: Communication Studies Search",
+      "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/50052",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
@@ -3993,14 +3011,15 @@
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 12,
+      "score": 16,
       "fields": [
-        "Communication",
-        "Publication"
+        "Theory",
+        "Publication",
+        "Communication"
       ],
       "excerpt": "Call for Proposals The editorial and scientific board of the journal Co-herencia invites researchers, professors, and scholars affiliated with national or international institutions to submit proposals for thematic issues/dossiers, and to apply to serv",
       "fullDescription": "Call for Proposals The editorial and scientific board of the journal Co-herencia invites researchers, professors, and scholars affiliated with national or international institutions to submit proposals for thematic issues/dossiers, and to apply to serv",
-      "relevance": "Automatically surfaced as a possible RCID fit across Communication, Publication.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
       "publish": false
     },
     {
@@ -4268,6 +3287,30 @@
       "publish": true
     },
     {
+      "title": "The Museum of Fiction: Materialising Imaginary Worlds as Narratives",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Science and Culture",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109362",
+      "type": "Edited Collection",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-15",
+      "eventDate": "",
+      "location": "Caroline Marie, Université Paris 8",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Orhan Pamuk’s novel The Museum of Innocence contains a free ticket to the actual Museum of Innocence the Nobel-Prize author created in Istanbul in 2012. Each room corresponds to a chapter but visitors who have not read the novel can navigate their way through the fictional love story between Füsun and Kamel as well as through Pamuk’s reminiscence of Istan...",
+      "fullDescription": "Orhan Pamuk’s novel The Museum of Innocence contains a free ticket to the actual Museum of Innocence the Nobel-Prize author created in Istanbul in 2012. Each room corresponds to a chapter but visitors who have not read the novel can navigate their way through the fictional love story between Füsun and Kamel as well as through Pamuk’s reminiscence of Istanbul in the 1970s and 1980s. The collection of genuine objects having purportedly belonged Füsun, the lost love of his bright young character Kamel in the novel, were also displayed in other museums, sometimes alongside other works of art.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "“The Stage Reimagined”: International Conference on Traditions, Transformations and Futures in Drama and Theatre",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Interdisciplinary",
@@ -4275,7 +3318,7 @@
       "type": "Conference CFP",
       "deadlineType": "Submission",
       "deadline": "2027-01-15",
-      "eventDate": "2027-05-29",
+      "eventDate": "",
       "location": "London Centre for Interdisciplinary Research",
       "status": "open",
       "priority": "medium",
@@ -4283,9 +3326,7 @@
       "publishMode": "auto",
       "score": 42,
       "fields": [
-        "Art / Media Practice",
-        "Film / Media",
-        "Theory"
+        "Art / Media Practice"
       ],
       "excerpt": "In an era marked by profound social, political, environmental and technological transformations, drama and theatre remain essential forms of artistic expression and critical engagement. Through performance, theatre explores questions of identity, representation, memory, conflict and belonging, while creating opportunities for dialogue across cultures and...",
       "fullDescription": "In an era marked by profound social, political, environmental and technological transformations, drama and theatre remain essential forms of artistic expression and critical engagement. Through performance, theatre explores questions of identity, representation, memory, conflict and belonging, while creating opportunities for dialogue across cultures and disciplines. Theatre not only reflects the complexities of contemporary life but also creates imaginative spaces for questioning, reinterpreting and reshaping our understanding of society.",
@@ -4338,30 +3379,6 @@
       "excerpt": "The 61st meeting of the Heidegger Circle will be hosted by Xavier University at the 21c Museum Hotel in downtown Cincinnati, with a rotating exhibit of contemporary art, next door to the Contemporary Arts Center, designed by architect Zaha Hadid. Registration will include a co",
       "fullDescription": "The 61st meeting of the Heidegger Circle will be hosted by Xavier University at the 21c Museum Hotel in downtown Cincinnati, with a rotating exhibit of contemporary art, next door to the Contemporary Arts Center, designed by architect Zaha Hadid. Registration will include a co",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "CfP - International Congress in Humanities \"Body, Age and Gender\"",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50389",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-15",
-      "eventDate": "2027-06-17",
-      "location": "Madeira, Portugal · University of Madeira",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Rhetoric",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "CALL FOR PAPERS First International Congress in Humanities - Texts, Images and Communities: \"Body, Age and Gender\" Org. HUM—TIC Research Group, University of Madeira, 17-18 June 2017",
-      "fullDescription": "CALL FOR PAPERS First International Congress in Humanities - Texts, Images and Communities: \"Body, Age and Gender\" Org. HUM—TIC Research Group, University of Madeira, 17-18 June 2017",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -4436,76 +3453,50 @@
       "publish": true
     },
     {
-      "title": "The 69th Annual Conference of the World Social Science Association (Asian Studies Section)",
+      "title": "Fama Volat: Reputation in Linguistics, Literature, Education and Media Communication",
       "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50269",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50796",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-15",
-      "eventDate": "2027-03-31",
-      "location": "Denver, CO · World Social Science Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 26,
-      "fields": [
-        "Rhetoric",
-        "Pedagogy"
-      ],
-      "excerpt": "The Asian Studies section is currently accepting paper and panel proposals for the 69th Annual Conference of the World Social Science Association. The conference will be held at the Hilton Denver City Center in Denver, CO from March 31st through April 3rd.",
-      "fullDescription": "The Asian Studies section is currently accepting paper and panel proposals for the 69th Annual Conference of the World Social Science Association. The conference will be held at the Hilton Denver City Center in Denver, CO from March 31st through April 3rd.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric.",
-      "publish": false
-    },
-    {
-      "title": "\"Somewhere in Between: Borders and Borderlands\" International Conference",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50622",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-25",
-      "eventDate": "2027-04-24",
-      "location": "London / Online · London Centre for Interdisciplinary Research",
+      "deadline": "2027-01-18",
+      "eventDate": "2027-04-29",
+      "location": "Milan, Italy · Catholic University of the Sacred Heart",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Film / Media",
-        "Theory"
+        "Interdisciplinary",
+        "Pedagogy"
       ],
-      "excerpt": "\"Gender and Power Conference International Conference on Gender Studies: \"Gender and Power 6-7 March 2027 — London/Online organised by London Centre for Interdisciplinary Research The conference aim",
-      "fullDescription": "\"Gender and Power Conference International Conference on Gender Studies: \"Gender and Power 6-7 March 2027 — London/Online organised by London Centre for Interdisciplinary Research The conference aim",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "excerpt": "We are pleased to share the call for papers for the doctoral conference \" Fama Volat: Reputation in Linguistics, Literature, Education and Media Communication , organised by the PhD students of the 40th cycle of the Doctoral School in Linguistic and",
+      "fullDescription": "We are pleased to share the call for papers for the doctoral conference \" Fama Volat: Reputation in Linguistics, Literature, Education and Media Communication , organised by the PhD students of the 40th cycle of the Doctoral School in Linguistic and",
+      "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy.",
       "publish": true
     },
     {
-      "title": "CFP - Bloomsbury Collection entitled (Re)Generation of the Nonhuman: Nature and Text in Dialogue",
-      "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
-      "sourceUrl": "https://www.cfplist.com/CFP/50589",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-25",
-      "eventDate": "2027-07-31",
-      "location": "CFPList",
+      "title": "CALL FOR SUBMISSIONS | The Soliloquist Journal | WINTER 2027 ISSUE",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109470",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-20",
+      "eventDate": "",
+      "location": "The Soliloquist Journal",
       "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
+      "priority": "low",
+      "confidence": "high",
       "publishMode": "auto",
-      "score": 34,
+      "score": 28,
       "fields": [
-        "Film / Media",
-        "Publication",
-        "Theory"
+        "Publication"
       ],
-      "excerpt": "(Re)Generation of the Nonhuman: Nature and Text in Dialogue The last decade has seen a surge in interdisciplinary scholarship, exploring the nonhuman in a broad range of critical perspectives. Whether through Glenworth et al (2024)'s conservationist prism which c",
-      "fullDescription": "(Re)Generation of the Nonhuman: Nature and Text in Dialogue The last decade has seen a surge in interdisciplinary scholarship, exploring the nonhuman in a broad range of critical perspectives. Whether through Glenworth et al (2024)'s conservationist prism which c",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Publication.",
+      "excerpt": "CALL FOR SUBMISSIONS | The Soliloquist Journal | WINTER 2027 ISSUE The Soliloquist Journal seeks submissions of poems and soliloquies for its Winter 2027 Issue. Website: https://thesoliloquistmagazine.my.canva.site/#submit Email: thesoliloquistmag@gmail.com Issue Theme: The Person I Pretended to Be Deadline: January 20, 2027 Publication: January 25, 2027...",
+      "fullDescription": "CALL FOR SUBMISSIONS | The Soliloquist Journal | WINTER 2027 ISSUE The Soliloquist Journal seeks submissions of poems and soliloquies for its Winter 2027 Issue. Website: https://thesoliloquistmagazine.my.canva.site/#submit Email: thesoliloquistmag@gmail.com Issue Theme: The Person I Pretended to Be Deadline: January 20, 2027 Publication: January 25, 2027 Who are you when no one is watching? And who have you become after years of performing a version of yourself that the world finds acceptable?",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
       "publish": true
     },
     {
@@ -4553,58 +3544,6 @@
       "excerpt": "2027 Herman C. Hudson Symposium: Black Fun Exploring the Power of Play March 5-6, 2027 Call for Papers SUBMISSION DEADLINE: FRIDAY, January 29, 2027",
       "fullDescription": "2027 Herman C. Hudson Symposium: Black Fun Exploring the Power of Play March 5-6, 2027 Call for Papers SUBMISSION DEADLINE: FRIDAY, January 29, 2027",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
-      "title": "\"Archipelagic Imaginaries and the Americas: Islands - Narratives - Mythologies\" - Review of International American Studies Vol. 20, Fall-Winter (2/202",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50742",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-30",
-      "eventDate": "2028-01-30",
-      "location": "N/A · Review of International American Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "\"Archipelagic Imaginaries and the Americas: Islands - Narratives - Mythologies\" RIAS Vol. 20, Fall-Winter (2/2027) Edited by Marta Silvera Roig and Asunci&oacute;n L&oacute;pez-Varela Azc&aacute;rate Executive Editor: Pawe? J?drzejko (Call extended unt",
-      "fullDescription": "\"Archipelagic Imaginaries and the Americas: Islands - Narratives - Mythologies\" RIAS Vol. 20, Fall-Winter (2/2027) Edited by Marta Silvera Roig and Asunci&oacute;n L&oacute;pez-Varela Azc&aacute;rate Executive Editor: Pawe? J?drzejko (Call extended unt",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "\"Imaginarios Archipelágicos y las Américas: Islas – Narrativas – Mitologías\" - Review of International American Studies Vol. 20, Otoño–Invierno (2/202",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50741",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-01-30",
-      "eventDate": "2028-01-30",
-      "location": "N/A · Review of International American Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 38,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "\"Imaginarios Archipel&aacute;gicos y las Américas: Islas — Narrativas — Mitolog&iacute;as\" RIAS Vol. 20, Oto&ntilde;o—Invierno (2/2027) Editado por Marta Silvera Roig y Asunci&oacute;n L&oacute;pez-Varela Azc&aacute;rate Editor Ejecutivo",
-      "fullDescription": "\"Imaginarios Archipel&aacute;gicos y las Américas: Islas — Narrativas — Mitolog&iacute;as\" RIAS Vol. 20, Oto&ntilde;o—Invierno (2/2027) Editado por Marta Silvera Roig y Asunci&oacute;n L&oacute;pez-Varela Azc&aacute;rate Editor Ejecutivo",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Art / Media Practice.",
       "publish": true
     },
     {
@@ -4660,7 +3599,7 @@
     {
       "title": "AI-Resistant Strategies for Teaching Dramatic Literature",
       "source": "CFPList",
-      "sourceName": "CFPList: Film, TV & Media",
+      "sourceName": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/50752",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
@@ -4670,18 +3609,16 @@
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
+      "publishMode": "candidate",
+      "score": 34,
       "fields": [
         "AI",
-        "Pedagogy",
-        "Film / Media",
-        "Theory"
+        "Pedagogy"
       ],
       "excerpt": "Do you teach courses in dramatic literature, play analysis, script analysis, or theatre history? Do you worry about your students' use of AI and its impact on their ability to read, analyze, and write critically about theatre and drama? The Comparative Drama Conference i",
       "fullDescription": "Do you teach courses in dramatic literature, play analysis, script analysis, or theatre history? Do you worry about your students' use of AI and its impact on their ability to read, analyze, and write critically about theatre and drama? The Comparative Drama Conference i",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, AI, Pedagogy.",
-      "publish": true
+      "relevance": "Automatically surfaced as a likely RCID fit across AI, Pedagogy.",
+      "publish": false
     },
     {
       "title": "CFP: Suelo y sol / Soil and Sun: Hispanic Appalachian Musings",
@@ -4872,7 +3809,7 @@
     {
       "title": "6th International Online Conference Media in America, America in Media: Rhetoric of Herstories",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
+      "sourceName": "CFPList: Communication Studies Search",
       "sourceUrl": "https://www.cfplist.com/CFP/50765",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
@@ -4883,17 +3820,14 @@
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 46,
+      "score": 34,
       "fields": [
         "Rhetoric",
-        "Digital Humanities / Design",
-        "Film / Media",
-        "Theory",
         "Communication"
       ],
       "excerpt": "CALL FOR PAPERS 6th INTERNATIONAL ONLINE CONFERENCE Media in America, America in Media 18-19 March 2027 Rhetoric of Herstories We invite the submission of abstracts for the 6th edition of the Media in America, America in Media inte",
       "fullDescription": "CALL FOR PAPERS 6th INTERNATIONAL ONLINE CONFERENCE Media in America, America in Media 18-19 March 2027 Rhetoric of Herstories We invite the submission of abstracts for the 6th edition of the Media in America, America in Media inte",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Digital Humanities / Design.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Communication.",
       "publish": true
     },
     {
@@ -5044,6 +3978,30 @@
       "publish": true
     },
     {
+      "title": "Learning Experience Design Conference",
+      "source": "CFPList",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/49226",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-05",
+      "eventDate": "2027-04-16",
+      "location": "online · \"L&D initiatives\" Nataliia Gach Education Centre",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Digital Humanities / Design",
+        "Pedagogy"
+      ],
+      "excerpt": "Our conference is a global online gathering of educators, instructional designers, learning innovators, researchers, and industry leaders dedicated to shaping the future of learning. LXD has emerged as a powerful bridge between learning design and educational technology, combi",
+      "fullDescription": "Our conference is a global online gathering of educators, instructional designers, learning innovators, researchers, and industry leaders dedicated to shaping the future of learning. LXD has emerged as a powerful bridge between learning design and educational technology, combi",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy.",
+      "publish": true
+    },
+    {
       "title": "AI and the Imagination",
       "source": "CFPList",
       "sourceName": "CFPList: Pedagogy",
@@ -5091,6 +4049,30 @@
       "excerpt": "\"Creators of Gothic fiction have always been swift to take advantage of new media technologies\", writes Joseph Campbell in Twenty-First Century Gothic, adding that \"[t]he internet has proven to be no exception\" (72). This special issue argues that horror storytelling on t",
       "fullDescription": "\"Creators of Gothic fiction have always been swift to take advantage of new media technologies\", writes Joseph Campbell in Twenty-First Century Gothic, adding that \"[t]he internet has proven to be no exception\" (72). This special issue argues that horror storytelling on t",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Twenty-Third International Conference on Technology, Knowledge, and Society, University of St. Andrews, St. Andrews, Scotland, 8-9 April 2027",
+      "source": "CFPList",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/47423",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-09",
+      "eventDate": "2027-04-08",
+      "location": "University of St. Andrews · Common Ground Research Networks",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Digital Humanities / Design",
+        "Pedagogy"
+      ],
+      "excerpt": "Twenty-Third International Conference on Technology, Knowledge, and Society, University of St. Andrews, St. Andrews, Scotland, 8-9 April 2027 Founded in 2005, the Technology, Knowledge & Society Research Network is brought together by a shared interest in the compl",
+      "fullDescription": "Twenty-Third International Conference on Technology, Knowledge, and Society, University of St. Andrews, St. Andrews, Scotland, 8-9 April 2027 Founded in 2005, the Technology, Knowledge & Society Research Network is brought together by a shared interest in the compl",
+      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy.",
       "publish": true
     },
     {
@@ -5144,7 +4126,7 @@
     {
       "title": "Call for Papers: Er(r)go. Theory - Literature - Culture 56 (1/2028) – plastic/plasticity/plasticness",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
+      "sourceName": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/50721",
       "type": "Journal CFP",
       "deadlineType": "ABSTRACT",
@@ -5154,17 +4136,16 @@
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
+      "publishMode": "candidate",
+      "score": 20,
       "fields": [
         "Theory",
-        "Publication",
-        "Digital Humanities / Design"
+        "Publication"
       ],
       "excerpt": "Er(r)go 56 (1/2028) — plastic/plasticity/plasticness Guest edited by Anna Foltyniak-P?kala and S?awomir Konkol Submission deadline: 15 March 2027 https://journals.us.edu.pl/index.php/ERRGO/announcement/view/298 Submission link: https://journal",
       "fullDescription": "Er(r)go 56 (1/2028) — plastic/plasticity/plasticness Guest edited by Anna Foltyniak-P?kala and S?awomir Konkol Submission deadline: 15 March 2027 https://journals.us.edu.pl/index.php/ERRGO/announcement/view/298 Submission link: https://journal",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Theory, Publication.",
-      "publish": true
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
+      "publish": false
     },
     {
       "title": "Woolf and the Affordances of Poetry",
@@ -5236,6 +4217,29 @@
       "fullDescription": "Introduction Thirty years on from the Salamanca Statement and Framework for Action on Special Needs Education (UNESCO, 1994), Latin America and the Caribbean have gone through a complex and challenging process towards building inclusive education systems. The region's",
       "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
       "publish": false
+    },
+    {
+      "title": "\"Biyi Bándélé’s Creative Restlessness: Moving between Forms, Media and Worlds\"",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109253",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-04-01",
+      "eventDate": "2027-10-07",
+      "location": "Université de Lille (France)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "\"Biyi Bándélé’s Creative Restlessness: Moving between Forms, Media and Worlds\" University of Lille – 7-8 October, 2027 Organisers: Cédric Courtois (Université de Lille) & Vanessa Guignery (ENS de Lyon)",
+      "fullDescription": "\"Biyi Bándélé’s Creative Restlessness: Moving between Forms, Media and Worlds\" University of Lille – 7-8 October, 2027 Organisers: Cédric Courtois (Université de Lille) & Vanessa Guignery (ENS de Lyon)",
+      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
+      "publish": true
     },
     {
       "title": "The Robert H. N. Ho Family Foundation Buddhism Public Scholars",
@@ -5380,27 +4384,50 @@
       "publish": true
     },
     {
-      "title": "Resonances and Polysemy: Musical Forms and Meanings in the Literary Text.",
+      "title": "XXV Congreso Internacional sobre Nuevas Tendencias en Humanidades",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50483",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/49635",
       "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2027-05-27",
-      "eventDate": "2027-12-15",
-      "location": "CFPList",
+      "deadline": "2027-05-30",
+      "eventDate": "2027-06-30",
+      "location": "Universidad de Split · Common Ground Research Networks",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
-      "score": 38,
+      "score": 16,
       "fields": [
-        "Digital Humanities / Design"
+        "Theory"
       ],
-      "excerpt": "Between XVII.34 (2027): Resonances and Polysemy: Musical Forms and Meanings in the Literary Text. Editors : Stefano Franceschini (Roma Tre University), Fiorenzo Iuliano (University of Cagliari)",
-      "fullDescription": "Between XVII.34 (2027): Resonances and Polysemy: Musical Forms and Meanings in the Literary Text. Editors : Stefano Franceschini (Roma Tre University), Fiorenzo Iuliano (University of Cagliari)",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
-      "publish": true
+      "excerpt": "XXV Congreso Internacional sobre Nuevas Tendencias en Humanidades, Universidad de Split, Croacia, 30 de junio - 2 de julio de 2027. Fundada en 2003, la Red de Investigaci&oacute;n de Nuevas Tendencias en Humanidades pone a su disposici&oacute;n un foro que a&uacu",
+      "fullDescription": "XXV Congreso Internacional sobre Nuevas Tendencias en Humanidades, Universidad de Split, Croacia, 30 de junio - 2 de julio de 2027. Fundada en 2003, la Red de Investigaci&oacute;n de Nuevas Tendencias en Humanidades pone a su disposici&oacute;n un foro que a&uacu",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
+      "publish": false
+    },
+    {
+      "title": "XXXIV Congreso Internacional sobre Aprendizaje",
+      "source": "CFPList",
+      "sourceName": "CFPList: Pedagogy",
+      "sourceUrl": "https://www.cfplist.com/CFP/49641",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-06-07",
+      "eventDate": "2027-07-07",
+      "location": "Universidad Aristóteles de Tesalónica, Grecia · Common Ground Research Networks",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Pedagogy"
+      ],
+      "excerpt": "XXXIV Congreso Internacional sobre Aprendizaje, Universidad Arist&oacute;teles de Tesal&oacute;nica, Grecia, 7-9 de julio de 2027. Fundada en 1989, la Red de Investigaci&oacute;n de Aprendizaje se re&uacute;ne en torno a un interés com&uacute;n por el aprendizaj",
+      "fullDescription": "XXXIV Congreso Internacional sobre Aprendizaje, Universidad Arist&oacute;teles de Tesal&oacute;nica, Grecia, 7-9 de julio de 2027. Fundada en 1989, la Red de Investigaci&oacute;n de Aprendizaje se re&uacute;ne en torno a un interés com&uacute;n por el aprendizaj",
+      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy.",
+      "publish": false
     },
     {
       "title": "Human Learning in the Age of Artificial Intelligence",
@@ -5437,7 +4464,7 @@
       "type": "Journal CFP",
       "deadlineType": "Submission",
       "deadline": "2027-06-30",
-      "eventDate": "2028-06-30",
+      "eventDate": "",
       "location": "Religions",
       "status": "open",
       "priority": "high",
@@ -5449,9 +4476,7 @@
         "Digital Humanities / Design",
         "Publication",
         "Funding",
-        "Art / Media Practice",
-        "Film / Media",
-        "Theory"
+        "Art / Media Practice"
       ],
       "excerpt": "We are pleased to invite you to contribute to a Special Issue of Religions examining how religious traditions, communities, and imaginaries shape the ways people design, interpret, and live with artificial intelligence (AI). Historians of technology have long observed that Western industrial cultures carry theological aspirations toward transcendence and...",
       "fullDescription": "We are pleased to invite you to contribute to a Special Issue of Religions examining how religious traditions, communities, and imaginaries shape the ways people design, interpret, and live with artificial intelligence (AI). Historians of technology have long observed that Western industrial cultures carry theological aspirations toward transcendence and redemption (Noble 1997). Geraci (2010) traced how apocalyptic hopes for mind uploading and machine superintelligence migrated from popular science into research laboratories and funding agendas.",
@@ -5459,51 +4484,27 @@
       "publish": true
     },
     {
-      "title": "Classical Echoes: Performing the Influence of Ancient Greek and Roman Literature",
+      "title": "Punk in Popular Culture: Noise, Style, Politics and Afterlives",
       "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50315",
-      "type": "Journal CFP",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50139",
+      "type": "CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2027-06-30",
-      "eventDate": "2028-06-30",
-      "location": "· Literature",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design",
-        "Publication"
-      ],
-      "excerpt": "Special Issue Website: https://www.mdpi.com/journal/literature/special_issues/B781Q58SAM Dear Colleagues, This Special Issue of Literature will collect essays addressing the reception, influence, adaptation, or incorporation of literature from the Greco&nd",
-      "fullDescription": "Special Issue Website: https://www.mdpi.com/journal/literature/special_issues/B781Q58SAM Dear Colleagues, This Special Issue of Literature will collect essays addressing the reception, influence, adaptation, or incorporation of literature from the Greco&nd",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Publication.",
-      "publish": true
-    },
-    {
-      "title": "CFP Commentarium Journal of Humanities Studies vol. 3 (2027)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Rhetoric & Composition",
-      "sourceUrl": "https://www.cfplist.com/CFP/50177",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-06-30",
-      "eventDate": "2028-06-30",
-      "location": "N/A · Commentarium Journal of Humanities Studies",
+      "deadline": "2027-07-31",
+      "eventDate": "2027-11-26",
+      "location": "Online · PopCRN - The Popular Culture Research Network",
       "status": "open",
       "priority": "medium",
       "confidence": "medium",
       "publishMode": "auto",
       "score": 30,
       "fields": [
-        "Rhetoric",
-        "Publication"
+        "Film / Media",
+        "Art / Media Practice"
       ],
-      "excerpt": "Call for Papers | CJHS Volume 3 (2027) The call for papers is now open for the third volume of CJHS , scheduled for publication in December 2027. Deadline for submissions: June 30, 2",
-      "fullDescription": "Call for Papers | CJHS Volume 3 (2027) The call for papers is now open for the third volume of CJHS , scheduled for publication in December 2027. Deadline for submissions: June 30, 2",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric, Publication.",
+      "excerpt": "Punk has never stayed where it was put. Emerging from the economic, political and cultural upheavals of the 1970s, punk became music, style, attitude, subculture, political language and cultural mythology. From London, New York, Sydney, Belfast, Berlin, Tokyo and Jakarta, punk",
+      "fullDescription": "Punk has never stayed where it was put. Emerging from the economic, political and cultural upheavals of the 1970s, punk became music, style, attitude, subculture, political language and cultural mythology. From London, New York, Sydney, Belfast, Berlin, Tokyo and Jakarta, punk",
+      "relevance": "Automatically surfaced as a possible RCID fit across Film / Media, Art / Media Practice.",
       "publish": true
     },
     {
@@ -5532,7 +4533,7 @@
     {
       "title": "Joint ISCSS + ISCAH 2027 — International Scientific Conferences on Social Sciences, Arts and Humanities",
       "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
+      "sourceName": "CFPList: Philosophy",
       "sourceUrl": "https://www.cfplist.com/CFP/50562",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
@@ -5545,12 +4546,13 @@
       "publishMode": "auto",
       "score": 30,
       "fields": [
-        "Pedagogy",
-        "Art / Media Practice"
+        "Theory",
+        "Art / Media Practice",
+        "Pedagogy"
       ],
       "excerpt": "Call for Abstracts - Joint ISCSS + ISCAH 2027 International Scientific Conferences on Social Sciences, Arts and Humanities 25—30 August 2027 | Flamingo Grand Congress Centre, Albena, Bulgaria | On-site and online participation SWS Scholarly Soc",
       "fullDescription": "Call for Abstracts - Joint ISCSS + ISCAH 2027 International Scientific Conferences on Social Sciences, Arts and Humanities 25—30 August 2027 | Flamingo Grand Congress Centre, Albena, Bulgaria | On-site and online participation SWS Scholarly Soc",
-      "relevance": "Automatically surfaced as a possible RCID fit across Pedagogy, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Art / Media Practice.",
       "publish": true
     },
     {
@@ -5622,31 +4624,6 @@
       "excerpt": "Dear Colleagues, On behalf of the Editorial Board of Er(r)go: Theory – Literature – Culture (100 points on the Polish Ministry of Science and Higher Education journal ranking; indexed in Scopus; Gold Open Access), as Guest Editors, we are pleased to invite you to submit contributions to the forthcoming issue of the journal: 57 (2/2028) – evolution/technol...",
       "fullDescription": "Dear Colleagues, On behalf of the Editorial Board of Er(r)go: Theory – Literature – Culture (100 points on the Polish Ministry of Science and Higher Education journal ranking; indexed in Scopus; Gold Open Access), as Guest Editors, we are pleased to invite you to submit contributions to the forthcoming issue of the journal: 57 (2/2028) – evolution/technology/culture Guest edited by Piotr Gorliński-Kucik, Jerzy Stachowicz, and Weronika Nawrocka Submission deadline: 15 September 2027 https://journals.us.edu.pl/index.php/ERRGO/announcement/view/297 Submission link:",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Theory, Publication.",
-      "publish": true
-    },
-    {
-      "title": "Sense, Senses, Sensuality: Embodied Experiences in the Americas - RIAS Vol. 22, Spring-Summer (1/2029)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Digital Humanities",
-      "sourceUrl": "https://www.cfplist.com/CFP/50740",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-09-30",
-      "eventDate": "2028-06-01",
-      "location": "N/A · Review of International American Studies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 34,
-      "fields": [
-        "Digital Humanities / Design",
-        "Film / Media",
-        "Theory"
-      ],
-      "excerpt": "\"Sense, Senses, Sensuality: Embodied Experiences in the Americas\" RIAS Vol. 22, Spring-Summer (1/2029) Edited by Gabriela Vargas-Cetina and Steffan Igor Ayora-Diaz Executive Editor: Gabriela Vargas-Cetina Call open until Sept. 30th, 2027 The A",
-      "fullDescription": "\"Sense, Senses, Sensuality: Embodied Experiences in the Americas\" RIAS Vol. 22, Spring-Summer (1/2029) Edited by Gabriela Vargas-Cetina and Steffan Igor Ayora-Diaz Executive Editor: Gabriela Vargas-Cetina Call open until Sept. 30th, 2027 The A",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
