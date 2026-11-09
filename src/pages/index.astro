@@ -11,6 +11,7 @@ import events from "../data/events.json";
 import resources from "../data/resources.json";
 import officers from "../data/officers.json";
 import about from "../data/about.json";
+import { hasCalendarDownload } from "../lib/event-calendar.mjs";
 
 const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
 const calendar = events.calendar ?? {
@@ -123,13 +124,22 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
               </>
             );
 
-            return hasEventUrl ? (
+            return hasEventUrl && !hasCalendarDownload(event) ? (
               <a class="event-card event-card-link" href={event.url} {...externalLinkAttrs}>
                 {eventContent}
               </a>
             ) : (
               <article class="event-card">
                 {eventContent}
+                {hasCalendarDownload(event) && (
+                  <div class="event-calendar-actions">
+                    <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>
+                      Add to calendar
+                    </a>
+                    {hasEventUrl && <a href={event.url} {...externalLinkAttrs}>Event details ↗</a>}
+                    <small>Download and open or import the calendar file.</small>
+                  </div>
+                )}
               </article>
             );
           })

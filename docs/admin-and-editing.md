@@ -117,3 +117,9 @@ Routine CMS editors can change only the Radar introduction and add URLs to the s
 The read-only admin guide at `/admin/radar-maintainer.html` provides a deliberate takeover path. The complete repository runbook is `docs/opportunity-radar-maintainer.md`.
 
 Radar changes should be made on a branch, validated with `npm run build`, and reviewed by `@RCIDS3S/radar-maintainers`. Do not manually edit `src/data/opportunities.json` or `src/data/opportunities.generated.json`; automation owns both files.
+
+### Event calendar downloads
+
+Confirmed events can offer an Add to calendar download. Set a unique, permanent Calendar Download ID and a Machine Date containing the start time and explicit UTC offset (for example, `2026-11-21T17:30:00-05:00`). Keep the ID unchanged when rescheduling. The build creates a matching `.ics` file; date-only items and items without an ID do not get a button.
+
+Location and End Date and Time are optional. Only enter an end time when it is confirmed; otherwise the download says that the duration is unspecified. Downloads are snapshots, not automatically updated subscriptions. Keep personal names and private meeting credentials out of all public event fields, including the exported title, description, status, and location.

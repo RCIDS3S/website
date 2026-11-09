@@ -17,7 +17,9 @@
       "title": "RCID Exam / Multimedia Presentation",
       "description": "(In)Glorious Rhetorics: A Rhetorical Theory of Deception. A multimedia presentation followed by public Q&A.",
       "status": "Online · See RCID email for access",
-      "url": ""
+      "url": "",
+      "calendarId": "rcid-exam-2026-11-11",
+      "location": "Online — see RCID email for access"
     },
     {
       "date": "Nov 16, 2026 · 1 p.m. ET",
@@ -25,15 +27,19 @@
       "title": "RCID Dissertation Defense / Multimedia Presentation",
       "description": "Living Paradoxes: Rhetorics of Embodied Subjectivity. A presentation followed by public Q&A.",
       "status": "Online · See RCID email for access",
-      "url": ""
+      "url": "",
+      "calendarId": "rcid-defense-2026-11-16",
+      "location": "Online — see RCID email for access"
     },
     {
-      "date": "Nov 21, 2026 · 5:30 p.m.",
-      "datetime": "2026-11-21",
+      "date": "Nov 21, 2026 · 5:30 p.m. ET",
+      "datetime": "2026-11-21T17:30:00-05:00",
       "title": "Fall 2026 Short Film Showcase",
       "description": "A student-led screening of short films by Clemson students in Watt Auditorium.",
       "status": "Watt Auditorium",
-      "url": ""
+      "url": "",
+      "calendarId": "short-film-showcase-2026-11-21",
+      "location": "Watt Auditorium, Clemson University"
     },
     {
       "date": "Clemson",

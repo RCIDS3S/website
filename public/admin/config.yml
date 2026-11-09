@@ -151,7 +151,10 @@ collections:
             summary: "{{fields.date}} - {{fields.title}}"
             fields:
               - { label: "Display Date", name: "date", widget: "string" }
-              - { label: "Machine Date", name: "datetime", widget: "string", hint: "Use YYYY-MM or YYYY-MM-DD." }
+              - { label: "Machine Date", name: "datetime", widget: "string", hint: "For calendar downloads, use a start time with UTC offset, e.g. 2026-11-21T17:30:00-05:00. Otherwise use YYYY-MM or YYYY-MM-DD." }
+              - { label: "Calendar Download ID", name: "calendarId", widget: "string", required: false, pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Use lowercase letters, numbers, and hyphens."], hint: "Enable Add to calendar with a unique permanent ID, e.g. rcid-exam-2026-11-11. Keep this ID when rescheduling. Leave blank for placeholders and general calendar links." }
+              - { label: "Location", name: "location", widget: "string", required: false, hint: "Public location only. Do not include personal names or private meeting credentials." }
+              - { label: "End Date and Time", name: "endDatetime", widget: "string", required: false, hint: "Optional confirmed end time with UTC offset. Leave blank if not announced." }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Description", name: "description", widget: "text" }
               - { label: "Status", name: "status", widget: "string", default: "Details TBA" }
