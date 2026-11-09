@@ -12,6 +12,22 @@
   },
   "items": [
     {
+      "date": "Nov 11, 2026 · 2 p.m. ET",
+      "datetime": "2026-11-11T14:00:00-05:00",
+      "title": "RCID Exam / Multimedia Presentation",
+      "description": "(In)Glorious Rhetorics: A Rhetorical Theory of Deception. A multimedia presentation followed by public Q&A.",
+      "status": "Online · See RCID email for access",
+      "url": ""
+    },
+    {
+      "date": "Nov 21, 2026 · 5:30 p.m.",
+      "datetime": "2026-11-21",
+      "title": "Fall 2026 Short Film Showcase",
+      "description": "A student-led screening of short films by Clemson students in Watt Auditorium.",
+      "status": "Watt Auditorium",
+      "url": ""
+    },
+    {
       "date": "Clemson",
       "datetime": "2026-08-01",
       "title": "Academic calendar",
