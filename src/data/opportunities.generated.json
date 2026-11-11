@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -24,7 +24,7 @@
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
-      "count": 9
+      "count": 10
     },
     {
       "source": "CFPList: Film, TV & Media",
@@ -32,6 +32,10 @@
     },
     {
       "source": "ACLS Competitions and Deadlines",
+      "count": 8
+    },
+    {
+      "source": "CFPList",
       "count": 8
     },
     {
@@ -51,15 +55,7 @@
       "count": 7
     },
     {
-      "source": "UPenn CFP: Theory",
-      "count": 6
-    },
-    {
       "source": "CFPList: Communication Studies Search",
-      "count": 6
-    },
-    {
-      "source": "CFPList",
       "count": 6
     },
     {
@@ -79,12 +75,24 @@
       "count": 5
     },
     {
+      "source": "UPenn CFP: Theory",
+      "count": 5
+    },
+    {
       "source": "CFPList: Graduate Conferences",
+      "count": 4
+    },
+    {
+      "source": "CFPList: Rhetoric & Composition",
       "count": 4
     },
     {
       "source": "CLIR Programs and Grants",
       "count": 4
+    },
+    {
+      "source": "CFPList: Professional Communication Search",
+      "count": 3
     },
     {
       "source": "UPenn CFP: Translation Studies",
@@ -103,19 +111,11 @@
       "count": 3
     },
     {
-      "source": "CFPList: Rhetoric & Composition",
-      "count": 3
-    },
-    {
-      "source": "CFPList: Professional Communication Search",
+      "source": "UPenn CFP: Awards",
       "count": 2
     },
     {
       "source": "UPenn CFP: Online Conferences",
-      "count": 2
-    },
-    {
-      "source": "UPenn CFP: Awards",
       "count": 2
     },
     {
@@ -147,7 +147,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-10",
+      "deadline": "2026-11-11",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -162,171 +162,6 @@
       "excerpt": "About the Symposium The Weight of Mountains (TWOM) Symposium 2026 is an international academic symposium in film and media studies, with a primary focus on Vietnamese and Southeast Asian screen cultures and on how cinema documents, reimagines, and gives f",
       "fullDescription": "About the Symposium The Weight of Mountains (TWOM) Symposium 2026 is an international academic symposium in film and media studies, with a primary focus on Vietnamese and Southeast Asian screen cultures and on how cinema documents, reimagines, and gives f",
       "relevance": "Automatically surfaced as a likely RCID fit across Technical Communication, Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "Call for Papers: The Erotic Today",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theory",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/26/call-for-papers-the-erotic-today",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-10",
-      "eventDate": "",
-      "location": "Flatus Vocis",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Publication",
-        "Theory"
-      ],
-      "excerpt": "The erotic is a point of infinite signification, a navel in humanity’s symbolic circuit. However, despite its resistance to formalization, it is always in the process of not being written. As Octavio Paz insists, the erotic is a metaphor indelible to the human. As such, it is unsurprising that the manifestations of the erotic in subjective embodied experi...",
-      "fullDescription": "The erotic is a point of infinite signification, a navel in humanity’s symbolic circuit. However, despite its resistance to formalization, it is always in the process of not being written. As Octavio Paz insists, the erotic is a metaphor indelible to the human. As such, it is unsurprising that the manifestations of the erotic in subjective embodied experience are variable and correspond to equally plural treatments of it across the academic panorama. This diverse archive is bound by certain distinguishable threads, in terms of the potentiality of the erotic, its singular relation to language, and to the sphere of sexuality.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Theory.",
-      "publish": true
-    },
-    {
-      "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50383",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-10",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, MO · College English Association (CEA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
-      "fullDescription": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "Call for Papers: Children’s and Young Adult Literature at CEA 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50202",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-10",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, Missouri · College English Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
-      "fullDescription": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "BIPOC & Asian American Literature (CEA 4/1-4/3/27)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50201",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-10",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, MO · College English Association (CEA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
-      "fullDescription": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "CfP \"Building Bridges: Preparing for Global Business\"(39th Annual IATEFL BESIG Conference)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Professional Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/48994",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-10",
-      "eventDate": "2026-11-20",
-      "location": "Vienna, Austria · IATEFL BESIG",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
-      "fullDescription": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "Call for Chapters: Rhetoric and Communication. Interdisciplinary Studies in the Humanities",
-      "source": "CFPList",
-      "sourceName": "CFPList: Communication Studies Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/47101",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-10",
-      "eventDate": "2027-03-31",
-      "location": "· University of Madeira",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric",
-        "Communication",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
-      "fullDescription": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric, Communication, Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "ChLA Syllabus Swap: Resistance in Public and Shadow Syllabi",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Online Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109686",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-10",
-      "eventDate": "",
-      "location": "Children's Literature Association Membership Committee",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "Children’s Literature Association Conference, 2027 Organizer: ChLA Membership Committee Email: aallen36@emich.edu (Amanda Allen, Co-Chair) Panel Title: Syllabus Swap: Resistance in Public and Shadow Syllabi Deadline : November 10, 2026.",
-      "fullDescription": "Children’s Literature Association Conference, 2027 Organizer: ChLA Membership Committee Email: aallen36@emich.edu (Amanda Allen, Co-Chair) Panel Title: Syllabus Swap: Resistance in Public and Shadow Syllabi Deadline : November 10, 2026.",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -373,6 +208,124 @@
       "excerpt": "ACLS HBCU Faculty Grants is listed by ACLS under upcoming fellowship and grant deadlines.",
       "fullDescription": "ACLS HBCU Faculty Grants is listed by ACLS under upcoming fellowship and grant deadlines.",
       "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
+      "publish": true
+    },
+    {
+      "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50383",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-11",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, MO · College English Association (CEA)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
+      "fullDescription": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "Call for Papers: Children’s and Young Adult Literature at CEA 2027",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50202",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-11",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, Missouri · College English Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
+      "fullDescription": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "BIPOC & Asian American Literature (CEA 4/1-4/3/27)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50201",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-11",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, MO · College English Association (CEA)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
+      "fullDescription": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "CfP \"Building Bridges: Preparing for Global Business\"(39th Annual IATEFL BESIG Conference)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Professional Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/48994",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-11",
+      "eventDate": "2026-11-20",
+      "location": "Vienna, Austria · IATEFL BESIG",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
+      "fullDescription": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "Call for Chapters: Rhetoric and Communication. Interdisciplinary Studies in the Humanities",
+      "source": "CFPList",
+      "sourceName": "CFPList: Communication Studies Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/47101",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-11",
+      "eventDate": "2027-03-31",
+      "location": "· University of Madeira",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Rhetoric",
+        "Communication",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
+      "fullDescription": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
+      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric, Communication, Publication, Art / Media Practice.",
       "publish": true
     },
     {
@@ -610,6 +563,29 @@
       "excerpt": "Living in Languages Journal: Call for Papers traversing borders, disciplines, and media.",
       "fullDescription": "Living in Languages Journal: Call for Papers traversing borders, disciplines, and media.",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication.",
+      "publish": true
+    },
+    {
+      "title": "Consuming US Popular Culture | Virtual Conference + postgrad session",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Online Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109454",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-15",
+      "eventDate": "2026-11-27",
+      "location": "PopMeC Association for US Popular Culture Studies",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27–28 November 2026",
+      "fullDescription": "Consuming US Popular Culture: Media Aesthetics, Ethics and Literacy Virtual Conference | 27–28 November 2026",
+      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -2057,6 +2033,29 @@
       "publish": false
     },
     {
+      "title": "[IberLEF 2027] Call for Task Proposals",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50821",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-15",
+      "eventDate": "2027-09-20",
+      "location": "Santiago de Compostela, Spain",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 16,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "================================= IberLEF 2027 -- Call for Task Proposals ================================= IberLEF (the Iberian Language Evaluation Forum) is a shared evaluation campaign of Natural Language Processing systems in Spanish and other",
+      "fullDescription": "================================= IberLEF 2027 -- Call for Task Proposals ================================= IberLEF (the Iberian Language Evaluation Forum) is a shared evaluation campaign of Natural Language Processing systems in Spanish and other",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
       "title": "Legal Perspectives on Balancing Life and Work in the 21st Century",
       "source": "CFPList",
       "sourceName": "CFPList: Philosophy",
@@ -2127,6 +2126,31 @@
       "excerpt": "Call for Presentations Delta Symposium XXXII: Disasters — Remembering, Reclaiming, RebuildingCall for Presentations The Department of English, Philosophy, and World Languages at Arkansas State University opens a call for papers and presentations for the 32nd annual Delta Symposium April 7-10, 2027. The Delta Symposium features a wide variety of scholarshi...",
       "fullDescription": "Call for Presentations Delta Symposium XXXII: Disasters — Remembering, Reclaiming, RebuildingCall for Presentations The Department of English, Philosophy, and World Languages at Arkansas State University opens a call for papers and presentations for the 32nd annual Delta Symposium April 7-10, 2027. The Delta Symposium features a wide variety of scholarship and creative work that focuses on the Delta’s history and culture. Individual and panel presentations on topics relevant to the history and culture of the Arkansas and Mississippi Deltas and surrounding regions are welcome. The symposium is an in-person event held at the university; however, online options are available for presenters who cannot attend.",
       "relevance": "Automatically surfaced as a strong RCID fit across Theory, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Pedagogy, Practice, and Philosophy: Writing Transfer",
+      "source": "CFPList",
+      "sourceName": "CFPList: Rhetoric & Composition",
+      "sourceUrl": "https://www.cfplist.com/CFP/50813",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-18",
+      "eventDate": "2027-02-27",
+      "location": "Gainesville, FL · University Writing Program University of Flordia",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Theory",
+        "Pedagogy",
+        "Rhetoric"
+      ],
+      "excerpt": "Call for Proposals University of Florida's Writing Program Spring 2027 Conference on Pedagogy, Practice, and Philosophy Conference date: Saturday, February 27, 2027 Theme: Writing Transfer The University of Florida's Writi",
+      "fullDescription": "Call for Proposals University of Florida's Writing Program Spring 2027 Conference on Pedagogy, Practice, and Philosophy Conference date: Saturday, February 27, 2027 Theme: Writing Transfer The University of Florida's Writi",
+      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Theory, Pedagogy.",
       "publish": true
     },
     {
@@ -2369,6 +2393,30 @@
       "excerpt": "The Form of the Body Brown University | Providence, RI | April 23-24, 2027",
       "fullDescription": "The Form of the Body Brown University | Providence, RI | April 23-24, 2027",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
+      "title": "Media Under Fascism",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109272",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-22",
+      "eventDate": "2027-04-15",
+      "location": "SFSU Cinema Studies Graduate Research Conference",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "Film / Media",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Call for Papers 28th Annual SFSU Cinema Studies Graduate Research Conference “Media Under Fascism” San Francisco, CA Conference Dates: April 15-16, 2027 Submission Deadline: December 22, 2026 The San Francisco State University Cinema Studies Department welcomes proposals for the 28th Annual Graduate Research Conference “Media Under Fascism.”",
+      "fullDescription": "Call for Papers 28th Annual SFSU Cinema Studies Graduate Research Conference “Media Under Fascism” San Francisco, CA Conference Dates: April 15-16, 2027 Submission Deadline: December 22, 2026 The San Francisco State University Cinema Studies Department welcomes proposals for the 28th Annual Graduate Research Conference “Media Under Fascism.”",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Art / Media Practice.",
       "publish": true
     },
     {
@@ -2803,6 +2851,29 @@
       "publish": true
     },
     {
+      "title": "Vital Frontiers: Political Myth and Apocalyptic Imaginaries in Silicon Valley",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50820",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-03-03",
+      "location": "Nijmegen, The Netherlands · Radboud University",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 26,
+      "fields": [
+        "AI"
+      ],
+      "excerpt": "Why has Silicon Valley become so captivated by apocalypse? From AI and transhumanism to techno-optimism, accelerationism, and visions of civilisational collapse, contemporary tech elites are increasingly shaping politics through powerful narratives about humani",
+      "fullDescription": "Why has Silicon Valley become so captivated by apocalypse? From AI and transhumanism to techno-optimism, accelerationism, and visions of civilisational collapse, contemporary tech elites are increasingly shaping politics through powerful narratives about humani",
+      "relevance": "Automatically surfaced as a possible RCID fit across AI.",
+      "publish": false
+    },
+    {
       "title": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan–Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and C",
       "source": "CFPList",
       "sourceName": "CFPList: Pedagogy",
@@ -2992,6 +3063,29 @@
       "fullDescription": "CALL FOR PAPERS Monsters across Narratives and Media: Representations, Functions, and Cultural Meanings The edited volume Monsters across Narratives and Media: Representations, Functions, and Cultural Meaningsinvites contributions exploring mo",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": false
+    },
+    {
+      "title": "CFP: Multilingualism in Language, Society, and Culture",
+      "source": "CFPList",
+      "sourceName": "CFPList: Professional Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50809",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-04",
+      "eventDate": "2028-01-04",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "CALL FOR PAPERS: Multilingualism in Language, Society, and Culture The edited volume Multilingualism in Language, Society, and Culture invites contributions examining multilingualism as a dynamic social, cultural, cognitive, and communicative phenomenon. The volum",
+      "fullDescription": "CALL FOR PAPERS: Multilingualism in Language, Society, and Culture The edited volume Multilingualism in Language, Society, and Culture invites contributions examining multilingualism as a dynamic social, cultural, cognitive, and communicative phenomenon. The volum",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
     },
     {
       "title": "Derrick Bell and the History of Africana Philosophy",
@@ -4168,30 +4262,6 @@
       "publish": true
     },
     {
-      "title": "Call for Papers: Er(r)go. Theory - Literature - Culture 56 (1/2028) – plastic/plasticity/plasticness",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50721",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-03-15",
-      "eventDate": "2028-03-15",
-      "location": "· Icono",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 20,
-      "fields": [
-        "Theory",
-        "Publication"
-      ],
-      "excerpt": "Er(r)go 56 (1/2028) — plastic/plasticity/plasticness Guest edited by Anna Foltyniak-P?kala and S?awomir Konkol Submission deadline: 15 March 2027 https://journals.us.edu.pl/index.php/ERRGO/announcement/view/298 Submission link: https://journal",
-      "fullDescription": "Er(r)go 56 (1/2028) — plastic/plasticity/plasticness Guest edited by Anna Foltyniak-P?kala and S?awomir Konkol Submission deadline: 15 March 2027 https://journals.us.edu.pl/index.php/ERRGO/announcement/view/298 Submission link: https://journal",
-      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
-      "publish": false
-    },
-    {
       "title": "Woolf and the Affordances of Poetry",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Journals and Collections",
@@ -4694,6 +4764,29 @@
       "fullDescription": "Dear Colleagues, On behalf of the Editorial Board of Er(r)go: Theory – Literature – Culture (100 points on the Polish Ministry of Science and Higher Education journal ranking; indexed in Scopus; Gold Open Access), as Guest Editors, we are pleased to invite you to submit contributions to the forthcoming issue of the journal: 57 (2/2028) – evolution/technology/culture Guest edited by Piotr Gorliński-Kucik, Jerzy Stachowicz, and Weronika Nawrocka Submission deadline: 15 September 2027 https://journals.us.edu.pl/index.php/ERRGO/announcement/view/297 Submission link:",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Theory, Publication.",
       "publish": true
+    },
+    {
+      "title": "Of the Moment - Public Humanities",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50822",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-12-31",
+      "eventDate": "2028-12-31",
+      "location": "· Public Humanities",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 16,
+      "fields": [
+        "Publication"
+      ],
+      "excerpt": "Public Humanities is an international open access, peer-reviewed journal at the intersection of humanities scholarship and public life. Our Of the Moment(opens in a new tab) section is our channel for open submissions. It addresses emerging and on-going topics in shor",
+      "fullDescription": "Public Humanities is an international open access, peer-reviewed journal at the intersection of humanities scholarship and public life. Our Of the Moment(opens in a new tab) section is our channel for open submissions. It addresses emerging and on-going topics in shor",
+      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
+      "publish": false
     },
     {
       "title": "Call for Papers: ‘Fatness, Fashion and Profession in India’",
