@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -28,11 +28,7 @@
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 10
-    },
-    {
-      "source": "UPenn CFP: Fan Studies and Fandom",
-      "count": 8
+      "count": 11
     },
     {
       "source": "UPenn CFP: Cultural Studies",
@@ -40,6 +36,10 @@
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
+      "count": 7
+    },
+    {
+      "source": "UPenn CFP: Fan Studies and Fandom",
       "count": 7
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "source": "CFPList",
-      "count": 4
+      "count": 5
     },
     {
       "source": "CFPList: Rhetoric & Composition",
@@ -141,13 +141,36 @@
   ],
   "items": [
     {
+      "title": "EXTENDED DEADLINE: \"Horror\" at SWPACA, Albuquerque, Feb. 17-20, 2027",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Film and Television",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107608",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-14",
+      "eventDate": "2027-02-17",
+      "location": "Southwest Popular/American Culture Association",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "DEADLINE EXTENDED! Call for Papers “Horror (Literary & Cinematic)” Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://www.southwestpca.org NEW Submission Deadline: November 14, 2026",
+      "fullDescription": "DEADLINE EXTENDED! Call for Papers “Horror (Literary & Cinematic)” Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://www.southwestpca.org NEW Submission Deadline: November 14, 2026",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
+      "publish": true
+    },
+    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -171,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -194,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -217,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -240,7 +263,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -263,7 +286,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -283,36 +306,13 @@
       "publish": true
     },
     {
-      "title": "PCA 2027 Neurodivergent Studies - Accepting Late Submissions!",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Fan Studies and Fandom",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110061",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-13",
-      "eventDate": "2027-03-24",
-      "location": "Popular Culture Association/American Culture Association",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 28,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "We are still accepting late submissions for this area! If you've got an idea but missed the deadline, we'd still be more than happy to have you. Late submissions will be accepted until November 13! Neurodivergent Studies – Popular Culture Association 2027 March 24-27, 2027 in Boston, MA “Neurodivergent just means a brain that diverges.” – Kassiane Asasuma...",
-      "fullDescription": "We are still accepting late submissions for this area! If you've got an idea but missed the deadline, we'd still be more than happy to have you. Late submissions will be accepted until November 13! Neurodivergent Studies – Popular Culture Association 2027 March 24-27, 2027 in Boston, MA “Neurodivergent just means a brain that diverges.” – Kassiane Asasumasu, Radical Neurodivergence Speaking",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": true
-    },
-    {
       "title": "CEA 2027 : COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE",
       "source": "CFPList",
       "sourceName": "CFPList: Technical Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -335,7 +335,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-14",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -350,29 +350,6 @@
       "fullDescription": "Deadline for abstracts: November 13 th , 2026 This conference represents the first joint initiative of the institutions involved within the framework of a shared research project, which will unfold through two interconnected international conferences. The first will ta",
       "relevance": "Automatically surfaced as a possible RCID fit across Communication.",
       "publish": false
-    },
-    {
-      "title": "EXTENDED DEADLINE: \"Horror\" at SWPACA, Albuquerque, Feb. 17-20, 2027",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107608",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-14",
-      "eventDate": "2027-02-17",
-      "location": "Southwest Popular/American Culture Association",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Film / Media"
-      ],
-      "excerpt": "DEADLINE EXTENDED! Call for Papers “Horror (Literary & Cinematic)” Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://www.southwestpca.org NEW Submission Deadline: November 14, 2026",
-      "fullDescription": "DEADLINE EXTENDED! Call for Papers “Horror (Literary & Cinematic)” Southwest Popular / American Culture Association (SWPACA) 48th Annual Conference, February 17-20, 2027 Marriott Albuquerque Albuquerque, New Mexico https://www.southwestpca.org NEW Submission Deadline: November 14, 2026",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
-      "publish": true
     },
     {
       "title": "Call for Latine voices: Roots & Resettlement, a collection of creative writing, art",
@@ -3767,13 +3744,35 @@
       "publishMode": "auto",
       "score": 34,
       "fields": [
-        "Interdisciplinary",
         "Pedagogy"
       ],
       "excerpt": "We are pleased to share the call for papers for the doctoral conference \" Fama Volat: Reputation in Linguistics, Literature, Education and Media Communication , organised by the PhD students of the 40th cycle of the Doctoral School in Linguistic and",
       "fullDescription": "We are pleased to share the call for papers for the doctoral conference \" Fama Volat: Reputation in Linguistics, Literature, Education and Media Communication , organised by the PhD students of the 40th cycle of the Doctoral School in Linguistic and",
       "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy.",
       "publish": true
+    },
+    {
+      "title": "Rejoinder Call for Submissions -- The",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50841",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-22",
+      "eventDate": "2028-01-22",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 20,
+      "fields": [
+        "Theory"
+      ],
+      "excerpt": "The prefix \"auto derives from the Greek root \"autos, meaning alone, or self. This issue of Rejoinder welcomes submissions that take the form of autotheory, auto/biography, or autoethnography, or that analyze one or more of these genres/methodologies.",
+      "fullDescription": "The prefix \"auto derives from the Greek root \"autos, meaning alone, or self. This issue of Rejoinder welcomes submissions that take the form of autotheory, auto/biography, or autoethnography, or that analyze one or more of these genres/methodologies.",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
+      "publish": false
     },
     {
       "title": "Wilson College Humanities Conference: The Human in the Humanities",
@@ -4752,6 +4751,31 @@
       "fullDescription": "XXV Congreso Internacional sobre Nuevas Tendencias en Humanidades, Universidad de Split, Croacia, 30 de junio - 2 de julio de 2027. Fundada en 2003, la Red de Investigaci&oacute;n de Nuevas Tendencias en Humanidades pone a su disposici&oacute;n un foro que a&uacu",
       "relevance": "Automatically surfaced as a possible RCID fit across Theory.",
       "publish": false
+    },
+    {
+      "title": "Information literacy and Generation Alpha: Preparing children and young people for the 2030s and beyond",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50839",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-06-01",
+      "eventDate": "2027-12-01",
+      "location": "N/A · Journal of Information Literacy",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Interdisciplinary",
+        "Film / Media",
+        "Pedagogy"
+      ],
+      "excerpt": "'Generational Alpha' are defined as those born between approximately 2010 and 2024 (McCrindle, 2008). In 2027, they will be aged between 2 and 17 years old. This generation of children and young people face a markedly different information landscape than previous g",
+      "fullDescription": "'Generational Alpha' are defined as those born between approximately 2010 and 2024 (McCrindle, 2008). In 2027, they will be aged between 2 and 17 years old. This generation of children and young people face a markedly different information landscape than previous g",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
+      "publish": true
     },
     {
       "title": "XXXIV Congreso Internacional sobre Aprendizaje",
