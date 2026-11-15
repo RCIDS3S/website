@@ -1,6 +1,6 @@
 {
   "kicker": "Events",
-  "title": "Upcoming events.",
+  "title": "See what's next.",
   "text": "Upcoming colloquia, workshops, officer meetings, and social events.",
   "calendar": {
     "enabled": false,
