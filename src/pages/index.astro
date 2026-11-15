@@ -13,6 +13,10 @@ import resources from "../data/resources.json";
 import officers from "../data/officers.json";
 import about from "../data/about.json";
 import { hasCalendarDownload } from "../lib/event-calendar.mjs";
+import { upcomingEvents } from "../lib/upcoming-events.mjs";
+const scheduledEvents = events.items.filter(hasCalendarDownload).sort((a, b) => Date.parse(a.datetime) - Date.parse(b.datetime));
+const initialUpcoming = new Set(upcomingEvents(scheduledEvents).map((event) => event.calendarId));
+const calendarResources = events.items.filter((event) => !hasCalendarDownload(event) && event.url);
 
 const externalLinkAttrs = { target: "_blank", rel: "noreferrer" };
 const calendar = events.calendar ?? {
@@ -115,40 +119,23 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
       }
 
       <CalendarHelp />
-      <div class="event-strip" aria-label="Featured events">
-        {
-          events.items.map((event) => {
-            const hasEventUrl = Boolean(event.url);
-            const eventContent = (
-              <>
-                <time datetime={event.datetime}>{event.date}</time>
-                <h3>{event.title}</h3>
-                <p>{event.description}</p>
-                <span>{event.status}</span>
-              </>
-            );
-
-            return hasEventUrl && !hasCalendarDownload(event) ? (
-              <a class="event-card event-card-link" href={event.url} {...externalLinkAttrs}>
-                {eventContent}
-              </a>
-            ) : (
-              <article class="event-card">
-                {eventContent}
-                {hasCalendarDownload(event) && (
-                  <div class="event-calendar-actions">
-                    <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>
-                      Add to calendar
-                    </a>
-                    {hasEventUrl && <a href={event.url} {...externalLinkAttrs}>Event details ↗</a>}
-                    <small>Download and open or import the calendar file.</small>
-                  </div>
-                )}
-              </article>
-            );
-          })
-        }
+      <div class="event-strip" id="upcoming-events" aria-label="Next three upcoming events">
+        {scheduledEvents.map((event) => (
+          <article class="event-card" data-calendar-id={event.calendarId} data-start={event.datetime} hidden={!initialUpcoming.has(event.calendarId)}>
+            <time datetime={event.datetime}>{event.date}</time>
+            <h3>{event.title}</h3>
+            <p>{event.description}</p>
+            <span>{event.status}</span>
+            <div class="event-calendar-actions">
+              <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>Add to calendar</a>
+              {event.url && <a href={event.url} {...externalLinkAttrs}>Event details ↗</a>}
+              <small>Download and open or import the calendar file.</small>
+            </div>
+          </article>
+        ))}
       </div>
+      <p id="upcoming-empty" hidden={initialUpcoming.size > 0}>No upcoming events are listed.</p>
+      {calendarResources.map((resource) => <p><a href={resource.url} {...externalLinkAttrs}>{resource.title} ↗</a></p>)}
     </section>
 
     <section class="section resource-section" id="resources" aria-labelledby="resources-title">
@@ -226,3 +213,18 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
     <span>{footer.text}</span>
   </footer>
 </BaseLayout>
+
+<script>
+  import { upcomingEvents } from '../lib/upcoming-events.mjs';
+  const cards = Array.from(document.querySelectorAll<HTMLElement>('#upcoming-events [data-calendar-id]'));
+  const schedule = cards.map((card) => ({calendarId: card.dataset.calendarId, datetime: card.dataset.start!, title: '', description: '', status: ''}));
+  function refreshUpcoming() {
+    const selected = new Set(upcomingEvents(schedule).map((event) => event.calendarId));
+    cards.forEach((card) => { card.hidden = !selected.has(card.dataset.calendarId); });
+    document.querySelector<HTMLElement>('#upcoming-empty')!.hidden = selected.size > 0;
+  }
+  refreshUpcoming();
+  window.setInterval(refreshUpcoming, 30_000);
+  window.addEventListener('pageshow', refreshUpcoming);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshUpcoming(); });
+</script>

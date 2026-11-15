@@ -2351,3 +2351,4 @@ h3 {
   .calendar-help ol { padding-left:22px; }
 }
 #month-view, #calendar-help { scroll-margin-top: 110px; }
+#upcoming-events .event-card[hidden], #upcoming-empty[hidden] { display: none; }
