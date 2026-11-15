@@ -4,6 +4,6 @@
   "text": "Find RCID resources, Clemson program links, S3S updates, and peer support for coursework, milestones, teaching, research, and community life.",
   "primaryActionText": "Find resources",
   "primaryActionUrl": "#resources",
-  "secondaryActionText": "See what is next",
-  "secondaryActionUrl": "#events"
+  "secondaryActionText": "View calendar",
+  "secondaryActionUrl": "/calendar/"
 }

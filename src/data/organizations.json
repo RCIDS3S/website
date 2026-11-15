@@ -9,6 +9,10 @@
       "url": "/"
     },
     {
+      "label": "Calendar",
+      "url": "/calendar/"
+    },
+    {
       "label": "Events",
       "url": "/#events"
     },

@@ -90,7 +90,7 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
         <h2 id="events-title">{events.title}</h2>
         <div>
           <p>{events.text}</p>
-          <a class="calendar-link" href="/calendar/">View event calendar →</a>
+          <a class="button" href="/calendar/">View calendar →</a>
           {
             hasCalendarLink && (
               <a class="calendar-link" href={calendar.publicUrl} {...externalLinkAttrs}>
