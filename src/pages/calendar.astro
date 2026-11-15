@@ -1,11 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import CalendarSubscription from '../components/CalendarSubscription.astro';
 import CalendarHelp from '../components/CalendarHelp.astro';
 import identity from '../data/site/identity.json';
 import events from '../data/events.json';
-import { hasCalendarDownload } from '../lib/event-calendar.mjs';
-import { easternDateKey } from '../lib/calendar-month.mjs';
-const scheduled = events.items.filter(hasCalendarDownload).sort((a,b) => Date.parse(a.datetime)-Date.parse(b.datetime));
+import { hasCalendarDownload, isDateOnly, eventStartDay, eventEndDay, compareEventStarts } from '../lib/event-calendar.mjs';
+const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStarts);
 ---
 <BaseLayout title={`Event calendar | ${identity.title}`} description="Browse S3S and RCID events by month and save an event to your own calendar.">
   <a class="skip-link" href="#calendar-main">Skip to calendar</a>
@@ -25,6 +25,7 @@ const scheduled = events.items.filter(hasCalendarDownload).sort((a,b) => Date.pa
       <h1>Event calendar.</h1>
       <p>All times shown here are Eastern Time.</p>
     </div>
+    <CalendarSubscription />
     <CalendarHelp />
     <section id="month-view" aria-label="Monthly calendar" hidden>
       <div class="month-toolbar">
@@ -48,11 +49,13 @@ const scheduled = events.items.filter(hasCalendarDownload).sort((a,b) => Date.pa
       <p id="month-empty" hidden>No confirmed events for this month yet. Try another month or check back soon.</p>
       <noscript><p>The month view needs JavaScript. All confirmed events and calendar downloads are listed below.</p></noscript>
       <div class="calendar-agenda-list">
-        {scheduled.map((event) => <article class="calendar-agenda-card" id={event.calendarId} data-day={easternDateKey(event.datetime)} data-start={event.datetime} data-title={event.title}>
+        {scheduled.map((event) => <article class="calendar-agenda-card" id={event.calendarId} data-day={eventStartDay(event)} data-end-day={eventEndDay(event)} data-all-day={isDateOnly(event.datetime)} data-start={event.datetime} data-title={event.title}>
           <time datetime={event.datetime}>{event.date}</time>
           <h3 tabindex="-1">{event.title}</h3>
           <p>{event.description}</p>
-          <p class="calendar-location">{event.location || event.status}</p>
+          <p class="calendar-status">{event.status}</p>
+          {event.host && <p class="event-host">Hosted by {event.host}</p>}
+          {event.location && <p class="calendar-location">{event.location}</p>}
           <div class="event-calendar-actions">
             <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>Add to calendar</a>
             {event.url && <a href={event.url} target="_blank" rel="noreferrer">Event details ↗</a>}
@@ -82,7 +85,7 @@ const scheduled = events.items.filter(hasCalendarDownload).sort((a,b) => Date.pa
     picker.value = selected;
     previous.disabled = selected === '1900-01';
     next.disabled = selected === '2100-12';
-    const visible = cards.filter((card) => card.dataset.day!.startsWith(selected));
+    const visible = cards.filter((card) => card.dataset.day!.slice(0,7) <= selected && card.dataset.endDay!.slice(0,7) >= selected);
     cards.forEach((card) => { card.hidden = !visible.includes(card); });
     document.querySelector('#month-count')!.textContent = `${visible.length} confirmed ${visible.length === 1 ? 'event' : 'events'}`;
     (document.querySelector('#month-empty') as HTMLElement).hidden = visible.length > 0;
@@ -100,14 +103,14 @@ const scheduled = events.items.filter(hasCalendarDownload).sort((a,b) => Date.pa
       date.className = 'day-number';
       if (day === today) { date.setAttribute('aria-current','date'); cell.classList.add('is-today'); }
       cell.append(date);
-      const matches = visible.filter((card) => card.dataset.day === day);
+      const matches = visible.filter((card) => card.dataset.day! <= day && card.dataset.endDay! >= day);
       if (matches.length) cell.classList.add('has-events');
       matches.forEach((card) => {
         const link = document.createElement('a');
         link.href = '#'+card.id;
         link.className = 'month-event';
-        const time = timeFormat.format(new Date(card.dataset.start!));
-        link.setAttribute('aria-label',`${day}: ${card.dataset.title}, ${time} Eastern Time`);
+        const time = card.dataset.allDay === 'true' ? 'Date reminder' : timeFormat.format(new Date(card.dataset.start!));
+        link.setAttribute('aria-label',`${day}: ${card.dataset.title}, ${time}${card.dataset.allDay === 'true' ? '' : ' Eastern Time'}`);
         const title = document.createElement('span'); title.className = 'month-event-title'; title.textContent = `${time} · ${card.dataset.title}`;
         const dot = document.createElement('span'); dot.className = 'month-event-dot'; dot.textContent = '●'; dot.setAttribute('aria-hidden','true');
         link.append(title,dot);

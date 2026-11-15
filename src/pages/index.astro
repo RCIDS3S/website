@@ -12,9 +12,9 @@ import events from "../data/events.json";
 import resources from "../data/resources.json";
 import officers from "../data/officers.json";
 import about from "../data/about.json";
-import { hasCalendarDownload } from "../lib/event-calendar.mjs";
+import { hasCalendarDownload, compareEventStarts } from "../lib/event-calendar.mjs";
 import { upcomingEvents } from "../lib/upcoming-events.mjs";
-const scheduledEvents = events.items.filter(hasCalendarDownload).sort((a, b) => Date.parse(a.datetime) - Date.parse(b.datetime));
+const scheduledEvents = events.items.filter(hasCalendarDownload).sort(compareEventStarts);
 const initialUpcoming = new Set(upcomingEvents(scheduledEvents).map((event) => event.calendarId));
 const calendarResources = events.items.filter((event) => !hasCalendarDownload(event) && event.url);
 
@@ -94,7 +94,7 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
         <h2 id="events-title">{events.title}</h2>
         <div>
           <p>{events.text}</p>
-          <a class="button" href="/calendar/">View calendar →</a>
+          <div class="subscription-actions"><a class="button" href="/calendar/">View calendar →</a><a class="calendar-download" href="/calendar/#subscribe">Subscribe to calendar</a></div>
           {
             hasCalendarLink && (
               <a class="calendar-link" href={calendar.publicUrl} {...externalLinkAttrs}>
@@ -126,6 +126,7 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
             <h3>{event.title}</h3>
             <p>{event.description}</p>
             <span>{event.status}</span>
+            {event.host && <p class="event-host">Hosted by {event.host}</p>}
             <div class="event-calendar-actions">
               <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>Add to calendar</a>
               {event.url && <a href={event.url} {...externalLinkAttrs}>Event details ↗</a>}

@@ -120,10 +120,21 @@ Radar changes should be made on a branch, validated with `npm run build`, and re
 
 ### Event calendar downloads
 
-Confirmed events can offer an Add to calendar download. Set a unique, permanent Calendar Download ID and a Machine Date containing the start time and explicit UTC offset (for example, `2026-11-21T17:30:00-05:00`). Keep the ID unchanged when rescheduling. The build creates a matching `.ics` file; date-only items and items without an ID do not get a button.
+Confirmed events can offer an Add to calendar download. Set a unique, permanent Calendar Download ID and a Machine Date containing the start time and explicit UTC offset (for example, `2026-11-21T17:30:00-05:00`). Keep the ID unchanged when rescheduling. The build creates a matching `.ics` file; date-only reminders use YYYY-MM-DD. Items without an ID do not get a button.
 
-Location and End Date and Time are optional. Only enter an end time when it is confirmed; otherwise the download says that the duration is unspecified. Downloads are snapshots, not automatically updated subscriptions. Keep personal names and private meeting credentials out of all public event fields, including the exported title, description, status, and location.
+Location and End Date and Time are optional. Only enter an end time when it is confirmed; otherwise the download says that the duration is unspecified. Individual downloads are snapshots. The whole-calendar subscription described below receives published updates. Keep personal names and private meeting credentials out of all public event fields, including the exported title, description, status, and location.
 
 The `/calendar/` page uses the same confirmed events and permanent Calendar Download IDs as the homepage. It displays months and event times in America/New_York, with a monthly event list and a full event-list fallback when JavaScript is unavailable. Edit events once in the Events CMS screen; both views and downloads update on the next build. Do not enable calendar downloads for TBA placeholders or general links.
 
 The homepage’s See what’s next section automatically selects up to three future events, ordered by their start time, from the same calendar data. It refreshes on page load, when returning to the tab, and every 30 seconds, so an event drops off after it starts without another deployment. With fewer than three upcoming events it shows only those available; with none it shows an empty message. General calendar links are separate from the event cards. Without JavaScript, the selection reflects the most recent site build.
+
+
+### Calendar subscriptions, ranges, and banners
+
+`https://website-bgu.pages.dev/calendar.ics` is the permanent public subscription feed. It includes every scheduled event with a valid Calendar Download ID, including past events, and shares stable event UIDs with individual downloads. Preserve this URL and all event IDs when changing domains or rescheduling events. Publishing an Events CMS change updates the feed; subscribers receive it when their calendar provider refreshes (sometimes more than 24 hours). This is not an automatic import from Clemson calendars or email.
+
+Use `datetime: YYYY-MM-DD` for dates with no known time. Optional `endDate` is the final INCLUDED day of a date-only range; the export converts it to iCalendar's exclusive DTEND. Do not supply `endDatetime` on date-only events. Date reminders do not block availability. The month view includes every day of a range, including across month boundaries. Upcoming cards keep single-day reminders through the Eastern calendar day and show future periods from their start date.
+
+Optional `host` records the public hosting organization. Use `url` for the host's public details/registration page; both are included in calendar exports. Keep private meeting access out of the feed.
+
+Optional `banner` is a short website-wide announcement above the header. It requires a date-only start and inclusive `endDate`. It is visible only during that range in America/New_York, refreshing on load, return to the page, and every 30 seconds. With JavaScript disabled, visibility reflects the latest build. Not every multi-day event needs a banner.

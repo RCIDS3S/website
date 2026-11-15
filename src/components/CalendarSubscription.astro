@@ -1,0 +1,38 @@
+---
+// Keep this public subscription address stable, including when the site's custom domain changes.
+const feedUrl = 'https://website-bgu.pages.dev/calendar.ics';
+const webcalUrl = feedUrl.replace('https:', 'webcal:');
+---
+<section class="calendar-subscription" id="subscribe" aria-labelledby="subscribe-title">
+  <h2 id="subscribe-title">Subscribe once. Stay up to date.</h2>
+  <p>See S3S events alongside your own calendar. New events and schedule changes appear automatically when your calendar app refreshes.</p>
+  <div class="subscription-actions">
+    <a class="button" href={webcalUrl}>Subscribe in calendar app</a>
+    <a class="calendar-download" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a>
+  </div>
+  <label for="subscription-url">Calendar subscription link</label>
+  <div class="subscription-link-row">
+    <input id="subscription-url" type="url" readonly value={feedUrl} spellcheck="false" />
+    <button class="calendar-download" id="copy-subscription" type="button" hidden>Copy link</button>
+  </div>
+  <p id="subscription-copy-status" class="subscription-note" role="status"></p>
+  <details>
+    <summary>How to subscribe in Google, Outlook, or Apple Calendar</summary>
+    <ul>
+      <li><strong>Google Calendar:</strong> copy the link above. On a computer, open Google Calendar → Other calendars + → From URL, paste the link, and choose Add calendar. <a href="https://support.google.com/calendar/answer/37100" target="_blank" rel="noreferrer">Google help ↗</a></li>
+      <li><strong>Outlook:</strong> copy the link. In Outlook on the web, open Calendar → Add calendar → Subscribe from web. Paste the link, name it S3S Events, and confirm. <a href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web" target="_blank" rel="noreferrer">Outlook help ↗</a></li>
+      <li><strong>Apple Calendar:</strong> choose Subscribe in calendar app and confirm. On a Mac, you can also use File → New Calendar Subscription and paste the link. Choose an automatic refresh interval. <a href="https://support.apple.com/guide/calendar/icl1022/mac" target="_blank" rel="noreferrer">Apple help ↗</a></li>
+    </ul>
+  </details>
+  <p class="subscription-note">Updates follow your calendar app’s refresh schedule and may take a day or longer. This is a read-only calendar; you can hide or unsubscribe from it anytime. Previously imported individual events remain separate copies.</p>
+</section>
+<script>
+  const copyButton = document.querySelector<HTMLButtonElement>('#copy-subscription')!;
+  const urlField = document.querySelector<HTMLInputElement>('#subscription-url')!;
+  copyButton.hidden = false;
+  copyButton.addEventListener('click', async () => {
+    const status = document.querySelector('#subscription-copy-status')!;
+    try { await navigator.clipboard.writeText(urlField.value); status.textContent = 'Link copied. Paste it into your calendar’s subscription settings.'; }
+    catch { urlField.focus(); urlField.select(); status.textContent = 'Select and copy the link above, then paste it into your calendar’s subscription settings.'; }
+  });
+</script>

@@ -2352,3 +2352,25 @@ h3 {
 }
 #month-view, #calendar-help { scroll-margin-top: 110px; }
 #upcoming-events .event-card[hidden], #upcoming-empty[hidden] { display: none; }
+
+/* Calendar subscriptions and current-period announcements */
+.calendar-subscription { margin: 28px 0; padding: clamp(20px,4vw,32px); border: 1px solid var(--line); border-left: 5px solid var(--navy); border-radius: 8px; background: var(--paper-soft); scroll-margin-top: 110px; }
+.calendar-subscription h2 { margin: 0 0 12px; font-size: clamp(1.45rem,3vw,2rem); line-height: 1.2; }
+.calendar-subscription p { max-width: 80ch; }
+.subscription-actions { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin:16px 0; }
+.calendar-subscription label { display:block; font-weight:700; margin:18px 0 8px; }
+.subscription-link-row { display:flex; gap:10px; flex-wrap:wrap; }
+.subscription-link-row input { flex:1 1 240px; min-width:0; width:100%; padding:12px; border:1px solid var(--line); border-radius:6px; font:inherit; background:white; color:var(--ink); }
+.subscription-link-row button { font:inherit; font-weight:700; cursor:pointer; background:transparent; }
+.subscription-note { font-size:.85rem; color:var(--muted); }
+#subscription-copy-status:empty { display:none; }
+.calendar-subscription summary { cursor:pointer; color:var(--navy); font-weight:700; margin-top:20px; }
+.calendar-subscription li { margin:12px 0; }
+.event-host { font-size:.85rem; color:var(--navy); }
+.site-announcements { background:var(--navy); color:white; }
+.site-announcement { max-width:var(--max); margin:auto; padding:12px 24px; display:flex; flex-wrap:wrap; align-items:center; justify-content:center; column-gap:20px; row-gap:4px; font-size:.9rem; }
+.site-announcement a { color:white; font-weight:700; text-underline-offset:3px; }
+.site-announcement span { font-size:.8rem; }
+.site-announcement a:focus-visible { outline:2px solid white; outline-offset:4px; }
+.site-announcements[hidden], .site-announcement[hidden], #copy-subscription[hidden] { display:none; }
+@media (max-width:700px) { .site-announcement { justify-content:flex-start; padding:12px 16px; } .subscription-actions > a, .subscription-link-row button { width:100%; } }

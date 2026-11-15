@@ -1,0 +1,25 @@
+---
+import events from '../data/events.json';
+import { activePeriods } from '../lib/event-calendar.mjs';
+const banners = events.items.filter(event => 'banner' in event && event.banner);
+const active = new Set(activePeriods(banners).map(event => event.calendarId));
+---
+<aside class="site-announcements" aria-label="Current announcements" hidden={!active.size}>
+  {banners.map(event => <div class="site-announcement" data-banner-id={event.calendarId} data-start={event.datetime} data-end={event.endDate} hidden={!active.has(event.calendarId)}>
+    <strong>{event.banner}</strong><span>{event.date}</span><a href={event.url} target="_blank" rel="noreferrer">View details ↗</a>
+  </div>)}
+</aside>
+<script>
+  import { easternDateKey } from '../lib/calendar-month.mjs';
+  const container = document.querySelector<HTMLElement>('.site-announcements')!;
+  const banners = Array.from(container.querySelectorAll<HTMLElement>('[data-banner-id]'));
+  function refreshBanners() {
+    const today = easternDateKey(new Date());
+    banners.forEach(banner => { banner.hidden = !(banner.dataset.start! <= today && banner.dataset.end! >= today); });
+    container.hidden = banners.every(banner => banner.hidden);
+  }
+  refreshBanners();
+  window.setInterval(refreshBanners,30_000);
+  window.addEventListener('pageshow',refreshBanners);
+  document.addEventListener('visibilitychange',()=>{ if (!document.hidden) refreshBanners(); });
+</script>

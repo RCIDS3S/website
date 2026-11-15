@@ -1,12 +1,9 @@
-import { hasCalendarDownload } from './event-calendar.mjs';
+import { hasCalendarDownload, isDateOnly, compareEventStarts } from './event-calendar.mjs';
+import { easternDateKey } from './calendar-month.mjs';
 
-/**
- * Select scheduled events by absolute start time, independent of the visitor's timezone.
- * @param {import('./event-calendar.mjs').CalendarEvent[]} events
- */
+/** @param {import('./event-calendar.mjs').CalendarEvent[]} events */
 export function upcomingEvents(events, now = Date.now(), limit = 3) {
-  return events
-    .filter((event) => hasCalendarDownload(event) && Date.parse(event.datetime) > Number(now))
-    .sort((a, b) => Date.parse(a.datetime) - Date.parse(b.datetime))
-    .slice(0, limit);
+  const today = easternDateKey(now);
+  return events.filter(event => hasCalendarDownload(event) && (isDateOnly(event.datetime) ? event.datetime >= today : Date.parse(event.datetime) > Number(now)))
+    .sort(compareEventStarts).slice(0,limit);
 }
