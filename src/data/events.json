@@ -126,14 +126,14 @@
     {
       "calendarId": "spring-registration-period-2027",
       "datetime": "2026-11-04",
-      "endDate": "2027-01-12",
-      "date": "Nov 4, 2026–Jan 12, 2027",
-      "title": "Spring 2027 course registration",
+      "date": "Nov 4, 2026",
+      "title": "Spring 2027 registration opens",
       "description": "Spring registration opened November 4. January 12 is the final day to register, add a class, or declare audit. Individual access depends on your iROAR time ticket and any registration holds.",
-      "status": "Registration period · Check your iROAR access",
+      "status": "Opening date · Check your iROAR time ticket",
       "host": "Clemson University Office of the Registrar",
       "url": "https://www.clemson.edu/registrar/registration-degreeworks/",
-      "banner": "Spring registration is open · Add/register deadline Jan 12"
+      "banner": "Spring registration is open · Add/register deadline Jan 12",
+      "bannerEndDate": "2027-01-12"
     },
     {
       "calendarId": "project-management-2026-11-16",

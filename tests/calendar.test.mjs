@@ -42,7 +42,7 @@ test('banner periods expire at Eastern midnight, including DST and the final day
   assert.equal(activePeriods([period],Date.parse('2026-11-04T05:00:00Z')).length,1);
   assert.equal(activePeriods([period],Date.parse('2027-01-13T04:59:59Z')).length,1);
   assert.equal(activePeriods([period],Date.parse('2027-01-13T05:00:00Z')).length,0);
-  const summer={...period,datetime:'2027-04-05',endDate:'2027-04-06'};
+  const summer={...period,datetime:'2027-04-05',bannerEndDate:'2027-04-06'};
   assert.equal(activePeriods([summer],Date.parse('2027-04-05T03:59:59Z')).length,0);
   assert.equal(activePeriods([summer],Date.parse('2027-04-05T04:00:00Z')).length,1);
 });
@@ -60,4 +60,18 @@ test('calendar rejects duplicate IDs and folds UTF-8 text without corrupting the
   const file=createEventCalendar(event);
   for(const line of file.split('\r\n')) assert.ok(Buffer.byteLength(line,'utf8')<=75);
   assert.ok(unfold(file).includes('SUMMARY:'+'é'.repeat(100)+'\\; one\\, two\\nthree'));
+});
+
+
+test('registration subscription is two milestones while the banner remains active',()=>{
+  const opening=byId('spring-registration-period-2027');
+  const closing=byId('spring-registration-deadline-2027');
+  const calendar=createCalendarFeed([opening,closing]);
+  assert.match(calendar,/DTSTART;VALUE=DATE:20261104/);
+  assert.match(calendar,/DTEND;VALUE=DATE:20261105/);
+  assert.match(calendar,/DTSTART;VALUE=DATE:20270112/);
+  assert.match(calendar,/DTEND;VALUE=DATE:20270113/);
+  assert.equal(eventEndDay(opening),'2026-11-04');
+  assert.equal(activePeriods([opening],Date.parse('2026-12-15T12:00:00-05:00')).length,1);
+  assert.equal(uid(createEventCalendar(opening)),'spring-registration-period-2027@s3s-events');
 });

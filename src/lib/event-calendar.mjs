@@ -1,6 +1,6 @@
 import { easternDateKey } from './calendar-month.mjs';
 
-/** @typedef {{ calendarId?: string, datetime: string, title: string, description: string, status: string, location?: string, endDatetime?: string, endDate?: string, host?: string, url?: string, banner?: string }} CalendarEvent */
+/** @typedef {{ calendarId?: string, datetime: string, title: string, description: string, status: string, location?: string, endDatetime?: string, endDate?: string, host?: string, url?: string, banner?: string, bannerEndDate?: string }} CalendarEvent */
 const zonedDateTime = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(Z|[+-]\d{2}:\d{2})$/;
 const validTime = (value) => zonedDateTime.test(value) && Number.isFinite(Date.parse(value));
 export const isDateOnly = (value) => /^\d{4}-\d{2}-\d{2}$/.test(value) && Number.isFinite(Date.parse(value)) && new Date(value).toISOString().slice(0,10) === value;
@@ -17,10 +17,12 @@ export const eventEndDay = (event) => isDateOnly(event.datetime) ? event.endDate
 export function compareEventStarts(a,b) {
   return eventStartDay(a).localeCompare(eventStartDay(b)) || Number(!isDateOnly(a.datetime))-Number(!isDateOnly(b.datetime)) || Date.parse(a.datetime)-Date.parse(b.datetime);
 }
+/** Banner duration is independent of calendar event duration. @param {CalendarEvent} event */
+export const bannerEndDay = (event) => event.bannerEndDate || event.endDate;
 /** @param {CalendarEvent[]} events */
 export function activePeriods(events, now = Date.now()) {
   const today = easternDateKey(now);
-  return events.filter(event => hasCalendarDownload(event) && isDateOnly(event.datetime) && event.endDate && event.datetime <= today && event.endDate >= today);
+  return events.filter(event => hasCalendarDownload(event) && isDateOnly(event.datetime) && isDateOnly(bannerEndDay(event)) && event.datetime <= today && bannerEndDay(event) >= today);
 }
 export function escapeCalendarText(value) {
   return value.replace(/\\/g, '\\\\').replace(/\r\n|\r|\n/g, '\\n').replace(/;/g, '\\;').replace(/,/g, '\\,');

@@ -38,6 +38,7 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
         </div>
       </div>
       <p class="calendar-hint">Select an event in the calendar to see its details below.</p>
+      <ul id="month-periods" class="month-periods" aria-label="Shaded date ranges" hidden></ul>
       <table class="month-table" aria-labelledby="month-title">
         <thead><tr>{['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'].map((day) => <th scope="col"><abbr title={day}>{day.slice(0,3)}</abbr></th>)}</tr></thead>
         <tbody id="month-days"></tbody>
@@ -89,6 +90,20 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
     cards.forEach((card) => { card.hidden = !visible.includes(card); });
     document.querySelector('#month-count')!.textContent = `${visible.length} confirmed ${visible.length === 1 ? 'event' : 'events'}`;
     (document.querySelector('#month-empty') as HTMLElement).hidden = visible.length > 0;
+    const periods = visible.filter(card => card.dataset.allDay === 'true' && card.dataset.endDay! > card.dataset.day!);
+    const periodList = document.querySelector<HTMLUListElement>('#month-periods')!;
+    periodList.replaceChildren();
+    periodList.hidden = periods.length === 0;
+    periods.forEach(card => {
+      const item = document.createElement('li');
+      const link = document.createElement('a');
+      link.id = `period-label-${card.id}`;
+      link.href = '#'+card.id;
+      link.textContent = `${card.querySelector('time')!.textContent} · ${card.dataset.title}`;
+      link.addEventListener('click', () => { card.querySelector('h3')!.focus({preventScroll:true}); });
+      item.append(link);
+      periodList.append(item);
+    });
     const body = document.querySelector('#month-days')!;
     body.replaceChildren();
     let row: HTMLTableRowElement;
@@ -103,7 +118,12 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
       date.className = 'day-number';
       if (day === today) { date.setAttribute('aria-current','date'); cell.classList.add('is-today'); }
       cell.append(date);
-      const matches = visible.filter((card) => card.dataset.day! <= day && card.dataset.endDay! >= day);
+      const shaded = periods.filter(card => card.dataset.day! <= day && card.dataset.endDay! >= day);
+      if (shaded.length) {
+        cell.classList.add('has-period');
+        cell.setAttribute('aria-describedby', shaded.map(card => `period-label-${card.id}`).join(' '));
+      }
+      const matches = visible.filter(card => !periods.includes(card) && card.dataset.day === day);
       if (matches.length) cell.classList.add('has-events');
       matches.forEach((card) => {
         const link = document.createElement('a');
