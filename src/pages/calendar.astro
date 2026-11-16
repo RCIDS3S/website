@@ -25,8 +25,6 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
       <h1>Event calendar.</h1>
       <p>All times shown here are Eastern Time.</p>
     </div>
-    <CalendarSubscription />
-    <CalendarHelp />
     <section id="month-view" aria-label="Monthly calendar" hidden>
       <div class="month-toolbar">
         <h2 id="month-title" aria-live="polite" aria-atomic="true"></h2>
@@ -44,6 +42,8 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
         <tbody id="month-days"></tbody>
       </table>
     </section>
+    <CalendarSubscription />
+    <CalendarHelp />
     <section class="calendar-agenda" aria-labelledby="agenda-title">
       <h2 id="agenda-title">Scheduled events</h2>
       <p id="month-count" role="status" aria-live="polite"></p>
