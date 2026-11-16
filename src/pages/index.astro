@@ -128,8 +128,9 @@ const hasCalendarEmbed = Boolean(calendar.enabled && calendar.embedUrl);
             <span>{event.status}</span>
             {event.host && <p class="event-host">Hosted by {event.host}</p>}
             <div class="event-calendar-actions">
+              <a class="calendar-download" href={`/calendar/?event=${event.calendarId}`} aria-label={`View ${event.title}`}>View event</a>
               <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>Add to calendar</a>
-              {event.url && <a href={event.url} {...externalLinkAttrs}>Event details ↗</a>}
+              {event.url && <a href={event.url} {...externalLinkAttrs}>Host’s event page ↗</a>}
               <small>Download and open or import the calendar file.</small>
             </div>
           </article>

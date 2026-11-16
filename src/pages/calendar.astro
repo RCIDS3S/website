@@ -37,7 +37,7 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
           <label>Jump to month <input id="month-picker" type="month" min="1900-01" max="2100-12" /></label>
         </div>
       </div>
-      <p class="calendar-hint">Select an event in the calendar to see its details below.</p>
+      <p class="calendar-hint">Select an event to view its details.</p>
       <ul id="month-periods" class="month-periods" aria-label="Shaded date ranges" hidden></ul>
       <table class="month-table" aria-labelledby="month-title">
         <thead><tr>{['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'].map((day) => <th scope="col"><abbr title={day}>{day.slice(0,3)}</abbr></th>)}</tr></thead>
@@ -58,13 +58,18 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
           {event.host && <p class="event-host">Hosted by {event.host}</p>}
           {event.location && <p class="calendar-location">{event.location}</p>}
           <div class="event-calendar-actions">
+            <button class="calendar-download event-view" type="button" data-view-event={event.calendarId} aria-haspopup="dialog" aria-label={`View ${event.title}`} hidden>View event</button>
             <a class="calendar-download" href={`/calendar/${event.calendarId}.ics`} download={`${event.calendarId}.ics`} aria-label={`Add ${event.title} to your calendar`}>Add to calendar</a>
-            {event.url && <a href={event.url} target="_blank" rel="noreferrer">Event details ↗</a>}
+            {event.url && <a href={event.url} target="_blank" rel="noreferrer">Host’s event page ↗</a>}
           </div>
         </article>)}
       </div>
     </section>
     <p class="calendar-footer"><a href="https://events.clemson.edu/all/categories/Academic%20Calendar" target="_blank" rel="noreferrer">Clemson academic calendar ↗</a> · <a href="/#events">Back to event cards</a></p>
+    <dialog class="event-dialog" id="event-dialog" aria-labelledby="event-dialog-title">
+      <div class="event-dialog-toolbar"><button type="button" class="event-dialog-close" autofocus>Close <span aria-hidden="true">×</span></button></div>
+      <div id="event-dialog-content"></div>
+    </dialog>
   </main>
 </BaseLayout>
 <script>
@@ -75,8 +80,46 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
   const previous = document.querySelector<HTMLButtonElement>('#previous-month')!;
   const next = document.querySelector<HTMLButtonElement>('#next-month')!;
   let selected = today.slice(0,7);
-  const linked = cards.find((card) => '#'+card.id === window.location.hash);
+  const requestedEvent = new URLSearchParams(window.location.search).get('event');
+  const linked = cards.find(card => card.id === requestedEvent || '#'+card.id === window.location.hash);
   if (linked) selected = linked.dataset.day!.slice(0,7);
+  const dialog = document.querySelector<HTMLDialogElement>('#event-dialog')!;
+  const dialogContent = document.querySelector<HTMLElement>('#event-dialog-content')!;
+  let returnFocus: HTMLElement | null = null;
+  function openEvent(card: HTMLElement, trigger: HTMLElement | null = null) {
+    returnFocus = trigger;
+    const copy = card.cloneNode(true) as HTMLElement;
+    copy.removeAttribute('id');
+    copy.hidden = false;
+    copy.className = 'event-dialog-card';
+    copy.querySelector('[data-view-event]')?.remove();
+    const heading = copy.querySelector('h3')!;
+    heading.id = 'event-dialog-title';
+    heading.removeAttribute('tabindex');
+    dialogContent.replaceChildren(copy);
+    dialog.showModal();
+    document.body.classList.add('event-dialog-open');
+  }
+  document.querySelectorAll<HTMLButtonElement>('.event-view').forEach(button => { button.hidden = false; });
+  document.addEventListener('click', event => {
+    if (event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+    const trigger = (event.target as Element).closest<HTMLElement>('[data-view-event]');
+    if (!trigger) return;
+    const card = cards.find(card => card.id === trigger.dataset.viewEvent);
+    if (!card) return;
+    event.preventDefault();
+    openEvent(card,trigger);
+  });
+  dialog.querySelector('button')!.addEventListener('click',()=>dialog.close());
+  dialog.addEventListener('click', event => {
+    if (event.target !== dialog) return;
+    const bounds = dialog.getBoundingClientRect();
+    if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
+  });
+  dialog.addEventListener('close',()=> {
+    document.body.classList.remove('event-dialog-open');
+    (returnFocus || document.querySelector<HTMLButtonElement>('#current-month'))?.focus({preventScroll:true});
+  });
   const timeFormat = new Intl.DateTimeFormat('en-US',{timeZone:CALENDAR_TIME_ZONE,hour:'numeric',minute:'2-digit'});
   function renderMonth() {
     const [year, monthNumber] = selected.split('-').map(Number);
@@ -98,9 +141,10 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
       const item = document.createElement('li');
       const link = document.createElement('a');
       link.id = `period-label-${card.id}`;
-      link.href = '#'+card.id;
+      link.href = `?event=${encodeURIComponent(card.id)}`;
+      link.dataset.viewEvent = card.id;
+      link.setAttribute('aria-haspopup','dialog');
       link.textContent = `${card.querySelector('time')!.textContent} · ${card.dataset.title}`;
-      link.addEventListener('click', () => { card.querySelector('h3')!.focus({preventScroll:true}); });
       item.append(link);
       periodList.append(item);
     });
@@ -127,14 +171,15 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
       if (matches.length) cell.classList.add('has-events');
       matches.forEach((card) => {
         const link = document.createElement('a');
-        link.href = '#'+card.id;
+        link.href = `?event=${encodeURIComponent(card.id)}`;
+      link.dataset.viewEvent = card.id;
+      link.setAttribute('aria-haspopup','dialog');
         link.className = 'month-event';
         const time = card.dataset.allDay === 'true' ? 'Date reminder' : timeFormat.format(new Date(card.dataset.start!));
         link.setAttribute('aria-label',`${day}: ${card.dataset.title}, ${time}${card.dataset.allDay === 'true' ? '' : ' Eastern Time'}`);
         const title = document.createElement('span'); title.className = 'month-event-title'; title.textContent = `${time} · ${card.dataset.title}`;
         const dot = document.createElement('span'); dot.className = 'month-event-dot'; dot.textContent = '●'; dot.setAttribute('aria-hidden','true');
         link.append(title,dot);
-        link.addEventListener('click',() => { card.querySelector('h3')!.focus({preventScroll:true}); });
         cell.append(link);
       });
     });
@@ -151,4 +196,5 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
   picker.addEventListener('change',()=> { if (/^\d{4}-(0[1-9]|1[0-2])$/.test(picker.value) && picker.value >= '1900-01' && picker.value <= '2100-12') { selected=picker.value; renderMonth(); } });
   renderMonth();
   document.querySelector<HTMLElement>('#month-view')!.hidden = false;
+  if (linked) openEvent(linked);
 </script>
