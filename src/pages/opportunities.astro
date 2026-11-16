@@ -1,4 +1,5 @@
 ---
+import EventBanner from "../components/EventBanner.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import identity from "../data/site/identity.json";
 import contact from "../data/site/contact.json";
@@ -403,6 +404,7 @@ const suggestSourceHref = `mailto:${contact.email}?subject=${encodeURIComponent(
       {opportunityUi.navLinks.map((link) => <a href={link.url}>{link.label}</a>)}
     </nav>
   </header>
+  <EventBanner />
 
   <main id="opportunity-main">
     <section class="opportunity-hero" aria-labelledby="opportunity-title">

@@ -1,6 +1,5 @@
 ---
 import "../styles/global.css";
-import EventBanner from "../components/EventBanner.astro";
 import identity from "../data/site/identity.json";
 
 interface Props {
@@ -22,7 +21,6 @@ const { title = identity.title, description = identity.description } = Astro.pro
     <title>{title}</title>
   </head>
   <body>
-    <EventBanner />
     <slot />
     <script src="/scripts/navigation.js" is:inline></script>
   </body>

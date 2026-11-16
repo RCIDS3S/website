@@ -1,4 +1,5 @@
 ---
+import EventBanner from "../components/EventBanner.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import identity from "../data/site/identity.json";
 import archive from "../data/archive/posts.json";
@@ -29,6 +30,7 @@ const years = Array.from(new Set(posts.map((post) => post.year))).sort((a, b) =>
       {archiveSettings.navLinks.map((link) => <a href={link.url}>{link.label}</a>)}
     </nav>
   </header>
+  <EventBanner />
 
   <main id="archive-main">
     <section class="archive-hero">

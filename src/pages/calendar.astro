@@ -1,4 +1,5 @@
 ---
+import EventBanner from "../components/EventBanner.astro";
 import BaseLayout from '../layouts/BaseLayout.astro';
 import CalendarSubscription from '../components/CalendarSubscription.astro';
 import CalendarHelp from '../components/CalendarHelp.astro';
@@ -19,6 +20,7 @@ const scheduled = events.items.filter(hasCalendarDownload).sort(compareEventStar
       <a href="/">Home</a><a href="/calendar/" aria-current="page">Calendar</a><a href="/#resources">Resources</a><a href="/opportunities/">Radar</a><a href="/#contact">Contact</a>
     </nav>
   </header>
+  <EventBanner />
   <main id="calendar-main" class="calendar-page">
     <div class="calendar-intro">
       <p class="eyebrow">S3S / CLEMSON RCID</p>
