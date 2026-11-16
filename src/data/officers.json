@@ -30,7 +30,7 @@
     {
       "showRole": true,
       "role": "Archivist",
-      "name": "Open",
+      "name": "Jace LeCompte",
       "description": "Helps save the materials, records, and event traces S3S will need later."
     },
     {
@@ -48,8 +48,14 @@
     {
       "showRole": true,
       "role": "Graduate Student Government Senator",
-      "name": "Open",
-      "description": "Represents RCID student concerns in Graduate Student Government once the seat is filled."
+      "name": "Amie Flanagan",
+      "description": "Represents RCID student concerns in Graduate Student Government."
+    },
+    {
+      "showRole": true,
+      "role": "Graduate Student Government Senator",
+      "name": "Moyinoluwa (Moyin) Oripeloye",
+      "description": "Represents RCID student concerns in Graduate Student Government."
     }
   ]
 }
