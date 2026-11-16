@@ -2354,8 +2354,8 @@ h3 {
 #upcoming-events .event-card[hidden], #upcoming-empty[hidden] { display: none; }
 
 /* Calendar subscriptions and current-period announcements */
-.calendar-subscription { margin: 28px 0; padding: clamp(20px,4vw,32px); border: 1px solid var(--line); border-left: 5px solid var(--navy); border-radius: 8px; background: var(--paper-soft); scroll-margin-top: 110px; }
-.calendar-subscription h2 { margin: 0 0 12px; font-size: clamp(1.45rem,3vw,2rem); line-height: 1.2; }
+.calendar-subscription { margin: 16px 0; border: 1px solid var(--line); border-radius: 8px; background: var(--paper-soft); scroll-margin-top: 110px; }
+.subscription-panel { padding: 0 20px 16px; }
 .calendar-subscription p { max-width: 80ch; }
 .subscription-actions { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin:16px 0; }
 .calendar-subscription label { display:block; font-weight:700; margin:18px 0 8px; }
@@ -2364,7 +2364,8 @@ h3 {
 .subscription-link-row button { font:inherit; font-weight:700; cursor:pointer; background:transparent; }
 .subscription-note { font-size:.85rem; color:var(--muted); }
 #subscription-copy-status:empty { display:none; }
-.calendar-subscription summary { cursor:pointer; color:var(--navy); font-weight:700; margin-top:20px; }
+.calendar-subscription > summary { cursor:pointer; color:var(--navy); font-weight:700; padding:14px 20px; }
+.calendar-subscription > summary:focus-visible { outline:3px solid var(--navy); outline-offset:3px; border-radius:8px; }
 .calendar-subscription li { margin:12px 0; }
 .event-host { font-size:.85rem; color:var(--navy); }
 .site-announcements { background:var(--navy); color:white; }
