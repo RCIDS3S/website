@@ -11,9 +11,9 @@ const uid = value => value.match(/^UID:(.+)$/m)[1].trim();
 test('subscription includes the same stable UIDs as downloads, preserving identity after a reschedule',()=>{
   const event = byId('ai-answers-2026-11-17');
   const feed = unfold(createCalendarFeed(events,new Date('2026-11-15T12:00Z')));
-  assert.equal((feed.match(/BEGIN:VEVENT/g)||[]).length,18);
+  assert.equal((feed.match(/BEGIN:VEVENT/g)||[]).length,events.filter(e=>e.calendarId).length);
   const ids = [...feed.matchAll(/^UID:(.+)$/gm)].map(match=>match[1].trim());
-  assert.equal(new Set(ids).size,18);
+  assert.equal(new Set(ids).size,events.filter(e=>e.calendarId).length);
   for(const event of events.filter(e=>e.calendarId)) assert.ok(ids.includes(uid(createEventCalendar(event))));
   const changed = {...event, datetime:'2026-11-20T12:00:00-05:00',endDatetime:'2026-11-20T12:30:00-05:00'};
   assert.equal(uid(createEventCalendar(changed)),uid(createEventCalendar(event)));
