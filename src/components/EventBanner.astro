@@ -1,23 +1,22 @@
 ---
 import events from '../data/events.json';
-import { activePeriods, bannerEndDay } from '../lib/event-calendar.mjs';
-const banners = events.items.filter(event => 'banner' in event && event.banner);
-const dateFormat = new Intl.DateTimeFormat('en-US', { timeZone: 'UTC', month: 'short', day: 'numeric', year: 'numeric' });
-const bannerDates = (event: typeof banners[number]) => `${dateFormat.format(new Date(event.datetime))}–${dateFormat.format(new Date(bannerEndDay(event)!))}`;
-const active = new Set(activePeriods(banners).map(event => event.calendarId));
+import { eventAnnouncements, announcementIsActive } from '../lib/event-announcements.mjs';
+const banners = eventAnnouncements(events.items);
+const now = Date.now();
+const active = new Set(banners.filter(banner => announcementIsActive(banner, now)).map(banner => banner.id));
 ---
 <aside class="site-announcements" aria-label="Current announcements" hidden={!active.size}>
-  {banners.map(event => <div class="site-announcement" data-banner-id={event.calendarId} data-start={event.datetime} data-end={bannerEndDay(event)} hidden={!active.has(event.calendarId)}>
-    <strong>{event.banner}</strong><span>{bannerDates(event)}</span><a href={event.url} target="_blank" rel="noreferrer">View details ↗</a>
+  {banners.map(banner => <div class="site-announcement" data-banner-id={banner.id} data-start={banner.start} data-end={banner.end} hidden={!active.has(banner.id)}>
+    <strong>{banner.title}</strong>{banner.detail && <span>{banner.detail}</span>}<a href={banner.href} target={banner.external ? '_blank' : undefined} rel={banner.external ? 'noreferrer' : undefined} data-view-event={!banner.external ? banner.id : undefined} aria-label={`View ${banner.title}`}>{banner.external ? 'View details ↗' : 'View event'}</a>
   </div>)}
 </aside>
 <script>
-  import { easternDateKey } from '../lib/calendar-month.mjs';
+  import { announcementIsActive } from '../lib/event-announcements.mjs';
   const container = document.querySelector<HTMLElement>('.site-announcements')!;
   const banners = Array.from(container.querySelectorAll<HTMLElement>('[data-banner-id]'));
   function refreshBanners() {
-    const today = easternDateKey(new Date());
-    banners.forEach(banner => { banner.hidden = !(banner.dataset.start! <= today && banner.dataset.end! >= today); });
+    const now = Date.now();
+    banners.forEach(banner => { banner.hidden = !announcementIsActive({ start: banner.dataset.start!, end: banner.dataset.end! }, now); });
     container.hidden = banners.every(banner => banner.hidden);
   }
   refreshBanners();
