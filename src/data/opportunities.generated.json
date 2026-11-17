@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,15 +8,11 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 34
+      "count": 36
     },
     {
       "source": "CFPList: Pedagogy",
       "count": 17
-    },
-    {
-      "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 14
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -27,8 +23,12 @@
       "count": 13
     },
     {
+      "source": "UPenn CFP: Rhetoric and Composition",
+      "count": 11
+    },
+    {
       "source": "UPenn CFP: Film and Television",
-      "count": 9
+      "count": 8
     },
     {
       "source": "CFPList: Philosophy",
@@ -79,6 +79,10 @@
       "count": 5
     },
     {
+      "source": "UPenn CFP: Theatre and Performance Studies",
+      "count": 4
+    },
+    {
       "source": "UPenn CFP: Awards",
       "count": 4
     },
@@ -96,10 +100,6 @@
     },
     {
       "source": "CFPList: Professional Communication Search",
-      "count": 3
-    },
-    {
-      "source": "UPenn CFP: Theatre and Performance Studies",
       "count": 3
     },
     {
@@ -141,87 +141,13 @@
   ],
   "items": [
     {
-      "title": "Intersections 2027 on 'Embodiment: Performance, Technology and Equity",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108560",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-16",
-      "eventDate": "",
-      "location": "Royal Central School of Speech and Drama, University of London",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 66,
-      "fields": [
-        "Film / Media",
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CALL FOR PAPERS Intersections 2027: 'Embodiment' Technology, Performance and Equity Conference Date: Thursday 14th January 2027 at The Royal Central School of Speech and Drama, London with hybrid/remote attendance possible The postgraduate research community at the Royal Central School of Speech and Drama invites proposals from PGR and Early Career schola...",
-      "fullDescription": "CALL FOR PAPERS Intersections 2027: 'Embodiment' Technology, Performance and Equity Conference Date: Thursday 14th January 2027 at The Royal Central School of Speech and Drama, London with hybrid/remote attendance possible The postgraduate research community at the Royal Central School of Speech and Drama invites proposals from PGR and Early Career scholars, practitioners, artists and culture and performance workers for participation in our annual PGR conference, Intersections 2027.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "Analog Activism (& the Next Era of Digital Activism): A Responsive Public Pedagogy of Resistance",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108284",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-16",
-      "eventDate": "",
-      "location": "Melissa Ames, Eastern Illinois University & Kristi McDuffie, University of Illinois",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 58,
-      "fields": [
-        "Rhetoric",
-        "Digital Humanities / Design",
-        "Pedagogy"
-      ],
-      "excerpt": "In the 2000s and 2010s, social networking facilitated citizen-based activism of enormous significance like #BlackLivesMatter and #MeToo. But in the 2020s, corporate enshittification and government surveillance have restricted the reach of social networking tools. For example, Elon Musk’s purchase of Twitter meant that many users left X rather than adapt t...",
-      "fullDescription": "In the 2000s and 2010s, social networking facilitated citizen-based activism of enormous significance like #BlackLivesMatter and #MeToo. But in the 2020s, corporate enshittification and government surveillance have restricted the reach of social networking tools. For example, Elon Musk’s purchase of Twitter meant that many users left X rather than adapt their activist practices to the restrictive corporate environment (Tenbarge & Collier 2024). Instances such as the Trump administration’s use of social media posts to target international students during the Gaza protests caused many users to avoid social media altogether (Lonas Cochran 2025).",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Digital Humanities / Design, Pedagogy.",
-      "publish": true
-    },
-    {
-      "title": "Analog Activism and Its Digital Entanglements: Responsive Public Pedagogies of Resistance",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108690",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-16",
-      "eventDate": "",
-      "location": "Melissa Ames, Eastern Illinois University & Kristi McDuffie, University of Illinois",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Rhetoric",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "In the 2000s and 2010s, social networking facilitated citizen-based activism of enormous significance like #BlackLivesMatter and #MeToo. But in the 2020s, corporate enshittification and government surveillance have restricted the reach of social networking tools. For example, Elon Musk’s purchase of Twitter meant that many users left X rather than adapt t...",
-      "fullDescription": "In the 2000s and 2010s, social networking facilitated citizen-based activism of enormous significance like #BlackLivesMatter and #MeToo. But in the 2020s, corporate enshittification and government surveillance have restricted the reach of social networking tools. For example, Elon Musk’s purchase of Twitter meant that many users left X rather than adapt their activist practices to the restrictive corporate environment (Tenbarge & Collier 2024). Instances such as the Trump administration’s use of social media posts to target international students during the Gaza protests caused many users to avoid social media altogether (Lonas Cochran 2025).",
-      "relevance": "Automatically surfaced as a strong RCID fit across Rhetoric, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -245,7 +171,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -268,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -291,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -314,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -337,7 +263,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -363,7 +289,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -386,7 +312,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-17",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -576,6 +502,29 @@
       "publish": true
     },
     {
+      "title": "No Right Way to Be a Woman: Comment Culture and the Digital Policing of Femininity",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108450",
+      "type": "Film Festival",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-24",
+      "eventDate": "",
+      "location": "Intersections (Australia)",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "When, in September 2026, a post declaring the actress Katrina Kaif \"finished\" following her return to public life after childbirth accumulated lakhs of views and comments, the disproportion between judgement and object became, itself, the more legible text. A comparable structure recurred that same year for the South Korean singer Jennie, whose performanc...",
+      "fullDescription": "When, in September 2026, a post declaring the actress Katrina Kaif \"finished\" following her return to public life after childbirth accumulated lakhs of views and comments, the disproportion between judgement and object became, itself, the more legible text. A comparable structure recurred that same year for the South Korean singer Jennie, whose performances at Mad Cool Festival and Lollapalooza Chicago drew, alongside widespread acclaim, a coordinated wave of \"netizen\" commentary deriding her \"leaner frame\" — two women, two national contexts, two entirely unrelated bodily \"failures\" (one insufficiently youthful, the other insufficiently substantial), and yet an identical infrastructure of mass, public, collectively affirmed judgement.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
+      "publish": true
+    },
+    {
       "title": "ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -742,6 +691,29 @@
       "excerpt": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root...",
       "fullDescription": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root to the motion of the current: a return in which both the ground and the one returning have been changed.",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "The August Wilson Society 2027 Biennial Colloquium: AWS at 20: Black Cultural Memory and the Stewardship of August Wilson’s Legacy",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110055",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-30",
+      "eventDate": "2027-04-01",
+      "location": "August Wilson Society",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "AI"
+      ],
+      "excerpt": "CALL FOR PROPOSALS The August Wilson Society 2027 Biennial Colloquium Sponsored by the University of Pittsburgh Library System AWS at 20: Black Cultural Memory and the Stewardship of August Wilson’s Legacy April 1–3, 2027 | The Hillman Library at the University of Pittsburgh | Pittsburgh, PA",
+      "fullDescription": "CALL FOR PROPOSALS The August Wilson Society 2027 Biennial Colloquium Sponsored by the University of Pittsburgh Library System AWS at 20: Black Cultural Memory and the Stewardship of August Wilson’s Legacy April 1–3, 2027 | The Hillman Library at the University of Pittsburgh | Pittsburgh, PA",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI.",
       "publish": true
     },
     {
@@ -2017,7 +1989,7 @@
     {
       "title": "Audiovisual Creation in the Age of AI",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108412",
       "type": "Journal CFP",
       "deadlineType": "Submission",
@@ -2025,7 +1997,7 @@
       "eventDate": "2027-12-20",
       "location": "Scott Thompson / University of Florida",
       "status": "open",
-      "priority": "medium",
+      "priority": "high",
       "confidence": "high",
       "publishMode": "auto",
       "score": 54,
@@ -2039,7 +2011,7 @@
       ],
       "excerpt": "Call for Proposals Audiovisual Creation in the Age of AI Special Issue for 2027",
       "fullDescription": "Call for Proposals Audiovisual Creation in the Age of AI Special Issue for 2027",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, AI, Publication.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication.",
       "publish": true
     },
     {
