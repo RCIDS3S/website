@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -12,14 +12,14 @@
     },
     {
       "source": "CFPList: Pedagogy",
-      "count": 17
-    },
-    {
-      "source": "UPenn CFP: Journals and Collections",
-      "count": 13
+      "count": 16
     },
     {
       "source": "CFPList: Film, TV & Media",
+      "count": 14
+    },
+    {
+      "source": "UPenn CFP: Journals and Collections",
       "count": 13
     },
     {
@@ -27,15 +27,19 @@
       "count": 11
     },
     {
+      "source": "CFPList: Philosophy",
+      "count": 10
+    },
+    {
       "source": "UPenn CFP: Film and Television",
       "count": 8
     },
     {
-      "source": "CFPList: Philosophy",
-      "count": 8
+      "source": "UPenn CFP: Fan Studies and Fandom",
+      "count": 7
     },
     {
-      "source": "UPenn CFP: Fan Studies and Fandom",
+      "source": "CFPList: Graduate Conferences",
       "count": 7
     },
     {
@@ -55,14 +59,6 @@
       "count": 6
     },
     {
-      "source": "CFPList",
-      "count": 6
-    },
-    {
-      "source": "CFPList: Graduate Conferences",
-      "count": 6
-    },
-    {
       "source": "UPenn CFP: Cultural Studies",
       "count": 6
     },
@@ -79,15 +75,15 @@
       "count": 5
     },
     {
-      "source": "UPenn CFP: Theatre and Performance Studies",
-      "count": 4
+      "source": "UPenn CFP: Science and Culture",
+      "count": 5
     },
     {
       "source": "UPenn CFP: Awards",
       "count": 4
     },
     {
-      "source": "UPenn CFP: Science and Culture",
+      "source": "CFPList",
       "count": 4
     },
     {
@@ -100,6 +96,10 @@
     },
     {
       "source": "CFPList: Professional Communication Search",
+      "count": 3
+    },
+    {
+      "source": "UPenn CFP: Theatre and Performance Studies",
       "count": 3
     },
     {
@@ -147,7 +147,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -171,7 +171,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -194,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -217,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -240,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/48994",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2026-11-20",
       "location": "Vienna, Austria · IATEFL BESIG",
       "status": "open",
@@ -263,7 +263,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -289,7 +289,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -312,7 +312,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-17",
+      "deadline": "2026-11-18",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -401,30 +401,6 @@
       "excerpt": "Call for Submissions: 2nd URISE International Symposium 2027 Texts, Tunes, and Textures: Music, Literature, and Fashion as Cultural Expression",
       "fullDescription": "Call for Submissions: 2nd URISE International Symposium 2027 Texts, Tunes, and Textures: Music, Literature, and Fashion as Cultural Expression",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "NYU ICSA 2027 Graduate Conference: Risky Gatherings",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109947",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-20",
-      "eventDate": "",
-      "location": "NYU The Institute of Critical Studies in the Arts",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Film / Media",
-        "Art / Media Practice"
-      ],
-      "excerpt": "CALL FOR PAPERS: Graduate Student Conference 2027 5th-6th March 2027Theme: Risky Gatherings Keynote Speaker: \">",
-      "fullDescription": "CALL FOR PAPERS: Graduate Student Conference 2027 5th-6th March 2027Theme: Risky Gatherings Keynote Speaker: \">",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Art / Media Practice.",
       "publish": true
     },
     {
@@ -623,6 +599,30 @@
       "publish": true
     },
     {
+      "title": "NYU ICSA 2027 Graduate Conference: Risky Gatherings",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Film and Television",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109947",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-30",
+      "eventDate": "",
+      "location": "NYU The Institute of Critical Studies in the Arts",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Film / Media",
+        "Art / Media Practice"
+      ],
+      "excerpt": "CALL FOR PAPERS: Graduate Student Conference 2027 5th-6th March 2027Theme: Risky Gatherings Keynote Speaker: \">",
+      "fullDescription": "CALL FOR PAPERS: Graduate Student Conference 2027 5th-6th March 2027Theme: Risky Gatherings Keynote Speaker: \">",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Say a Body where None - Necromanticism and the Thanatological Imagination of the Afterlife in the Modern and Contemporary Age (1764-2027)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -691,29 +691,6 @@
       "excerpt": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root...",
       "fullDescription": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root to the motion of the current: a return in which both the ground and the one returning have been changed.",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "The August Wilson Society 2027 Biennial Colloquium: AWS at 20: Black Cultural Memory and the Stewardship of August Wilson’s Legacy",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Theatre and Performance Studies",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110055",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-30",
-      "eventDate": "2027-04-01",
-      "location": "August Wilson Society",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "AI"
-      ],
-      "excerpt": "CALL FOR PROPOSALS The August Wilson Society 2027 Biennial Colloquium Sponsored by the University of Pittsburgh Library System AWS at 20: Black Cultural Memory and the Stewardship of August Wilson’s Legacy April 1–3, 2027 | The Hillman Library at the University of Pittsburgh | Pittsburgh, PA",
-      "fullDescription": "CALL FOR PROPOSALS The August Wilson Society 2027 Biennial Colloquium Sponsored by the University of Pittsburgh Library System AWS at 20: Black Cultural Memory and the Stewardship of August Wilson’s Legacy April 1–3, 2027 | The Hillman Library at the University of Pittsburgh | Pittsburgh, PA",
-      "relevance": "Automatically surfaced as a likely RCID fit across AI.",
       "publish": true
     },
     {
@@ -812,6 +789,29 @@
       "excerpt": "Call for Papers — Volume 37, Issue 1 & 2 (2027) Dear Colleagues, Litera: Journal of Language, Literature and Culture Studies — Dil, Edebiyat ve Kültür Ara?t?rmalar? Dergisi, the official publication of the Department of Western Languages and",
       "fullDescription": "Call for Papers — Volume 37, Issue 1 & 2 (2027) Dear Colleagues, Litera: Journal of Language, Literature and Culture Studies — Dil, Edebiyat ve Kültür Ara?t?rmalar? Dergisi, the official publication of the Department of Western Languages and",
       "relevance": "Automatically surfaced as a possible RCID fit across Communication, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "ASLE 2027: Bad Infrastructure Studies",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Science and Culture",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110056",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-30",
+      "eventDate": "",
+      "location": "Davy Knittle (University of Delaware) and Sage Gerson (RISD)",
+      "status": "open",
+      "priority": "low",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 28,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Bad Infrastructure Studies The “infrastructural turn” in the humanities is marked by an earnest critical materialism that has provided a necessary toolkit for analyzing how infrastructures consolidate structures of power through the material of daily life (Berlant 2016). Infrastructure studies scholarship from the last two decades has solidified how acade...",
+      "fullDescription": "Bad Infrastructure Studies The “infrastructural turn” in the humanities is marked by an earnest critical materialism that has provided a necessary toolkit for analyzing how infrastructures consolidate structures of power through the material of daily life (Berlant 2016). Infrastructure studies scholarship from the last two decades has solidified how academics study and write about “the politics and poetics of infrastructure” as generating “the ambient environment of everyday life” (Larkin 2013). In the face of this now-established discourse, this panel asks: what else can the environmental humanities do with infrastructure?",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
     },
     {
@@ -1794,29 +1794,6 @@
       "publish": false
     },
     {
-      "title": "[IberLEF 2027] Call for Task Proposals",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50821",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-15",
-      "eventDate": "2027-09-20",
-      "location": "Santiago de Compostela, Spain",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 16,
-      "fields": [
-        "Interdisciplinary"
-      ],
-      "excerpt": "================================= IberLEF 2027 -- Call for Task Proposals ================================= IberLEF (the Iberian Language Evaluation Forum) is a shared evaluation campaign of Natural Language Processing systems in Spanish and other",
-      "fullDescription": "================================= IberLEF 2027 -- Call for Task Proposals ================================= IberLEF (the Iberian Language Evaluation Forum) is a shared evaluation campaign of Natural Language Processing systems in Spanish and other",
-      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
-      "publish": false
-    },
-    {
       "title": "Legal Perspectives on Balancing Life and Work in the 21st Century",
       "source": "CFPList",
       "sourceName": "CFPList: Philosophy",
@@ -2130,6 +2107,29 @@
       "fullDescription": "59th Texas Tech University Comparative Literature Symposium “Epic Fail” Lubbock, TX, April 16–17, 2027",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
+    },
+    {
+      "title": "Destination Management and Mobility Justice for Sustainable Human and More-than-human Futures: Approaching Florence (and Destinations Beyond) in Motio",
+      "source": "CFPList",
+      "sourceName": "CFPList: Graduate Conferences",
+      "sourceUrl": "https://www.cfplist.com/CFP/50470",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-20",
+      "eventDate": "2027-03-11",
+      "location": "Florence, Italy · Gonzaga in Florence",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018;",
+      "fullDescription": "In this interdisciplinary conference, we seek to examine critical issues in the field of global Destination Management and Tourism Mobilities in pursuit of means, modes and practices to promote a greater Mobility Justice within, between, and beyond destinations (Sheller 2018;",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
     },
     {
       "title": "Dalit and Adivasi Futurisms: Disruptive Imaginations, Speculative Solidarities",
@@ -2513,12 +2513,35 @@
         "Film / Media",
         "Digital Humanities / Design",
         "Publication",
-        "Art / Media Practice",
-        "Pedagogy"
+        "Art / Media Practice"
       ],
       "excerpt": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
       "fullDescription": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
       "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "Memory, Forgetting and Creating - 10th International Interdisciplinary Conference",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50856",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-01-21",
+      "location": "Gdansk/online · InMind Support",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 38,
+      "fields": [
+        "Interdisciplinary",
+        "Film / Media"
+      ],
+      "excerpt": "Coference online (via Zoom) CFP: In our increasingly fast-paced societies, where information is abundant and its reception is superficial, human memory appears to be an endangered phenomenon. This is why we would like to take a closer look at t",
+      "fullDescription": "Coference online (via Zoom) CFP: In our increasingly fast-paced societies, where information is abundant and its reception is superficial, human memory appears to be an endangered phenomenon. This is why we would like to take a closer look at t",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -2662,29 +2685,6 @@
       "fullDescription": "Second newsletter by end of September , and conference panel plans soon, from a new scholarly society - SSUPFUS- for studying unconventional US fiction from the era usually called \"postmodern\" - sign up here - https://docs.google.com/forms/d/13ZGTYU1vgzj-WMtrtKIYkpE8I1FmYY_kZH0Sldnxbfo - and see below for more details...",
       "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
       "publish": true
-    },
-    {
-      "title": "Vital Frontiers: Political Myth and Apocalyptic Imaginaries in Silicon Valley",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50820",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-31",
-      "eventDate": "2027-03-03",
-      "location": "Nijmegen, The Netherlands · Radboud University",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 26,
-      "fields": [
-        "AI"
-      ],
-      "excerpt": "Why has Silicon Valley become so captivated by apocalypse? From AI and transhumanism to techno-optimism, accelerationism, and visions of civilisational collapse, contemporary tech elites are increasingly shaping politics through powerful narratives about humani",
-      "fullDescription": "Why has Silicon Valley become so captivated by apocalypse? From AI and transhumanism to techno-optimism, accelerationism, and visions of civilisational collapse, contemporary tech elites are increasingly shaping politics through powerful narratives about humani",
-      "relevance": "Automatically surfaced as a possible RCID fit across AI.",
-      "publish": false
     },
     {
       "title": "CALL FOR BOOK CHAPTERS International Peer-Reviewed Edited Book Pakistan–Azerbaijan Friendship Ties Beyond Borders Historical, Literary, Cultural and C",
@@ -4389,30 +4389,6 @@
       "publish": true
     },
     {
-      "title": "Twenty-Third International Conference on Technology, Knowledge, and Society, University of St. Andrews, St. Andrews, Scotland, 8-9 April 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/47423",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-03-09",
-      "eventDate": "2027-04-08",
-      "location": "University of St. Andrews · Common Ground Research Networks",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy"
-      ],
-      "excerpt": "Twenty-Third International Conference on Technology, Knowledge, and Society, University of St. Andrews, St. Andrews, Scotland, 8-9 April 2027 Founded in 2005, the Technology, Knowledge & Society Research Network is brought together by a shared interest in the compl",
-      "fullDescription": "Twenty-Third International Conference on Technology, Knowledge, and Society, University of St. Andrews, St. Andrews, Scotland, 8-9 April 2027 Founded in 2005, the Technology, Knowledge & Society Research Network is brought together by a shared interest in the compl",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy.",
-      "publish": true
-    },
-    {
       "title": "ACLS Leading Edge Fellowships",
       "source": "ACLS",
       "sourceName": "ACLS Competitions and Deadlines",
@@ -4509,6 +4485,56 @@
       "fullDescription": "The Per Seyersted Prize for an Outstanding Essay on Kate Chopin and Her WritingPresented by the Kate Chopin International SocietyThe Kate Chopin International Society invites published and unpublished essays of 5,000 to 7,000 words on Kate Chopin and her work. Guidelines: Essays should be completed within the past year. To submit an essay, the author should be a member of the Kate Chopin International Society (which is free). Submissions written with the assistance of generative artificial intelligence will not be considered, although tools that support grammar, spelling, and reference documentation are excluded from this criteria.",
       "relevance": "Automatically surfaced as a strong RCID fit across Technical Communication, AI, Art / Media Practice.",
       "publish": true
+    },
+    {
+      "title": "Queer Communities and Relationships: Experiences and Mechanisms of Social Inclusion and Exclusion",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50860",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-15",
+      "eventDate": "2028-03-15",
+      "location": "Open access issue · Cogitatio Press",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Theory",
+        "Publication",
+        "Pedagogy"
+      ],
+      "excerpt": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Queer Communities and Relationships: Experiences and Mechanisms of Social Inclusion and Exclusion.\" Edito",
+      "fullDescription": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Queer Communities and Relationships: Experiences and Mechanisms of Social Inclusion and Exclusion.\" Edito",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
+      "publish": false
+    },
+    {
+      "title": "Situated Innovations in Caring for Older People in Europe",
+      "source": "CFPList",
+      "sourceName": "CFPList: Philosophy",
+      "sourceUrl": "https://www.cfplist.com/CFP/50859",
+      "type": "Journal CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-15",
+      "eventDate": "2028-03-15",
+      "location": "Open access issue · Cogitatio Press",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 16,
+      "fields": [
+        "Theory",
+        "Publication",
+        "Pedagogy"
+      ],
+      "excerpt": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Situated Innovations in Caring for Older People in Europe.\" Editors: Kristine Krause (University of",
+      "fullDescription": "Social Inclusion, peer-reviewed journal indexed in the Social Sciences Citation Index and Scopus, welcomes new and exciting research papers for its upcoming issue \"Situated Innovations in Caring for Older People in Europe.\" Editors: Kristine Krause (University of",
+      "relevance": "Automatically surfaced as a possible RCID fit across Theory, Publication.",
+      "publish": false
     },
     {
       "title": "Woolf and the Affordances of Poetry",
