@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -16,7 +16,7 @@
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 14
+      "count": 15
     },
     {
       "source": "UPenn CFP: Journals and Collections",
@@ -79,11 +79,11 @@
       "count": 5
     },
     {
-      "source": "UPenn CFP: Awards",
-      "count": 4
+      "source": "CFPList",
+      "count": 5
     },
     {
-      "source": "CFPList",
+      "source": "UPenn CFP: Awards",
       "count": 4
     },
     {
@@ -141,194 +141,6 @@
   ],
   "items": [
     {
-      "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
-      "source": "CFPList",
-      "sourceName": "CFPList: Professional Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/49611",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2026-12-10",
-      "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 46,
-      "fields": [
-        "Technical Communication",
-        "Film / Media"
-      ],
-      "excerpt": "About the Symposium The Weight of Mountains (TWOM) Symposium 2026 is an international academic symposium in film and media studies, with a primary focus on Vietnamese and Southeast Asian screen cultures and on how cinema documents, reimagines, and gives f",
-      "fullDescription": "About the Symposium The Weight of Mountains (TWOM) Symposium 2026 is an international academic symposium in film and media studies, with a primary focus on Vietnamese and Southeast Asian screen cultures and on how cinema documents, reimagines, and gives f",
-      "relevance": "Automatically surfaced as a likely RCID fit across Technical Communication, Film / Media.",
-      "publish": true
-    },
-    {
-      "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50383",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, MO · College English Association (CEA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
-      "fullDescription": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "Call for Papers: Children’s and Young Adult Literature at CEA 2027",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50202",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, Missouri · College English Association",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
-      "fullDescription": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "BIPOC & Asian American Literature (CEA 4/1-4/3/27)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50201",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, MO · College English Association (CEA)",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
-      "fullDescription": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "CfP \"Building Bridges: Preparing for Global Business\"(39th Annual IATEFL BESIG Conference)",
-      "source": "CFPList",
-      "sourceName": "CFPList: Professional Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/48994",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2026-11-20",
-      "location": "Vienna, Austria · IATEFL BESIG",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
-      "fullDescription": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": true
-    },
-    {
-      "title": "Call for Chapters: Rhetoric and Communication. Interdisciplinary Studies in the Humanities",
-      "source": "CFPList",
-      "sourceName": "CFPList: Communication Studies Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/47101",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2027-03-31",
-      "location": "· University of Madeira",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 30,
-      "fields": [
-        "Rhetoric",
-        "Communication",
-        "Publication",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
-      "fullDescription": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
-      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric, Communication, Publication, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "CEA 2027 : COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE",
-      "source": "CFPList",
-      "sourceName": "CFPList: Technical Communication Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/49815",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2027-04-01",
-      "location": "St. Louis, MO · College English Association/CEA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 26,
-      "fields": [
-        "Technical Communication"
-      ],
-      "excerpt": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference, the College English Association (",
-      "fullDescription": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference, the College English Association (",
-      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
-      "publish": false
-    },
-    {
-      "title": "Texts and Images. Dialogues, Tensions, Movements",
-      "source": "CFPList",
-      "sourceName": "CFPList: Communication Studies Search",
-      "sourceUrl": "https://www.cfplist.com/CFP/50791",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-18",
-      "eventDate": "2026-12-01",
-      "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 12,
-      "fields": [
-        "Communication"
-      ],
-      "excerpt": "Deadline for abstracts: November 13 th , 2026 This conference represents the first joint initiative of the institutions involved within the framework of a shared research project, which will unfold through two interconnected international conferences. The first will ta",
-      "fullDescription": "Deadline for abstracts: November 13 th , 2026 This conference represents the first joint initiative of the institutions involved within the framework of a shared research project, which will unfold through two interconnected international conferences. The first will ta",
-      "relevance": "Automatically surfaced as a possible RCID fit across Communication.",
-      "publish": false
-    },
-    {
       "title": "Hackers in films (part of a collection about Human-Machine interfacing)",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -354,6 +166,194 @@
       "fullDescription": "About the book: Human machine interfacing can be as simple as pressing a button or as complex and entangled (also entangling) as inserting a brain chip into the skull. science fiction. Humans with implants, prosthetic and hybrid humans with electronic and mechanical extensions are yet another level are no longer science fiction. Yet, human-machine interfacing has started long before the invention of these technologies. Machines did communicate with us and tell us about themselves even before chatbots were invented. The clanking of a hammer on the anvil tells us that it is old and dull. The whistle of a microwave tells us that dinner is ready. The process of interfacing is not a one-way process.",
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, AI, Digital Humanities / Design, Publication, Art / Media Practice.",
       "publish": true
+    },
+    {
+      "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
+      "source": "CFPList",
+      "sourceName": "CFPList: Professional Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/49611",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2026-12-10",
+      "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Technical Communication",
+        "Film / Media"
+      ],
+      "excerpt": "About the Symposium The Weight of Mountains (TWOM) Symposium 2026 is an international academic symposium in film and media studies, with a primary focus on Vietnamese and Southeast Asian screen cultures and on how cinema documents, reimagines, and gives f",
+      "fullDescription": "About the Symposium The Weight of Mountains (TWOM) Symposium 2026 is an international academic symposium in film and media studies, with a primary focus on Vietnamese and Southeast Asian screen cultures and on how cinema documents, reimagines, and gives f",
+      "relevance": "Automatically surfaced as a likely RCID fit across Technical Communication, Film / Media.",
+      "publish": true
+    },
+    {
+      "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50383",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, MO · College English Association (CEA)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
+      "fullDescription": "Call for Papers: British Literature, pre-1600 at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of sc",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "Call for Papers: Children’s and Young Adult Literature at CEA 2027",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50202",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, Missouri · College English Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
+      "fullDescription": "Call for Papers: [Children's and Young Adult Literature] at CEA 2027 Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gathering of scholar-teach",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "BIPOC & Asian American Literature (CEA 4/1-4/3/27)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50201",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, MO · College English Association (CEA)",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
+      "fullDescription": "Call for Papers: BIPOC & Asian American Literature at CEA 2027 (4/1-4/3/27) Apr. 1-3, 2027 | St. Louis, Missouri The Westin St. Louis Hotel https://cea-web.org/the-conference-hotel The College English Association, a gather",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "CfP \"Building Bridges: Preparing for Global Business\"(39th Annual IATEFL BESIG Conference)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Professional Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/48994",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2026-11-20",
+      "location": "Vienna, Austria · IATEFL BESIG",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
+      "fullDescription": "Building Bridges: Preparing for Global Business (39th Annual IATEFL BESIG Conference) When : Friday, November 20, 2026 (13.00 CET / 12.00 UK time) - Sunday, November 22, 2026 (14.00 CET / 13.00 UK",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": true
+    },
+    {
+      "title": "Call for Chapters: Rhetoric and Communication. Interdisciplinary Studies in the Humanities",
+      "source": "CFPList",
+      "sourceName": "CFPList: Communication Studies Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/47101",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2027-03-31",
+      "location": "· University of Madeira",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 30,
+      "fields": [
+        "Rhetoric",
+        "Communication",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
+      "fullDescription": "Call for Chapters Rhetoric and Communication. Interdisciplinary Studies in the Humanities The intersection of Rhetoric and Communication continues to attract the interest of many scholars, particularly within the",
+      "relevance": "Automatically surfaced as a possible RCID fit across Rhetoric, Communication, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "CEA 2027 : COLLEGE ENGLISH ASSOCIATION ANNUAL CONFERENCE",
+      "source": "CFPList",
+      "sourceName": "CFPList: Technical Communication Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/49815",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2027-04-01",
+      "location": "St. Louis, MO · College English Association/CEA",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 26,
+      "fields": [
+        "Technical Communication"
+      ],
+      "excerpt": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference, the College English Association (",
+      "fullDescription": "56TH ANNUAL COLLEGE ENGLISH ASSOCIATION CONFERENCE CEA 2027/GATEWAYS WESTIN HOTEL/ST. LOUIS, MO. APRIL1-3,2027 CONFERENCE THEME:GATEWAYS PAPERS ON GENERAL TOPICS ALSO WELCOMED For its 2027 annual conference, the College English Association (",
+      "relevance": "Automatically surfaced as a possible RCID fit across Technical Communication.",
+      "publish": false
+    },
+    {
+      "title": "Texts and Images. Dialogues, Tensions, Movements",
+      "source": "CFPList",
+      "sourceName": "CFPList: Communication Studies Search",
+      "sourceUrl": "https://www.cfplist.com/CFP/50791",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-11-19",
+      "eventDate": "2026-12-01",
+      "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 12,
+      "fields": [
+        "Communication"
+      ],
+      "excerpt": "Deadline for abstracts: November 13 th , 2026 This conference represents the first joint initiative of the institutions involved within the framework of a shared research project, which will unfold through two interconnected international conferences. The first will ta",
+      "fullDescription": "Deadline for abstracts: November 13 th , 2026 This conference represents the first joint initiative of the institutions involved within the framework of a shared research project, which will unfold through two interconnected international conferences. The first will ta",
+      "relevance": "Automatically surfaced as a possible RCID fit across Communication.",
+      "publish": false
     },
     {
       "title": "Archives and Resistance: A Virtual Symposium on Digital Preservation and Publication in the Context of African, African American, and Diaspora Studies",
@@ -1256,8 +1256,8 @@
       "score": 42,
       "fields": [
         "Digital Humanities / Design",
-        "Art / Media Practice",
-        "Pedagogy"
+        "Pedagogy",
+        "Art / Media Practice"
       ],
       "excerpt": "The upcoming MUNT&Uacute; Conference invites academic and non-academic communities to use their modalities of knowledge production (oral, practical, written, artistic, museological, digital, etc.) to respond to the complexity of questions that emerge from the conference topic.",
       "fullDescription": "The upcoming MUNT&Uacute; Conference invites academic and non-academic communities to use their modalities of knowledge production (oral, practical, written, artistic, museological, digital, etc.) to respond to the complexity of questions that emerge from the conference topic.",
@@ -1938,6 +1938,31 @@
       "excerpt": "This special issue will explore current attacks on scholarship and scholars, and the multiple ways in which law, broadly conceived, is understood and deployed in these attacks with implications for who is allowed to shape and engage in the public sphere.",
       "fullDescription": "This special issue will explore current attacks on scholarship and scholars, and the multiple ways in which law, broadly conceived, is understood and deployed in these attacks with implications for who is allowed to shape and engage in the public sphere.",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Publication.",
+      "publish": true
+    },
+    {
+      "title": "Call for Abstracts: 'Touched' - TXT Magazine 14th Edition.",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50891",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-18",
+      "eventDate": "2027-09-30",
+      "location": "CFPList",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "AI",
+        "Art / Media Practice",
+        "Film / Media"
+      ],
+      "excerpt": "Touched. In a world overrun by artificial intelligence, would it not be wonderful to return to a more grounded approach? And what could be more grounded than our sense of touch ? TXT's fourteenth edition covers the topic of",
+      "fullDescription": "Touched. In a world overrun by artificial intelligence, would it not be wonderful to return to a more grounded approach? And what could be more grounded than our sense of touch ? TXT's fourteenth edition covers the topic of",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, AI, Art / Media Practice.",
       "publish": true
     },
     {
@@ -4608,6 +4633,52 @@
       "publish": false
     },
     {
+      "title": "Session on Milton",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50894",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-04-01",
+      "eventDate": "2027-10-09",
+      "location": "Little America in Cheyenne, Wyoming · Rocky Mountain Modern Languages Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 20,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Session on \"Milton at the 80th Annual Rocky Mountain Modern Language Association Convention (RMMLA) 2027 October 9-11, 2027 in Little America in Cheyenne, Wyoming Deadline for Submissions: April 1, 2027",
+      "fullDescription": "Session on \"Milton at the 80th Annual Rocky Mountain Modern Language Association Convention (RMMLA) 2027 October 9-11, 2027 in Little America in Cheyenne, Wyoming Deadline for Submissions: April 1, 2027",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
+      "title": "Session on Shakespeare",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50893",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-04-01",
+      "eventDate": "2027-10-09",
+      "location": "Little America in Cheyenne, Wyoming · Rocky Mountain Modern Languages Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 20,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Session on \"Shakespeare at the 80th Annual Rocky Mountain Modern Language Association Convention (RMMLA) 2027 October 9-11, 2027 in Little America in Cheyenne, Wyoming Deadline for Submissions: April 1, 2",
+      "fullDescription": "Session on \"Shakespeare at the 80th Annual Rocky Mountain Modern Language Association Convention (RMMLA) 2027 October 9-11, 2027 in Little America in Cheyenne, Wyoming Deadline for Submissions: April 1, 2",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
+    },
+    {
       "title": "The Robert H. N. Ho Family Foundation Buddhism Public Scholars",
       "source": "ACLS",
       "sourceName": "ACLS Competitions and Deadlines",
@@ -5134,29 +5205,6 @@
       "fullDescription": "Call for Papers: Studies in Comics General Call & Special Issue CFP To view both calls in full click here>> https://www.intellectbooks.com/studies-in-comics#call-for-papers General Call: Studies in Comics invites papers from all disciplines that explore comics as research methodology. We aim to investigate the nature of comics, explore comics’ formal properties, and to promote cutting-edge work on comics’ cultural, aesthetic, and theoretical significance.",
       "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
       "publish": true
-    },
-    {
-      "title": "Of the Moment - Public Humanities",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50822",
-      "type": "Journal CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-12-31",
-      "eventDate": "2028-12-31",
-      "location": "· Public Humanities",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 16,
-      "fields": [
-        "Publication"
-      ],
-      "excerpt": "Public Humanities is an international open access, peer-reviewed journal at the intersection of humanities scholarship and public life. Our Of the Moment(opens in a new tab) section is our channel for open submissions. It addresses emerging and on-going topics in shor",
-      "fullDescription": "Public Humanities is an international open access, peer-reviewed journal at the intersection of humanities scholarship and public life. Our Of the Moment(opens in a new tab) section is our channel for open submissions. It addresses emerging and on-going topics in shor",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication.",
-      "publish": false
     },
     {
       "title": "Scenes and Senses of Toxicity",
