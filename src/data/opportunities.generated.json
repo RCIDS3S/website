@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,11 +8,11 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 35
+      "count": 34
     },
     {
       "source": "CFPList: Pedagogy",
-      "count": 16
+      "count": 15
     },
     {
       "source": "CFPList: Film, TV & Media",
@@ -51,8 +51,8 @@
       "count": 7
     },
     {
-      "source": "ACLS Competitions and Deadlines",
-      "count": 6
+      "source": "UPenn CFP: Modernist Studies",
+      "count": 7
     },
     {
       "source": "CFPList: Communication Studies Search",
@@ -67,15 +67,15 @@
       "count": 6
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
-      "count": 6
-    },
-    {
       "source": "CFPList: Technical Communication Search",
       "count": 5
     },
     {
       "source": "UPenn CFP: Science and Culture",
+      "count": 5
+    },
+    {
+      "source": "ACLS Competitions and Deadlines",
       "count": 5
     },
     {
@@ -141,61 +141,13 @@
   ],
   "items": [
     {
-      "title": "Archives and Resistance: A Virtual Symposium on Digital Preservation and Publication in the Context of African, African American, and Diaspora Studies",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108567",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-20",
-      "eventDate": "",
-      "location": "Association for Documentary Editing, the Society for Textual Scholarship, Mapping the Black Digital and Public Humanities, African American Digital & Experimental Humanities (AADHum), and eLaboratories.",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 66,
-      "fields": [
-        "Film / Media",
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "Call for Proposals",
-      "fullDescription": "Call for Proposals",
-      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design.",
-      "publish": true
-    },
-    {
-      "title": "Call for Submissions: 2nd URISE International Symposium 2027 (Texts, Tunes, and Textures: Music, Literature, and Fashion as Cultural Expression)",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109137",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-20",
-      "eventDate": "",
-      "location": "Dr Muhammad Numan, Department of English and Literary Studies, School of Liberal Arts, University of Management and Technology, Lahore",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Submissions: 2nd URISE International Symposium 2027 Texts, Tunes, and Textures: Music, Literature, and Fashion as Cultural Expression",
-      "fullDescription": "Call for Submissions: 2nd URISE International Symposium 2027 Texts, Tunes, and Textures: Music, Literature, and Fashion as Cultural Expression",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
+      "deadline": "2026-11-21",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -213,61 +165,13 @@
       "publish": true
     },
     {
-      "title": "Call for Chapters for an International Edited Volume On Graphic Narratives as Visual Archives: Memory, Cultural Interfaces, and Knowledge Traditions",
-      "source": "CFPList",
-      "sourceName": "CFPList: Pedagogy",
-      "sourceUrl": "https://www.cfplist.com/CFP/50704",
-      "type": "Edited Collection",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
-      "eventDate": "2026-11-30",
-      "location": "NA",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "auto",
-      "score": 42,
-      "fields": [
-        "Digital Humanities / Design",
-        "Pedagogy",
-        "Publication"
-      ],
-      "excerpt": "Call for Chapters for an International Edited Volume On Graphic Narratives as Visual Archives: Memory, Cultural Interfaces, and Knowledge Traditions Concept Note Graphic narratives have become active cultural forms in recent years, l",
-      "fullDescription": "Call for Chapters for an International Edited Volume On Graphic Narratives as Visual Archives: Memory, Cultural Interfaces, and Knowledge Traditions Concept Note Graphic narratives have become active cultural forms in recent years, l",
-      "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Publication.",
-      "publish": true
-    },
-    {
-      "title": "The Robert H. N. Ho Family Foundation Public Impact Grants in Buddhist Studies",
-      "source": "ACLS",
-      "sourceName": "ACLS Competitions and Deadlines",
-      "sourceUrl": "https://www.acls.org/competitions-and-deadlines/",
-      "type": "Grant / Fellowship",
-      "deadlineType": "Grant",
-      "deadline": "2026-11-20",
-      "eventDate": "",
-      "location": "American Council of Learned Societies",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 36,
-      "fields": [
-        "Funding"
-      ],
-      "excerpt": "The Robert H. N. Ho Family Foundation Public Impact Grants in Buddhist Studies is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "fullDescription": "The Robert H. N. Ho Family Foundation Public Impact Grants in Buddhist Studies is listed by ACLS under upcoming fellowship and grant deadlines.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
-      "publish": true
-    },
-    {
       "title": "British Literature, pre-1660 (Due 11/1 for CEA 2027: Apr. 1-3)",
       "source": "CFPList",
       "sourceName": "CFPList: Technical Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
+      "deadline": "2026-11-21",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -290,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
+      "deadline": "2026-11-21",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -313,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
+      "deadline": "2026-11-21",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -336,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
+      "deadline": "2026-11-21",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -362,7 +266,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
+      "deadline": "2026-11-21",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -385,7 +289,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-20",
+      "deadline": "2026-11-21",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -1993,6 +1897,30 @@
       "publish": true
     },
     {
+      "title": "Call for Papers — AI and Sovereignty",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Modernist Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109290",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-20",
+      "eventDate": "",
+      "location": "Exetasis",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "AI",
+        "Art / Media Practice"
+      ],
+      "excerpt": "AI and Sovereignty Artificial intelligence is transforming the conditions through which power is exercised, distributed, and legitimized. The development and deployment of AI systems involve not only technological questions, but also fundamental issues concerning language, communication, authority, identity, autonomy, control, and sovereignty.",
+      "fullDescription": "AI and Sovereignty Artificial intelligence is transforming the conditions through which power is exercised, distributed, and legitimized. The development and deployment of AI systems involve not only technological questions, but also fundamental issues concerning language, communication, authority, identity, autonomy, control, and sovereignty.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Anesthesia",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Theory",
@@ -2472,6 +2400,29 @@
       "publish": true
     },
     {
+      "title": "2027 Eighteenth Century and Romanticism Graduate Paper Workshop",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110432",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-04-28",
+      "location": "Harvard English, Long Eighteenth Century and Romanticism Colloquium",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Art / Media Practice"
+      ],
+      "excerpt": "2027 Eighteenth Century and Romanticism Graduate Paper Workshop April 28, 2027Department of EnglishHarvard University The Long Eighteenth Century and Romanticism Colloquium invites proposals for a day-long graduate conference and paper workshop at Harvard University on April 28, 2027. The event will offer a collegial setting for sharing work in progress,...",
+      "fullDescription": "2027 Eighteenth Century and Romanticism Graduate Paper Workshop April 28, 2027Department of EnglishHarvard University The Long Eighteenth Century and Romanticism Colloquium invites proposals for a day-long graduate conference and paper workshop at Harvard University on April 28, 2027. The event will offer a collegial setting for sharing work in progress, developing arguments, and engaging in sustained discussion with fellow scholars. We welcome projects that engage with the long eighteenth century and Romanticism, broadly conceived, across literary, cultural, historical and intellectual contexts.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Call for Papers: Curatone Art & Research Journal — Vol. 1, Issue 2 (2026)",
       "source": "CFPList",
       "sourceName": "CFPList: Film, TV & Media",
@@ -2490,7 +2441,8 @@
         "Film / Media",
         "Digital Humanities / Design",
         "Publication",
-        "Art / Media Practice"
+        "Art / Media Practice",
+        "Pedagogy"
       ],
       "excerpt": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
       "fullDescription": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
