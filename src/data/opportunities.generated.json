@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,7 +8,7 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 34
+      "count": 35
     },
     {
       "source": "CFPList: Pedagogy",
@@ -39,12 +39,12 @@
       "count": 8
     },
     {
-      "source": "UPenn CFP: Theory",
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 8
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 7
+      "source": "UPenn CFP: Theory",
+      "count": 8
     },
     {
       "source": "CFPList: Graduate Conferences",
@@ -83,6 +83,10 @@
       "count": 5
     },
     {
+      "source": "UPenn CFP: Theatre and Performance Studies",
+      "count": 4
+    },
+    {
       "source": "UPenn CFP: Awards",
       "count": 4
     },
@@ -111,19 +115,15 @@
       "count": 3
     },
     {
-      "source": "UPenn CFP: Online Conferences",
-      "count": 3
-    },
-    {
-      "source": "UPenn CFP: Theatre and Performance Studies",
-      "count": 3
-    },
-    {
       "source": "UPenn CFP: Translation Studies",
       "count": 3
     },
     {
       "source": "CFPList: Professional Communication Search",
+      "count": 2
+    },
+    {
+      "source": "UPenn CFP: Online Conferences",
       "count": 2
     },
     {
@@ -147,7 +147,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -171,7 +171,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -194,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -217,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -240,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -266,7 +266,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -289,7 +289,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -329,6 +329,29 @@
       "excerpt": "Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux A Four-Week Short Coursework | 8 Classes Organised by Think Sphere Think Sphere invites participants to Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux , an interdisciplinary four-week short coursework exploring the intersections of gender, sexuality, identity, power, and belonging thro...",
       "fullDescription": "Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux A Four-Week Short Coursework | 8 Classes Organised by Think Sphere Think Sphere invites participants to Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux , an interdisciplinary four-week short coursework exploring the intersections of gender, sexuality, identity, power, and belonging through popular and everyday cultural forms. Building on conversations initiated through our earlier academic initiatives, this coursework brings together critical scholarship, media analysis, popular culture, and lived experiences. Course Details Duration: Four weeks",
       "relevance": "Automatically surfaced as a strong RCID fit across Technical Communication, Film / Media, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "No Right Way to Be a Woman: Comment Culture and the Digital Policing of Femininity",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108450",
+      "type": "Film Festival",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-24",
+      "eventDate": "",
+      "location": "Intersections (Australia)",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 50,
+      "fields": [
+        "Digital Humanities / Design"
+      ],
+      "excerpt": "When, in September 2026, a post declaring the actress Katrina Kaif \"finished\" following her return to public life after childbirth accumulated lakhs of views and comments, the disproportion between judgement and object became, itself, the more legible text. A comparable structure recurred that same year for the South Korean singer Jennie, whose performanc...",
+      "fullDescription": "When, in September 2026, a post declaring the actress Katrina Kaif \"finished\" following her return to public life after childbirth accumulated lakhs of views and comments, the disproportion between judgement and object became, itself, the more legible text. A comparable structure recurred that same year for the South Korean singer Jennie, whose performances at Mad Cool Festival and Lollapalooza Chicago drew, alongside widespread acclaim, a coordinated wave of \"netizen\" commentary deriding her \"leaner frame\" — two women, two national contexts, two entirely unrelated bodily \"failures\" (one insufficiently youthful, the other insufficiently substantial), and yet an identical infrastructure of mass, public, collectively affirmed judgement.",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
       "publish": true
     },
     {
@@ -499,6 +522,29 @@
       "excerpt": "At many universities, learning communities foster connectedness and belonging among students. Learning communities are typically composed of cohorts of students taking aligned first-year classes, but they take many other forms as well. At their best, they promote the perspective that learning is a collective activity in which knowledge is constructed thro...",
       "fullDescription": "At many universities, learning communities foster connectedness and belonging among students. Learning communities are typically composed of cohorts of students taking aligned first-year classes, but they take many other forms as well. At their best, they promote the perspective that learning is a collective activity in which knowledge is constructed through relationships with peers, professors, and communities, bringing together diverse voices and interdisciplinary perspectives. They provide a welcoming environment that eases the transition to college and provides a foundation for a peer network of academic support (Schreiber & Valle, 2013).",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Pedagogy.",
+      "publish": true
+    },
+    {
+      "title": "Asia Pacific Dance Festival Conference 2027 - Rooted in Return: Memory, Movement, and Belonging in Asia Pacific Performance",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Theatre and Performance Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110187",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-30",
+      "eventDate": "",
+      "location": "Asia Pacific Dance Festival",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 42,
+      "fields": [
+        "Art / Media Practice"
+      ],
+      "excerpt": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root...",
+      "fullDescription": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root to the motion of the current: a return in which both the ground and the one returning have been changed.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
       "publish": true
     },
     {
@@ -3027,7 +3073,7 @@
     {
       "title": "Intersections of Power, Identity, and Language in Literature, Theory, and Culture",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Online Conferences",
+      "sourceName": "UPenn CFP: Graduate Conferences",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110423",
       "type": "Conference CFP",
       "deadlineType": "Submission",

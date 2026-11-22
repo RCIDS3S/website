@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "items": [
     {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
@@ -7,7 +7,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -28,7 +28,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -48,7 +48,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -68,7 +68,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -88,7 +88,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-21",
+      "deadline": "2026-11-22",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -362,6 +362,26 @@
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Pedagogy."
     },
     {
+      "title": "Asia Pacific Dance Festival Conference 2027 - Rooted in Return: Memory, Movement, and Belonging in Asia Pacific Performance",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110187",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-30",
+      "eventDate": "",
+      "location": "Asia Pacific Dance Festival",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 42,
+      "fields": [
+        "Art / Media Practice"
+      ],
+      "excerpt": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root...",
+      "fullDescription": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root to the motion of the current: a return in which both the ground and the one returning have been changed.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice."
+    },
+    {
       "title": "CIETIA’27 — 1.ª Conferência Internacional sobre Educação, Tecnologias e Inteligência Artificial",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/50348",
@@ -382,26 +402,6 @@
       "excerpt": "A ALICE - Aliança Lus&oacute;fona para a Investigaç&atilde;o, Cooperaç&atilde;o e Educaç&atilde;o Digital tem o prazer de anunciar que se encontra aberta a Chamada de Artigos para a CIETIA'27 - 1.&ordf; Confer&ecirc;nc",
       "fullDescription": "A ALICE - Aliança Lus&oacute;fona para a Investigaç&atilde;o, Cooperaç&atilde;o e Educaç&atilde;o Digital tem o prazer de anunciar que se encontra aberta a Chamada de Artigos para a CIETIA'27 - 1.&ordf; Confer&ecirc;nc",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Art / Media Practice."
-    },
-    {
-      "title": "Asia Pacific Dance Festival Conference 2027 - Rooted in Return: Memory, Movement, and Belonging in Asia Pacific Performance",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110187",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-30",
-      "eventDate": "",
-      "location": "Asia Pacific Dance Festival",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "high",
-      "score": 42,
-      "fields": [
-        "Art / Media Practice"
-      ],
-      "excerpt": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root...",
-      "fullDescription": "Rooted in Return explores the many ways movers and makers route themselves toward cultural memory, ancestral knowledge, place, and belonging. Like roots reaching toward water, these journeys move slowly and persistently, sustained by reconnection, reclamation, and renewal. We invite participants to think with an image that joins the grounding of the root to the motion of the current: a return in which both the ground and the one returning have been changed.",
-      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice."
     },
     {
       "title": "The August Wilson Society 2027 Biennial Colloquium: AWS at 20: Black Cultural Memory and the Stewardship of August Wilson’s Legacy",
