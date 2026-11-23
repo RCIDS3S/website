@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -31,6 +31,10 @@
       "count": 12
     },
     {
+      "source": "UPenn CFP: Graduate Conferences",
+      "count": 9
+    },
+    {
       "source": "UPenn CFP: Fan Studies and Fandom",
       "count": 9
     },
@@ -39,7 +43,7 @@
       "count": 8
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
+      "source": "UPenn CFP: Modernist Studies",
       "count": 8
     },
     {
@@ -51,11 +55,11 @@
       "count": 7
     },
     {
-      "source": "UPenn CFP: Modernist Studies",
-      "count": 7
+      "source": "CFPList: Communication Studies Search",
+      "count": 6
     },
     {
-      "source": "CFPList: Communication Studies Search",
+      "source": "CFPList",
       "count": 6
     },
     {
@@ -76,10 +80,6 @@
     },
     {
       "source": "ACLS Competitions and Deadlines",
-      "count": 5
-    },
-    {
-      "source": "CFPList",
       "count": 5
     },
     {
@@ -147,7 +147,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -171,7 +171,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -194,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -217,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -240,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -266,7 +266,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -289,7 +289,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -426,6 +426,29 @@
       "excerpt": "Journal “Temas de Integração” 2026 – n.º 47 Launched in 1996, Revista Temas de Integração (RTI) was conceived as a forum for reflection on the newly established European Union and other regional integration movements that were then shaping a world marked by accelerated post–Cold War globalisation, in which citizenship and democracy assumed a central role....",
       "fullDescription": "Journal “Temas de Integração” 2026 – n.º 47 Launched in 1996, Revista Temas de Integração (RTI) was conceived as a forum for reflection on the newly established European Union and other regional integration movements that were then shaping a world marked by accelerated post–Cold War globalisation, in which citizenship and democracy assumed a central role. Now published digitally and in open access, RTI welcomes articles in English, French, Spanish, and Portuguese on the emergence, development, consolidation, and even contestation of regional integration spaces, approached from a range of disciplinary perspectives beyond law.",
       "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
+      "title": "CALL FOR PAPERS - “What Can a Cinematic Fury Do?” Visual Culture and the Contradictions of Modernity",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Modernist Studies",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109082",
+      "type": "CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-30",
+      "eventDate": "",
+      "location": "Center for Comparative Studies (CEComp) and the Institute of Contemporary History (IHC)",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 54,
+      "fields": [
+        "Film / Media"
+      ],
+      "excerpt": "CALL FOR PAPERS “What Can a Cinematic Fury Do?” Visual Culture and the Contradictions of Modernity",
+      "fullDescription": "CALL FOR PAPERS “What Can a Cinematic Fury Do?” Visual Culture and the Contradictions of Modernity",
+      "relevance": "Automatically surfaced as a strong RCID fit across Film / Media.",
       "publish": true
     },
     {
@@ -3858,6 +3881,29 @@
       "publish": true
     },
     {
+      "title": "Words in Motion: Language, Migration, and Belonging",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110400",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-29",
+      "eventDate": "2027-03-12",
+      "location": "Idaho State University English Graduate Student Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 36,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Idaho State University (ISU) Call for Papers: Intermountain Graduate Conference 2027 March 12 - 13, 2027 (Friday & Saturday) English Graduate Student Association (EGSA), ISU https://intermountaingraduateconference.wordpress.com/ -------------------------------------------------------------------- Words in Motion: Language, Migration, and Belonging",
+      "fullDescription": "Idaho State University (ISU) Call for Papers: Intermountain Graduate Conference 2027 March 12 - 13, 2027 (Friday & Saturday) English Graduate Student Association (EGSA), ISU https://intermountaingraduateconference.wordpress.com/ -------------------------------------------------------------------- Words in Motion: Language, Migration, and Belonging",
+      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary.",
+      "publish": true
+    },
+    {
       "title": "2027 Herman C. Hudson Symposium",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Cultural Studies",
@@ -4477,6 +4523,31 @@
       "publish": true
     },
     {
+      "title": "Synthetic Narrative: AI/XR + The Future of Storytelling",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50930",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-01",
+      "eventDate": "2027-04-17",
+      "location": "New York · Stevens Institute of Technology",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 38,
+      "fields": [
+        "Film / Media",
+        "AI",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Text for posting and image: We're excited to announce that Synthetic Narratives: AI / XR + The Future of Storytelling will return for its second conference on Saturday, April 17, 2027! Building on our first conference, we're bringing together artists, filmmaker",
+      "fullDescription": "Text for posting and image: We're excited to announce that Synthetic Narratives: AI / XR + The Future of Storytelling will return for its second conference on Saturday, April 17, 2027! Building on our first conference, we're bringing together artists, filmmaker",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, AI, Art / Media Practice.",
+      "publish": false
+    },
+    {
       "title": "Learning Experience Design Conference",
       "source": "CFPList",
       "sourceName": "CFPList: Pedagogy",
@@ -4501,7 +4572,7 @@
       "publish": true
     },
     {
-      "title": "AI and the Imagination",
+      "title": "AI and the Imagination — Call for Papers Withdrawn",
       "source": "CFPList",
       "sourceName": "CFPList: Pedagogy",
       "sourceUrl": "https://www.cfplist.com/CFP/50475",
@@ -4519,8 +4590,8 @@
         "AI",
         "Pedagogy"
       ],
-      "excerpt": "CALL FOR PAPERS AND PRESENTATIONS AI AND THE IMAGINATION April 20—23, 2027 Oral Roberts University | Tulsa, Oklahoma, USA Proposal deadline: March 5, 2027 Rolling review; applicants will normally receive a decision within two weeks. In-pe",
-      "fullDescription": "CALL FOR PAPERS AND PRESENTATIONS AI AND THE IMAGINATION April 20—23, 2027 Oral Roberts University | Tulsa, Oklahoma, USA Proposal deadline: March 5, 2027 Rolling review; applicants will normally receive a decision within two weeks. In-pe",
+      "excerpt": "The public call for papers and presentations for AI and the Imagination has been withdrawn. Proposals and public registrations are closed.",
+      "fullDescription": "The public call for papers and presentations for AI and the Imagination has been withdrawn. Proposals and public registrations are closed.",
       "relevance": "Automatically surfaced as a likely RCID fit across AI, Pedagogy.",
       "publish": true
     },

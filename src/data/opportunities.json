@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "items": [
     {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
@@ -7,7 +7,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -28,7 +28,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -48,7 +48,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -68,7 +68,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -88,7 +88,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-22",
+      "deadline": "2026-11-23",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -4299,6 +4299,26 @@
       "relevance": "Automatically surfaced as a strong RCID fit across Film / Media, Digital Humanities / Design."
     },
     {
+      "title": "Words in Motion: Language, Migration, and Belonging",
+      "source": "UPenn CFP",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110400",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2027-01-29",
+      "eventDate": "2027-03-12",
+      "location": "Idaho State University English Graduate Student Association",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "score": 36,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Idaho State University (ISU) Call for Papers: Intermountain Graduate Conference 2027 March 12 - 13, 2027 (Friday & Saturday) English Graduate Student Association (EGSA), ISU https://intermountaingraduateconference.wordpress.com/ -------------------------------------------------------------------- Words in Motion: Language, Migration, and Belonging",
+      "fullDescription": "Idaho State University (ISU) Call for Papers: Intermountain Graduate Conference 2027 March 12 - 13, 2027 (Friday & Saturday) English Graduate Student Association (EGSA), ISU https://intermountaingraduateconference.wordpress.com/ -------------------------------------------------------------------- Words in Motion: Language, Migration, and Belonging",
+      "relevance": "Automatically surfaced as a likely RCID fit across Interdisciplinary."
+    },
+    {
       "title": "2027 Herman C. Hudson Symposium",
       "source": "UPenn CFP",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109628",
@@ -5017,6 +5037,27 @@
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy."
     },
     {
+      "title": "AI and the Imagination — Call for Papers Withdrawn",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50475",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-03-05",
+      "eventDate": "2027-04-20",
+      "location": "Tulsa, OK · Oral Roberts University",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 34,
+      "fields": [
+        "AI",
+        "Pedagogy"
+      ],
+      "excerpt": "The public call for papers and presentations for AI and the Imagination has been withdrawn. Proposals and public registrations are closed.",
+      "fullDescription": "The public call for papers and presentations for AI and the Imagination has been withdrawn. Proposals and public registrations are closed.",
+      "relevance": "Automatically surfaced as a likely RCID fit across AI, Pedagogy."
+    },
+    {
       "title": "AI and the Imagination",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/50475",
@@ -5459,48 +5500,6 @@
       "excerpt": "Iceboy! or The Completely Untrue Story of How Eugene O’Neill Came to Write “The Iceman Cometh” garnered publicity and enthusiasm during its production at the Goodman Theatre in no small part because it starred Megan Mullally and Nick Offerman. Yet this musical’s tongue-and-cheek engagement with O’Neill’s1946 tragedy is part of a long tradition of adaptati...",
       "fullDescription": "Iceboy! or The Completely Untrue Story of How Eugene O’Neill Came to Write “The Iceman Cometh” garnered publicity and enthusiasm during its production at the Goodman Theatre in no small part because it starred Megan Mullally and Nick Offerman. Yet this musical’s tongue-and-cheek engagement with O’Neill’s1946 tragedy is part of a long tradition of adaptation, mashups, and companion pieces that includes George Abbot and Bob Merrill’s New Girl in Town and Peter Myers and Ronald Cass’s Summer Holiday! , Gabe McKinley’s Long Days and Eric Fraisher Hayes’s A Wife for a Life: A Backstage Story, as well as Ronán Noone’s Thirst and Branden Jacobs-Jenkins’s Everybody .",
       "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice."
-    },
-    {
-      "title": "Journal Submissions: Indiana English",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/107580",
-      "type": "Journal CFP",
-      "deadlineType": "Submission",
-      "deadline": "2027-05-25",
-      "eventDate": "2027-05-30",
-      "location": "Indiana College English Association",
-      "status": "open",
-      "priority": "low",
-      "confidence": "high",
-      "score": 32,
-      "fields": [
-        "Publication"
-      ],
-      "excerpt": "Journal Submissions: Indiana English deadline for submissions: May 30, 2027 full name / name of organization: Indiana English (Indiana College English Association) contact email: zimmerlys@uindy.edu",
-      "fullDescription": "Journal Submissions: Indiana English deadline for submissions: May 30, 2027 full name / name of organization: Indiana English (Indiana College English Association) contact email: zimmerlys@uindy.edu",
-      "relevance": "Automatically surfaced as a possible RCID fit across Publication."
-    },
-    {
-      "title": "Information literacy and Generation Alpha: Preparing children and young people for the 2030s and beyond",
-      "source": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50839",
-      "type": "CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2027-06-01",
-      "eventDate": "2027-12-01",
-      "location": "N/A · Journal of Information Literacy",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "score": 34,
-      "fields": [
-        "Interdisciplinary",
-        "Film / Media",
-        "Pedagogy"
-      ],
-      "excerpt": "'Generational Alpha' are defined as those born between approximately 2010 and 2024 (McCrindle, 2008). In 2027, they will be aged between 2 and 17 years old. This generation of children and young people face a markedly different information landscape than previous g",
-      "fullDescription": "'Generational Alpha' are defined as those born between approximately 2010 and 2024 (McCrindle, 2008). In 2027, they will be aged between 2 and 17 years old. This generation of children and young people face a markedly different information landscape than previous g",
-      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media."
     }
   ]
 }
