@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -23,16 +23,16 @@
       "count": 14
     },
     {
-      "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 12
-    },
-    {
       "source": "CFPList: Philosophy",
       "count": 12
     },
     {
       "source": "UPenn CFP: Graduate Conferences",
-      "count": 10
+      "count": 11
+    },
+    {
+      "source": "UPenn CFP: Rhetoric and Composition",
+      "count": 11
     },
     {
       "source": "UPenn CFP: Fan Studies and Fandom",
@@ -40,11 +40,7 @@
     },
     {
       "source": "CFPList",
-      "count": 9
-    },
-    {
-      "source": "UPenn CFP: Film and Television",
-      "count": 8
+      "count": 10
     },
     {
       "source": "UPenn CFP: Theory",
@@ -53,6 +49,10 @@
     {
       "source": "UPenn CFP: Modernist Studies",
       "count": 8
+    },
+    {
+      "source": "UPenn CFP: Film and Television",
+      "count": 7
     },
     {
       "source": "CFPList: Graduate Conferences",
@@ -141,62 +141,13 @@
   ],
   "items": [
     {
-      "title": "Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux – Four-Week Short Coursework",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Film and Television",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110071",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-24",
-      "eventDate": "",
-      "location": "The Think Sphere",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 54,
-      "fields": [
-        "Technical Communication",
-        "Film / Media",
-        "Art / Media Practice",
-        "Pedagogy"
-      ],
-      "excerpt": "Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux A Four-Week Short Coursework | 8 Classes Organised by Think Sphere Think Sphere invites participants to Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux , an interdisciplinary four-week short coursework exploring the intersections of gender, sexuality, identity, power, and belonging thro...",
-      "fullDescription": "Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux A Four-Week Short Coursework | 8 Classes Organised by Think Sphere Think Sphere invites participants to Fluid Horizons: Gender, Sexuality, and Pop Culture in Flux , an interdisciplinary four-week short coursework exploring the intersections of gender, sexuality, identity, power, and belonging through popular and everyday cultural forms. Building on conversations initiated through our earlier academic initiatives, this coursework brings together critical scholarship, media analysis, popular culture, and lived experiences. Course Details Duration: Four weeks",
-      "relevance": "Automatically surfaced as a strong RCID fit across Technical Communication, Film / Media, Art / Media Practice.",
-      "publish": true
-    },
-    {
-      "title": "No Right Way to Be a Woman: Comment Culture and the Digital Policing of Femininity",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108450",
-      "type": "Film Festival",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-24",
-      "eventDate": "",
-      "location": "Intersections (Australia)",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 50,
-      "fields": [
-        "Digital Humanities / Design"
-      ],
-      "excerpt": "When, in September 2026, a post declaring the actress Katrina Kaif \"finished\" following her return to public life after childbirth accumulated lakhs of views and comments, the disproportion between judgement and object became, itself, the more legible text. A comparable structure recurred that same year for the South Korean singer Jennie, whose performanc...",
-      "fullDescription": "When, in September 2026, a post declaring the actress Katrina Kaif \"finished\" following her return to public life after childbirth accumulated lakhs of views and comments, the disproportion between judgement and object became, itself, the more legible text. A comparable structure recurred that same year for the South Korean singer Jennie, whose performances at Mad Cool Festival and Lollapalooza Chicago drew, alongside widespread acclaim, a coordinated wave of \"netizen\" commentary deriding her \"leaner frame\" — two women, two national contexts, two entirely unrelated bodily \"failures\" (one insufficiently youthful, the other insufficiently substantial), and yet an identical infrastructure of mass, public, collectively affirmed judgement.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design.",
-      "publish": true
-    },
-    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-24",
+      "deadline": "2026-11-25",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -220,7 +171,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-24",
+      "deadline": "2026-11-25",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -243,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-24",
+      "deadline": "2026-11-25",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -266,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-24",
+      "deadline": "2026-11-25",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -289,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-24",
+      "deadline": "2026-11-25",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -315,7 +266,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-24",
+      "deadline": "2026-11-25",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -338,7 +289,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-24",
+      "deadline": "2026-11-25",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -1944,7 +1895,7 @@
     {
       "title": "Audiovisual Creation in the Age of AI",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Rhetoric and Composition",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/108412",
       "type": "Journal CFP",
       "deadlineType": "Submission",
@@ -1952,7 +1903,7 @@
       "eventDate": "2027-12-20",
       "location": "Scott Thompson / University of Florida",
       "status": "open",
-      "priority": "medium",
+      "priority": "high",
       "confidence": "high",
       "publishMode": "auto",
       "score": 54,
@@ -1966,7 +1917,7 @@
       ],
       "excerpt": "Call for Proposals Audiovisual Creation in the Age of AI Special Issue for 2027",
       "fullDescription": "Call for Proposals Audiovisual Creation in the Age of AI Special Issue for 2027",
-      "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, AI, Publication.",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication.",
       "publish": true
     },
     {
@@ -2518,6 +2469,29 @@
       "excerpt": "Title : “Second only to Shakespeare”? Middleton 400 Dates (provisional): 28-29 October 2027 Place : University of Naples “L’Orientale” – ARGO Research Centre (Interuniversity Research Centre for the Study of Argumentation, Pragmatics and Stylistics) Organisers : Daniela Guardamagna and Tommaso Continisio Deadline for abstract submission : 31 December 2026...",
       "fullDescription": "Title : “Second only to Shakespeare”? Middleton 400 Dates (provisional): 28-29 October 2027 Place : University of Naples “L’Orientale” – ARGO Research Centre (Interuniversity Research Centre for the Study of Argumentation, Pragmatics and Stylistics) Organisers : Daniela Guardamagna and Tommaso Continisio Deadline for abstract submission : 31 December 2026. Send to : guardamagna@lettere.uniroma2.it continisio@lettere.uniroma2.it",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, Theory.",
+      "publish": true
+    },
+    {
+      "title": "2027 Eighteenth Century and Romanticism Graduate Paper Workshop",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110432",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-31",
+      "eventDate": "2027-04-28",
+      "location": "Harvard English, Long Eighteenth Century and Romanticism Colloquium",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 46,
+      "fields": [
+        "Art / Media Practice"
+      ],
+      "excerpt": "2027 Eighteenth Century and Romanticism Graduate Paper Workshop April 28, 2027Department of EnglishHarvard University The Long Eighteenth Century and Romanticism Colloquium invites proposals for a day-long graduate conference and paper workshop at Harvard University on April 28, 2027. The event will offer a collegial setting for sharing work in progress,...",
+      "fullDescription": "2027 Eighteenth Century and Romanticism Graduate Paper Workshop April 28, 2027Department of EnglishHarvard University The Long Eighteenth Century and Romanticism Colloquium invites proposals for a day-long graduate conference and paper workshop at Harvard University on April 28, 2027. The event will offer a collegial setting for sharing work in progress, developing arguments, and engaging in sustained discussion with fellow scholars. We welcome projects that engage with the long eighteenth century and Romanticism, broadly conceived, across literary, cultural, historical and intellectual contexts.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Art / Media Practice.",
       "publish": true
     },
     {
@@ -5598,6 +5572,30 @@
       "fullDescription": "Call for Papers II Ibero-American Congress on Authorship in the Age of AI What Does It Mean to Be an Author Today? Creation, Human Intervention, and Responsibility in the Age of Artificial Intelligence November 20—21, 2027 | Online (Zoom)",
       "relevance": "Automatically surfaced as a likely RCID fit across Rhetoric, AI, Art / Media Practice.",
       "publish": true
+    },
+    {
+      "title": "Representation and Values in Science and Art II.",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50954",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-06-20",
+      "eventDate": "2027-09-13",
+      "location": "The State Scientific Library, Lazovná 9, Banská Bystrica, Slovakia · The Department of Philosophy at Matej Bel University in Banská Bystrica, Slovakia",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 38,
+      "fields": [
+        "Theory",
+        "Art / Media Practice"
+      ],
+      "excerpt": "As part of two research projects The idea of representation, its place, and its role in the philosophy of science and art, and The new demarcation problem: How to maintain the integrity of value-laden science? the Department of Philosophy at Matej Bel University in Bansk&aacut",
+      "fullDescription": "As part of two research projects The idea of representation, its place, and its role in the philosophy of science and art, and The new demarcation problem: How to maintain the integrity of value-laden science? the Department of Philosophy at Matej Bel University in Bansk&aacut",
+      "relevance": "Automatically surfaced as a likely RCID fit across Theory, Art / Media Practice.",
+      "publish": false
     },
     {
       "title": "Human Learning in the Age of Artificial Intelligence",
