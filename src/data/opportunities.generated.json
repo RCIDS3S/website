@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -20,19 +20,19 @@
     },
     {
       "source": "UPenn CFP: Journals and Collections",
-      "count": 14
+      "count": 15
     },
     {
       "source": "CFPList: Philosophy",
       "count": 12
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
+      "source": "UPenn CFP: Rhetoric and Composition",
       "count": 11
     },
     {
-      "source": "UPenn CFP: Rhetoric and Composition",
-      "count": 11
+      "source": "UPenn CFP: Graduate Conferences",
+      "count": 10
     },
     {
       "source": "UPenn CFP: Fan Studies and Fandom",
@@ -91,10 +91,6 @@
       "count": 5
     },
     {
-      "source": "UPenn CFP: Translation Studies",
-      "count": 4
-    },
-    {
       "source": "UPenn CFP: Theatre and Performance Studies",
       "count": 4
     },
@@ -123,11 +119,15 @@
       "count": 3
     },
     {
-      "source": "CFPList: Professional Communication Search",
-      "count": 2
+      "source": "UPenn CFP: Pedagogy",
+      "count": 3
     },
     {
-      "source": "UPenn CFP: Pedagogy",
+      "source": "UPenn CFP: Translation Studies",
+      "count": 3
+    },
+    {
+      "source": "CFPList: Professional Communication Search",
       "count": 2
     },
     {
@@ -141,13 +141,37 @@
   ],
   "items": [
     {
+      "title": "ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110283",
+      "type": "Conference CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-11-26",
+      "eventDate": "",
+      "location": "Stefan cel Mare University of Suceava",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 58,
+      "fields": [
+        "Digital Humanities / Design",
+        "Art / Media Practice"
+      ],
+      "excerpt": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Struc...",
+      "fullDescription": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons organized within the NEOLAiA Alliance, Work Package 7. Neowor(l)ds- Reimagining Frontiers, Structures, and Horizons Thematic perspectives:",
+      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
+      "deadline": "2026-11-26",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -171,7 +195,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
+      "deadline": "2026-11-26",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -194,7 +218,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
+      "deadline": "2026-11-26",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -217,7 +241,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
+      "deadline": "2026-11-26",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -240,7 +264,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
+      "deadline": "2026-11-26",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -266,7 +290,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
+      "deadline": "2026-11-26",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -289,7 +313,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-25",
+      "deadline": "2026-11-26",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -304,30 +328,6 @@
       "fullDescription": "Deadline for abstracts: November 13 th , 2026 This conference represents the first joint initiative of the institutions involved within the framework of a shared research project, which will unfold through two interconnected international conferences. The first will ta",
       "relevance": "Automatically surfaced as a possible RCID fit across Communication.",
       "publish": false
-    },
-    {
-      "title": "ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110283",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-26",
-      "eventDate": "",
-      "location": "Stefan cel Mare University of Suceava",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 58,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Struc...",
-      "fullDescription": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons organized within the NEOLAiA Alliance, Work Package 7. Neowor(l)ds- Reimagining Frontiers, Structures, and Horizons Thematic perspectives:",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
     },
     {
       "title": "Digital Humanities, Artificial Intelligence and the Global South: Infrastructures, Epistemologies and Stratifications - International Multi- and Inter",
@@ -740,7 +740,7 @@
     {
       "title": "Call for Papers: ‘Writing Across Languages: Anglophone Short Stories by Multilingual Authors’",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Translation Studies",
+      "sourceName": "UPenn CFP: Journals and Collections",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/02/call-for-papers-%E2%80%98writing-across-languages-anglophone-short-stories-by-multilingual",
       "type": "Journal CFP",
       "deadlineType": "Submission",
@@ -1580,7 +1580,7 @@
     {
       "title": "Rethinking AI in Post-Secondary Language and Culture Teaching and Learning: Pedagogy, Coloniality, and Epistemic Futures",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Graduate Conferences",
+      "sourceName": "UPenn CFP: Pedagogy",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110147",
       "type": "Conference CFP",
       "deadlineType": "Submission",
