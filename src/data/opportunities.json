@@ -1,34 +1,13 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
-    {
-      "title": "ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110283",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-26",
-      "eventDate": "",
-      "location": "Stefan cel Mare University of Suceava",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "score": 58,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Struc...",
-      "fullDescription": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons organized within the NEOLAiA Alliance, Work Package 7. Neowor(l)ds- Reimagining Frontiers, Structures, and Horizons Thematic perspectives:",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice."
-    },
     {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -49,7 +28,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -69,7 +48,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -89,7 +68,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -109,7 +88,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -2516,6 +2495,28 @@
       "excerpt": "H2D — Digital Humanities Journal is an interdisciplinary Diamond Open Access publication dedicated to advancing research and dialogue in Digital Humanities. As the digital era transforms how we study, interpret, and engage with the humanities, H2D provides a platform for",
       "fullDescription": "H2D — Digital Humanities Journal is an interdisciplinary Diamond Open Access publication dedicated to advancing research and dialogue in Digital Humanities. As the digital era transforms how we study, interpret, and engage with the humanities, H2D provides a platform for",
       "relevance": "Automatically surfaced as a likely RCID fit across Digital Humanities / Design, Pedagogy, Publication."
+    },
+    {
+      "title": "Serious Games for Language Learning in Educational Contexts (NWALLT 2027)",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50957",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-30",
+      "eventDate": "2027-07-09",
+      "location": "Seattle, WA, USA · University of Washington",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Pedagogy",
+        "Art / Media Practice"
+      ],
+      "excerpt": "NWALLT 2027 invites individuals from all over the world to participate in this hybrid conference which will focus specifically on various types of serious games for language learning that are used in an educational context as part of a curriculum, whether inside or outside the",
+      "fullDescription": "NWALLT 2027 invites individuals from all over the world to participate in this hybrid conference which will focus specifically on various types of serious games for language learning that are used in an educational context as part of a curriculum, whether inside or outside the",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Pedagogy, Art / Media Practice."
     },
     {
       "title": "Eastern Thought in the Americas — Review of International American Studies, Vol. 21, Fall-Winter (1/2028)",
@@ -5157,6 +5158,29 @@
       "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Pedagogy, Publication, Art / Media Practice."
     },
     {
+      "title": "Disability in Digital Technology and Artificial Intelligence: A Global South Perspective with Decolonial Insights",
+      "source": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50962",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-02-28",
+      "eventDate": "2027-03-05",
+      "location": "· Zimbabwe Open University",
+      "status": "open",
+      "priority": "high",
+      "confidence": "medium",
+      "score": 50,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "CALL FOR BOOK CHAPTERS Disability in Digital Technology and Artificial Intelligence: A Global South Perspective with Decolonial Insights Editors Tafadzwa Rugoho (PhD) 1, Ngozi Marion Emmanuel (PhD) 2 and Beth Haller (PhD) 3 AFFILIATIONS: 1",
+      "fullDescription": "CALL FOR BOOK CHAPTERS Disability in Digital Technology and Artificial Intelligence: A Global South Perspective with Decolonial Insights Editors Tafadzwa Rugoho (PhD) 1, Ngozi Marion Emmanuel (PhD) 2 and Beth Haller (PhD) 3 AFFILIATIONS: 1",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice."
+    },
+    {
       "title": "Call for Papers: 'Forms, Limits and Future Directions of Storytelling in Migration Research'",
       "source": "UPenn CFP",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/07/call-for-papers-forms-limits-and-future-directions-of-storytelling-in-migration",
@@ -5472,28 +5496,6 @@
       ],
       "excerpt": "The Kate Chopin International Society invites published and unpublished essays of 5,000 to 7,000 words on Kate Chopin and her work. Guidelines: Essays should be completed within the past year. To submit an essay, the author should be a member of the Kate Chopin International Society (which is free). Submissions written with the assistance of generative ar...",
       "fullDescription": "The Kate Chopin International Society invites published and unpublished essays of 5,000 to 7,000 words on Kate Chopin and her work. Guidelines: Essays should be completed within the past year. To submit an essay, the author should be a member of the Kate Chopin International Society (which is free). Submissions written with the assistance of generative artificial intelligence will not be considered, although tools that support grammar, spelling, and reference documentation are excluded from this criteria. Essays should be accompanied with a statement that affirms no generative artificial intelligence tools was used for the development and writing of the manuscript.",
-      "relevance": "Automatically surfaced as a strong RCID fit across Technical Communication, AI, Art / Media Practice."
-    },
-    {
-      "title": "The Kate Chopin Essay Prize",
-      "source": "UPenn CFP",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110343",
-      "type": "CFP",
-      "deadlineType": "Submission",
-      "deadline": "2027-03-15",
-      "eventDate": "",
-      "location": "The Kate Chopin International Society",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "score": 62,
-      "fields": [
-        "Technical Communication",
-        "AI",
-        "Art / Media Practice"
-      ],
-      "excerpt": "The Per Seyersted Prize for an Outstanding Essay on Kate Chopin and Her WritingPresented by the Kate Chopin International SocietyThe Kate Chopin International Society invites published and unpublished essays of 5,000 to 7,000 words on Kate Chopin and her work. Guidelines: Essays should be completed within the past year. To submit an essay, the author shou...",
-      "fullDescription": "The Per Seyersted Prize for an Outstanding Essay on Kate Chopin and Her WritingPresented by the Kate Chopin International SocietyThe Kate Chopin International Society invites published and unpublished essays of 5,000 to 7,000 words on Kate Chopin and her work. Guidelines: Essays should be completed within the past year. To submit an essay, the author should be a member of the Kate Chopin International Society (which is free). Submissions written with the assistance of generative artificial intelligence will not be considered, although tools that support grammar, spelling, and reference documentation are excluded from this criteria.",
       "relevance": "Automatically surfaced as a strong RCID fit across Technical Communication, AI, Art / Media Practice."
     }
   ]

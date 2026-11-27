@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "summary": {
     "kicker": "Generated Opportunities",
     "title": "Candidate pool and automation audit.",
@@ -8,11 +8,11 @@
   "sourceSummary": [
     {
       "source": "UPenn CFP: Humanities Computing and the Internet",
-      "count": 35
+      "count": 34
     },
     {
       "source": "CFPList: Film, TV & Media",
-      "count": 18
+      "count": 19
     },
     {
       "source": "CFPList: Pedagogy",
@@ -31,15 +31,15 @@
       "count": 11
     },
     {
-      "source": "UPenn CFP: Graduate Conferences",
-      "count": 10
-    },
-    {
       "source": "UPenn CFP: Fan Studies and Fandom",
-      "count": 10
+      "count": 11
     },
     {
       "source": "CFPList",
+      "count": 11
+    },
+    {
+      "source": "UPenn CFP: Graduate Conferences",
       "count": 10
     },
     {
@@ -63,15 +63,15 @@
       "count": 7
     },
     {
-      "source": "UPenn CFP: Professional Topics",
-      "count": 7
-    },
-    {
       "source": "CFPList: Communication Studies Search",
       "count": 6
     },
     {
       "source": "UPenn CFP: Science and Culture",
+      "count": 6
+    },
+    {
+      "source": "UPenn CFP: Professional Topics",
       "count": 6
     },
     {
@@ -92,6 +92,10 @@
     },
     {
       "source": "UPenn CFP: Theatre and Performance Studies",
+      "count": 4
+    },
+    {
+      "source": "UPenn CFP: Pedagogy",
       "count": 4
     },
     {
@@ -119,10 +123,6 @@
       "count": 3
     },
     {
-      "source": "UPenn CFP: Pedagogy",
-      "count": 3
-    },
-    {
       "source": "UPenn CFP: Translation Studies",
       "count": 3
     },
@@ -141,37 +141,13 @@
   ],
   "items": [
     {
-      "title": "ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons",
-      "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Humanities Computing and the Internet",
-      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110283",
-      "type": "Conference CFP",
-      "deadlineType": "Submission",
-      "deadline": "2026-11-26",
-      "eventDate": "",
-      "location": "Stefan cel Mare University of Suceava",
-      "status": "open",
-      "priority": "high",
-      "confidence": "high",
-      "publishMode": "auto",
-      "score": 58,
-      "fields": [
-        "Digital Humanities / Design",
-        "Art / Media Practice"
-      ],
-      "excerpt": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Struc...",
-      "fullDescription": "Call for Presentations: ONLINE International Conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons Conference Date: 17th of December 2026 Ștefan cel Mare University of Suceava (USV), Romania invites undergraduate, graduate and postgraduate students to participate in the international conference Neowor(l)ds - Reimagining Frontiers, Structures, and Horizons organized within the NEOLAiA Alliance, Work Package 7. Neowor(l)ds- Reimagining Frontiers, Structures, and Horizons Thematic perspectives:",
-      "relevance": "Automatically surfaced as a strong RCID fit across Digital Humanities / Design, Art / Media Practice.",
-      "publish": true
-    },
-    {
       "title": "The Weight of Mountains (TWOM) Film Symposium 2026",
       "source": "CFPList",
       "sourceName": "CFPList: Professional Communication Search",
       "sourceUrl": "https://www.cfplist.com/CFP/49611",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2026-12-10",
       "location": "Ho Chi Minh City, Vietnam · RMIT Vietnam",
       "status": "open",
@@ -195,7 +171,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50383",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -218,7 +194,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50202",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-04-01",
       "location": "St. Louis, Missouri · College English Association",
       "status": "open",
@@ -241,7 +217,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50201",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association (CEA)",
       "status": "open",
@@ -264,7 +240,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/47101",
       "type": "Edited Collection",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-03-31",
       "location": "· University of Madeira",
       "status": "open",
@@ -290,7 +266,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/49815",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2027-04-01",
       "location": "St. Louis, MO · College English Association/CEA",
       "status": "open",
@@ -313,7 +289,7 @@
       "sourceUrl": "https://www.cfplist.com/CFP/50791",
       "type": "Conference CFP",
       "deadlineType": "ABSTRACT",
-      "deadline": "2026-11-26",
+      "deadline": "2026-11-27",
       "eventDate": "2026-12-01",
       "location": "Palermo · University of Tallinn; Accademia di Belle Arti di Palermo; Department Cultures and Societies, UniPa",
       "status": "open",
@@ -598,6 +574,32 @@
       "publish": true
     },
     {
+      "title": "Comics Arts Conference WonderCon",
+      "source": "UPenn CFP",
+      "sourceName": "UPenn CFP: Fan Studies and Fandom",
+      "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/109031",
+      "type": "Journal CFP",
+      "deadlineType": "Submission",
+      "deadline": "2026-12-01",
+      "eventDate": "2027-03-26",
+      "location": "Comics Arts Conference",
+      "status": "open",
+      "priority": "high",
+      "confidence": "high",
+      "publishMode": "auto",
+      "score": 62,
+      "fields": [
+        "Technical Communication",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "The Comics Arts Conference is now accepting 100- to 200-word abstracts for papers, presentations, and panels taking a critical or historical perspective on comics (juxtaposed images in sequence) for a meeting of scholars and professionals at WonderCon, in Anaheim, CA, March 26–28, 2027. We seek proposals from a broad range of disciplinary and theoretical...",
+      "fullDescription": "The Comics Arts Conference is now accepting 100- to 200-word abstracts for papers, presentations, and panels taking a critical or historical perspective on comics (juxtaposed images in sequence) for a meeting of scholars and professionals at WonderCon, in Anaheim, CA, March 26–28, 2027. We seek proposals from a broad range of disciplinary and theoretical perspectives and welcome the participation of academic and independent scholars. We also encourage the involvement of professionals from all areas of the comics industry, including creators, editors, publishers, retailers, distributors, and journalists. The CAC at WonderCon does not accept virtual submissions. The CAC is designed to bring together comics scholars, professionals, critics, and historian",
+      "relevance": "Automatically surfaced as a strong RCID fit across Technical Communication, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Feminist Digital Archiving",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Humanities Computing and the Internet",
@@ -856,30 +858,6 @@
       "fullDescription": "Luce/ACLS Civic Education for Democratic Life Program (CEDLife) Grants is listed by ACLS under upcoming fellowship and grant deadlines.",
       "relevance": "Automatically surfaced as a likely RCID fit across Funding.",
       "publish": true
-    },
-    {
-      "title": "AI & Robotics Odyssey",
-      "source": "CFPList",
-      "sourceName": "CFPList",
-      "sourceUrl": "https://www.cfplist.com/CFP/50848",
-      "type": "Conference CFP",
-      "deadlineType": "ABSTRACT",
-      "deadline": "2026-12-01",
-      "eventDate": "2027-06-14",
-      "location": "on board · AILab University of the Aegean",
-      "status": "open",
-      "priority": "medium",
-      "confidence": "medium",
-      "publishMode": "candidate",
-      "score": 34,
-      "fields": [
-        "AI",
-        "Art / Media Practice"
-      ],
-      "excerpt": "AIRodyssey 2027 - AI & Robotics Odyssey 1st International Conference on Artificial Intelligence and Robotics 14-18 June 2027, sailing from Lavrio (Athens), Greece https://icsdweb.aegean.gr/aegeanrbtcs/airodyssey/ Endorsed by the Hellenic Artificia",
-      "fullDescription": "AIRodyssey 2027 - AI & Robotics Odyssey 1st International Conference on Artificial Intelligence and Robotics 14-18 June 2027, sailing from Lavrio (Athens), Greece https://icsdweb.aegean.gr/aegeanrbtcs/airodyssey/ Endorsed by the Hellenic Artificia",
-      "relevance": "Automatically surfaced as a likely RCID fit across AI, Art / Media Practice.",
-      "publish": false
     },
     {
       "title": "The Politics of Cute",
@@ -2279,6 +2257,31 @@
       "publish": true
     },
     {
+      "title": "Serious Games for Language Learning in Educational Contexts (NWALLT 2027)",
+      "source": "CFPList",
+      "sourceName": "CFPList: Film, TV & Media",
+      "sourceUrl": "https://www.cfplist.com/CFP/50957",
+      "type": "Conference CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2026-12-30",
+      "eventDate": "2027-07-09",
+      "location": "Seattle, WA, USA · University of Washington",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "auto",
+      "score": 34,
+      "fields": [
+        "Film / Media",
+        "Pedagogy",
+        "Art / Media Practice"
+      ],
+      "excerpt": "NWALLT 2027 invites individuals from all over the world to participate in this hybrid conference which will focus specifically on various types of serious games for language learning that are used in an educational context as part of a curriculum, whether inside or outside the",
+      "fullDescription": "NWALLT 2027 invites individuals from all over the world to participate in this hybrid conference which will focus specifically on various types of serious games for language learning that are used in an educational context as part of a curriculum, whether inside or outside the",
+      "relevance": "Automatically surfaced as a likely RCID fit across Film / Media, Pedagogy, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Social Lens (Volume 3, Issue 2 (2026)",
       "source": "CFPList",
       "sourceName": "CFPList: Communication Studies Search",
@@ -2513,8 +2516,7 @@
         "Film / Media",
         "Digital Humanities / Design",
         "Publication",
-        "Art / Media Practice",
-        "Pedagogy"
+        "Art / Media Practice"
       ],
       "excerpt": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
       "fullDescription": "Curatone Art & Research Journal (ISSN 3054-6621) invites submissions for its upcoming issue. We are a peer-reviewed, open-access journal publishing research articles, visual essays, and expert interviews on contemporary visual art, design, and curatorial practice.",
@@ -3189,6 +3191,29 @@
       "fullDescription": "\"That Ain't a Girl, That's a Fighter\" – ( Million Dollar Baby )",
       "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
       "publish": true
+    },
+    {
+      "title": "Reclaiming Rage: Aesthetics and Affordances of Anger in Anglophone Literature",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50960",
+      "type": "CFP",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-01-08",
+      "eventDate": "2027-07-09",
+      "location": "Augsburg, Germany · University of Augsburg",
+      "status": "open",
+      "priority": "medium",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 20,
+      "fields": [
+        "Interdisciplinary"
+      ],
+      "excerpt": "Call for Papers Reclaiming Rage Aesthetics and Affordances of Anger in Anglophone Literature 9 July — 10 July 2027, University of Augsburg Organisers: Eva Ries and Irene Valenti Keynote Speakers: Nicole King (University of Oxford), Orianne S",
+      "fullDescription": "Call for Papers Reclaiming Rage Aesthetics and Affordances of Anger in Anglophone Literature 9 July — 10 July 2027, University of Augsburg Organisers: Eva Ries and Irene Valenti Keynote Speakers: Nicole King (University of Oxford), Orianne S",
+      "relevance": "Automatically surfaced as a possible RCID fit across Interdisciplinary.",
+      "publish": false
     },
     {
       "title": "Masculine Femininity and Gender Politics in Global Media Platforms",
@@ -4641,6 +4666,32 @@
       "publish": true
     },
     {
+      "title": "Disability in Digital Technology and Artificial Intelligence: A Global South Perspective with Decolonial Insights",
+      "source": "CFPList",
+      "sourceName": "CFPList",
+      "sourceUrl": "https://www.cfplist.com/CFP/50962",
+      "type": "Edited Collection",
+      "deadlineType": "ABSTRACT",
+      "deadline": "2027-02-28",
+      "eventDate": "2027-03-05",
+      "location": "· Zimbabwe Open University",
+      "status": "open",
+      "priority": "high",
+      "confidence": "medium",
+      "publishMode": "candidate",
+      "score": 50,
+      "fields": [
+        "AI",
+        "Digital Humanities / Design",
+        "Publication",
+        "Art / Media Practice"
+      ],
+      "excerpt": "CALL FOR BOOK CHAPTERS Disability in Digital Technology and Artificial Intelligence: A Global South Perspective with Decolonial Insights Editors Tafadzwa Rugoho (PhD) 1, Ngozi Marion Emmanuel (PhD) 2 and Beth Haller (PhD) 3 AFFILIATIONS: 1",
+      "fullDescription": "CALL FOR BOOK CHAPTERS Disability in Digital Technology and Artificial Intelligence: A Global South Perspective with Decolonial Insights Editors Tafadzwa Rugoho (PhD) 1, Ngozi Marion Emmanuel (PhD) 2 and Beth Haller (PhD) 3 AFFILIATIONS: 1",
+      "relevance": "Automatically surfaced as a strong RCID fit across AI, Digital Humanities / Design, Publication, Art / Media Practice.",
+      "publish": true
+    },
+    {
       "title": "Call for Papers: 'Forms, Limits and Future Directions of Storytelling in Migration Research'",
       "source": "UPenn CFP",
       "sourceName": "UPenn CFP: Journals and Collections",
@@ -5104,7 +5155,7 @@
     {
       "title": "Call for Articles on Education related topics",
       "source": "UPenn CFP",
-      "sourceName": "UPenn CFP: Professional Topics",
+      "sourceName": "UPenn CFP: Pedagogy",
       "sourceUrl": "https://call-for-papers.sas.upenn.edu/node/110587",
       "type": "Journal CFP",
       "deadlineType": "Submission",
@@ -5115,14 +5166,15 @@
       "priority": "medium",
       "confidence": "high",
       "publishMode": "auto",
-      "score": 42,
+      "score": 46,
       "fields": [
+        "Pedagogy",
         "Publication",
         "Art / Media Practice"
       ],
       "excerpt": "Call for Manuscripts Theme: Open Call – Education-related Theme The JFATE is accepting manuscripts for its relaunch issue. This is an open access peer reviewed journal that does not charge publication fees. We welcome work that addresses questions in education and speaks to the people who prepare, support, and sustain educators. Articles may come from any...",
       "fullDescription": "Call for Manuscripts Theme: Open Call – Education-related Theme The JFATE is accepting manuscripts for its relaunch issue. This is an open access peer reviewed journal that does not charge publication fees. We welcome work that addresses questions in education and speaks to the people who prepare, support, and sustain educators. Articles may come from any region. Topics of interest include, but are not limited to:",
-      "relevance": "Automatically surfaced as a likely RCID fit across Publication, Art / Media Practice.",
+      "relevance": "Automatically surfaced as a likely RCID fit across Pedagogy, Publication, Art / Media Practice.",
       "publish": true
     },
     {
